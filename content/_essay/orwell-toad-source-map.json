@@ -1,0 +1,76 @@
+{
+  "paper": {
+    "id": "orwell-toad",
+    "title": "Some Thoughts on the Common Toad",
+    "zh_title": "普通蟾蜍随想",
+    "author": "George Orwell",
+    "year": 1946,
+    "category": "自然与演化",
+    "kind": "full",
+    "folder": "Some Thoughts on the Common Toad 1946",
+    "source": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/some-thoughts-on-the-common-toad/",
+    "description": "从蟾蜍与春天谈起，思考享受自然的自由。",
+    "status": "bilingual-full",
+    "local_source": "C:/Users/ME/.codex/attachments/fbeac653-ec9b-4307-9bb3-c4a379ecc5ac/已粘贴的文本.txt",
+    "translation_status": "draft-with-terminology-review"
+  },
+  "scope": "full-user-supplied-article",
+  "source_format": "pasted-text",
+  "translation_method": "Google Translate draft, with assistant terminology corrections and selected manual translations. Not a sentence-by-sentence certified translation.",
+  "glossary": {
+    "common toad": "普通蟾蜍",
+    "chrysoberyl": "金绿宝石",
+    "political quietism": "政治消极主义"
+  },
+  "extraction_notes": "Original body, source figures, tables, equations, notes, and references retained. Website navigation, download covers, running headers, publisher boilerplate, and duplicate pull quotes excluded. OCR errors are possible in the supplied sources and reconstructed text.",
+  "blocks": [
+    {
+      "id": "S001",
+      "type": "paragraph",
+      "en": "Before the swallow, before the daffodil, and not much later than the snowdrop, the common toad salutes the coming of spring after his own fashion, which is to emerge from a hole in the ground, where he has lain buried since the previous autumn, and crawl as rapidly as possible towards the nearest suitable patch of water. Something – some kind of shudder in the earth, or perhaps merely a rise of a few degrees in the temperature – has told him that it is time to wake up: though a few toads appear to sleep the clock round and miss out a year from time to time – at any rate, I have more than once dug them up, alive and apparently well, in the middle of the summer.",
+      "zh": "普通蟾蜍以自己的方式迎接春天：它从地下的洞穴里钻出来——自从去年秋天起，它就一直埋在那里——然后尽快爬向最近一片适合它的水域。它比燕子早，比水仙早，也不比雪花莲晚多少。不知是什么东西——大地里的某种震颤，也许只是气温升高了几度——告诉它，该醒来了。不过，有些蟾蜍似乎会一觉睡上一整年，时不时错过一个年头；至少，我不止一次在盛夏把它们挖出来，发现它们还活着，而且看上去很健康。"
+    },
+    {
+      "id": "S002",
+      "type": "paragraph",
+      "en": "At this period, after his long fast, the toad has a very spiritual look, like a strict Anglo-Catholic towards the end of Lent. His movements are languid but purposeful, his body is shrunken, and by contrast his eyes look abnormally large. This allows one to notice, what one might not at another time, that a toad has about the most beautiful eye of any living creature. It is like gold, or more exactly it is like the golden-coloured semi-precious stone which one sometimes sees in signet rings, and which I think is called a chrysoberyl.",
+      "zh": "这时，经过长久的禁食，蟾蜍显得很有灵性，像四旬斋快结束时一位严守教规的英国圣公会高教派信徒。它动作懒散，却有明确的目的；身体瘦了下去，相比之下，眼睛显得异常大。这让人发现一件平时未必注意得到的事：在所有活物中，蟾蜍几乎拥有最美的眼睛。那眼睛像黄金；更准确地说，像有时镶在印章戒指上的一种金黄色半宝石，我想它叫金绿宝石。"
+    },
+    {
+      "id": "S003",
+      "type": "paragraph",
+      "en": "For a few days after getting into the water the toad concentrates on building up his strength by eating small insects. Presently he has swollen to his normal size again, and then he goes through a phase of intense sexiness. All he knows, at least if he is a male toad, is that he wants to get his arms round something, and if you offer him a stick, or even your finger, he will cling to it with surprising strength and take a long time to discover that it is not a female toad. Frequently one comes upon shapeless masses of ten or twenty toads rolling over and over in the water, one clinging to another without distinction of sex. By degrees, however, they sort themselves out into couples, with the male duly sitting on the female’s back. You can now distinguish males from females, because the male is smaller, darker and sits on top, with his arms tightly clasped round the female’s neck. After a day or two the spawn is laid in long strings which wind themselves in and out of the reeds and soon become invisible. A few more weeks, and the water is alive with masses of tiny tadpoles which rapidly grow larger, sprout hind-legs, then forelegs, then shed their tails: and finally, about the middle of the summer, the new generation of toads, smaller than one’s thumb-nail but perfect in every particular, crawl out of the water to begin the game anew.",
+      "zh": "下水后的几天，蟾蜍专心捕食小昆虫，好恢复体力。不久，它又鼓胀到正常的体形，接着就进入性欲旺盛的阶段。它所知道的——至少雄蟾蜍如此——就是想用两只前肢抱住什么东西。如果你递给它一根棍子，甚至一根手指，它会以惊人的力气紧紧抱住，过很久才发现那不是一只雌蟾蜍。人们常会碰见十只或二十只蟾蜍纠缠成一团，在水里翻滚，彼此不分雌雄地抱在一起。不过，它们渐渐会配成一对一对，雄的好端端地坐在雌的背上。这时就能分清雌雄了：雄的更小、颜色更深，坐在上面，两只前肢紧紧搂住雌的脖子。一两天后，它们产下长串的卵，卵串在芦苇间穿来绕去，很快便看不见了。再过几周，水中就满是小蝌蚪。它们迅速长大，先长后腿，再长前腿，然后褪掉尾巴；最后，大约到了仲夏，新一代蟾蜍便爬出水面，重新开始这一场游戏。它们还不如人的拇指甲大，却已经样样俱全。"
+    },
+    {
+      "id": "S004",
+      "type": "paragraph",
+      "en": "I mention the spawning of the toads because it is one of the phenomena of Spring which most deeply appeal to me, and because the toad, unlike the skylark and the primrose, has never had much of a boost from poets. But I am aware that many people do not like reptiles or amphibians, and I am not suggesting that in order to enjoy the spring you have to take an interest in toads. There are also the crocus, the missel thrush, the cuckoo, the blackthorn, etc. The point is that the pleasures of spring are available to everybody, and cost nothing. Even in the most sordid street the coming of spring will register itself by some sign or other, if it is only a brighter blue between the chimney pots or the vivid green of an elder sprouting on a blitzed site. Indeed it is remarkable how Nature goes on existing unofficially, as it were, in the very heart of London. I have seen a kestrel flying over the Deptford gasworks, and I have heard a first-rate performance by a blackbird in the Euston Road. There must be some hundreds of thousands, if not millions, of birds living inside the four-mile radius, and it is rather a pleasing thought that none of them pays a halfpenny of rent.",
+      "zh": "我提到蟾蜍产卵，是因为这是一种最能打动我的春日景象，也因为蟾蜍不像云雀和报春花，从来没得到诗人们多少捧场。不过，我知道许多人不喜欢爬行动物和两栖动物；我并不是说，想享受春天，就必须对蟾蜍感兴趣。还有番红花、槲鸫、布谷鸟、黑刺李等等。关键是，春天的乐趣人人都能享有，而且不花钱。哪怕在最肮脏的街道上，春天也会以某种迹象宣告它的到来：也许只是烟囱之间的天空蓝得更亮了一点，或者轰炸后的废墟上长出一株接骨木，嫩叶绿得鲜明。大自然竟然能在伦敦的正中心，仿佛未经许可一般继续存在，实在令人惊奇。我见过一只红隼飞过德特福德的煤气厂，也在尤斯顿路听过乌鸫一流的歌唱。在方圆四英里之内，鸟的数量即使没有几百万，至少也有几十万；想到它们连半便士的房租都不交，真让人愉快。"
+    },
+    {
+      "id": "S005",
+      "type": "paragraph",
+      "en": "As for Spring, not even the narrow and gloomy streets round the Bank of England are quite able to exclude it. It comes seeping in everywhere, like one of those new poison gases which pass through all filters. The spring is commonly referred to as “a miracle,” and during the past five or six years this worn-out figure of speech has taken on a new lease of life. After the sort of winters we have had to endure recently, the spring does seem miraculous, because it has become gradually harder and harder to believe that it is actually going to happen. Every February since 1940 I have found myself thinking that this time Winter is going to be permanent. But Persephone, like the toads, always rises from the dead at about the same moment. Suddenly, towards the end of March, the miracle happens and the decaying slum in which I live is transfigured. Down in the square the sooty privets have turned bright green, the leaves are thickening on the chestnut trees, the daffodils are out, the wallflowers are budding, the policeman’s tunic looks positively a pleasant shade of blue, the fishmonger greets his customers with a smile, and even the sparrows are quite a different colour, having felt the balminess of the air and nerved themselves to take a bath, their first since last September.",
+      "zh": "至于春天，就连英格兰银行周围那些狭窄阴暗的街道，也没法把它完全挡在外面。它到处渗进来，像某种能穿透一切过滤器的新式毒气。人们常把春天叫作一个‘奇迹’；过去五六年，这个陈旧的比喻又获得了新生命。经历了近来这些难熬的冬天，春天的确显得神奇，因为人们越来越难相信它真的还会到来。自1940年以来，每到二月，我都会想：这一次，冬天恐怕要永远持续下去了。但珀耳塞福涅像蟾蜍一样，总会在差不多同一个时候死而复生。突然，到了三月底，奇迹发生了，我住的那片破败贫民区也变了模样。广场里，蒙着煤烟的女贞变得鲜绿，栗树的叶子渐渐浓密，水仙开了，桂竹香含苞欲放；警察的制服竟也显出一种令人愉快的蓝色，卖鱼的人微笑着招呼顾客。就连麻雀也换了颜色：它们感到空气暖和，终于鼓起勇气洗了个澡——这是自去年九月以来的头一回。"
+    },
+    {
+      "id": "S006",
+      "type": "paragraph",
+      "en": "Is it wicked to take a pleasure in Spring and other seasonal changes? To put it more precisely, is it politically reprehensible, while we are all groaning, or at any rate ought to be groaning, under the shackles of the capitalist system, to point out that life is frequently more worth living because of a blackbird’s song, a yellow elm tree in October, or some other natural phenomenon which does not cost money and does not have what the editors of left-wing newspapers call a class angle? There is no doubt that many people think so. I know by experience that a favourable reference to “Nature” in one of my articles is liable to bring me abusive letters, and though the key-word in these letters is usually “sentimental”, two ideas seem to be mixed up in them. One is that any pleasure in the actual process of life encourages a sort of political quietism. People, so the thought runs, ought to be discontented, and it is our job to multiply our wants and not simply to increase our enjoyment of the things we have already. The other idea is that this is the age of machines and that to dislike the machine, or even to want to limit its domination, is backward-looking, reactionary and slightly ridiculous. This is often backed up by the statement that a love of Nature is a foible of urbanised people who have no notion what Nature is really like. Those who really have to deal with the soil, so it is argued, do not love the soil, and do not take the faintest interest in birds or flowers, except from a strictly utilitarian point of view. To love the country one must live in the town, merely taking an occasional week-end ramble at the warmer times of year.",
+      "zh": "从春天和季节变化中得到快乐，是一件罪恶的事吗？说得更准确些，当我们都在资本主义制度的枷锁下呻吟，或者至少理应呻吟的时候，指出生活常常因为乌鸫的歌声、十月里一棵金黄的榆树，或某种不花钱、也没有左翼报纸编辑所谓‘阶级视角’的自然现象而更值得过，这在政治上该受谴责吗？毫无疑问，许多人这样认为。根据我的经验，只要文章里对‘自然’表示一点好感，就可能收到辱骂的来信。虽然这些信的关键词通常是‘感伤’，但其中似乎混杂着两种观念。第一种认为，享受生活本身会助长某种政治上的消极无为。照这种想法，人们应当不满，我们的工作是增加欲望，而不只是让人们更享受已经拥有的东西。第二种认为，这是机器的时代，讨厌机器，甚至只是想限制机器的支配，都是怀旧、反动而且有点可笑的。支持这种说法的人还常说，热爱自然，不过是那些根本不了解自然的城市人的怪癖。他们声称，真正与土地打交道的人并不热爱土地，对鸟和花也没有丝毫兴趣，除非出于严格的实用考虑。要爱乡村，就得住在城里，只在天气暖和的时候偶尔去乡下走个周末。"
+    },
+    {
+      "id": "S007",
+      "type": "paragraph",
+      "en": "This last idea is demonstrably false. Medieval literature, for instance, including the popular ballads, is full of an almost Georgian enthusiasm for Nature, and the art of agricultural peoples such as the Chinese and Japanese centre always round trees, birds, flowers, rivers, mountains. The other idea seems to me to be wrong in a subtler way. Certainly we ought to be discontented, we ought not simply to find out ways of making the best of a bad job, and yet if we kill all pleasure in the actual process of life, what sort of future are we preparing for ourselves? If a man cannot enjoy the return of Spring, why should he be happy in a labour-saving Utopia? What will he do with the leisure that the machine will give him? I have always suspected that if our economic and political problems are ever really solved, life will become simpler instead of more complex, and that the sort of pleasure one gets from finding the first primrose will loom larger than the sort of pleasure one gets from eating an ice to the tune of a Wurlitzer. I think that by retaining one’s childhood love of such things as trees, fishes, butterflies and – to return to my first instance – toads, one makes a peaceful and decent future a little more probable, and that by preaching the doctrine that nothing is to be admired except steel and concrete, one merely makes it a little surer that human beings will have no outlet for their surplus energy except in hatred and leader worship.",
+      "zh": "最后这种说法显然是错的。譬如，中世纪文学，包括民间歌谣，处处洋溢着几乎可与乔治时代诗人相比的自然热情；中国人和日本人这样的农业民族，其艺术也总围绕着树木、鸟、花、河流和山岳。另一种观念，在我看来，错得更隐蔽。我们当然应当不满，不能只是设法把坏日子凑合着过好；可是，如果把生活本身的一切快乐都消灭，我们是在给自己准备什么样的未来？一个人如果连春天回来都不能欣赏，为什么会在一个节省劳力的乌托邦里感到幸福？机器给了他闲暇，他又拿来做什么？我一直怀疑，如果经济和政治问题真的解决了，生活会变得更简单，而不是更复杂。发现第一朵报春花的快乐，会比伴着沃利策自动点唱机吃一份冰淇淋的快乐更重要。我认为，保留童年时对树木、鱼、蝴蝶，以及——回到最初的例子——蟾蜍的喜爱，会让一个和平、体面的未来稍微更有可能。相反，宣扬除了钢铁和混凝土就没有什么值得欣赏，只会让人类剩余的精力更确定地找不到别的出口，除了仇恨和领袖崇拜。"
+    },
+    {
+      "id": "S008",
+      "type": "paragraph",
+      "en": "At any rate, spring is here, even in London N.1, and they can’t stop you enjoying it. This is a satisfying reflection. How many a time have I stood watching the toads mating, or a pair of hares having a boxing match in the young corn, and thought of all the important persons who would stop me enjoying this if they could. But luckily they can’t. So long as you are not actually ill, hungry, frightened or immured in a prison or a holiday camp, Spring is still Spring. The atom bombs are piling up in the factories, the police are prowling through the cities, the lies are streaming from the loudspeakers, but the earth is still going round the sun, and neither the dictators nor the bureaucrats, deeply as they disapprove of the process, are able to prevent it.",
+      "zh": "无论如何，春天来了，连伦敦北一区也不例外，而他们无法阻止你享受它。这是一个令人满意的念头。我有多少次站在那里，看蟾蜍交配，或者一对野兔在嫩麦田里打拳，想到那些大人物：只要他们办得到，一定会不准我享受这一切。幸好，他们办不到。只要你没有生病、挨饿、恐惧，没有被关进监狱或度假营，春天就仍然是春天。原子弹正在工厂里越堆越多，警察在城市里四处巡逻，谎言不断从扬声器里涌出，可地球仍然绕着太阳转。独裁者和官僚即使对此深恶痛绝，也无力阻止。"
+    }
+  ]
+}

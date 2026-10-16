@@ -1,0 +1,179 @@
+{
+  "paper": {
+    "id": "thurber-bed",
+    "title": "The Night the Bed Fell",
+    "zh_title": "床塌下来的那一夜",
+    "author": "James Thurber",
+    "year": 1933,
+    "category": "文学与思想",
+    "folder": "The Night the Bed Fell 1933",
+    "kind": "full",
+    "status": "bilingual-full",
+    "source": "https://www.newyorker.com/magazine/1933/07/08/my-life-and-hard-times-i-the-night-the-bed-fell",
+    "citation": "The New Yorker, 8 July 1933; collected in My Life and Hard Times (1933).",
+    "description": "夜里的床铺事故与误会，引发一家人的连锁恐慌。",
+    "original_language": "en",
+    "edition": "Original New Yorker text; digital timestamp is July 1, print issue July 8, 1933. Library of America PDF consulted as an original-source copy; modern cover and promotional material excluded.",
+    "author_death_year": 1961,
+    "rights": "Original literary text is out of economic copyright under the mainland-China life-plus-50-year term, for the user’s explicitly local study context. This is not a claim of worldwide public-domain status. Modern editor content and modern translations excluded.",
+    "rights_jurisdiction": "mainland China",
+    "rights_term_reference": "https://www.ncac.gov.cn/xxfb/flfg/flfg_532/202103/t20210309_50530.html",
+    "distribution": "local-study-only; not published or pushed",
+    "translation_status": "machine-draft-with-selected-manual-retranslation"
+  },
+  "scope": "full",
+  "original_language": "en",
+  "blocks": [
+    {
+      "id": "S001",
+      "type": "paragraph",
+      "en": "I suppose that the high-water mark of my youth in Columbus, Ohio, was the night the bed fell on my father. It makes a better recitation (unless, as some friends of mine have said, one has heard it five or six times) than it does a piece of writing, for it is almost necessary to throw furniture around, shake doors, and bark like a dog, to lend the proper atmosphere and verisimilitude to what is admittedly a somewhat incredible tale. Still, it did take place.",
+      "zh": "我想，我在俄亥俄州哥伦布市度过的少年时代，最轰动的一件事，大概就是床塌下来压住父亲的那个晚上。这故事讲起来比写出来好——除非像我一些朋友说的，你已经听过五六遍了——因为要给这个公认有些难以置信的故事添上适当的气氛和真实感，几乎非得四处抛家具、摇晃门板、学狗叫不可。尽管如此，它确实发生过。"
+    },
+    {
+      "id": "S002",
+      "type": "paragraph",
+      "en": "It happened, then, that my father had decided to sleep in the attic one night, to be away where he could think. My mother opposed the notion strongly because, she said, the old wooden bed up there was unsafe: it was wobbly and the heavy headboard would crash down on father’s head in case the bed fell, and kill him. There was no dissuading him, however, and at a quarter past ten he closed the attic door behind him and went up the narrow twisting stairs.",
+      "zh": "碰巧的是，我父亲决定在阁楼上睡一晚，离开他可以思考的地方。我母亲强烈反对这个想法，因为她说，那里的旧木床不安全：它摇摇晃晃，如果床倒下来，沉重的床头板会砸到父亲的头上，杀死他。然而，没有人阻止他，十点十五分，他关上了身后的阁楼门，走上了狭窄的、扭曲的楼梯。"
+    },
+    {
+      "id": "S003",
+      "type": "paragraph",
+      "en": "We later heard ominous creakings as he crawled into bed. Grandfather, who usually slept in the attic bed when he was with us, had disappeared some days before. (On these occasions he was usually gone six or eight days and returned growling and out of temper, with the news that the Federal Union was run by a passel of blockheads and that the Army of the Potomac didn’t have any more chance than a fiddler’s bitch.)",
+      "zh": "后来，当他爬上床时，我们听到了不祥的吱吱声。祖父和我们在一起时通常睡在阁楼的床上，几天前就失踪了。 （在这种情况下，他通常会离开六到八天，然后怒气冲冲地回来，并带来这样的消息：联邦是由一群傻瓜管理的，波托马克军团没有比提琴手的母狗更多的机会。）"
+    },
+    {
+      "id": "S004",
+      "type": "paragraph",
+      "en": "We had visiting us at this time a nervous first cousin of mine named Briggs Beall, who believed that he was likely to cease breathing when he was asleep. It was his feeling that if he were not awakened every hour during the night, he might die of suffocation. He had been accustomed to setting an alarm clock to ring at intervals until morning, but I persuaded him to abandon this.",
+      "zh": "这时，我的表弟布里格斯·比尔(Briggs Beall)来访，他很紧张，他相信自己在睡着时很可能会停止呼吸。他感觉，如果不是夜里每小时都被叫醒，他可能会窒息而死。他习惯于设置闹钟每隔一段时间就响一次，直到早上，但我说服他放弃了这一点。"
+    },
+    {
+      "id": "S005",
+      "type": "paragraph",
+      "en": "He slept in my room and I told him that I was such a light sleeper that if anybody quit breathing in the same room with me, I would wake instantly. He tested me the first night—which I had suspected he would—by holding his breath after my regular breathing had convinced him I was asleep. I was not asleep, however, and called to him. This seemed to allay his fears a little, but he took the precaution of putting a glass of spirits of camphor on a little table at the head of his bed.",
+      "zh": "他睡在我的房间里，我告诉他我睡得很浅，如果有人和我在同一个房间里停止呼吸，我会立即醒来。第一天晚上，他对我进行了测试——我曾怀疑他会这么做——在我正常的呼吸让他确信我已经睡着后，他屏住了呼吸。然而我并没有睡着，就叫住了他。这似乎稍微减轻了他的恐惧，但他采取了预防措施，在床头的小桌子上放了一杯樟脑酒。"
+    },
+    {
+      "id": "S006",
+      "type": "paragraph",
+      "en": "In case I didn’t arouse him until he was almost gone, he said, he would sniff the camphor, a powerful reviver. Briggs was not the only member of his family who had his crotchets. Old Aunt Clarissa Beall (who could whistle like a man, with two fingers in her mouth) suffered under the premonition that she was destined to die on South High Street, because she had been born on South High Street and married on South High Street.",
+      "zh": "他说，如果我直到他快要离开时我才叫醒他，他会闻一下樟脑，这是一种强大的复苏剂。布里格斯并不是他家里唯一有怪癖的人。老姑妈克拉丽莎·比尔（她能像男人一样吹口哨，嘴里含着两根手指）有一种预感，她注定要死在南高街，因为她出生在南高街，在南高街结婚。"
+    },
+    {
+      "id": "S007",
+      "type": "paragraph",
+      "en": "Then there was Aunt Sarah Shoaf, who never went to bed at night without the fear that a burglar was going to get in and blow chloroform under her door through a tube. To avert this calamity—for she was in greater dread of anesthetics than of losing her household goods—she always piled her money, silverware, and other valuables in a neat stack just outside her bedroom, with a note reading: “This is all I have.",
+      "zh": "还有莎拉·肖夫姨妈，她晚上睡觉时总是担心窃贼会进来，通过管子将氯仿吹到她的门下。为了避免这场灾难——因为她更害怕麻醉药而不是失去家庭用品——她总是把钱、银器和其他贵重物品整齐地堆放在卧室外面，并附上一张纸条，上面写着：“这是我所有的。"
+    },
+    {
+      "id": "S008",
+      "type": "paragraph",
+      "en": "Please take it and do not use your chloroform, as this is all I have.” Aunt Gracie Shoaf also had a burglar phobia, but she met it with more fortitude. She was confident that burglars had been getting into her house every night for forty years. The fact that she never missed anything was to her no proof to the contrary. She always claimed that she scared them off before they could take anything, by throwing shoes down the hallway.",
+      "zh": "请拿走它，不要使用你的氯仿，因为这是我的全部。”格雷西·肖夫阿姨也有窃贼恐惧症，但她以更坚强的态度面对它。她确信，四十年来，窃贼每天晚上都会闯入她的房子。她从未错过任何事情，这一事实对她来说并不能证明相反的情况。她总是声称，在他们拿走任何东西之前，她把鞋子扔到走廊上，吓跑了他们。"
+    },
+    {
+      "id": "S009",
+      "type": "paragraph",
+      "en": "When she went to bed she piled, where she could get at them handily, all the shoes there were about her house. Five minutes after she had turned off the light, she would sit up in bed and say “Hark!” Her husband, who had learned to ignore the whole situation as long ago as 1903, would either be sound asleep or pretend to be sound asleep.",
+      "zh": "当她上床睡觉时，她把家里所有的鞋子堆放在她可以方便拿到的地方。关灯五分钟后，她会从床上坐起来，说“听！”她的丈夫早在 1903 年就学会了忽略整个情况，要么睡着了，要么假装睡着了。"
+    },
+    {
+      "id": "S010",
+      "type": "paragraph",
+      "en": "In either case he would not respond to her tugging and pulling, so that presently she would arise, tiptoe to the door, open it slightly and heave a shoe down the hall in one direction and its mate down the hall in the other direction. Some nights she threw them all, some nights only a couple of pairs.",
+      "zh": "无论哪种情况，他都不会回应她的拉扯，因此她很快就会起身，踮起脚尖走到门边，轻轻地打开门，将一只鞋子朝一个方向穿过走廊，而另一只鞋子则朝另一个方向穿过走廊。有些晚上她把它们全部扔掉，有些晚上只扔了几双。"
+    },
+    {
+      "id": "S011",
+      "type": "paragraph",
+      "en": "But I am straying from the remarkable incidents that took place during the night that the bed fell on father. By midnight we were all in bed. The layout of the rooms and the disposition of their occupants is important to an understanding of what later occurred.",
+      "zh": "但我却偏离了父亲那天晚上发生的那些引人注目的事件。到了午夜，我们都上床睡觉了。房间的布局和居住者的性格对于理解后来发生的事情很重要。"
+    },
+    {
+      "id": "S012",
+      "type": "paragraph",
+      "en": "In the front room upstairs (just under father’s attic bedroom) were my mother and my brother Herman, who sometimes sang in his sleep, usually “Marching Through Georgia” or “Onward, Christian Soldiers.” Briggs Beall and myself were in a room adjoining this one. My brother Roy was in a room across the hall from ours. Our bull terrier, Rex, slept in the hall.",
+      "zh": "楼上的前厅（就在父亲阁楼卧室的下面）住着我的母亲和我的兄弟赫尔曼，他们有时会在睡梦中唱歌，通常是《穿越佐治亚》或《前进，基督教士兵》。布里格斯·比尔和我当时就在与这个房间相邻的一个房间里。我哥哥罗伊住在我们房间对面的一个房间里。我们的斗牛犬雷克斯睡在大厅里。"
+    },
+    {
+      "id": "S013",
+      "type": "paragraph",
+      "en": "My bed was an iron cot, one of those affairs which are made wide enough to sleep on comfortably only by putting up, flat with the middle section, the two sides which ordinarily hang down like the sideboards of a drop-leaf table. When these sides are up, it is perilous to roll too far toward the edge, for then the cot is likely to tip completely over, bringing the whole bed down on top of one with a tremendous banging crash. This, in fact, is precisely what happened, about two o’clock in the morning.",
+      "zh": "我的床是一张铁床，床铺的宽度足够宽，只需将中间部分放平，两侧通常像折叠桌的餐具柜一样垂下来，就可以舒适地睡在上面。当这些侧面朝上时，向边缘滚得太远是危险的，因为这样婴儿床很可能完全翻倒，将整个床压在一张床上，发出巨大的撞击声。事实上，这正是凌晨两点左右发生的事情。"
+    },
+    {
+      "id": "S014",
+      "type": "paragraph",
+      "en": "(It was my mother who, in recalling the scene later, first referred to it as “the night the bed fell on your father.”)",
+      "zh": "（是我母亲后来回忆起这一场景时，首先将其称为“床倒在你父亲身上的那天晚上。”）"
+    },
+    {
+      "id": "S015",
+      "type": "paragraph",
+      "en": "Always a deep sleeper, slow to arouse (I had lied to Briggs), I was at first unconscious of what had happened when the iron cot rolled me onto the floor and toppled over on me. It left me still warmly bundled up and unhurt, for the bed rested above me like a canopy. Hence I did not wake up, only reached the edge of consciousness and went back.",
+      "zh": "我总是睡得很沉，醒来很慢（我对布里格斯撒了谎），当铁床把我滚到地板上并翻倒在我身上时，我一开始并没有意识到发生了什么。它让我仍然被温暖地包裹着，没有受伤，因为床像天篷一样放在我的上方。所以我并没有醒来，只是到了意识的边缘又回去了。"
+    },
+    {
+      "id": "S016",
+      "type": "paragraph",
+      "en": "The racket, however, instantly awakened my mother, in the next room, who came to the immediate conclusion that her worst dread was realized: the big wooden bed upstairs had fallen on father. She therefore screamed, “Let’s go to your poor father! ” It was this shout, rather than the noise of my cot falling, that awakened my brother Herman, in the same room with her. He thought that mother had become, for no apparent reason, hysterical. “You’re all right, mamma!” he shouted, trying to calm her.",
+      "zh": "然而，喧闹声立刻惊醒了隔壁房间的母亲，她立即得出结论，她最担心的事情已经实现：楼上的大木床倒在了父亲身上。因此，她尖叫道：“我们去找你可怜的父亲吧！”正是这声喊叫，而不是我的小床倒塌的声音，吵醒了与她同处一室的弟弟赫尔曼。他认为母亲无缘无故地变得歇斯底里。 “你没事吧，妈妈！”他喊道，试图让她平静下来。"
+    },
+    {
+      "id": "S017",
+      "type": "paragraph",
+      "en": "They exchanged shout for shout for perhaps ten seconds: “Let’s go to your poor father!” and “You’re all right!” That woke up Briggs. By this time I was conscious of what was going on, in a vague way, but did not yet realize that I was under my bed instead of on it.",
+      "zh": "他们互相喊叫了大约十秒钟：“我们去找你可怜的父亲吧！”和“你没事吧！”这唤醒了布里格斯。这时我已经模糊地意识到发生了什么事，但还没有意识到我是在床底下而不是在床上。"
+    },
+    {
+      "id": "S018",
+      "type": "paragraph",
+      "en": "Briggs, awakening in the midst of loud shouts of fear and apprehension, came to the quick conclusion that he was suffocating and that we were all trying to “bring him out.” With a low moan, he grasped the glass of camphor at the head of his bed and instead of sniffing it poured it over himself. The room reeked of camphor. “Ugf, ahfg!” choked Briggs, like a drowning man, for he had almost succeeded in stopping his breath under the deluge of pungent spirits.",
+      "zh": "布里格斯在恐惧和忧虑的大声喊叫中醒来，很快得出结论：他快要窒息了，我们都在努力“把他救出来”。他低声呻吟了一声，抓起床头的一杯樟脑，没有闻，而是倒在了自己身上。房间里充满了樟脑味。 “哎哟，哎哟！”布里格斯像一个溺水者一样窒息，因为他几乎在辛辣烈酒的洪流中成功地停止了呼吸。"
+    },
+    {
+      "id": "S019",
+      "type": "paragraph",
+      "en": "He leaped out of bed and groped toward the open window, but he came up against one that was closed. With his hand, he beat out the glass, and I could hear it crash and tinkle in the alleyway below. It was at this juncture that I, in trying to get up, had the uncanny sensation of feeling my bed above me! Foggy with sleep, I now suspected, in my turn, that the whole uproar was being made in a frantic endeavor to extricate me from what must be an unheard-of and perilous situation.",
+      "zh": "他从床上跳起来，摸索着朝开着的窗户走去，却碰到了一扇关着的窗户。他用手敲开了玻璃，我能听到下面小巷里玻璃的碰撞声和叮叮当当的声音。就在这个时候，我试图站起来，却有一种奇怪的感觉，感觉床就在我的上方！睡意朦胧中，我现在怀疑，轮到我了，整个骚动都是为了将​​我从一种闻所未闻的危险境地中解救出来而疯狂地制造出来的。"
+    },
+    {
+      "id": "S020",
+      "type": "paragraph",
+      "en": "“Get me out of this!” I bawled. “Get me out!” I think I had the nightmarish belief that I was entombed in a mine. “Gugh!” gasped Briggs, floundering in his camphor.",
+      "zh": "“带我离开这里！”我嚎啕大哭。 “放我出去！”我想我有一种噩梦般的信念，我被埋在矿井里了。 “咕咕！”布里格斯喘息着，在樟脑中挣扎。"
+    },
+    {
+      "id": "S021",
+      "type": "paragraph",
+      "en": "By this time my mother, still shouting, pursued by Herman, still shouting, was trying to open the door to the attic, in order to go up and get my father’s body out of the wreckage. The door was stuck, however, and wouldn’t yield. Her frantic pulls on it only added to the general banging and confusion. Roy and the dog were now up, the one shouting questions, the other barking.",
+      "zh": "这时，我母亲还在喊叫，赫尔曼在后面追赶，她正试图打开阁楼的门，想上去把我父亲的尸体从废墟中救出来。然而，门被卡住了，无法打开。她疯狂地拉动它只会增加普遍的撞击和混乱。罗伊和狗现在站了起来，一只大喊着问题，另一只则吠叫着。"
+    },
+    {
+      "id": "S022",
+      "type": "paragraph",
+      "en": "Father, farthest away and soundest sleeper of all, had by this time been awakened by the battering on the attic door. He decided that the house was on fire. “I’m coming, I’m coming!” he wailed in a slow, sleepy voice—it took him many minutes to regain full consciousness. My mother, still believing he was caught under the bed, detected in his “I’m coming!” the mournful, resigned note of one who is preparing to meet his Maker. “He’s dying!” she shouted.",
+      "zh": "父亲是离得最远、睡得最香的，此时他已经被阁楼门的敲击声吵醒了。他断定房子着火了。 “我来了，我来了！”他用一种缓慢而困倦的声音哭泣——过了好几分钟他才完全恢复知觉。我母亲仍然相信他被困在床底下，从他的“我来了！”中察觉到了。一个准备去见他的造物主的人所发出的哀伤、无奈的语气。 “他快死了！”她喊道。"
+    },
+    {
+      "id": "S023",
+      "type": "paragraph",
+      "en": "“I’m all right!” Briggs yelled, to reassure her. “I’m all right!” He still believed that it was his own closeness to death that was worrying mother. I found at last the light switch in my room, unlocked the door, and Briggs and I joined the others at the attic door. The dog, who never did like Briggs, jumped for him—assuming that he was the culprit in whatever was going on—and Roy had to throw Rex and hold him. We could hear father crawling out of bed upstairs.",
+      "zh": "“我没事！”布里格斯大喊，让她放心。 “我没事！”他仍然相信，正是他自己与死亡的临近才让母亲担心。我终于找到了房间里的电灯开关，打开了门，布里格斯和我在阁楼门口加入了其他人。这只狗从来不喜欢布里格斯，它跳向他——认为他就是所发生的一切的罪魁祸首——罗伊不得不扔掉雷克斯并抓住他。我们可以听到父亲从楼上的床上爬起来。"
+    },
+    {
+      "id": "S024",
+      "type": "paragraph",
+      "en": "Roy pulled the attic door open, with a mighty jerk, and father came down the stairs, sleepy and irritable but safe and sound. My mother began to weep when she saw him. Rex began to howl. “What in the name of God is going on here?” asked father.",
+      "zh": "罗伊猛地一拉，打开了阁楼的门，父亲走下楼梯，昏昏欲睡，烦躁不安，但安然无恙。当我母亲看到他时，她开始哭泣。雷克斯开始嚎叫。 “看在上帝的份上，这里到底发生了什么事？”父亲问道。"
+    },
+    {
+      "id": "S025",
+      "type": "paragraph",
+      "en": "The situation was finally put together like a gigantic jigsaw puzzle. Father caught a cold from prowling around in his bare feet but there were no other bad results. “I’m glad,” said mother, who always looked on the bright side of things, “that your grandfather wasn’t here.”  ♦",
+      "zh": "事情终于像一个巨大的拼图一样拼凑起来。父亲光着脚到处走动着凉了，但没有其他不良后果。 “我很高兴，”总是看到事情好的一面的母亲说道，“你的祖父不在这里。”  ❖"
+    }
+  ],
+  "translation_status": "machine-draft-with-selected-manual-retranslation"
+}

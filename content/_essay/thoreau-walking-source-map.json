@@ -1,0 +1,700 @@
+{
+  "paper": {
+    "id": "thoreau-walking",
+    "title": "Walking",
+    "zh_title": "散步",
+    "author": "Henry David Thoreau",
+    "year": 1862,
+    "category": "自然与演化",
+    "kind": "full",
+    "folder": "Walking 1862",
+    "source": "https://www.gutenberg.org/cache/epub/1022/pg1022-images.html",
+    "description": "穿过田野与树林，思考野性、自由和文明。"
+  },
+  "scope": "full",
+  "source_format": "html",
+  "translation_method": "machine-translated draft; 58 blocks retranslated by assistant",
+  "glossary": {},
+  "extraction_notes": "Original essay only; modern navigation, licenses, collection contents, and editor introductions excluded. Original verse and dialogue retained.",
+  "blocks": [
+    {
+      "id": "S001",
+      "type": "paragraph",
+      "en": "I wish to speak a word for Nature, for absolute Freedom and Wildness, as contrasted with a freedom and culture merely civil,—to regard man as an inhabitant, or a part and parcel of Nature, rather than a member of society. I wish to make an extreme statement, if so I may make an emphatic one, for there are enough champions of civilization: the minister and the school committee and every one of you will take care of that.",
+      "zh": "我想为自然、为绝对的自由与野性说一句话，使它们有别于仅属于文明社会的自由与教养；我想把人看作自然的居民，或自然的一部分，而不是社会的一员。我愿说得极端一些，倘若这样能说得有力一些。因为文明的捍卫者已经够多了：牧师、学校委员会，还有你们每一个人，都会照顾它的。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S002",
+      "type": "paragraph",
+      "en": "I have met with but one or two persons in the course of my life who understood the art of Walking, that is, of taking walks—who had a genius, so to speak, for sauntering, which word is beautifully derived “from idle people who roved about the country, in the Middle Ages, and asked charity, under pretense of going à la Sainte Terre,” to the Holy Land, till the children exclaimed, “There goes a Sainte-Terrer,” a Saunterer, a Holy-Lander. They who never go to the Holy Land in their walks, as they pretend, are indeed mere idlers and vagabonds; but they who do go there are saunterers in the good sense, such as I mean. Some, however, would derive the word from sans terre without land or a home, which, therefore, in the good sense, will mean, having no particular home, but equally at home everywhere. For this is the secret of successful sauntering. He who sits still in a house all the time may be the greatest vagrant of all; but the saunterer, in the good sense, is no more vagrant than the meandering river, which is all the while sedulously seeking the shortest course to the sea. But I prefer the first, which, indeed, is the most probable derivation. For every walk is a sort of crusade, preached by some Peter the Hermit in us, to go forth and reconquer this Holy Land from the hands of the Infidels.",
+      "zh": "我一生只遇过一两个人，懂得行走的艺术，也就是散步的艺术——可以说，对漫游有一种天赋。“漫游”这个词有一个美妙的来历：“中世纪，闲人游走乡间，以去圣地为借口求施舍。”他们说要去“à la Sainte Terre”，即圣地，孩子们便喊：“那儿走着一个Sainte-Terrer！”一个漫游者，一个赴圣地的人。那些号称如此、散步时却从不抵达圣地的人，确实只是闲汉与流浪者；真正抵达那里的人，才是我所说的、好意义上的漫游者。不过，也有人把这个词追溯到sans terre，即没有土地或家园；从好意义上说，就是没有特定的家，却处处都能安然如在家中。这正是成功漫游的秘密。总坐在屋里不动的人，也许才是最大的流浪汉；好意义上的漫游者，却不比蜿蜒的河流更漂泊——河流始终勤勉地寻找通往大海的最短道路。但我更喜欢第一种词源，它也确实最有可能。因为每次散步都是一场十字军东征，由我们内心某个隐士彼得发起，催促我们出发，从异教徒手中重新征服这片圣地。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S003",
+      "type": "paragraph",
+      "en": "It is true, we are but faint-hearted crusaders, even the walkers, nowadays, who undertake no persevering, never-ending enterprises. Our expeditions are but tours, and come round again at evening to the old hearth-side from which we set out. Half the walk is but retracing our steps. We should go forth on the shortest walk, perchance, in the spirit of undying adventure, never to return,—prepared to send back our embalmed hearts only as relics to our desolate kingdoms. If you are ready to leave father and mother, and brother and sister, and wife and child and friends, and never see them again,—if you have paid your debts, and made your will, and settled all your affairs, and are a free man; then you are ready for a walk.",
+      "zh": "确实，今天的我们，连那些步行者在内，都只是怯懦的十字军战士，不肯承担持久而永无尽头的事业。我们的远征不过是游览，晚上又回到出发时的老炉边。一半路程，不过是原路返回。即使最短的一次散步，我们或许也应该怀着永不熄灭的冒险精神出发，一去不回；做好准备，只把经过防腐处理的心，作为遗物寄回那荒凉的王国。如果你准备离开父母、兄弟姐妹、妻儿与朋友，再也不见他们；如果你还清债务、立下遗嘱、料理好一切，成了自由人，那么，你就准备好散步了。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S004",
+      "type": "paragraph",
+      "en": "To come down to my own experience, my companion and I, for I sometimes have a companion, take pleasure in fancying ourselves knights of a new, or rather an old, order—not Equestrians or Chevaliers, not Ritters or Riders, but Walkers, a still more ancient and honorable class, I trust. The chivalric and heroic spirit which once belonged to the Rider seems now to reside in, or perchance to have subsided into, the Walker—not the Knight, but Walker Errant. He is a sort of fourth estate, outside of Church and State and People.",
+      "zh": "说到我的经验，我和同伴——因为我有时也有同伴——喜欢把自己想象为一个新骑士团，或者说古老骑士团的成员。不是那些骑马的骑士，不是骑手，而是步行者；我相信，这是一种更古老、更光荣的身份。骑者曾有的侠义与英雄精神，如今似乎寄居在、或者说落到了步行者身上：不是游侠骑士，而是游侠步行者。他是教会、国家与人民以外的一种第四阶层。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S005",
+      "type": "paragraph",
+      "en": "We have felt that we almost alone hereabouts practiced this noble art; though, to tell the truth, at least if their own assertions are to be received, most of my townsmen would fain walk sometimes, as I do, but they cannot. No wealth can buy the requisite leisure, freedom, and independence which are the capital in this profession. It comes only by the grace of God. It requires a direct dispensation from Heaven to become a walker. You must be born into the family of the Walkers. Ambulator nascitur, non fit. Some of my townsmen, it is true, can remember and have described to me some walks which they took ten years ago, in which they were so blessed as to lose themselves for half an hour in the woods; but I know very well that they have confined themselves to the highway ever since, whatever pretensions they may make to belong to this select class. No doubt they were elevated for a moment as by the reminiscence of a previous state of existence, when even they were foresters and outlaws.",
+      "zh": "我们觉得，这一带几乎只有我们还在实践这门高贵的艺术。不过说实话，至少若相信镇民们自己的说法，大多数人有时也愿像我一样散步，只是做不到。这门职业的资本是必要的闲暇、自由与独立，多少财富都买不到；它只能靠上帝的恩典而来。要成为步行者，需要上天直接赐予特许；你必须生在步行者的家族里。步行者是天生的，不是造就的。确实，一些镇民还记得，也向我描述过十年前的几次散步，他们有幸在林中忘我了半小时；但我很清楚，从那以后，无论他们怎样自称属于这精选的阶层，他们都把自己限制在大道上。无疑，那一瞬间他们曾有所提升，仿佛回忆起前生——那时，他们还都是森林居民和绿林好汉。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S006",
+      "type": "verse",
+      "en": "“When he came to grene wode,\nIn a mery mornynge,\nThere he herde the notes small\nOf byrdes mery syngynge.\n“It is ferre gone, sayd Robyn,\nThat I was last here;\nMe lyste a lytell for to shote\nAt the donne dere.”",
+      "zh": "“一个欢乐的清晨，\n他来到葱绿树林，\n听见那细细的音符，\n鸟儿欢快地歌吟。\n‘已经很久了，’罗宾说，\n‘上次我来这里。\n我想稍稍试试弓箭，\n射那棕褐色的鹿。’”",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S007",
+      "type": "paragraph",
+      "en": "I think that I cannot preserve my health and spirits, unless I spend four hours a day at least—and it is commonly more than that—sauntering through the woods and over the hills and fields, absolutely free from all worldly engagements. You may safely say, A penny for your thoughts, or a thousand pounds. When sometimes I am reminded that the mechanics and shopkeepers stay in their shops not only all the forenoon, but all the afternoon too, sitting with crossed legs, so many of them—as if the legs were made to sit upon, and not to stand or walk upon—I think that they deserve some credit for not having all committed suicide long ago.",
+      "zh": "我觉得，若不能每天至少花四小时——而通常比这更多——漫步林间、越过山丘与田野，完全摆脱世俗的约束，就无法保持健康与精神。你尽可以说，给一便士，或给一千镑，换我此刻的心思。有时想到那些工匠与店主，不仅整个上午，连整个下午也待在店里；许多人交叉着双腿坐着，仿佛腿是用来坐的，而不是站立和行走的，我便觉得，他们没在很久以前全都自杀，已经值得佩服。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S008",
+      "type": "paragraph",
+      "en": "I, who cannot stay in my chamber for a single day without acquiring some rust, and when sometimes I have stolen forth for a walk at the eleventh hour, or four o’clock in the afternoon, too late to redeem the day, when the shades of night were already beginning to be mingled with the daylight, have felt as if I had committed some sin to be atoned for,—I confess that I am astonished at the power of endurance, to say nothing of the moral insensibility, of my neighbors who confine themselves to shops and offices the whole day for weeks and months, aye, and years almost together. I know not what manner of stuff they are of—sitting there now at three o’clock in the afternoon, as if it were three o’clock in the morning. Bonaparte may talk of the three-o’clock-in-the-morning courage, but it is nothing to the courage which can sit down cheerfully at this hour in the afternoon over against one’s self whom you have known all the morning, to starve out a garrison to whom you are bound by such strong ties of sympathy. I wonder that about this time, or say between four and five o’clock in the afternoon, too late for the morning papers and too early for the evening ones, there is not a general explosion heard up and down the street, scattering a legion of antiquated and house-bred notions and whims to the four winds for an airing—and so the evil cure itself.",
+      "zh": "我若在屋里待一整天，就免不了生锈。有时拖到最后关头，下午四点才悄悄出去散步，已经太迟，挽救不了这一天；夜色开始混进日光，我觉得自己仿佛犯了某种需要赎补的罪。我得承认，那些邻居整日把自己关在店铺与办公室里，一连几个星期、几个月，甚至差不多年复一年，他们的忍耐力使我惊讶，更别说精神上的麻木了。我不知道他们是什么材料做的：下午三点坐在那里，仿佛凌晨三点。波拿巴也许会谈凌晨三点的勇气；可与另一种勇气相比，它算不了什么——下午这个时辰，仍能高高兴兴坐着，面对一整个上午已经熟悉的自己，把那支与你有深切感情联系的守军活活饿到投降。我奇怪，这时候，或下午四五点之间，看晨报太迟、看晚报太早，为什么街头没有普遍响起爆炸，把成群过时的、圈养在家中的观念与怪想，炸到四方去透透气，让这毛病自己治好。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S009",
+      "type": "paragraph",
+      "en": "How womankind, who are confined to the house still more than men, stand it I do not know; but I have ground to suspect that most of them do not stand it at all. When, early in a summer afternoon, we have been shaking the dust of the village from the skirts of our garments, making haste past those houses with purely Doric or Gothic fronts, which have such an air of repose about them, my companion whispers that probably about these times their occupants are all gone to bed. Then it is that I appreciate the beauty and the glory of architecture, which itself never turns in, but forever stands out and erect, keeping watch over the slumberers.",
+      "zh": "女人比男人更常被关在家里，她们怎样忍受，我不知道；不过我有理由怀疑，多数其实根本忍受不了。夏日午后刚开始，我们抖掉衣摆上村庄的灰尘，匆匆经过那些正面完全采用多立克式或哥特式、看起来宁静无比的房屋，同伴便低声说，这时候住户大概都上床睡了。正是在这时，我欣赏到建筑的美与荣耀：它自己从不上床，永远直立在外，为那些睡着的人守望。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S010",
+      "type": "paragraph",
+      "en": "No doubt temperament, and, above all, age, have a good deal to do with it. As a man grows older, his ability to sit still and follow indoor occupations increases. He grows vespertinal in his habits as the evening of life approaches, till at last he comes forth only just before sundown, and gets all the walk that he requires in half an hour.",
+      "zh": "无疑，性情，尤其年龄，与此大有关系。人越老，静坐与从事室内工作的能力越强。随着生命的黄昏临近，他的习惯也渐渐偏向暮时；最后，直到日落前才出门，半小时便完成所需的全部散步。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S011",
+      "type": "paragraph",
+      "en": "But the walking of which I speak has nothing in it akin to taking exercise, as it is called, as the sick take medicine at stated hours—as the swinging of dumb-bells or chairs; but is itself the enterprise and adventure of the day. If you would get exercise, go in search of the springs of life. Think of a man’s swinging dumb-bells for his health, when those springs are bubbling up in far-off pastures unsought by him!",
+      "zh": "但我说的散步，与所谓锻炼——像病人在规定时刻吃药，或举哑铃、搬椅子——毫不相干；它本身就是一天的事业与冒险。如果想锻炼，就去寻找生命之泉吧。想想，一个人为了健康挥动哑铃，而生命之泉正在遥远的牧场里汩汩涌出，他却从未去寻找！",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S012",
+      "type": "paragraph",
+      "en": "Moreover, you must walk like a camel, which is said to be the only beast which ruminates when walking. When a traveler asked Wordsworth’s servant to show him her master’s study, she answered, “Here is his library, but his study is out of doors.”",
+      "zh": "而且，你得像骆驼一样行走，据说它是唯一能在行走时反刍的动物。一个旅人请华兹华斯的女仆带他看主人的书房，她回答：“这是他的藏书室，但他的书房在户外。”",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S013",
+      "type": "paragraph",
+      "en": "Living much out of doors, in the sun and wind, will no doubt produce a certain roughness of character—will cause a thicker cuticle to grow over some of the finer qualities of our nature, as on the face and hands, or as severe manual labor robs the hands of some of their delicacy of touch. So staying in the house, on the other hand, may produce a softness and smoothness, not to say thinness of skin, accompanied by an increased sensibility to certain impressions. Perhaps we should be more susceptible to some influences important to our intellectual and moral growth, if the sun had shone and the wind blown on us a little less; and no doubt it is a nice matter to proportion rightly the thick and thin skin. But methinks that is a scurf that will fall off fast enough—that the natural remedy is to be found in the proportion which the night bears to the day, the winter to the summer, thought to experience. There will be so much the more air and sunshine in our thoughts. The callous palms of the laborer are conversant with finer tissues of self-respect and heroism, whose touch thrills the heart, than the languid fingers of idleness. That is mere sentimentality that lies abed by day and thinks itself white, far from the tan and callus of experience.",
+      "zh": "常待在户外，接受风吹日晒，无疑会使性格生出几分粗粝：我们本性中一些细腻的部分，会像脸和手一样长出较厚的表皮；正如繁重劳动使双手失去部分敏锐的触觉。反过来，待在屋里，也许会带来柔软与光滑，甚至薄皮肤，并使人对某些印象更加敏感。若少受一点日晒与风吹，我们或许更容易接受某些有益于理智和道德成长的影响；而厚皮与薄皮怎样恰当地搭配，无疑很讲究。不过我觉得，这些皮屑很快会脱落；自然的补救，就在夜与昼、冬与夏、思考与经验之间的比例里。这样，我们的思想中会有更多空气和阳光。劳动者长茧的手掌，比闲人懒散的手指，更熟悉自尊与英雄精神那些使心灵激动的细腻肌理。白天躺在床上，躲开经验带来的晒黑与老茧，还自以为洁白，不过是矫情。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S014",
+      "type": "paragraph",
+      "en": "When we walk, we naturally go to the fields and woods: what would become of us, if we walked only in a garden or a mall? Even some sects of philosophers have felt the necessity of importing the woods to themselves, since they did not go to the woods. “They planted groves and walks of Platanes,” where they took subdiales ambulationes in porticos open to the air. Of course it is of no use to direct our steps to the woods, if they do not carry us thither. I am alarmed when it happens that I have walked a mile into the woods bodily, without getting there in spirit. In my afternoon walk I would fain forget all my morning occupations and my obligations to society. But it sometimes happens that I cannot easily shake off the village. The thought of some work will run in my head and I am not where my body is—I am out of my senses. In my walks I would fain return to my senses. What business have I in the woods, if I am thinking of something out of the woods? I suspect myself, and cannot help a shudder when I find myself so implicated even in what are called good works—for this may sometimes happen.",
+      "zh": "散步时，我们自然走向田野与树林；若只在花园或林荫步道里走，会变成什么样？甚至一些哲学派别，因为自己不去树林，也觉得有必要把树林搬过来。“他们种植悬铃木的林苑与步道”，在通风敞亮的柱廊里露天漫步。当然，迈向树林却没能真正把自己带进去，是没有用的。有时身体已走入林中一英里，精神却还没到，我便警觉起来。午后的散步中，我想忘掉早晨的工作与对社会的义务；但有时很难甩掉村庄。某件工作的念头在脑中盘旋，我便不在身体所在之处——我失去了感官的清明。散步时，我希望恢复这种清明。如果想着树林外的事情，我在树林里又有什么事可做？我开始怀疑自己；即使卷入的事被称为善举，发现如此，我也忍不住打个寒战——因为有时确实如此。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S015",
+      "type": "paragraph",
+      "en": "My vicinity affords many good walks; and though for so many years I have walked almost every day, and sometimes for several days together, I have not yet exhausted them. An absolutely new prospect is a great happiness, and I can still get this any afternoon. Two or three hours’ walking will carry me to as strange a country as I expect ever to see. A single farmhouse which I had not seen before is sometimes as good as the dominions of the king of Dahomey. There is in fact a sort of harmony discoverable between the capabilities of the landscape within a circle of ten miles’ radius, or the limits of an afternoon walk, and the threescore years and ten of human life. It will never become quite familiar to you.",
+      "zh": "附近有许多好散步的地方。这么多年，我几乎天天走，有时连续走上几天，却仍没把它们走尽。完全陌生的景象，是极大的幸福，而我至今每个下午都能获得。走两三个小时，就能抵达一片陌生得仿佛一生中最遥远的地方。一个从未见过的农舍，有时不亚于达荷美国王的整个领土。十英里半径内景色的可能性，或者一个下午散步的范围，与人的七十年生命之间，其实可以发现某种和谐。你永远不会把它全然看熟。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S016",
+      "type": "paragraph",
+      "en": "Nowadays almost all man’s improvements, so called, as the building of houses and the cutting down of the forest and of all large trees, simply deform the landscape, and make it more and more tame and cheap. A people who would begin by burning the fences and let the forest stand! I saw the fences half consumed, their ends lost in the middle of the prairie, and some worldly miser with a surveyor looking after his bounds, while heaven had taken place around him, and he did not see the angels going to and fro, but was looking for an old post-hole in the midst of paradise. I looked again, and saw him standing in the middle of a boggy Stygian fen, surrounded by devils, and he had found his bounds without a doubt, three little stones, where a stake had been driven, and looking nearer, I saw that the Prince of Darkness was his surveyor.",
+      "zh": "如今，人类几乎所有所谓的改进，例如造房子、砍森林、砍掉所有大树，不过是在损坏景观，使它越来越驯顺、越来越廉价。真希望有一个民族，先烧掉栅栏，而让森林站着！我看见栅栏烧掉一半，残端消失在草原中央；一个世俗的守财奴跟测量员察看边界。他身边已经成了天堂，他却看不见往来的天使，只在乐园里找一个旧桩孔。我又看了一眼，他站在泥泞的冥河沼泽中，四周都是魔鬼；边界毫无疑问已经找到了——打过木桩的地方有三块小石头。再走近些，我看见他的测量员正是黑暗之王。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S017",
+      "type": "paragraph",
+      "en": "I can easily walk ten, fifteen, twenty, any number of miles, commencing at my own door, without going by any house, without crossing a road except where the fox and the mink do: first along by the river, and then the brook, and then the meadow and the wood-side. There are square miles in my vicinity which have no inhabitant. From many a hill I can see civilization and the abodes of man afar. The farmers and their works are scarcely more obvious than woodchucks and their burrows. Man and his affairs, church and state and school, trade and commerce, and manufactures and agriculture even politics, the most alarming of them all,—I am pleased to see how little space they occupy in the landscape. Politics is but a narrow field, and that still narrower highway yonder leads to it. I sometimes direct the traveler thither. If you would go to the political world, follow the great road,—follow that market-man, keep his dust in your eyes, and it will lead you straight to it; for it, too, has its place merely, and does not occupy all space. I pass from it as from a bean field into the forest, and it is forgotten. In one half hour I can walk off to some portion of the earth’s surface where a man does not stand from one year’s end to another, and there, consequently, politics are not, for they are but as the cigar smoke of a man.",
+      "zh": "我可以轻松地步行十英里、十五英里、二十英里，任何数量的英里，从我家门口开始，不经过任何房子，不穿过马路，除了狐狸和水貂穿过的路：首先沿着河边，然后是小溪，然后是草地和树林。我附近有几平方英里无人居住。从许多山上我可以看到远处的文明和人类的住所。农民和他们的工作并不比土拨鼠和他们的洞穴更明显。人及其事务、教会、国家和学校、贸易和商业、制造业和农业，甚至政治，其中最令人震惊的——我很高兴看到它们在风景中占据的空间是多么小。政治不过是一个狭窄的领域，通往它的那条更窄的大道。有时我会引导旅行者去那里。如果你想进入政治世界，就走那条大道——跟随那个市场商人，把他的灰尘放在你的眼睛里，它会引导你直达它；因为它也只是有其位置，并不占据所有空间。我从那里走过，就像从豆田走进森林一样，然后它就被遗忘了。在半小时内，我可以步行到地球表面的某个地方，那里没有一个人从一年到另一年站立，因此，在那里，政治不存在，因为它们只不过是一个人的雪茄烟雾。",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S018",
+      "type": "paragraph",
+      "en": "The village is the place to which the roads tend, a sort of expansion of the highway, as a lake of a river. It is the body of which roads are the arms and legs—a trivial or quadrivial place, the thoroughfare and ordinary of travelers. The word is from the Latin villa which together with via, a way, or more anciently ved and vella, Varro derives from veho, to carry, because the villa is the place to and from which things are carried. They who got their living by teaming were said vellaturam facere. Hence, too, the Latin word vilis and our vile; also villain. This suggests what kind of degeneracy villagers are liable to. They are wayworn by the travel that goes by and over them, without traveling themselves.",
+      "zh": "村庄是道路所通向的地方，是大道的一处扩展，犹如河流中的湖泊。它是躯干，而道路是四肢：三岔或四岔相交之处，旅人的通衢与歇脚地。这个词来自拉丁语villa；瓦罗把它与via（道路），或更古老的ved、vella，一起追溯到veho（运送），因为villa是物品运入、运出的地方。靠赶车运输谋生，叫作vellaturam facere。拉丁语vilis，以及英语vile（卑下）、villain（恶棍），也由此而来。这暗示村民容易发生哪一种退化：交通在他们身旁、身上经过，把他们磨得疲惫，而他们自己却不旅行。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S019",
+      "type": "paragraph",
+      "en": "Some do not walk at all; others walk in the highways; a few walk across lots. Roads are made for horses and men of business. I do not travel in them much, comparatively, because I am not in a hurry to get to any tavern or grocery or livery-stable or depot to which they lead. I am a good horse to travel, but not from choice a roadster. The landscape-painter uses the figures of men to mark a road. He would not make that use of my figure. I walk out into a nature such as the old prophets and poets, Menu, Moses, Homer, Chaucer, walked in. You may name it America, but it is not America: neither Americus Vespucius, nor Columbus, nor the rest were the discoverers of it. There is a truer amount of it in mythology than in any history of America, so called, that I have seen.",
+      "zh": "有些人根本不走路，有些只走大道，少数人横穿田地。道路是为马和办事的人修的。相比之下，我不常走道路，因为不急着赶到它们通向的酒馆、杂货铺、出租马厩或车站。我是一匹善于远行的马，却不情愿只做一匹走公路的马。风景画家用人的身影来标明道路；他不会这样使用我的身影。我走进的自然，正是古代先知与诗人——摩奴、摩西、荷马、乔叟——曾走入的自然。你可以把它叫作美洲，可它不是美洲：亚美利哥·韦斯普奇、哥伦布，以及其他人，都不是它的发现者。关于它，神话中真实的部分，比我见过的任何所谓美洲史都多。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S020",
+      "type": "paragraph",
+      "en": "However, there are a few old roads that may be trodden with profit, as if they led somewhere now that they are nearly discontinued. There is the Old Marlborough Road, which does not go to Marlborough now, methinks, unless that is Marlborough where it carries me. I am the bolder to speak of it here, because I presume that there are one or two such roads in every town.",
+      "zh": "不过，也有几条旧路，走起来仍会有所收获；几乎废弃后，它们反而像真通向什么地方了。譬如老马尔堡路，我想，如今它并不通往马尔堡，除非它带我抵达的地方就叫马尔堡。我敢在这里谈它，因为每个镇上想必都有一两条这样的路。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S021",
+      "type": "verse",
+      "en": "THE OLD MARLBOROUGH ROAD.\nWhere they once dug for money,\nBut never found any;\nWhere sometimes Martial Miles\nSingly files,\nAnd Elijah Wood,\nI fear for no good:\nNo other man,\nSave Elisha Dugan—\nO man of wild habits,\nPartridges and rabbits,\nWho hast no cares\nOnly to set snares,\nWho liv’st all alone,\nClose to the bone;\nAnd where life is sweetest\nConstantly eatest.\nWhen the spring stirs my blood\nWith the instinct to travel,\nI can get enough gravel\nOn the Old Marlborough Road.\nNobody repairs it,\nFor nobody wears it;\nIt is a living way,\nAs the Christians say.\nNot many there be\nWho enter therein,\nOnly the guests of the\nIrishman Quin.\nWhat is it, what is it\nBut a direction out there,\nAnd the bare possibility\nOf going somewhere?\nGreat guide boards of stone,\nBut travelers none;\nCenotaphs of the towns\nNamed on their crowns.\nIt is worth going to see\nWhere you might be.\nWhat king\nDid the thing,\nI am still wondering;\nSet up how or when,\nBy what selectmen,\nGourgas or Lee,\nClark or Darby?\nThey’re a great endeavor\nTo be something forever;\nBlank tablets of stone,\nWhere a traveler might groan,\nAnd in one sentence\nGrave all that is known\nWhich another might read,\nIn his extreme need.\nI know one or two\nLines that would do,\nLiterature that might stand\nAll over the land,\nWhich a man could remember\nTill next December,\nAnd read again in the spring,\nAfter the thawing.\nIf with fancy unfurled\nYou leave your abode,\nYou may go round the world\nBy the Old Marlborough Road.",
+      "zh": "老马尔堡路\n\n曾有人在这里挖钱，\n却从未挖到一文；\n有时迈尔斯像个兵，\n独自列队前进；\n还有伊莱贾·伍德，\n恐怕并不为好事。\n别无他人，\n除了伊莱沙·杜根——\n你这习性野逸的人，\n与鹧鸪、兔子为邻，\n除了设下套索，\n没有别的挂心；\n独自过活，\n简朴到骨头，\n总在生活最甜的地方，\n吃着你的饭。\n当春天以远行的本能，\n搅动我的血液，\n在老马尔堡路上，\n我就能走够碎石。\n没人修理它，\n因为没人踩坏它；\n它是一条通向生命的路，\n照基督徒的说法。\n进入其中的，\n人数不多，\n只有爱尔兰人奎因的\n几个来客。\n它是什么，是什么，\n除了那里的一个方向，\n以及前往某处的\n仅有的可能？\n巨大的石头路牌，\n却没有旅人；\n碑顶所刻城镇的，\n无尸纪念碑。\n值得去看一看，\n你可能抵达何方。\n究竟哪位国王，\n做了这件事，\n我还在猜想；\n何时、怎样立起，\n由哪几位镇委员，\n古尔加斯或李，\n克拉克或达比？\n它们作出巨大努力，\n要永远成为某种东西；\n一块块空白石板，\n旅人可在这里呻吟，\n用一句话\n刻下全部已知，\n让另一人读到，\n在他最需要之时。\n我知道一两行\n适合的文字，\n可以立遍\n这整片土地；\n让人记到\n下个十二月，\n再在春天解冻之后，\n重新读起。\n若你展开想象，\n离开居所，\n沿着老马尔堡路，\n便能走遍世界。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S022",
+      "type": "paragraph",
+      "en": "At present, in this vicinity, the best part of the land is not private property; the landscape is not owned, and the walker enjoys comparative freedom. But possibly the day will come when it will be partitioned off into so-called pleasure grounds, in which a few will take a narrow and exclusive pleasure only,—when fences shall be multiplied, and man traps and other engines invented to confine men to the public road, and walking over the surface of God’s earth shall be construed to mean trespassing on some gentleman’s grounds. To enjoy a thing exclusively is commonly to exclude yourself from the true enjoyment of it. Let us improve our opportunities, then, before the evil days come.",
+      "zh": "目前，在这一带，土地最好的部分并不是私产；风景没有主人，步行者享有相对的自由。但也许有一天，它会被分割成所谓游乐园，只有少数人狭隘而排他地享乐。那时，栅栏越来越多，陷阱和其他器械被发明出来，把人限制在公共道路上；在上帝的大地上行走，会被解释为侵入某位先生的产业。独占一种享受，往往就是把自己排除在真正的享受之外。因此，在坏日子到来之前，让我们好好利用机会。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S023",
+      "type": "paragraph",
+      "en": "What is it that makes it so hard sometimes to determine whither we will walk? I believe that there is a subtle magnetism in Nature, which, if we unconsciously yield to it, will direct us aright. It is not indifferent to us which way we walk. There is a right way; but we are very liable from heedlessness and stupidity to take the wrong one. We would fain take that walk, never yet taken by us through this actual world, which is perfectly symbolical of the path which we love to travel in the interior and ideal world; and sometimes, no doubt, we find it difficult to choose our direction, because it does not yet exist distinctly in our idea.",
+      "zh": "有时，我们为何如此难决定往哪里走？我相信，自然里有一种微妙的磁力，若不自觉地顺从它，便会获得正确指引。走向哪边，并非无所谓。确有正确的路；可我们很容易因疏忽和愚蠢走错。我们想在现实世界走一条从未走过的路，完美象征自己在内心与理想世界中喜欢走的那条路。有时难以选择方向，无疑是因为它还没有明确存在于观念里。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S024",
+      "type": "paragraph",
+      "en": "When I go out of the house for a walk, uncertain as yet whither I will bend my steps, and submit myself to my instinct to decide for me, I find, strange and whimsical as it may seem, that I finally and inevitably settle southwest, toward some particular wood or meadow or deserted pasture or hill in that direction. My needle is slow to settle—varies a few degrees, and does not always point due southwest, it is true, and it has good authority for this variation, but it always settles between west and south-southwest. The future lies that way to me, and the earth seems more unexhausted and richer on that side. The outline which would bound my walks would be, not a circle, but a parabola, or rather like one of those cometary orbits which have been thought to be non-returning curves, in this case opening westward, in which my house occupies the place of the sun. I turn round and round irresolute sometimes for a quarter of an hour, until I decide, for a thousandth time, that I will walk into the southwest or west. Eastward I go only by force; but westward I go free. Thither no business leads me. It is hard for me to believe that I shall find fair landscapes or sufficient wildness and freedom behind the eastern horizon. I am not excited by the prospect of a walk thither; but I believe that the forest which I see in the western horizon stretches uninterruptedly toward the setting sun, and there are no towns nor cities in it of enough consequence to disturb me. Let me live where I will, on this side is the city, on that the wilderness, and ever I am leaving the city more and more, and withdrawing into the wilderness. I should not lay so much stress on this fact, if I did not believe that something like this is the prevailing tendency of my countrymen. I must walk toward Oregon, and not toward Europe. And that way the nation is moving, and I may say that mankind progress from east to west. Within a few years we have witnessed the phenomenon of a southeastward migration, in the settlement of Australia; but this affects us as a retrograde movement, and, judging from the moral and physical character of the first generation of Australians, has not yet proved a successful experiment. The eastern Tartars think that there is nothing west beyond Thibet. “The world ends there,” say they; “beyond there is nothing but a shoreless sea.” It is unmitigated East where they live.",
+      "zh": "走出家门散步，尚不知往哪里去，而让本能替我决定时，我发现——这也许显得古怪任性——自己最终总不可避免地选定西南，走向那边某片树林、草地、废弃牧场或山丘。我的指针要很久才稳定，会偏几度；确实，不总指向正西南，而且这种偏差自有充分根据，但总落在西与南偏西之间。对我来说，未来在那里；那边的土地仿佛更未耗尽，更富饶。划定我的散步范围的线，不会是圆，而是抛物线，更像某种被认为一去不回的彗星轨道：向西敞开，我的房屋则占据太阳的位置。有时我犹豫着转来转去，足足一刻钟，直到第一千次决定走向西南或西方。向东，我只是被迫；向西，我是自由的。没有什么事务引我去那里。我很难相信，东方地平线之后能找到美景，或足够的野性与自由。向那边散步的念头不能使我兴奋；但我相信西方地平线上的森林，一直延伸到落日，没有什么足以打扰我的重要城镇。无论我住在哪里，这边是城市，那边是荒野；我不断离开城市，退入荒野。如果不相信这也是同胞们普遍的倾向，我就不会如此强调。我必须走向俄勒冈，而不是欧洲。这个国家正在朝那边走，我也可以说，人类从东向西推进。近年来，我们见到了向东南迁移、定居澳大利亚的现象；但它给我们的感觉是倒退，而且从第一代澳大利亚人的道德与身体状况判断，还未证明是成功的试验。东方的鞑靼人认为，西藏以西什么也没有。“世界在那里终结，”他们说，“再往外只有无岸的海。”他们所住的，是彻底的东方。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S025",
+      "type": "paragraph",
+      "en": "We go eastward to realize history and study the works of art and literature, retracing the steps of the race; we go westward as into the future, with a spirit of enterprise and adventure. The Atlantic is a Lethean stream, in our passage over which we have had an opportunity to forget the Old World and its institutions. If we do not succeed this time, there is perhaps one more chance for the race left before it arrives on the banks of the Styx; and that is in the Lethe of the Pacific, which is three times as wide.",
+      "zh": "我们向东去理解历史，研究艺术与文学，追溯人类的足迹；向西则如走入未来，怀着进取与冒险的精神。大西洋是一道忘川；渡过它时，我们有机会忘掉旧世界及其制度。如果这次不能成功，那么人类在抵达冥河岸边以前，也许还剩一次机会：那就是太平洋这道忘川，它比大西洋宽三倍。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S026",
+      "type": "paragraph",
+      "en": "I know not how significant it is, or how far it is an evidence of singularity, that an individual should thus consent in his pettiest walk with the general movement of the race; but I know that something akin to the migratory instinct in birds and quadrupeds,—which, in some instances, is known to have affected the squirrel tribe, impelling them to a general and mysterious movement, in which they were seen, say some, crossing the broadest rivers, each on its particular chip, with its tail raised for a sail, and bridging narrower streams with their dead,—that something like the furor which affects the domestic cattle in the spring, and which is referred to a worm in their tails,—affects both nations and individuals, either perennially or from time to time. Not a flock of wild geese cackles over our town, but it to some extent unsettles the value of real estate here, and, if I were a broker, I should probably take that disturbance into account.",
+      "zh": "一个人连最微不足道的散步，都与人类总体的迁移相一致，这有多大意义，又在多大程度上是独特的表现，我不知道。但我知道，鸟类与四足动物的迁徙本能，在某些情况下也曾影响松鼠，促使它们集体而神秘地移动。据说，人们见过它们横渡最宽的河，各自乘一块木片，竖起尾巴作帆；穿过较窄的溪流时，还用死去同类的身体架桥。类似的东西，也像春天家畜那据说由尾巴里的虫引起的躁动，长久地或不时地影响民族与个人。每有一群野雁鸣叫着飞过小镇，都多少动摇这里的不动产价值；若我是经纪人，大概也会把这种扰动算进去。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S027",
+      "type": "verse",
+      "en": "“Than longen folk to gon on pilgrimages,\nAnd palmeres for to seken strange strondes.”",
+      "zh": "“于是人们渴望踏上朝圣之旅，\n朝圣者也要去寻找陌生的海岸。”",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S028",
+      "type": "paragraph",
+      "en": "Every sunset which I witness inspires me with the desire to go to a West as distant and as fair as that into which the sun goes down. He appears to migrate westward daily, and tempt us to follow him. He is the Great Western Pioneer whom the nations follow. We dream all night of those mountain ridges in the horizon, though they may be of vapor only, which were last gilded by his rays. The island of Atlantis, and the islands and gardens of the Hesperides, a sort of terrestrial paradise, appear to have been the Great West of the ancients, enveloped in mystery and poetry. Who has not seen in imagination, when looking into the sunset sky, the gardens of the Hesperides, and the foundation of all those fables?",
+      "zh": "我目睹的每一次日落都会激发我去往与太阳落山一样遥远而美丽的西方的渴望。他似乎每天都在向西迁徙，并诱惑我们追随他。他是万国追随的西部大先驱。我们整夜都梦想着地平线上的那些山脊，尽管它们可能只是最后被他的光芒镀上金色的蒸气。亚特兰蒂斯岛以及赫斯珀里得斯的岛屿和花园，一种人间天堂，似乎是古代的伟大西部，笼罩在神秘和诗意之中。当仰望落日的天空时，谁没有在想象中看到过赫斯珀里得斯的花园，以及所有这些寓言的基础？",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S029",
+      "type": "paragraph",
+      "en": "Columbus felt the westward tendency more strongly than any before. He obeyed it, and found a New World for Castile and Leon. The herd of men in those days scented fresh pastures from afar.",
+      "zh": "哥伦布比以往任何时候都更强烈地感受到西进的趋势。他服从了它，为卡斯蒂利亚和莱昂找到了一个新世界。那时的人们从远处就闻到了新鲜牧场的香味。",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S030",
+      "type": "verse",
+      "en": "“And now the sun had stretched out all the hills,\nAnd now was dropped into the western bay;\nAt last he rose, and twitched his mantle blue;\nTo-morrow to fresh woods and pastures new.”",
+      "zh": "“这时，太阳已把山影拖长，\n这时，又落进西方海湾；\n他终于起身，抖了抖蓝色斗篷；\n明日再赴新林与新牧场。”",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S031",
+      "type": "paragraph",
+      "en": "Where on the globe can there be found an area of equal extent with that occupied by the bulk of our States, so fertile and so rich and varied in its productions, and at the same time so habitable by the European, as this is? Michaux, who knew but part of them, says that “the species of large trees are much more numerous in North America than in Europe; in the United States there are more than one hundred and forty species that exceed thirty feet in height; in France there are but thirty that attain this size.” Later botanists more than confirm his observations. Humboldt came to America to realize his youthful dreams of a tropical vegetation, and he beheld it in its greatest perfection in the primitive forests of the Amazon, the most gigantic wilderness on the earth, which he has so eloquently described. The geographer Guyot, himself a European, goes further—further than I am ready to follow him; yet not when he says: “As the plant is made for the animal, as the vegetable world is made for the animal world, America is made for the man of the Old World.... The man of the Old World sets out upon his way. Leaving the highlands of Asia, he descends from station to station towards Europe. Each of his steps is marked by a new civilization superior to the preceding, by a greater power of development. Arrived at the Atlantic, he pauses on the shore of this unknown ocean, the bounds of which he knows not, and turns upon his footprints for an instant.” When he has exhausted the rich soil of Europe, and reinvigorated himself, “then recommences his adventurous career westward as in the earliest ages.” So far Guyot.",
+      "zh": "在地球上，哪里还有一片面积相当于我国大部分州的土地，像这里一样肥沃，产物如此丰富多样，同时又如此适合欧洲人居住？只了解其中一部分的米肖说：“北美大树的种类远多于欧洲；美国有一百四十多种树高超过三十英尺，法国达到这种大小的只有三十种。”后来的植物学家不但证实，而且加强了他的观察。洪堡来到美洲，要实现青年时对热带植物的梦想；他在亚马逊的原始森林、地球最广大的荒野中，看见了这种植物最完美的形态，并作了雄辩的描述。地理学家居约自己也是欧洲人，却走得更远——远到我不愿全部跟随。不过，他说下面这些话时，我仍同意：“植物为动物而生，植物世界为动物世界而生，美洲也为旧世界的人而生……旧世界的人踏上旅途，离开亚洲高地，从一站到另一站，向欧洲下行。每一步都标志一种胜过先前、发展力量更强的新文明。到了大西洋，他在这未知海洋的岸边停下，不知海的边界，暂时回望自己的足迹。”当耗尽欧洲的沃土、恢复了活力，他便“像最早的时代一样，重新开始向西的冒险生涯”。以上是居约的话。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S032",
+      "type": "paragraph",
+      "en": "From this western impulse coming in contact with the barrier of the Atlantic sprang the commerce and enterprise of modern times. The younger Michaux, in his Travels West of the Alleghanies in 1802, says that the common inquiry in the newly settled West was, “‘From what part of the world have you come?’ As if these vast and fertile regions would naturally be the place of meeting and common country of all the inhabitants of the globe.”",
+      "zh": "由于西方与大西洋屏障接触的冲动，产生了现代商业和企业。年轻的米肖在 1802 年的《阿利根尼西部游记》中说，在新定居的西方，人们普遍询问的问题是：“‘你从世界的哪个地方来？’就好像这些广阔而肥沃的地区自然会成为全球所有居民的聚会场所和共同国家。”",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S033",
+      "type": "paragraph",
+      "en": "To use an obsolete Latin word, I might say, Ex oriente lux; ex occidente FRUX. From the East light; from the West fruit.",
+      "zh": "用一个过时的拉丁词来说，我可以说：Ex oriente lux；ex occidente frux。光明来自东方；果实来自西方。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S034",
+      "type": "paragraph",
+      "en": "Sir Francis Head, an English traveler and a Governor-General of Canada, tells us that “in both the northern and southern hemispheres of the New World, Nature has not only outlined her works on a larger scale, but has painted the whole picture with brighter and more costly colors than she used in delineating and in beautifying the Old World.... The heavens of America appear infinitely higher, the sky is bluer, the air is fresher, the cold is intenser, the moon looks larger, the stars are brighter the thunder is louder, the lightning is vivider, the wind is stronger, the rain is heavier, the mountains are higher, the rivers longer, the forests bigger, the plains broader.” This statement will do at least to set against Buffon’s account of this part of the world and its productions.",
+      "zh": "英国旅行家、加拿大总督弗朗西斯·海德爵士告诉我们，“在新世界的北半球和南半球，大自然不仅以更大的规模勾勒出她的作品，而且用比她用来描绘和美化旧世界更明亮、更昂贵的色彩来描绘整个图画……美洲的天空显得无限高，天空更蓝，空气更新鲜，寒冷更强烈，月亮看起来更大，星星更亮雷声更大，闪电更亮，风更大，雨更大，山更高，河更长，森林更大，平原更广阔。”这一声明至少会与布冯对世界这一地区及其作品的描述形成鲜明对比。",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S035",
+      "type": "paragraph",
+      "en": "Linnæus said long ago, “Nescio quæ facies læta, glabra plantis Americanis” (I know not what there is of joyous and smooth in the aspect of American plants); and I think that in this country there are no, or at most very few, Africanæ bestiæ, African beasts, as the Romans called them, and that in this respect also it is peculiarly fitted for the habitation of man. We are told that within three miles of the center of the East Indian city of Singapore, some of the inhabitants are annually carried off by tigers; but the traveler can lie down in the woods at night almost anywhere in North America without fear of wild beasts.",
+      "zh": "林奈很早就说过：“Nescio quæ facies læta, glabra plantis Americanis”（我不知道美国植物有什么欢乐和光滑的地方）；我认为，在这个国家，没有或者至多很少有“Africanæ bestiæ”，即罗马人所说的非洲野兽，从这方面来说，它也特别适合人类居住。我们得知，在东印度城市新加坡市中心三英里范围内，每年都有一些居民被老虎抓走；但旅行者晚上可以躺在北美几乎任何地方的树林里，而不必担心野兽。",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S036",
+      "type": "paragraph",
+      "en": "These are encouraging testimonies. If the moon looks larger here than in Europe, probably the sun looks larger also. If the heavens of America appear infinitely higher, and the stars brighter, I trust that these facts are symbolical of the height to which the philosophy and poetry and religion of her inhabitants may one day soar. At length, perchance, the immaterial heaven will appear as much higher to the American mind, and the intimations that star it as much brighter. For I believe that climate does thus react on man—as there is something in the mountain air that feeds the spirit and inspires. Will not man grow to greater perfection intellectually as well as physically under these influences? Or is it unimportant how many foggy days there are in his life? I trust that we shall be more imaginative, that our thoughts will be clearer, fresher, and more ethereal, as our sky—our understanding more comprehensive and broader, like our plains—our intellect generally on a grander scale, like our thunder and lightning, our rivers and mountains and forests,—and our hearts shall even correspond in breadth and depth and grandeur to our inland seas. Perchance there will appear to the traveler something, he knows not what, of læta and glabra, of joyous and serene, in our very faces. Else to what end does the world go on, and why was America discovered?",
+      "zh": "这些都是令人鼓舞的见证。如果这里的月亮看起来比欧洲大，那么太阳看起来也可能更大。如果美国的天空显得无限高，星星更加明亮，我相信这些事实象征着美国居民的哲学、诗歌和宗教有一天可能会飞升到更高的高度。最终，在美国人的心目中，非物质的天堂也许会显得更高，而它的暗示也会更加明亮。因为我相信气候确实会对人类产生影响——因为山上的空气中有某种东西可以滋养精神并激发灵感。在这些影响下，人的智力和身体不会变得更加完美吗？或者说，他的一生中有多少个雾里看花的日子并不重要？我相信，我们的想象力会更加丰富，我们的思想会更加清晰，更加清新，更加空灵，就像我们的天空一样，我们的理解会更加全面和广阔，就像我们的平原一样，我们的智力会更加宏大，就像我们的雷电，我们的河流山林一样，我们的心灵也会在广度、深度和宏伟上与我们的内海相媲美。也许旅行者会在我们的脸上看到一些他不知道是什么的东西，关于læta和glabra，关于欢乐和宁静。否则世界将走向何方？为什么美洲会被发现？",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S037",
+      "type": "paragraph",
+      "en": "To Americans I hardly need to say—",
+      "zh": "我几乎不需要对美国人说——",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S038",
+      "type": "verse",
+      "en": "“Westward the star of empire takes its way.”",
+      "zh": "“帝国之星，向西行进。”",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S039",
+      "type": "paragraph",
+      "en": "As a true patriot, I should be ashamed to think that Adam in paradise was more favorably situated on the whole than the backwoodsman in this country.",
+      "zh": "作为一个真正的爱国者，我应该感到羞愧地认为天堂里的亚当总体上比这个国家的边远地区的居民更有利。",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S040",
+      "type": "paragraph",
+      "en": "Our sympathies in Massachusetts are not confined to New England; though we may be estranged from the South, we sympathize with the West. There is the home of the younger sons, as among the Scandinavians they took to the sea for their inheritance. It is too late to be studying Hebrew; it is more important to understand even the slang of today.",
+      "zh": "我们对马萨诸塞州的同情不仅限于新英格兰；尽管我们可能与南方疏远，但我们同情西方。这里是小儿子们的家，就像斯堪的纳维亚人从海上继承遗产一样。现在学习希伯来语已经太晚了；更重要的是理解当今的俚语。",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S041",
+      "type": "paragraph",
+      "en": "Some months ago I went to see a panorama of the Rhine. It was like a dream of the Middle Ages. I floated down its historic stream in something more than imagination, under bridges built by the Romans, and repaired by later heroes, past cities and castles whose very names were music to my ears, and each of which was the subject of a legend. There were Ehrenbreitstein and Rolandseck and Coblentz, which I knew only in history. They were ruins that interested me chiefly. There seemed to come up from its waters and its vine-clad hills and valleys a hushed music as of crusaders departing for the Holy Land. I floated along under the spell of enchantment, as if I had been transported to an heroic age, and breathed an atmosphere of chivalry.",
+      "zh": "几个月前，我去看了莱茵河的全景。这就像中世纪的一场梦。我沿着历史悠久的河流漂流而下，超出了想象，在罗马人建造、后来英雄修复的桥梁下，经过城市和城堡，它们的名字对我来说就像音乐，每一个都是一个传奇的主题。还有埃伦布赖特斯坦、罗兰塞克和科布伦茨，我只在历史上知道这些。我主要感兴趣的是它们的废墟。似乎从它的水域和藤蔓覆盖的山丘和山谷中传来了一种安静的音乐，就像十字军出发前往圣地一样。我在魔法的迷惑下漂浮着，仿佛穿越到了英雄时代，呼吸着侠义气息。",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S042",
+      "type": "paragraph",
+      "en": "Soon after, I went to see a panorama of the Mississippi, and as I worked my way up the river in the light of to-day, and saw the steamboats wooding up, counted the rising cities, gazed on the fresh ruins of Nauvoo, beheld the Indians moving west across the stream, and, as before I had looked up the Moselle, now looked up the Ohio and the Missouri and heard the legends of Dubuque and of Wenona’s Cliff—still thinking more of the future than of the past or present—I saw that this was a Rhine stream of a different kind; that the foundations of castles were yet to be laid, and the famous bridges were yet to be thrown over the river; and I felt that this was the heroic age itself, though we know it not, for the hero is commonly the simplest and obscurest of men.",
+      "zh": "不久以后，我又去看密西西比河的全景画。在今日的光中，我沿河向上，看蒸汽船补充木柴，数着正在兴起的城市，望着纳府新近的废墟，看原住民渡河向西而去；先前仰望过摩泽尔河，如今则仰望俄亥俄河与密苏里河，听迪比克与韦诺纳崖的传说。我的心思仍更多在未来，而不在过去或现在。我看出，这是一条不同种类的莱茵河：城堡的基础还没奠下，著名的桥梁还没架过河。我感到，这正是英雄时代本身，只是我们不知道，因为英雄通常是最朴素、最默默无闻的人。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S043",
+      "type": "paragraph",
+      "en": "The West of which I speak is but another name for the Wild; and what I have been preparing to say is, that in Wildness is the preservation of the World. Every tree sends its fibers forth in search of the Wild. The cities import it at any price. Men plow and sail for it. From the forest and wilderness come the tonics and barks which brace mankind. Our ancestors were savages. The story of Romulus and Remus being suckled by a wolf is not a meaningless fable. The founders of every state which has risen to eminence have drawn their nourishment and vigor from a similar wild source. It was because the children of the Empire were not suckled by the wolf that they were conquered and displaced by the children of the northern forests who were.",
+      "zh": "我所说的西部不过是荒野的另一个名字。我一直准备说的是，荒野就是对世界的保护。每棵树都释放出自己的纤维来寻找荒野。城市不惜一切代价进口它。人们为之耕耘、扬帆。来自森林和荒野的滋补品和树皮为人类提供了支撑。我们的祖先是野蛮人。罗穆卢斯和雷穆斯被狼哺乳的故事并不是毫无意义的寓言。每一个崛起的国家的缔造者都从类似的野生源泉中汲取营养和活力。正因为帝国的孩子们没有被狼哺乳，他们才被北方森林的孩子们征服和流离失所。",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S044",
+      "type": "paragraph",
+      "en": "I believe in the forest, and in the meadow, and in the night in which the corn grows. We require an infusion of hemlock spruce or arbor vitæ in our tea. There is a difference between eating and drinking for strength and from mere gluttony. The Hottentots eagerly devour the marrow of the koodoo and other antelopes raw, as a matter of course. Some of our northern Indians eat raw the marrow of the Arctic reindeer, as well as various other parts, including the summits of the antlers, as long as they are soft. And herein, perchance, they have stolen a march on the cooks of Paris. They get what usually goes to feed the fire. This is probably better than stall-fed beef and slaughterhouse pork to make a man of. Give me a wildness whose glance no civilization can endure,—as if we lived on the marrow of koodoos devoured raw.",
+      "zh": "我相信森林，相信草地，相信玉米生长的夜晚。我们需要在茶中浸入些铁杉或侧柏。为获得力量而饮食，与纯粹贪吃，有所不同。霍屯督人理所当然地热切生食捻角羚与其他羚羊的骨髓。我们北方的一些原住民，生吃北极驯鹿的骨髓，也吃其他部位，包括仍柔软的鹿角尖。他们也许在这一点上走到了巴黎厨师前头：通常用来添火的东西，他们吃到了。这也许比圈养牛肉和屠宰场猪肉更能造就一个人。给我一种任何文明都承受不了其目光的野性吧——仿佛我们靠生吞捻角羚的骨髓活着。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S045",
+      "type": "paragraph",
+      "en": "There are some intervals which border the strain of the wood-thrush, to which I would migrate—wild lands where no settler has squatted; to which, methinks, I am already acclimated.",
+      "zh": "林鸫歌声的边缘，有些地方令我想迁居过去——无人占据的荒地；我觉得自己早已适应那里。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S046",
+      "type": "paragraph",
+      "en": "The African hunter Cumming tells us that the skin of the eland, as well as that of most other antelopes just killed, emits the most delicious perfume of trees and grass. I would have every man so much like a wild antelope, so much a part and parcel of Nature, that his very person should thus sweetly advertise our senses of his presence, and remind us of those parts of nature which he most haunts. I feel no disposition to be satirical, when the trapper’s coat emits the odor of musquash even; it is a sweeter scent to me than that which commonly exhales from the merchant’s or the scholar’s garments. When I go into their wardrobes and handle their vestments, I am reminded of no grassy plains and flowery meads which they have frequented, but of dusty merchants’ exchanges and libraries rather.",
+      "zh": "非洲猎人卡明告诉我们，大羚羊的皮肤以及大多数刚刚被杀死的其他羚羊的皮肤都会散发出最美味的树木和青草的香味。我希望每个人都像一只野羚羊，是大自然的一部分，他本人应该如此甜蜜地向我们宣传他的存在，并提醒我们他最常出没的自然部分。当捕兽者的外套甚至散发出麝香的气味时，我没有任何讽刺的倾向；对我来说，这种气味比商人或学者衣服上通常散发出的气味更甜美。当我走进他们的衣柜，处理他们的法衣时，我想起的不是他们经常光顾的草原和鲜花盛开的草地，而是尘土飞扬的商人交易所和图书馆。",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S047",
+      "type": "paragraph",
+      "en": "A tanned skin is something more than respectable, and perhaps olive is a fitter color than white for a man—a denizen of the woods. “The pale white man!” I do not wonder that the African pitied him. Darwin the naturalist says, “A white man bathing by the side of a Tahitian was like a plant bleached by the gardener’s art, compared with a fine, dark green one, growing vigorously in the open fields.”",
+      "zh": "晒黑的皮肤是值得尊敬的，也许橄榄色比白色更适合男人——森林里的居民。 “那个苍白的白人！”我毫不奇怪非洲人可怜他。博物学家达尔文说：“一个白人在大溪地人旁边洗澡，就像一株被园丁的艺术漂白的植物，与在开阔的田野里茁壮成长的精致、深绿色的植物相比。”",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S048",
+      "type": "paragraph",
+      "en": "Ben Jonson exclaims,—",
+      "zh": "本·琼森惊呼道：",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S049",
+      "type": "verse",
+      "en": "“How near to good is what is fair!”",
+      "zh": "“美的事物，与善何其接近！”",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S050",
+      "type": "paragraph",
+      "en": "So I would say,—",
+      "zh": "所以我想说——",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S051",
+      "type": "verse",
+      "en": "“How near to good is what is wild!”",
+      "zh": "“野的事物，与善何其接近！”",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S052",
+      "type": "paragraph",
+      "en": "Life consists with wildness. The most alive is the wildest. Not yet subdued to man, its presence refreshes him. One who pressed forward incessantly and never rested from his labors, who grew fast and made infinite demands on life, would always find himself in a new country or wilderness, and surrounded by the raw material of life. He would be climbing over the prostrate stems of primitive forest trees.",
+      "zh": "生活充满野性。最有活力的就是最狂野的。尚未屈服于人类，它的存在使人精神焕发。一个不断奋进、永不休息的人，一个快速成长、对生活提出无限要求的人，总会发现自己身处一个新的国度或荒野，被生命的原材料所包围。他会爬过原始森林树木的匍匐茎。",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S053",
+      "type": "paragraph",
+      "en": "Hope and the future for me are not in lawns and cultivated fields, not in towns and cities, but in the impervious and quaking swamps. When, formerly, I have analyzed my partiality for some farm which I had contemplated purchasing, I have frequently found that I was attracted solely by a few square rods of impermeable and unfathomable bog—a natural sink in one corner of it. That was the jewel which dazzled me. I derive more of my subsistence from the swamps which surround my native town than from the cultivated gardens in the village. There are no richer parterres to my eyes than the dense beds of dwarf andromeda ( Cassandra calyculata ) which cover these tender places on the earth’s surface. Botany cannot go farther than tell me the names of the shrubs which grow there—the high-blueberry, panicled andromeda, lamb-kill, azalea, and rhodora—all standing in the quaking sphagnum. I often think that I should like to have my house front on this mass of dull red bushes, omitting other flower plots and borders, transplanted spruce and trim box, even graveled walks—to have this fertile spot under my windows, not a few imported barrow-fuls of soil only to cover the sand which was thrown out in digging the cellar. Why not put my house, my parlor, behind this plot, instead of behind that meager assemblage of curiosities, that poor apology for a Nature and art, which I call my front yard? It is an effort to clear up and make a decent appearance when the carpenter and mason have departed, though done as much for the passer-by as the dweller within. The most tasteful front-yard fence was never an agreeable object of study to me; the most elaborate ornaments, acorn tops, or what not, soon wearied and disgusted me. Bring your sills up to the very edge of the swamp, then (though it may not be the best place for a dry cellar,) so that there be no access on that side to citizens. Front yards are not made to walk in, but, at most, through, and you could go in the back way.",
+      "zh": "对我而言，希望与未来不在草坪和耕地，不在城镇与都市，而在难以穿透、脚下颤动的沼泽。以前，分析自己为什么偏爱某个想买的农场时，常发现吸引我的，只是角落里几平方杆不可穿越、深不可测的泥沼，一个天然洼地。那才是令我目眩的宝石。我从故乡周围的沼泽所得的滋养，比从村里耕种的花园所得更多。在我眼里，没有哪种花圃，比覆盖地表这些柔软地方的密密矮灌木更丰饶，那是Cassandra calyculata。植物学最多能告诉我那里灌木的名称：高丛蓝莓、圆锥花序的马醉木类、羊月桂、杜鹃和加拿大杜鹃，全都站在颤动的水苔里。我常想，让房屋正面对着这片暗红灌木多好；省掉其他花坛、边饰、移植的云杉、修剪整齐的黄杨，甚至碎石小路。窗下应有这块沃土，而不是运来几车土，仅为盖住挖地窖时抛出的沙。为什么不把房子、客厅安在这块地后，而偏要安在那一小堆奇物后，安在那种勉强模仿自然与艺术、被我叫作前院的东西后？木匠与泥瓦匠离开后，还得费力清理，弄出体面样子，既为住户，也同样为路人。最有品位的前院栅栏，也从没使我乐于细看；再精致的装饰，橡果顶或其他东西，很快就使我厌倦。把房屋门槛一直移到沼泽边吧——虽然这也许不适合干燥的地窖——让市民无法从这一面进来。前院不是用来在里面散步的，至多用来穿过；你也可以走后门。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S054",
+      "type": "paragraph",
+      "en": "Yes, though you may think me perverse, if it were proposed to me to dwell in the neighborhood of the most beautiful garden that ever human art contrived, or else of a dismal swamp, I should certainly decide for the swamp. How vain, then, have been all your labors, citizens, for me!",
+      "zh": "是的，尽管你可能认为我有悖常理，但如果有人建议我住在人类艺术所设计的最美丽的花园附近，或者住在一片凄凉的沼泽地附近，我肯定会选择沼泽地。那么，公民们，你们的一切劳动对我来说是多么徒劳啊！",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S055",
+      "type": "paragraph",
+      "en": "My spirits infallibly rise in proportion to the outward dreariness. Give me the ocean, the desert, or the wilderness! In the desert, pure air and solitude compensate for want of moisture and fertility. The traveler Burton says of it—“Your morale improves; you become frank and cordial, hospitable and single-minded.... In the desert, spirituous liquors excite only disgust. There is a keen enjoyment in a mere animal existence.” They who have been traveling long on the steppes of Tartary say, “On reentering cultivated lands, the agitation, perplexity, and turmoil of civilization oppressed and suffocated us; the air seemed to fail us, and we felt every moment as if about to die of asphyxia.” When I would recreate myself, I seek the darkest wood, the thickest and most interminable and, to the citizen, most dismal, swamp. I enter a swamp as a sacred place,—a sanctum sanctorum. There is the strength, the marrow, of Nature. The wild wood covers the virgin mould,—and the same soil is good for men and for trees. A man’s health requires as many acres of meadow to his prospect as his farm does loads of muck. There are the strong meats on which he feeds. A town is saved, not more by the righteous men in it than by the woods and swamps that surround it. A township where one primitive forest waves above while another primitive forest rots below—such a town is fitted to raise not only corn and potatoes, but poets and philosophers for the coming ages. In such a soil grew Homer and Confucius and the rest, and out of such a wilderness comes the reformer eating locusts and wild honey.",
+      "zh": "外界越荒凉，我的精神便越振奋。给我海洋、沙漠或荒野！在沙漠里，纯净的空气与独处，补偿了水分与肥力的缺乏。旅人伯顿这样说：“你的精神提高了；你变得坦诚、亲切、好客而专一……在沙漠，烈酒只引起厌恶。单纯的动物般的生存，也有强烈的快乐。”在鞑靼草原长途旅行的人说：“重新进入耕种地区时，文明的躁动、困惑与纷乱，压迫、窒息着我们；空气仿佛不足，每一刻都像要窒息而死。”想使自己恢复时，我便寻找最阴暗的树林、最浓密无边、在市民眼里最凄凉的沼泽。我进入沼泽，如进入圣地、至圣所。自然的力量、骨髓，在那里。野林覆盖原始腐殖土；同一种土壤，对人与树都好。人的健康，需要视野中有许多英亩草地，正如农场需要许多车肥料。那是滋养他的强劲食粮。一个镇获救，不仅靠其中的义人，也靠周围树林与沼泽。一个镇若有一片原始森林在上方摇曳，另一片在地下腐烂，就适合培育玉米、土豆，也适合培育未来的诗人与哲学家。荷马、孔子等人，生长于这样的土壤；吃蝗虫与野蜜的改革者，也来自这样的荒野。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S056",
+      "type": "paragraph",
+      "en": "To preserve wild animals implies generally the creation of a forest for them to dwell in or resort to. So it is with man. A hundred years ago they sold bark in our streets peeled from our own woods. In the very aspect of those primitive and rugged trees there was, methinks, a tanning principle which hardened and consolidated the fibers of men’s thoughts. Ah! already I shudder for these comparatively degenerate days of my native village, when you cannot collect a load of bark of good thickness, and we no longer produce tar and turpentine.",
+      "zh": "保护野生动物通常意味着创造一片森林供它们居住或栖息。人也是如此。一百年前，他们在我们的街道上出售从我们自己的树林里剥下来的树皮。我认为，这些原始而粗犷的树木本身就蕴含着一种鞣制的力量，可以硬化和巩固人类思想的纤维。啊!我已经为我家乡相对堕落的日子感到不寒而栗，你无法收集到足够厚的树皮，我们也不再生产焦油和松节油。",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S057",
+      "type": "paragraph",
+      "en": "The civilized nations—Greece, Rome, England—have been sustained by the primitive forests which anciently rotted where they stand. They survive as long as the soil is not exhausted. Alas for human culture! little is to be expected of a nation, when the vegetable mould is exhausted, and it is compelled to make manure of the bones of its fathers. There the poet sustains himself merely by his own superfluous fat, and the philosopher comes down on his marrow bones.",
+      "zh": "文明国家——希腊、罗马、英国——都是靠原始森林维系的，而这些原始森林自古就在它们所在的地方腐烂。只要土壤不枯竭，它们就能生存。人类文化啊！当腐殖土枯竭、被迫用其祖先的骨头做肥料时，对一个国家就没有什么期望了。在那里，诗人仅仅依靠自己多余的脂肪来维持自己，而哲学家则依靠他的骨髓来维持自己。",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S058",
+      "type": "paragraph",
+      "en": "It is said to be the task of the American “to work the virgin soil,” and that “agriculture here already assumes proportions unknown everywhere else.” I think that the farmer displaces the Indian even because he redeems the meadow, and so makes himself stronger and in some respects more natural. I was surveying for a man the other day a single straight line one hundred and thirty-two rods long, through a swamp at whose entrance might have been written the words which Dante read over the entrance to the infernal regions,—“Leave all hope, ye that enter”—that is, of ever getting out again; where at one time I saw my employer actually up to his neck and swimming for his life in his property, though it was still winter. He had another similar swamp which I could not survey at all, because it was completely under water, and nevertheless, with regard to a third swamp, which I did survey from a distance, he remarked to me, true to his instincts, that he would not part with it for any consideration, on account of the mud which it contained. And that man intends to put a girdling ditch round the whole in the course of forty months, and so redeem it by the magic of his spade. I refer to him only as the type of a class.",
+      "zh": "据说，美国人的任务是“开垦处女地”，而且“这里的农业已达到别处未知的规模”。我想，农民替代原住民，甚至正因为他开垦草地，从而使自己更强健，在某些方面更自然。前几天，我替一个人测量一条穿过沼泽、一百三十二杆长的直线。沼泽入口，完全可以题上但丁在地狱入口读到的话：“进入者，放弃一切希望”——也就是再走出来的希望。虽然还是冬天，我有一回看见雇主陷到齐颈深，在自己的产业里拼命游着求生。他还有一处相似沼泽，完全在水下，我根本无法测量。至于第三处，我从远处测量过，他仍忠于自己的本能，对我说，无论给什么都不会出让，因为里面有泥肥。他打算在四十个月内，沿整个地块挖一条环沟，凭铁锹的魔力把它开垦出来。我只把他作为这一类人的代表来谈。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S059",
+      "type": "paragraph",
+      "en": "The weapons with which we have gained our most important victories, which should be handed down as heirlooms from father to son, are not the sword and the lance, but the bushwhack, the turf-cutter, the spade, and the bog hoe, rusted with the blood of many a meadow, and begrimed with the dust of many a hard-fought field. The very winds blew the Indian’s cornfield into the meadow, and pointed out the way which he had not the skill to follow. He had no better implement with which to intrench himself in the land than a clam-shell. But the farmer is armed with plow and spade.",
+      "zh": "我们取得最重要胜利的武器，应该作为传家宝从父亲传给儿子；它们不是剑与矛，而是砍灌木的刀、切草皮的工具、铁锹与沼泽锄，沾着许多草地的血而生锈，蒙着许多苦战田野的尘而污黑。风本身把原住民的玉米地吹成了草地，指出一条他没有技术跟随的路。他赖以在土地上筑起阵地的工具，不过是蚌壳；农民却配有犁和锹。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S060",
+      "type": "paragraph",
+      "en": "In literature it is only the wild that attracts us. Dullness is but another name for tameness. It is the uncivilized free and wild thinking in Hamlet and the Iliad, in all the scriptures and mythologies, not learned in the schools, that delights us. As the wild duck is more swift and beautiful than the tame, so is the wild—the mallard—thought, which ’mid falling dews wings its way above the fens. A truly good book is something as natural, and as unexpectedly and unaccountably fair and perfect, as a wild flower discovered on the prairies of the west or in the jungles of the east. Genius is a light which makes the darkness visible, like the lightning’s flash, which perchance shatters the temple of knowledge itself—and not a taper lighted at the hearthstone of the race, which pales before the light of common day.",
+      "zh": "在文学中，只有野性才能吸引我们。迟钝不过是驯服的别称。正是《哈姆雷特》和《伊利亚特》中的不文明的自由和狂野的思想，以及所有的经文和神话中，学校里没有学到的东西，才让我们高兴。正如野鸭比驯养的鸭子更加敏捷和美丽一样，野性的——野鸭——思想也是如此，它在落下的露珠中飞翔在沼泽之上。一本真正的好书就像西方大草原或东方丛林中发现的野花一样自然，出人意料、难以解释的公平和完美。天才是一道光，使黑暗变得可见，就像闪电一样，它可能会粉碎知识本身的殿堂——而不是在种族的炉石上点燃的蜡烛，它在平凡的日子里显得黯然失色。",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S061",
+      "type": "paragraph",
+      "en": "English literature, from the days of the minstrels to the Lake Poets—Chaucer and Spenser and Milton, and even Shakespeare included—breathes no quite fresh and in this sense wild strain. It is an essentially tame and civilized literature, reflecting Greece and Rome. Her wilderness is a green wood, her wild man a Robin Hood. There is plenty of genial love of Nature, but not so much of Nature herself. Her chronicles inform us when her wild animals, but not when the wild man in her, became extinct.",
+      "zh": "英国文学，从吟游诗人时代到湖畔诗人——乔叟、斯宾塞、弥尔顿，甚至包括莎士比亚——都没有散发出新鲜的、在这个意义上狂野的气息。它本质上是一种温顺而文明的文学，反映了希腊和罗马的情况。她的荒野是一片绿色的树林，她的野人是罗宾汉。人们对自然有很多亲切的爱，但对自然本身却没有那么多。她的编年史告诉我们她的野生动物何时灭绝，但没有告诉我们她身上的野人何时灭绝。",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S062",
+      "type": "paragraph",
+      "en": "The science of Humboldt is one thing, poetry is another thing. The poet today, notwithstanding all the discoveries of science, and the accumulated learning of mankind, enjoys no advantage over Homer.",
+      "zh": "洪堡的科学是一回事，诗歌是另一回事。今天的诗人，尽管有所有的科学发现，也有人类不断积累的学识，但与荷马相比并不享有任何优势。",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S063",
+      "type": "paragraph",
+      "en": "Where is the literature which gives expression to Nature? He would be a poet who could impress the winds and streams into his service, to speak for him; who nailed words to their primitive senses, as farmers drive down stakes in the spring, which the frost has heaved; who derived his words as often as he used them—transplanted them to his page with earth adhering to their roots; whose words were so true and fresh and natural that they would appear to expand like the buds at the approach of spring, though they lay half smothered between two musty leaves in a library,—aye, to bloom and bear fruit there, after their kind, annually, for the faithful reader, in sympathy with surrounding Nature.",
+      "zh": "表达自然的文学在哪里？能够征用风与溪流替自己说话的人，才是诗人。他把词语钉回原初的意义，仿佛农民在春天把冻土顶起的木桩重新敲下；每次使用词语，都重新追索它们的根，把它们移植到纸页上，根上还带着泥土。他的词语真实、新鲜、自然，仿佛春临时的花苞，虽然半闷在图书馆两张发霉书页之间，仍在那里每年依其天性开花结果，回应四周自然，供忠实的读者享用。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S064",
+      "type": "paragraph",
+      "en": "I do not know of any poetry to quote which adequately expresses this yearning for the Wild. Approached from this side, the best poetry is tame. I do not know where to find in any literature, ancient or modern, any account which contents me of that Nature with which even I am acquainted. You will perceive that I demand something which no Augustan nor Elizabethan age, which no culture, in short, can give. Mythology comes nearer to it than anything. How much more fertile a Nature, at least, has Grecian mythology its root in than English literature! Mythology is the crop which the Old World bore before its soil was exhausted, before the fancy and imagination were affected with blight; and which it still bears, wherever its pristine vigor is unabated. All other literatures endure only as the elms which overshadow our houses; but this is like the great dragon-tree of the Western Isles, as old as mankind, and, whether that does or not, will endure as long; for the decay of other literatures makes the soil in which it thrives.",
+      "zh": "我不知道有什么诗可以引用来充分表达这种对荒野的向往。从这一边走近，最好的诗是驯服的。我不知道在古代或现代的任何文献中哪里可以找到任何使我对我所熟悉的自然感到满意的描述。你会发现我所要求的东西是奥古斯都时代和伊丽莎白时代都无法给予的，简言之，任何文化都无法给予。神话比任何事物都更接近它。至少，希腊神话的根源比英国文学丰富得多！神话是旧大陆在土壤枯竭之前、幻想和想象受到枯萎病影响之前所结出的庄稼。无论在哪里，它的原始活力都没有减弱，它仍然具有这种特征。所有其他文学都只能像遮荫我们房屋的榆树一样持久。但这就像西方群岛上的大龙树一样，与人类一样古老，而且无论是否存在，都会长久存在。因为其他文学的衰败却为其繁荣提供了土壤。",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S065",
+      "type": "paragraph",
+      "en": "The West is preparing to add its fables to those of the East. The valleys of the Ganges, the Nile, and the Rhine, having yielded their crop, it remains to be seen what the valleys of the Amazon, the Plate, the Orinoco, the St. Lawrence, and the Mississippi will produce. Perchance, when, in the course of ages, American liberty has become a fiction of the past,—as it is to some extent a fiction of the present,—the poets of the world will be inspired by American mythology.",
+      "zh": "西方正准备将自己的寓言添加到东方的寓言中。恒河、尼罗河和莱茵河河谷已经产出了农作物，亚马逊河、普拉塔河、奥里诺科河、圣劳伦斯河和密西西比河河谷将生产什么还有待观察。也许，随着时间的推移，美国的自由已经成为过去的虚构——在某种程度上它也是现在的虚构——世界上的诗人将会受到美国神话的启发。",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S066",
+      "type": "paragraph",
+      "en": "The wildest dreams of wild men, even, are not the less true, though they may not recommend themselves to the sense which is most common among Englishmen and Americans to-day. It is not every truth that recommends itself to the common sense. Nature has a place for the wild clematis as well as for the cabbage. Some expressions of truth are reminiscent,—others merely sensible, as the phrase is,—others prophetic. Some forms of disease, even, may prophesy forms of health. The geologist has discovered that the figures of serpents, griffins, flying dragons, and other fanciful embellishments of heraldry, have their prototypes in the forms of fossil species which were extinct before man was created, and hence “indicate a faint and shadowy knowledge of a previous state of organic existence.” The Hindoos dreamed that the earth rested on an elephant, and the elephant on a tortoise, and the tortoise on a serpent; and though it may be an unimportant coincidence, it will not be out of place here to state, that a fossil tortoise has lately been discovered in Asia large enough to support an elephant. I confess that I am partial to these wild fancies, which transcend the order of time and development. They are the sublimest recreation of the intellect. The partridge loves peas, but not those that go with her into the pot.",
+      "zh": "即使是野人最疯狂的梦想，也同样真实，尽管它们可能不符合当今英国人和美国人中最常见的感觉。并不是所有的真理都符合常识。大自然为野生铁线莲和卷心菜提供了一席之地。有些真理的表达是令人回味的，有些只是明智的，正如俗话所说，有些是预言性的。某些形式的疾病甚至可以预示健康的形式。地质学家发现，蛇、狮鹫、飞龙和其他奇特的纹章装饰的形象，其原型都是化石物种的形式，这些化石物种在人类被创造之前就已经灭绝，因此“表明了对先前有机存在状态的微弱而模糊的了解”。印度人梦见大地踩在大象身上，大象踩在乌龟身上，乌龟踩在蛇身上。虽然这可能是一个不重要的巧合，但在这里说一下最近在亚洲发现的一种乌龟化石，其大小足以支撑一头大象，这并不是不恰当的。我承认我偏爱这些疯狂的幻想，它们超越了时间和发展的顺序。它们是智力最崇高的娱乐。鹧鸪喜欢豌豆，但不喜欢那些和她一起放进锅里的豌豆。",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S067",
+      "type": "paragraph",
+      "en": "In short, all good things are wild and free. There is something in a strain of music, whether produced by an instrument or by the human voice—take the sound of a bugle in a summer night, for instance,—which by its wildness, to speak without satire, reminds me of the cries emitted by wild beasts in their native forests. It is so much of their wildness as I can understand. Give me for my friends and neighbors wild men, not tame ones. The wildness of the savage is but a faint symbol of the awful ferity with which good men and lovers meet.",
+      "zh": "总之，一切美好的事物，都野生而自由。乐器或人声奏出的一段音乐——譬如夏夜的军号——其中某种野性，毫无讽刺意味地说，使我想起野兽在原始森林中的叫声。这是我能够理解的那一份野性。请给我野性的人作朋友和邻居，而不是驯顺的人。所谓野蛮人的野性，不过是好人与相爱者相遇时，那种令人敬畏的强烈野性的微弱象征。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S068",
+      "type": "paragraph",
+      "en": "I love even to see the domestic animals reassert their native rights—any evidence that they have not wholly lost their original wild habits and vigor; as when my neighbor’s cow breaks out of her pasture early in the spring and boldly swims the river, a cold, gray tide, twenty-five or thirty rods wide, swollen by the melted snow. It is the buffalo crossing the Mississippi. This exploit confers some dignity on the herd in my eyes—already dignified. The seeds of instinct are preserved under the thick hides of cattle and horses, like seeds in the bowels of the earth, an indefinite period.",
+      "zh": "我甚至喜欢看到家畜重申它们与生俱来的权利——任何证据表明它们还没有完全失去原始的野生习性和活力；就像我邻居的牛在早春冲出牧场，勇敢地游过河水时，河水是寒冷的、灰色的，有二十五或三十杆宽，被融化的雪肿胀了。这是横渡密西西比河的水牛。在我看来，这一功绩赋予了牛群一些尊严——已经是有尊严的了。本能的种子被保存在厚厚的牛马皮下，就像种子埋在地底一样，无限期地保存着。",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S069",
+      "type": "paragraph",
+      "en": "Any sportiveness in cattle is unexpected. I saw one day a herd of a dozen bullocks and cows running about and frisking in unwieldy sport, like huge rats, even like kittens. They shook their heads, raised their tails, and rushed up and down a hill, and I perceived by their horns, as well as by their activity, their relation to the deer tribe. But, alas! a sudden loud Whoa! would have damped their ardor at once, reduced them from venison to beef, and stiffened their sides and sinews like the locomotive. Who but the Evil One has cried “Whoa!” to mankind? Indeed, the life of cattle, like that of many men, is but a sort of locomotiveness; they move a side at a time, and man, by his machinery, is meeting the horse and the ox half way. Whatever part the whip has touched is thenceforth palsied. Who would ever think of a side of any of the supple cat tribe, as we speak of a side of beef?",
+      "zh": "牛群的嬉戏总出人意料。有天，我看见十来头公牛与母牛，笨拙地蹦跑，如大老鼠，甚至如小猫。它们摇头、翘尾巴，在坡上冲上冲下；我从角和动作里，看出了它们与鹿族的关系。可惜，只要突然大喝一声“吁！”，便立即扑灭它们的热情，把它们从鹿肉变回牛肉，让肋侧与筋腱像机车般僵硬。除了恶人，谁曾对人类喊“吁！”呢？牛的生命，如许多人的生命，确实仅剩机械移动；它们一次迈一边的腿，而人借自己的机器，在半路上与马和牛相遇。鞭子碰过的部位，此后便麻木了。我们说牛肉时，谁会想到它那柔软、猫科动物般的肋侧？",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S070",
+      "type": "paragraph",
+      "en": "I rejoice that horses and steers have to be broken before they can be made the slaves of men, and that men themselves have some wild oats still left to sow before they become submissive members of society. Undoubtedly, all men are not equally fit subjects for civilization; and because the majority, like dogs and sheep, are tame by inherited disposition, this is no reason why the others should have their natures broken that they may be reduced to the same level. Men are in the main alike, but they were made several in order that they might be various. If a low use is to be served, one man will do nearly or quite as well as another; if a high one, individual excellence is to be regarded. Any man can stop a hole to keep the wind away, but no other man could serve so rare a use as the author of this illustration did. Confucius says,—“The skins of the tiger and the leopard, when they are tanned, are as the skins of the dog and the sheep tanned.” But it is not the part of a true culture to tame tigers, any more than it is to make sheep ferocious; and tanning their skins for shoes is not the best use to which they can be put.",
+      "zh": "我欣喜的是，马与牛仍须被驯服，才能成为人的奴隶；人自身在成为社会顺从的成员以前，也还留有一些放荡不羁的种子。无疑，并非人人都同样适于文明。多数人像狗和羊一样，生来温驯，却不能成为折断其他人本性、把他们降到同一水平的理由。人大体相似，可他们被造为各个个体，正是为了有所不同。做低等用途时，一个人几乎或完全能替代另一个；做高等用途时，就须考虑个人的卓越。谁都能堵个洞挡风，却没有别的人能像举这个比喻的作者那样，发挥罕见的作用。孔子说：“虎豹之鞟，犹犬羊之鞟。”但真正的教养，不是驯服老虎，正如不是让羊变凶猛；把它们的皮鞣成鞋，也不是最佳用途。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S071",
+      "type": "paragraph",
+      "en": "When looking over a list of men’s names in a foreign language, as of military officers, or of authors who have written on a particular subject, I am reminded once more that there is nothing in a name. The name Menschikoff, for instance, has nothing in it to my ears more human than a whisker, and it may belong to a rat. As the names of the Poles and Russians are to us, so are ours to them. It is as if they had been named by the child’s rigmarole— Iery-wiery ichery van, tittle-tol-tan. I see in my mind a herd of wild creatures swarming over the earth, and to each the herdsman has affixed some barbarous sound in his own dialect. The names of men are, of course, as cheap and meaningless as Bose and Tray, the names of dogs.",
+      "zh": "当我翻阅一份外语名单时，比如军官的名字，或者就某一特定主题撰写文章的作家的名字，我再次被提醒，名字中没有任何东西。例如，门斯基科夫（Menschikoff）这个名字，在我听来，没有什么比胡须更人性化的了，而且它可能属于一只老鼠。正如波兰人和俄罗斯人的名字之于我们一样，我们的名字之于他们也是如此。就好像它们是根据孩子的胡言乱语来命名的——Iery-wiery ichery van、tittle-tol-tan。我的脑海里浮现出一群野生动物在大地上蜂拥而至，牧民用自己的方言为每只野兽添加了一些野蛮的声音。当然，人的名字就像狗的名字“Bose”和“Tray”一样廉价且毫无意义。",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S072",
+      "type": "paragraph",
+      "en": "Methinks it would be some advantage to philosophy if men were named merely in the gross, as they are known. It would be necessary only to know the genus and perhaps the race or variety, to know the individual. We are not prepared to believe that every private soldier in a Roman army had a name of his own—because we have not supposed that he had a character of his own. At present our only true names are nicknames. I knew a boy who, from his peculiar energy, was called “Buster” by his playmates, and this rightly supplanted his Christian name. Some travellers tell us that an Indian had no name given him at first, but earned it, and his name was his fame; and among some tribes he acquired a new name with every new exploit. It is pitiful when a man bears a name for convenience merely, who has earned neither name nor fame.",
+      "zh": "我认为，如果人们仅仅按照人们所知道的那样被概括地命名，这对哲学会有一些好处。只需要了解属，也许还有种族或变种，就可以了解个体。我们不准备相信罗马军队中的每个列兵都有自己的名字，因为我们不认为他有自己的性格。目前我们唯一的真名是昵称。我认识一个男孩，由于他独特的能量，他的玩伴们称他为“巴斯特”，这正确地取代了他的教名。一些旅行者告诉我们，印第安人最初没有名字，但后来才得到这个名字，他的名字就是他的名声；在一些部落中，他每取得一次新的功绩，就会获得一个新的名字。一个人仅仅为了方便而起名，却没有赢得名誉，这是很可怜的。",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S073",
+      "type": "paragraph",
+      "en": "I will not allow mere names to make distinctions for me, but still see men in herds for all them. A familiar name cannot make a man less strange to me. It may be given to a savage who retains in secret his own wild title earned in the woods. We have a wild savage in us, and a savage name is perchance somewhere recorded as ours. I see that my neighbor, who bears the familiar epithet William or Edwin, takes it off with his jacket. It does not adhere to him when asleep or in anger, or aroused by any passion or inspiration. I seem to hear pronounced by some of his kin at such a time his original wild name in some jaw-breaking or else melodious tongue.",
+      "zh": "我不会仅仅让名字来区分我，但仍然会看到所有人都成群结队。一个熟悉的名字并不能减少一个人对我的陌生感。它可能会被授予一个野蛮人，他秘密地保留着自己在树林中获得的狂野头衔。我们身上有一个野蛮人，而一个野蛮人的名字也许在某个地方被记录为我们的名字。我看到我的邻居，他有着熟悉的绰号威廉或埃德温，把它和他的夹克一起脱掉了。当他睡觉或生气时，或被任何激情或灵感激发时，它就不会附着在他身上。我似乎听到他的一些亲戚在这个时候用某种令人瞠目结舌或悦耳动听的语言念出他原来的狂野名字。",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S074",
+      "type": "paragraph",
+      "en": "Here is this vast, savage, hovering mother of ours, Nature, lying all around, with such beauty, and such affection for her children, as the leopard; and yet we are so early weaned from her breast to society, to that culture which is exclusively an interaction of man on man,—a sort of breeding in and in, which produces at most a merely English nobility, a civilization destined to have a speedy limit.",
+      "zh": "我们的母亲自然，广大、野性而守望着，环绕四周，像豹子一样美丽而爱护孩子。可是我们这么早就从她怀中断奶，转向社会，转向那种纯粹由人与人作用而成的教养：一种不断近亲繁殖的过程，至多造就区区英国贵族，一种很快便抵达限度的文明。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S075",
+      "type": "paragraph",
+      "en": "In society, in the best institutions of men, it is easy to detect a certain precocity. When we should still be growing children, we are already little men. Give me a culture which imports much muck from the meadows, and deepens the soil—not that which trusts to heating manures, and improved implements and modes of culture only!",
+      "zh": "在社会中，在男人最好的机构中，很容易发现某种早熟。当我们还是成长中的孩子时，我们已经是小男人了。给我一种从草地上输入大量粪便并加深土壤的文化——而不是仅仅依赖于加热肥料、改进农具和文化模式的文化！",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S076",
+      "type": "paragraph",
+      "en": "Many a poor sore-eyed student that I have heard of would grow faster, both intellectually and physically, if, instead of sitting up so very late, he honestly slumbered a fool’s allowance.",
+      "zh": "我听说过的许多可怜的眼睛酸痛的学生如果不熬夜，而是诚实地睡个懒觉，那么无论是在智力上还是在身体上都会成长得更快。",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S077",
+      "type": "paragraph",
+      "en": "There may be an excess even of informing light. Niepce, a Frenchman, discovered “actinism,” that power in the sun’s rays which produces a chemical effect; that granite rocks, and stone structures, and statues of metal “are all alike destructively acted upon during the hours of sunshine, and, but for provisions of Nature no less wonderful, would soon perish under the delicate touch of the most subtle of the agencies of the universe.” But he observed that “those bodies which underwent this change during the daylight possessed the power of restoring themselves to their original conditions during the hours of night, when this excitement was no longer influencing them.” Hence it has been inferred that “the hours of darkness are as necessary to the inorganic creation as we know night and sleep are to the organic kingdom.” Not even does the moon shine every night, but gives place to darkness.",
+      "zh": "甚至可能存在过量的知识之光。法国人尼埃普斯发现了“光化作用”，即太阳光线中产生化学效应的力量；花岗岩、石头结构和金属雕像“在阳光照射下都会受到同样的破坏性作用，而且，如果没有同样奇妙的大自然的供给，很快就会在宇宙最微妙的力量的微妙接触下毁灭。”但他观察到，“那些在白天经历这种变化的身体拥有在夜间恢复到原始状态的能力，此时这种兴奋不再影响它们。”因此可以推断，“黑暗的时间对于无机生物来说是必要的，就像我们知道夜晚和睡眠对于有机王国来说是必要的一样。”甚至连月亮也不是每晚都发光，而是让位于黑暗。",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S078",
+      "type": "paragraph",
+      "en": "I would not have every man nor every part of a man cultivated, any more than I would have every acre of earth cultivated: part will be tillage, but the greater part will be meadow and forest, not only serving an immediate use, but preparing a mould against a distant future, by the annual decay of the vegetation which it supports.",
+      "zh": "我不会让每一个人或一个人的每一部分都被耕种，就像我不会让每一英亩土地都被耕种一样：一部分将是耕作，但大部分将是草地和森林，不仅供立即使用，而且通过其所支持的植被每年的腐烂，为遥远的未来做好准备。",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S079",
+      "type": "paragraph",
+      "en": "There are other letters for the child to learn than those which Cadmus invented. The Spaniards have a good term to express this wild and dusky knowledge— Gramatica parda —tawny grammar, a kind of mother-wit derived from that same leopard to which I have referred.",
+      "zh": "孩子要学的字母，不只卡德摩斯所发明的那些。西班牙人有个好词，表达这种野生而幽暗的知识：Gramatica parda，褐色语法；一种自然赋予的机智，源于我先前说到的那同一头豹子。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S080",
+      "type": "paragraph",
+      "en": "We have heard of a Society for the Diffusion of Useful Knowledge. It is said that knowledge is power, and the like. Methinks there is equal need of a Society for the Diffusion of Useful Ignorance, what we will call Beautiful Knowledge, a knowledge useful in a higher sense: for what is most of our boasted so-called knowledge but a conceit that we know something, which robs us of the advantage of our actual ignorance? What we call knowledge is often our positive ignorance; ignorance our negative knowledge. By long years of patient industry and reading of the newspapers—for what are the libraries of science but files of newspapers—a man accumulates a myriad facts, lays them up in his memory, and then when in some spring of his life he saunters abroad into the Great Fields of thought, he, as it were, goes to grass like a horse and leaves all his harness behind in the stable. I would say to the Society for the Diffusion of Useful Knowledge, sometimes,—Go to grass. You have eaten hay long enough. The spring has come with its green crop. The very cows are driven to their country pastures before the end of May; though I have heard of one unnatural farmer who kept his cow in the barn and fed her on hay all the year round. So, frequently, the Society for the Diffusion of Useful Knowledge treats its cattle.",
+      "zh": "我们听说过有用知识传播协会。有人说知识就是力量等等。我认为，同样需要一个传播有用无知的协会，我们称之为美丽的知识，一种在更高意义上有用的知识：因为我们大部分吹嘘的所谓知识只是一种自负，认为我们知道一些东西，这剥夺了我们实际无知的优势？我们所谓的知识往往是我们积极的无知；无知我们的负面知识。一个人通过长年的耐心勤奋和阅读报纸——科学图书馆只不过是报纸档案——积累了无数的事实，将它们储存在他的记忆中，然后，当他生命中的某个春天，他漫步到思想的伟大领域时，他就像一匹马一样去草地，把所有的马具留在马厩里。有时，我会对有用知识传播协会说：去草地吧。你吃干草已经够久了。春天伴随着绿色的庄稼来到了。五月底前，所有的奶牛都会被赶回乡村牧场；不过我听说有一个不自然的农民，他把牛关在谷仓里，一年到头都用干草喂它。因此，有用知识传播协会经常对待它的牛。",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S081",
+      "type": "paragraph",
+      "en": "A man’s ignorance sometimes is not only useful, but beautiful—while his knowledge, so called, is oftentimes worse than useless, besides being ugly. Which is the best man to deal with—he who knows nothing about a subject, and, what is extremely rare, knows that he knows nothing, or he who really knows something about it, but thinks that he knows all?",
+      "zh": "一个人的无知有时不仅是有用的，而且是美丽的——而他所谓的知识，除了丑陋之外，往往比无用更糟糕。与哪一个人打交道是最好的——一个对某个主题一无所知的人，而且极其罕见的是，他知道自己一无所知，还是一个真正知道一些事情，但认为自己知道一切的人？",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S082",
+      "type": "paragraph",
+      "en": "My desire for knowledge is intermittent, but my desire to bathe my head in atmospheres unknown to my feet is perennial and constant. The highest that we can attain to is not Knowledge, but Sympathy with Intelligence. I do not know that this higher knowledge amounts to anything more definite than a novel and grand surprise on a sudden revelation of the insufficiency of all that we called Knowledge before—a discovery that there are more things in heaven and earth than are dreamed of in our philosophy. It is the lighting up of the mist by the sun. Man cannot know in any higher sense than this, any more than he can look serenely and with impunity in the face of the sun: Ὁς τὶ νοῶν, οὐ κεῖνον νοήσεις,—“You will not perceive that, as perceiving a particular thing,” say the Chaldean Oracles.",
+      "zh": "我对知识的渴望时断时续，但想让头脑沐浴在双脚从未到过的气氛中，这渴望长久而持续。我们能达到的最高境界，不是知识，而是与智慧相通。我不知道，这种更高的知识，是否有比一种新颖而巨大的惊喜更明确的内容：忽然发现从前所谓知识全都不足，发现天地间的事物，比我们的哲学梦见的更多。这是阳光照亮薄雾。人不能以更高的意义知道它，正如不能平静而毫发无伤地直视太阳。《迦勒底神谕》说：“你不能像认知某一特定事物那样认知它。”",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S083",
+      "type": "paragraph",
+      "en": "There is something servile in the habit of seeking after a law which we may obey. We may study the laws of matter at and for our convenience, but a successful life knows no law. It is an unfortunate discovery certainly, that of a law which binds us where we did not know before that we were bound. Live free, child of the mist—and with respect to knowledge we are all children of the mist. The man who takes the liberty to live is superior to all the laws, by virtue of his relation to the law-maker. “That is active duty,” says the Vishnu Purana, “which is not for our bondage; that is knowledge which is for our liberation: all other duty is good only unto weariness; all other knowledge is only the cleverness of an artist.”",
+      "zh": "寻求我们可以遵守的法律的习惯带有某种奴性。我们可以为了方便而研究物质法则，但成功的生活不知道任何法则。这当然是一个不幸的发现，它在我们之前不知道我们受到约束的地方约束着我们。自由地生活，迷雾之子——就知识而言，我们都是迷雾之子。享有自由生活的人因其与立法者的关系而凌驾于所有法律之上。 《毗湿奴往世书》说：“这就是积极的义务，它不是为了束缚我们；这是为了我们的解放而存在的知识：所有其他的义务只会让我们感到疲倦；所有其他的知识都只是艺术家的聪明才智。”",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S084",
+      "type": "paragraph",
+      "en": "It is remarkable how few events or crises there are in our histories, how little exercised we have been in our minds, how few experiences we have had. I would fain be assured that I am growing apace and rankly, though my very growth disturb this dull equanimity—though it be with struggle through long, dark, muggy nights or seasons of gloom. It would be well if all our lives were a divine tragedy even, instead of this trivial comedy or farce. Dante, Bunyan, and others appear to have been exercised in their minds more than we: they were subjected to a kind of culture such as our district schools and colleges do not contemplate. Even Mahomet, though many may scream at his name, had a good deal more to live for, aye, and to die for, than they have commonly.",
+      "zh": "值得注意的是，我们的历史中的事件或危机是多么的少，我们的思想是多么的缺乏锻炼，我们的经历是多么的少。我很想确信自己正在快速而成熟地成长，尽管我的成长本身就扰乱了这种沉闷的平静——尽管它是在漫长、黑暗、闷热的夜晚或阴郁的季节中进行的斗争。如果我们的一生都是一场神圣的悲剧，而不是这种琐碎的喜剧或闹剧就好了。但丁、班扬和其他人的思想似乎比我们受到更多的锻炼：他们受到一种文化的影响，而我们的地区学校和学院没有考虑到这种文化。即使是穆罕默德，尽管许多人可能会因他的名字而尖叫，但他的生与死，比他们通常拥有的要多得多。",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S085",
+      "type": "paragraph",
+      "en": "When, at rare intervals, some thought visits one, as perchance he is walking on a railroad, then, indeed, the cars go by without his hearing them. But soon, by some inexorable law, our life goes by and the cars return.",
+      "zh": "偶尔，一个念头来访；譬如一个人正沿铁轨行走，那时即使列车经过，他也听不见。可不久，依据某种无情的法则，我们的生命消逝了，列车又回来了。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S086",
+      "type": "verse",
+      "en": "“Gentle breeze, that wanderest unseen,\nAnd bendest the thistles round Loira of storms,\nTraveler of the windy glens,\nWhy hast thou left my ear so soon?”",
+      "zh": "“看不见的温柔微风，\n吹弯多风暴的洛伊拉四周蓟草，\n风中山谷的旅人，\n为何这样快就离开我的耳边？”",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S087",
+      "type": "paragraph",
+      "en": "While almost all men feel an attraction drawing them to society, few are attracted strongly to Nature. In their relation to Nature men appear to me for the most part, notwithstanding their arts, lower than the animals. It is not often a beautiful relation, as in the case of the animals. How little appreciation of the beauty of the landscape there is among us! We have to be told that the Greeks called the world Κόσμος Beauty, or Order, but we do not see clearly why they did so, and we esteem it at best only a curious philological fact.",
+      "zh": "虽然几乎所有男人都感受到社会对他们的吸引力，但很少有人对自然有强烈的吸引力。在我看来，人类在与自然的关系中，无论他们的艺术如何，在很大程度上都低于动物。这通常不是一种美好的关系，就像动物的情况一样。我们对美丽风景的欣赏是多么少啊！我们必须知道，希腊人称世界为“美”或“秩序”，但我们并不清楚他们为什么这样做，我们充其量只认为这是一个奇怪的语言学事实。",
+      "translation_status": "machine-draft"
+    },
+    {
+      "id": "S088",
+      "type": "paragraph",
+      "en": "For my part, I feel that with regard to Nature I live a sort of border life, on the confines of a world into which I make occasional and transient forays only, and my patriotism and allegiance to the state into whose territories I seem to retreat are those of a moss-trooper. Unto a life which I call natural I would gladly follow even a will-o’-the-wisp through bogs and sloughs unimaginable, but no moon nor firefly has shown me the causeway to it. Nature is a personality so vast and universal that we have never seen one of her features. The walker in the familiar fields which stretch around my native town sometimes finds himself in another land than is described in their owners’ deeds, as it were in some faraway field on the confines of the actual Concord, where her jurisdiction ceases, and the idea which the word Concord suggests ceases to be suggested. These farms which I have myself surveyed, these bounds which I have set up, appear dimly still as through a mist; but they have no chemistry to fix them; they fade from the surface of the glass, and the picture which the painter painted stands out dimly from beneath. The world with which we are commonly acquainted leaves no trace, and it will have no anniversary.",
+      "zh": "对我来说，与自然相处，我过的是一种边境生活，待在某个世界的边缘，只偶尔短暂突入其中。我似乎退入那片领土，对那里的国家所抱的爱国心与忠诚，却像边地的游骑。我愿为一种叫作自然的生活，甚至追随鬼火，穿过难以想象的泥沼；可没有月亮或萤火虫，替我指出通往那里的堤道。自然是一种如此广大普遍的人格，我们还未真正见过她的一处面貌。步行者走在故乡周围熟悉的田野，有时却发现自己进入一片不同于地主契约所描述的土地；仿佛抵达实际康科德边界某片遥远田野，那里的管辖权已经终止，“康科德”一词引出的观念，也不再引出。这些我亲自测过的农场、立过的界标，仍如薄雾中般隐约可见；但没有化学药剂能把影像固定。它们从玻璃表面褪去，画家画下的图景从底下朦胧浮现。我们通常熟悉的世界，没有留下痕迹，也不会有纪念日。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S089",
+      "type": "paragraph",
+      "en": "I took a walk on Spaulding’s Farm the other afternoon. I saw the setting sun lighting up the opposite side of a stately pine wood. Its golden rays straggled into the aisles of the wood as into some noble hall. I was impressed as if some ancient and altogether admirable and shining family had settled there in that part of the land called Concord, unknown to me—to whom the sun was servant—who had not gone into society in the village—who had not been called on. I saw their park, their pleasure-ground, beyond through the wood, in Spaulding’s cranberry-meadow. The pines furnished them with gables as they grew. Their house was not obvious to vision; the trees grew through it. I do not know whether I heard the sounds of a suppressed hilarity or not. They seemed to recline on the sunbeams. They have sons and daughters. They are quite well. The farmer’s cart-path, which leads directly through their hall, does not in the least put them out, as the muddy bottom of a pool is sometimes seen through the reflected skies. They never heard of Spaulding, and do not know that he is their neighbor,—notwithstanding I heard him whistle as he drove his team through the house. Nothing can equal the serenity of their lives. Their coat-of-arms is simply a lichen. I saw it painted on the pines and oaks. Their attics were in the tops of the trees. They are of no politics. There was no noise of labor. I did not perceive that they were weaving or spinning. Yet I did detect, when the wind lulled and hearing was done away, the finest imaginable sweet musical hum,—as of a distant hive in May, which perchance was the sound of their thinking. They had no idle thoughts, and no one without could see their work, for their industry was not as in knots and excrescences embayed.",
+      "zh": "前天下午，我在斯波尔丁农场散步，看到落日照亮一片雄伟松林的另一面。金色光线散入林间通道，如进入高贵的厅堂。我仿佛觉得，一个古老、可敬而光辉的家族，定居在这片叫作康科德的土地上，自己从不认识。太阳是他们的仆人，他们没参加村里的社交，也无人登门拜访。透过树林，我看见他们的园林与游乐地，位于斯波尔丁的蔓越莓草地上。松树成长，替他们提供山墙；屋子看不分明，树穿过它生长。我不知道是否听见压低的欢笑。他们似乎斜卧在阳光上，有儿子，也有女儿，都很好。农夫的车道直接穿过厅堂，却丝毫不打扰他们，犹如水池映着天空时，偶尔仍看见泥底。他们从没听过斯波尔丁，也不知道他是邻居；尽管他驾马车穿过屋子时，我听见他的口哨。没有什么能与他们生活的安宁相比。纹章只是一块地衣，我看见它绘在松树和橡树上；阁楼在树顶。他们不问政治，没有劳动声响，我没察觉他们织布或纺纱。不过，风平息、普通的听觉退去时，我辨出极细、甜美而富于音乐的嗡鸣，如五月远方的蜂巢，也许正是他们思考的声音。他们没有无用的念头；外人看不见他们的工作，因为他们的勤劳，并不像打结与赘生物那样突出。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S090",
+      "type": "paragraph",
+      "en": "But I find it difficult to remember them. They fade irrevocably out of my mind even now while I speak and endeavor to recall them, and recollect myself. It is only after a long and serious effort to recollect my best thoughts that I become again aware of their cohabitancy. If it were not for such families as this, I think I should move out of Concord.",
+      "zh": "可是，我难以记住他们。此刻我说话、努力回忆他们并找回自己时，他们也在不可挽回地从脑中消失。只有长久而认真地追寻那些最好的念头，我才重新意识到他们与我同居一处。若不是有这样的家族，我想自己早该搬离康科德了。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S091",
+      "type": "paragraph",
+      "en": "We are accustomed to say in New England that few and fewer pigeons visit us every year. Our forests furnish no mast for them. So, it would seem, few and fewer thoughts visit each growing man from year to year, for the grove in our minds is laid waste,—sold to feed unnecessary fires of ambition, or sent to mill, and there is scarcely a twig left for them to perch on. They no longer build nor breed with us. In some more genial season, perchance, a faint shadow flits across the landscape of the mind, cast by the wings of some thought in its vernal or autumnal migration, but, looking up, we are unable to detect the substance of the thought itself. Our winged thoughts are turned to poultry. They no longer soar, and they attain only to a Shanghai and Cochin China grandeur. Those gra-a-ate thoughts, those gra-a-ate men you hear of!",
+      "zh": "在新英格兰，我们习惯说，每年来这里的鸽子越来越少，森林已经不能为它们提供坚果。似乎每个成长中的人，年复一年，也迎来越来越少的思想：心中的树林被毁了，被卖掉去供养不必要的野心之火，或送进锯木厂，几乎不剩一根可供它们栖息的枝条。它们不再与我们一起筑巢、繁殖。也许，某个更温和的季节里，思想春迁或秋迁的翅膀，会在心灵风景上投下一道淡影；可抬头时，我们却看不见思想本身。带翅的思想变成了家禽，不再高飞，至多达到上海鸡和交趾鸡的那种雄伟。那些你听说过的“伟——大思想”，那些“伟——大人物”！",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S092",
+      "type": "paragraph",
+      "en": "We hug the earth—how rarely we mount! Methinks we might elevate ourselves a little more. We might climb a tree, at least. I found my account in climbing a tree once. It was a tall white pine, on the top of a hill; and though I got well pitched, I was well paid for it, for I discovered new mountains in the horizon which I had never seen before,—so much more of the earth and the heavens. I might have walked about the foot of the tree for threescore years and ten, and yet I certainly should never have seen them. But, above all, I discovered around me,—it was near the end of June,—on the ends of the topmost branches only, a few minute and delicate red conelike blossoms, the fertile flower of the white pine looking heavenward. I carried straightway to the village the topmost spire, and showed it to stranger jurymen who walked the streets,—for it was court week—and to farmers and lumber-dealers and wood-choppers and hunters, and not one had ever seen the like before, but they wondered as at a star dropped down. Tell of ancient architects finishing their works on the tops of columns as perfectly as on the lower and more visible parts! Nature has from the first expanded the minute blossoms of the forest only toward the heavens, above men’s heads and unobserved by them. We see only the flowers that are under our feet in the meadows. The pines have developed their delicate blossoms on the highest twigs of the wood every summer for ages, as well over the heads of Nature’s red children as of her white ones; yet scarcely a farmer or hunter in the land has ever seen them.",
+      "zh": "我们紧贴地面，很少向上攀登！我想，我们本可以再高一点，至少能爬上一棵树。有次爬树，我就大有收获。那是山顶上一棵高大的白松；虽然身上沾了不少树脂，报偿也丰厚：地平线上出现了以前从未见过的山，天地又多出那么一片。即使在树下走上七十年，我也肯定看不见它们。更重要的是，我发现四周最高枝梢的末端，有几朵细小、精巧的红色锥状花；当时将近六月底，那是白松朝向天空的雌花。我立刻把最高的一枝带回村里，给街上外地来的陪审员看——当时正值法院开庭的一周——也给农民、木材商、伐木人和猎人看。没有一个人见过这样的东西，他们惊奇得像看见一颗星星落了下来。人们谈起古代建筑师，称赞他们把柱顶的作品完成得与低处、易见处同样完美！而自然从一开始，就让森林的微小花朵只向天空展开，在人们头顶之上，无人察觉。我们只看见脚下草地里的花。多少年代以来，松树每个夏天都在最高的细枝上开出精巧的花朵，既在自然那些红皮肤的孩子头上，也在白皮肤的孩子头上；可这片土地上的农民与猎人，几乎没有人见过。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S093",
+      "type": "paragraph",
+      "en": "Above all, we cannot afford not to live in the present. He is blessed over all mortals who loses no moment of the passing life in remembering the past. Unless our philosophy hears the cock crow in every barn-yard within our horizon, it is belated. That sound commonly reminds us that we are growing rusty and antique in our employments and habits of thoughts. His philosophy comes down to a more recent time than ours. There is something suggested by it that is a newer testament,—the gospel according to this moment. He has not fallen astern; he has got up early and kept up early, and to be where he is, is to be in season, in the foremost rank of time. It is an expression of the health and soundness of Nature, a brag for all the world,—healthiness as of a spring burst forth, a new fountain of the Muses, to celebrate this last instant of time. Where he lives no fugitive slave laws are passed. Who has not betrayed his master many times since last he heard that note?",
+      "zh": "最要紧的是，我们不能不活在当下。不为回忆过去而浪费流逝生命中的任何一刻的人，比一切凡人都有福。我们的哲学若听不见视野内每个谷仓院子的鸡鸣，就是落伍的。那声音常提醒我们，工作与思考的习惯正在生锈、变旧。公鸡的哲学，比我们的更接近眼下；它暗示一种更新的《新约》，一部依照此刻的福音。它没有落在后面，起得早，也始终跟得上；处在它的位置，就是适逢其时、走在时间的最前列。这是自然健康与健全的表达，向整个世界夸示——像新泉喷涌那样健康，是缪斯的一口新泉，庆祝时间中这最新的一瞬。它住的地方，没有通过逃奴法。谁自从上次听到这声鸡鸣以后，没多次背叛过自己的主人呢？",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S094",
+      "type": "paragraph",
+      "en": "The merit of this bird’s strain is in its freedom from all plaintiveness. The singer can easily move us to tears or to laughter, but where is he who can excite in us a pure morning joy? When, in doleful dumps, breaking the awful stillness of our wooden sidewalk on a Sunday, or, perchance, a watcher in the house of mourning, I hear a cockerel crow far or near, I think to myself, “There is one of us well, at any rate,”—and with a sudden gush return to my senses.",
+      "zh": "这只鸟的歌声，可贵在毫无哀怨。歌手很容易使我们落泪或发笑；但谁能在我们心里唤起纯粹的清晨之乐？星期天，我心境阴郁，走在木板人行道上，那声音打破可怕的寂静；或在丧家守夜时，听见远近一只小公鸡啼鸣，我便想：“我们中至少还有一个是好的。”于是，一股突如其来的活力，把我带回清醒的感官。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S095",
+      "type": "paragraph",
+      "en": "We had a remarkable sunset one day last November. I was walking in a meadow, the source of a small brook, when the sun at last, just before setting, after a cold grey day, reached a clear stratum in the horizon, and the softest, brightest morning sunlight fell on the dry grass and on the stems of the trees in the opposite horizon and on the leaves of the shrub-oaks on the hillside, while our shadows stretched long over the meadow eastward, as if we were the only motes in its beams. It was such a light as we could not have imagined a moment before, and the air also was so warm and serene that nothing was wanting to make a paradise of that meadow. When we reflected that this was not a solitary phenomenon, never to happen again, but that it would happen forever and ever, an infinite number of evenings, and cheer and reassure the latest child that walked there, it was more glorious still.",
+      "zh": "去年十一月的一天，我们遇见了一场非凡的日落。我走在一片草地上，那里是一条小溪的源头。寒冷灰暗的一天将尽，太阳在落下前终于抵达地平线上一层清朗的天空；最柔和、最明亮、仿佛晨间的阳光，落在干草、对面地平线的树干和山坡灌木橡的叶片上。我们的影子长长向东伸过草地，仿佛我们是光束里仅有的微尘。这样的光，片刻以前还无法想象；空气也温暖而宁静，草地成为乐园已经无所欠缺。再想到，这不是一次此后永不重现的孤立现象，而会永远发生，在无数个傍晚，为最后一个走到这里的孩子带来鼓舞与安心，它就更加辉煌了。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S096",
+      "type": "paragraph",
+      "en": "The sun sets on some retired meadow, where no house is visible, with all the glory and splendor that it lavishes on cities, and perchance as it has never set before,—where there is but a solitary marsh hawk to have his wings gilded by it, or only a musquash looks out from his cabin, and there is some little black-veined brook in the midst of the marsh, just beginning to meander, winding slowly round a decaying stump. We walked in so pure and bright a light, gilding the withered grass and leaves, so softly and serenely bright, I thought I had never bathed in such a golden flood, without a ripple or a murmur to it. The west side of every wood and rising ground gleamed like the boundary of Elysium, and the sun on our backs seemed like a gentle herdsman driving us home at evening.",
+      "zh": "太阳在某片僻静、看不见房屋的草地上落下，把洒向城市的一切荣耀与光辉，也洒在这里，也许还胜过以往任何日落。那里只有一只孤独的沼泽鹰，翅膀被镀成金色；或者只是一只麝鼠，从住处向外张望。沼泽中央有一条像黑色脉络的小溪，刚开始曲折流动，慢慢绕过腐烂的树桩。我们走在如此纯净、明亮的光中，它把枯草与叶片镀成金色；那光柔和而宁静，我觉得自己从未沐浴过这样一片金色的洪流，没有涟漪，也没有低语。每片树林与高地的西侧，都像极乐世界的边界般闪耀；背后的太阳，仿佛一位温柔牧人，在晚间赶着我们回家。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S097",
+      "type": "paragraph",
+      "en": "So we saunter toward the Holy Land, till one day the sun shall shine more brightly than ever he has done, shall perchance shine into our minds and hearts, and light up our whole lives with a great awakening light, as warm and serene and golden as on a bank-side in Autumn.",
+      "zh": "于是，我们向圣地漫游，直到有一天，太阳比以往任何时候都照得更明亮，也许照进我们的思想与心灵，以伟大的觉醒之光照亮全部生命，就像秋日的河岸那样温暖、宁静、金黄。",
+      "translation_status": "assistant-retranslated"
+    }
+  ]
+}

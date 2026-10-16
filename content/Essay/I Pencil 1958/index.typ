@@ -1,0 +1,180 @@
+#import "../index.typ": template, tufted
+#import "../../_essay/bilingual.typ": zh
+#show: template.with(
+  title: "I, Pencil",
+  author: "Leonard E. Read",
+  date: "1958",
+  lang: "en",
+  css: ("/assets/custom.css", "/assets/essay.css"),
+  footer-elements: ([#link("https://fee.org/articles/i-pencil/")[FEE] · #link("https://creativecommons.org/licenses/by/4.0/")[CC BY 4.0] · 中文译文],),
+)
+
+= I, Pencil / 我，铅笔
+
+#html.p(id: "en-S001")[#text("I am a lead pencil—the ordinary wooden pencil familiar to all boys and girls and adults who can read and write.*")]
+
+#zh(id: "S001")[#text("我是一支铅笔——就是那种所有会读书写字的男孩、女孩和成年人都熟悉的普通木杆铅笔。*")]
+
+#html.p(id: "en-S002")[#text("Writing is both my vocation and my avocation; that’s all I do.")]
+
+#zh(id: "S002")[#text("写字既是我的职业，也是我的爱好；我做的事仅此而已。")]
+
+#html.p(id: "en-S003")[#text("You may wonder why I should write a genealogy. Well, to begin with, my story is interesting. And, next, I am a mystery— more so than a tree or a sunset or even a flash of lightning. But, sadly, I am taken for granted by those who use me, as if I were a mere incident and without background. This supercilious attitude relegates me to the level of the commonplace. This is a species of the grievous error in which mankind cannot too long persist without peril. For, the wise G. K. Chesterton observed, “We are perishing for want of wonder, not for want of wonders.”")]
+
+#zh(id: "S003")[#text("你也许会奇怪，我为什么要写一部家谱。首先，我的故事很有趣。其次，我是个谜——比一棵树、一次日落，甚至一道闪电还要神秘。可是，可悲的是，使用我的人把我视为理所当然，仿佛我只是一个没有来历的小东西。这种傲慢的态度把我归入平庸之物。人类若长期犯这种严重错误，就难免陷入危险。正如睿智的 G. K. 切斯特顿所言：‘我们正在灭亡，是因为缺少惊奇之心，而不是因为缺少奇迹。’")]
+
+#html.p(id: "en-S004")[#text("I, Pencil, simple though I appear to be, merit your wonder and awe, a claim I shall attempt to prove. In fact, if you can understand me—no, that’s too much to ask of anyone—if you can become aware of the miraculousness which I symbolize, you can help save the freedom mankind is so unhappily losing. I have a profound lesson to teach. And I can teach this lesson better than can an automobile or an airplane or a mechanical dishwasher because—well, because I am seemingly so simple.")]
+
+#zh(id: "S004")[#text("我，铅笔，虽然看起来简单，却值得你惊奇和敬畏；我将努力证明这一点。事实上，如果你能理解我——不，这样要求任何人都太过分了——如果你能意识到我所象征的奇妙之处，你就能帮助挽救人类正在不幸丧失的自由。我有一个深刻的道理要讲。而我比汽车、飞机或机械洗碗机更适合讲这个道理，因为——嗯，因为我看起来实在太简单了。")]
+
+#html.p(id: "en-S005")[#text("Simple? Yet, not a single person on the face of this earth knows how to make me. This sounds fantastic, doesn’t it? Especially when it is realized that there are about one and one-half billion of my kind produced in the U.S.A. each year.")]
+
+#zh(id: "S005")[#text("简单？然而，地球上没有一个人知道怎样制造我。这听起来很不可思议，对不对？尤其是在你知道，仅美国每年就生产大约十五亿支像我这样的铅笔之后。")]
+
+#html.p(id: "en-S006")[#text("Pick me up and look me over. What do you see? Not much meets the eye—there’s some wood, lacquer, the printed labeling, graphite lead, a bit of metal, and an eraser.")]
+
+#zh(id: "S006")[#text("拿起我，仔细看看。你看到了什么？没多少东西——一些木材、漆、印上去的字样、石墨笔芯、一点金属，还有一块橡皮。")]
+
+== Innumerable Antecedents / 数不清的先辈
+
+#html.p(id: "en-S008")[#text("Just as you cannot trace your family tree back very far, so is it impossible for me to name and explain all my antecedents. But I would like to suggest enough of them to impress upon you the richness and complexity of my background.")]
+
+#zh(id: "S008")[#text("正如你无法把自己的家谱追溯得很远，我也不可能说出并解释我的全部先辈。不过，我想介绍足够多的先辈，让你对我身世的丰富与复杂留下深刻印象。")]
+
+#html.p(id: "en-S009")[#text("My family tree begins with what in fact is a tree, a cedar of straight grain that grows in Northern California and Oregon. Now contemplate all the saws and trucks and rope and the countless other gear used in harvesting and carting the cedar logs to the railroad siding.")]
+
+#zh(id: "S009")[#text("我的家谱从一棵真正的树开始：一种木纹笔直、生长在加利福尼亚北部和俄勒冈的雪松。现在，请想想伐倒雪松、把原木运到铁路侧线所需的锯、卡车、绳索，以及无数其他工具。")]
+
+#html.p(id: "en-S010")[#text("Think of all the persons and the numberless skills that went into their fabrication: the mining of ore, the making of steel and its refinement into saws, axes, motors; the growing of hemp and bringing it through all the stages to heavy and strong rope; the logging camps with their beds and mess halls, the cookery and the raising of all the foods. Why, untold thousands of persons had a hand in every cup of coffee the loggers drink!")]
+
+#zh(id: "S010")[#text("再想想制造这些工具所涉及的人和数不清的技艺：开采矿石，炼钢，再把钢加工成锯、斧头和发动机；种植大麻，经过一道道工序，制成粗壮结实的绳索；伐木营地里的床铺与食堂，烹饪，以及种植或饲养所有食物。要知道，伐木工喝的每一杯咖啡，都有成千上万的人参与其中！")]
+
+#html.p(id: "en-S011")[#text("The logs are shipped to a mill in San Leandro, California. Can you imagine the individuals who make flat cars and rails and railroad engines and who construct and install the communication systems incidental thereto? These legions are among my antecedents.")]
+
+#zh(id: "S011")[#text("原木被运往加利福尼亚州圣莱安德罗的一座工厂。你能想象那些制造铁路平板车、铁轨和机车的人，以及建造、安装铁路通信系统的人吗？这些大批的人也都是我的先辈。")]
+
+#html.p(id: "en-S012")[#text("Consider the millwork in San Leandro. The cedar logs are cut into small, pencil-length slats less than one-fourth of an inch in thickness. These are kiln dried and then tinted for the same reason women put rouge on their faces. People prefer that I look pretty, not a pallid white. The slats are waxed and kiln dried again.")]
+
+#zh(id: "S012")[#text("看看工厂里的加工过程。雪松原木被切成铅笔那么长、厚度不到四分之一英寸的小木片。木片先在窑里烘干，再染色，理由同女人往脸上涂胭脂一样。人们喜欢我漂漂亮亮，而不是苍白无色。随后，木片上蜡，再次入窑烘干。")]
+
+#html.p(id: "en-S013")[#text("How many skills went into the making of the tint and the kilns, into supplying the heat, the light and power, the belts, motors, and all the other things a mill requires? Sweepers in the mill among my ancestors? Yes, and included are the men who poured the concrete for the dam of a Pacific Gas & Electric Company hydroplant which supplies the mill’s power!")]
+
+#zh(id: "S013")[#text("制造染料和烘窑，供应热、光和电力，制造传动带、发动机以及工厂所需的一切，又涉及多少技艺？工厂里的清扫工也算我的先辈吗？当然，还有为太平洋煤气电力公司的一座水电站大坝浇筑混凝土的人——正是那座水电站为工厂供电！")]
+
+#html.p(id: "en-S014")[#text("Don’t overlook the ancestors present and distant who have a hand in transporting sixty carloads of slats across the nation.")]
+
+#zh(id: "S014")[#text("别忘了那些或远或近的先辈，他们参与把六十车皮的木片横穿全国运送过来。")]
+
+#html.p(id: "en-S015")[#text("Once in the pencil factory—$4,000,000 in machinery and building, all capital accumulated by thrifty and saving parents of mine—each slat is given eight grooves by a complex machine, after which another machine lays leads in every other slat, applies glue, and places another slat atop—a lead sandwich, so to speak. Seven brothers and I are mechanically carved from this “wood-clinched” sandwich.")]
+
+#zh(id: "S015")[#text("到了铅笔厂——厂房和机器价值四百万美元，这些资本都是我那些节俭的父辈积累起来的——一台复杂的机器给每片木片开出八道槽，另一台机器把笔芯放进隔一道的槽里，涂上胶水，再盖上一片木片。可以说，这就做成了一块笔芯三明治。随后，机器从这块‘夹紧的木片三明治’里削出我和我的七个兄弟。")]
+
+#html.p(id: "en-S016")[#text("My “lead” itself—it contains no lead at all—is complex. The graphite is mined in Ceylon. Consider these miners and those who make their many tools and the makers of the paper sacks in which the graphite is shipped and those who make the string that ties the sacks and those who put them aboard ships and those who make the ships. Even the lighthouse keepers along the way assisted in my birth—and the harbor pilots.")]
+
+#zh(id: "S016")[#text("我的‘铅芯’本身——它其实一点铅也没有——也很复杂。石墨是在锡兰开采的。请想想那些矿工，制造他们各种工具的人，制造装运石墨的纸袋的人，制造捆扎纸袋所用绳索的人，把袋子装上船的人，以及造船的人。甚至沿途的灯塔看守人和港口引航员，也帮助了我的诞生。")]
+
+#html.p(id: "en-S017")[#text("The graphite is mixed with clay from Mississippi in which ammonium hydroxide is used in the refining process. Then wetting agents are added such as sulfonated tallow—animal fats chemically reacted with sulfuric acid. After passing through numerous machines, the mixture finally appears as endless extrusions—as from a sausage grinder—cut to size, dried, and baked for several hours at 1,850 degrees Fahrenheit.")]
+
+#zh(id: "S017")[#text("石墨与密西西比的黏土混合，黏土在精制过程中会用到氢氧化铵。随后，加入磺化牛脂等润湿剂——这是动物脂肪与硫酸发生化学反应制成的。经过许多台机器，这种混合物最终被连续挤成长条，像从绞肉机里挤出来的香肠一样，再切成所需长度，烘干，并在华氏 1850 度的温度下烧制数小时。")]
+
+#html.p(id: "en-S018")[#text("To increase their strength and smoothness the leads are then treated with a hot mixture which includes candelilla wax from Mexico, paraffin wax, and hydrogenated natural fats.")]
+
+#zh(id: "S018")[#text("为了增强强度并让书写更顺滑，笔芯还要用墨西哥小烛树蜡、石蜡和氢化天然脂肪混合而成的热液处理。")]
+
+#html.p(id: "en-S019")[#text("My cedar receives six coats of lacquer. Do you know all the ingredients of lacquer? Who would think that the growers of castor beans and the refiners of castor oil are a part of it? They are. Why, even the processes by which the lacquer is made a beautiful yellow involves the skills of more persons than one can enumerate!")]
+
+#zh(id: "S019")[#text("我的雪松外壳要涂六层漆。你知道漆的所有成分吗？谁会想到，种植蓖麻和精炼蓖麻油的人也是我身世的一部分？他们确实是。就连把漆调成漂亮的黄色所需的技艺，也涉及多得数不清的人！")]
+
+#html.p(id: "en-S020")[#text("Observe the labeling. That’s a film formed by applying heat to carbon black mixed with resins. How do you make resins and what, pray, is carbon black?")]
+
+#zh(id: "S020")[#text("再看看印在我身上的字样。那是一层薄膜，由炭黑与树脂混合，再加热施印而成。树脂是怎样制造的？请问，炭黑又是什么？")]
+
+#html.p(id: "en-S021")[#text("My bit of metal—the ferrule—is brass. Think of all the persons who mine zinc and copper and those who have the skills to make shiny sheet brass from these products of nature. Those black rings on my ferrule are black nickel. What is black nickel and how is it applied? The complete story of why the center of my ferrule has no black nickel on it would take pages to explain.")]
+
+#zh(id: "S021")[#text("我身上那一点金属——也就是套箍——是黄铜。请想想开采锌和铜的人，以及那些懂得把这些天然产物制成闪亮黄铜片的人。套箍上的黑色圆环是黑镍。黑镍是什么，又是怎样涂上去的？要完整解释为什么套箍中间没有黑镍，得写上好几页。")]
+
+#html.p(id: "en-S022")[#text("Then there’s my crowning glory, inelegantly referred to in the trade as “the plug,” the part man uses to erase the errors he makes with me. An ingredient called “factice” is what does the erasing. It is a rubber-like product made by reacting rape- seed oil from the Dutch East Indies with sulfur chloride. Rubber, contrary to the common notion, is only for binding purposes. Then, too, there are numerous vulcanizing and accelerating agents.")]
+
+#zh(id: "S022")[#text("然后是我最引以为傲的部分，行业里却不太雅致地称它为‘塞头’，人们用它来擦掉写错的地方。真正起擦除作用的一种成分叫‘油膏’，是把来自荷属东印度的菜籽油与氯化硫反应，制成的一种类似橡胶的物质。与通常的看法相反，橡胶只起黏结作用。此外，还需要许多硫化剂和促进剂。")]
+
+#html.p(id: "en-S023")[#text("The pumice comes from Italy; and the pigment which gives “the plug” its color is cadmium sulfide.")]
+
+#zh(id: "S023")[#text("浮石来自意大利，而给‘塞头’着色的颜料是硫化镉。")]
+
+== No One Knows / 没有人知道
+
+#html.p(id: "en-S025")[#text("Does anyone wish to challenge my earlier assertion that no single person on the face of this earth knows how to make me?")]
+
+#zh(id: "S025")[#text("有没有人想质疑我前面的断言：地球上没有任何一个人知道怎样制造我？")]
+
+#html.p(id: "en-S026")[#text("Actually, millions of human beings have had a hand in my creation, no one of whom even knows more than a very few of the others. Now, you may say that I go too far in relating the picker of a coffee berry in far off Brazil and food growers elsewhere to my creation; that this is an extreme position. I shall stand by my claim. There isn’t a single person in all these millions, including the president of the pencil company, who contributes more than a tiny, infinitesimal bit of know-how.")]
+
+#zh(id: "S026")[#text("事实上，数百万人参与了我的制造，而他们每个人认识的其他参与者都寥寥无几。现在，你也许会说，我把遥远巴西的咖啡豆采摘者，以及世界各地的食物种植者，都算进自己的身世，未免扯得太远，是一种极端的说法。我坚持这个说法。在这数百万人中，包括铅笔公司的总裁在内，没有一个人贡献了全部知识技能中哪怕超过极微小一部分的内容。")]
+
+#html.p(id: "en-S027")[#text("From the standpoint of know-how the only difference between the miner of graphite in Ceylon and the logger in Oregon is in the type of know-how. Neither the miner nor the logger can be dispensed with, any more than can the chemist at the factory or the worker in the oil field—paraffin being a by-product of petroleum.")]
+
+#zh(id: "S027")[#text("从知识技能的角度看，锡兰的石墨矿工与俄勒冈的伐木工，区别仅在于掌握的技能种类。矿工和伐木工都不可或缺，就像工厂里的化学师或油田工人一样——石蜡是石油的副产品。")]
+
+#html.p(id: "en-S028")[#text("Here is an astounding fact: Neither the worker in the oil field nor the chemist nor the digger of graphite or clay nor any who mans or makes the ships or trains or trucks nor the one who runs the machine that does the knurling on my bit of metal nor the president of the company performs his singular task because he wants me. Each one wants me less, perhaps, than does a child in the first grade. Indeed, there are some among this vast multitude who never saw a pencil nor would they know how to use one.")]
+
+#zh(id: "S028")[#text("这里有一个惊人的事实：无论油田工人、化学师、石墨或黏土的开采者，还是驾驶船舶、列车、卡车的人，或制造这些交通工具的人，或操作、制造套箍滚花机器的人，乃至公司的总裁，都不是因为想要我才完成各自那份工作。他们每个人对我的需要，甚至都比不上一个一年级的小孩。事实上，这庞大的人群里，有些人从没见过铅笔，也不知道铅笔有什么用。")]
+
+#html.p(id: "en-S029")[#text("Their motivation is other than me. Perhaps it is something like this: Each of these millions sees that he can thus exchange his tiny know-how for the goods and services he needs or wants. I may or may not be among these items.")]
+
+#zh(id: "S029")[#text("他们的动机在我之外。也许是这样：这些人中的每一个，都发现自己能把那一点点知识技能，换成需要或想要的商品与服务。我可能在这些东西之中，也可能不在。")]
+
+== No Master Mind / 没有总指挥
+
+#html.p(id: "en-S031")[#text("There is a fact still more astounding: The absence of a master mind, of anyone dictating or forcibly directing these countless actions which bring me into being. No trace of such a person can be found. Instead, we find the Invisible Hand at work. This is the mystery to which I earlier referred.")]
+
+#zh(id: "S031")[#text("还有一个更惊人的事实：没有一个总指挥，没有任何人对促成我诞生的无数行动发号施令或强行指挥。找不到这样一个人的丝毫踪迹。相反，我们发现是‘看不见的手’在起作用。这就是我先前提到的谜。")]
+
+#html.p(id: "en-S032")[#text("It has been said that “only God can make a tree.” Why do we agree with this? Isn’t it because we realize that we ourselves could not make one? Indeed, can we even describe a tree? We cannot, except in superficial terms. We can say, for instance, that a certain molecular configuration manifests itself as a tree. But what mind is there among men that could even record, let alone direct, the constant changes in molecules that transpire in the life span of a tree? Such a feat is utterly unthinkable!")]
+
+#zh(id: "S032")[#text("有人说，‘只有上帝才能创造一棵树。’我们为什么赞同？难道不是因为我们知道，自己无法造出一棵树吗？事实上，我们甚至能描述一棵树吗？除了表面的描述，我们做不到。我们可以说，某种分子的组合表现为一棵树。可是，在一棵树的生命历程中，分子不断变化，有哪颗头脑能记录这些变化，更不用说指导它们？这种壮举简直无法想象！")]
+
+#html.p(id: "en-S033")[#text("I, Pencil, am a complex combination of miracles: a tree, zinc, copper, graphite, and so on. But to these miracles which manifest themselves in Nature an even more extraordinary miracle has been added: the configuration of creative human energies—millions of tiny know-hows configurating naturally and spontaneously in response to human necessity and desire and in the absence of any human master-minding! Since only God can make a tree, I insist that only God could make me.")]
+
+#zh(id: "S033")[#text("我，铅笔，是许多奇迹的复杂组合：一棵树、锌、铜、石墨，等等。而在自然界的这些奇迹之外，又添上了一个更加非凡的奇迹：人类创造力的组合——数百万种小小的知识技能，在没有任何人类总指挥的情况下，自然、自发地回应人类的需要与愿望，组合起来！既然只有上帝才能创造一棵树，我也坚持认为，只有上帝才能创造我。")]
+
+#html.p(id: "en-S034")[#text("Man can no more direct these millions of know-hows to bring me into being than he can put molecules together to create a tree.")]
+
+#zh(id: "S034")[#text("人类无法指挥这数百万种知识技能来制造我，就像无法把分子组合成一棵树一样。")]
+
+#html.p(id: "en-S035")[#text("The above is what I meant when writing, “If you can become aware of the miraculousness which I symbolize, you can help save the freedom mankind is so unhappily losing.” For, if one is aware that these know-hows will naturally, yes, automatically, arrange themselves into creative and productive patterns in response to human necessity and demand—that is, in the absence of governmental or any other coercive master-minding—then one will possess an absolutely essential ingredient for freedom: a faith in free people.")]
+
+#zh(id: "S035")[#text("上面所说的，就是我那句话的意思：‘如果你能意识到我所象征的奇妙之处，你就能帮助挽救人类正在不幸丧失的自由。’因为，一个人若意识到，这些知识技能会自然地——是的，自动地——回应人类的需要与需求，形成富有创造力和生产力的组合，也就是在没有政府或任何其他强制性总指挥的情况下，就掌握了自由的一项绝对必要的要素：相信自由的人们。")]
+
+#html.p(id: "en-S036")[#text("Freedom is impossible without this faith.")]
+
+#zh(id: "S036")[#text("没有这种信念，自由就不可能存在。")]
+
+#html.p(id: "en-S037")[#text("Once government has had a monopoly of a creative activity such, for instance, as the delivery of the mails, most individuals will believe that the mails could not be efficiently delivered by men acting freely. And here is the reason: Each one acknowledges that he himself doesn’t know how to do all the things incident to mail delivery. He also recognizes that no other individual could do it. These assumptions are correct.")]
+
+#zh(id: "S037")[#text("一旦政府垄断了某项创造性活动，例如邮件投递，多数人就会相信，自由的人们不可能有效率地完成投递。原因在于：每个人都承认，自己并不知道邮件投递涉及的全部事情；同时也认识到，其他任何一个人也不可能全懂。这些判断都是正确的。")]
+
+#html.p(id: "en-S038")[#text("No individual possesses enough know-how to perform a nation’s mail delivery any more than any individual possesses enough know-how to make a pencil. Now, in the absence of faith in free people—in the unawareness that millions of tiny know-hows would naturally and miraculously form and cooperate to satisfy this necessity—the individual cannot help but reach the erroneous conclusion that mail can be delivered only by governmental “master-minding.”")]
+
+#zh(id: "S038")[#text("任何个人所掌握的知识技能，都不足以完成一个国家的邮件投递，就像任何个人都不足以制造一支铅笔一样。但如果一个人不相信自由的人们，没有意识到数百万种小小的知识技能会自然而奇妙地结合起来、相互协作，以满足这一需要，就难免错误地认定，只有政府充当‘总指挥’才能投递邮件。")]
+
+== Testimony Galore / 证据俯拾皆是
+
+#html.p(id: "en-S040")[#text("If I, Pencil, were the only item that could offer testimony on what men and women can accomplish when free to try, then those with little faith would have a fair case. However, there is testimony galore; it’s all about us and on every hand. Mail delivery is exceedingly simple when compared, for instance, to the making of an automobile or a calculating machine or a grain combine or a milling machine or to tens of thousands of other things.")]
+
+#zh(id: "S040")[#text("如果我，铅笔，是唯一能证明人们在自由尝试时能够取得什么成就的东西，那么缺少信念的人倒也有理由。但是，证据俯拾皆是，就在我们周围。与制造汽车、计算机、谷物联合收割机、铣床，或数以万计的其他东西相比，邮件投递是极其简单的。")]
+
+#html.p(id: "en-S041")[#text("Delivery? Why, in this area where men have been left free to try, they deliver the human voice around the world in less than one second; they deliver an event visually and in motion to any person’s home when it is happening; they deliver 150 passengers from Seattle to Baltimore in less than four hours; they deliver gas from Texas to one’s range or furnace in New York at unbelievably low rates and without subsidy; they deliver each four pounds of oil from the Persian Gulf to our Eastern Seaboard—halfway around the world—for less money than the government charges for delivering a one-ounce letter across the street!")]
+
+#zh(id: "S041")[#text("投递？在那些让人们自由尝试的领域，他们能在不到一秒钟内把人的声音传遍全球；能在事件发生的同时，把影像传送到任何人的家里；能在不到四个小时内把 150 名乘客从西雅图送到巴尔的摩；能以难以置信的低价、无需补贴，把得克萨斯的天然气送到纽约某人的炉灶；还能把每四磅石油从波斯湾运到美国东海岸——跨越半个地球——所花的钱，比政府把一封一盎司重的信件从街这边送到街对面还少！")]
+
+#html.p(id: "en-S042")[#text("The lesson I have to teach is this: Leave all creative energies uninhibited. Merely organize society to act in harmony with this lesson. Let society’s legal apparatus remove all obstacles the best it can. Permit these creative know-hows freely to flow. Have faith that free men and women will respond to the Invisible Hand. This faith will be confirmed.")]
+
+#zh(id: "S042")[#text("我要讲的道理是：不要束缚任何创造力。只须让社会的组织方式与这个道理相协调。让社会的法律机构尽力清除一切障碍。让这些富有创造力的知识技能自由流动。相信自由的人们会回应那只‘看不见的手’。这种信念将得到证实。")]
+
+#html.p(id: "en-S043")[#text("I, Pencil, seemingly simple though I am, offer the miracle of my creation as testimony that this is a practical faith, as practical as the sun, the rain, a cedar tree, the good earth.")]
+
+#zh(id: "S043")[#text("我，铅笔，虽然看起来简单，却以自身诞生的奇迹证明，这是一种切实可行的信念，就像太阳、雨水、雪松和大地一样切实。")]
+
+#html.p(id: "en-S044")[#text("* My official name is “Mongol 482.” My many ingredients are assembled, fabricated, and finished by Eberhard Faber Pencil Company.")]
+
+#zh(id: "S044")[#text("* 我的正式名称是‘Mongol 482’。我的各种材料由埃伯哈德·法伯铅笔公司装配、加工并制成成品。")]

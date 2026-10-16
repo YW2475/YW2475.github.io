@@ -1,0 +1,600 @@
+#import "../index.typ": template, tufted
+#import "../../_essay/bilingual.typ": zh
+#show: template.with(
+  title: "The Architecture of Complexity",
+  author: "Herbert A. Simon",
+  date: "1962",
+  description: "从两个钟表匠的故事，理解复杂系统的层级结构。",
+  lang: "en",
+  css: ("/assets/custom.css", "/assets/essay.css"),
+)
+
+= The Architecture of Complexity / 复杂性的结构
+
+#html.p(id: "en-S001")[#text("A NUMBER of proposals have been advanced in recent years for the development of “general systems theory\"which,abstracting from properties peculiar to physical, biological, or social systems, would be applicable to all of them.1We might well feel that, while the goal is laudable, systems of such diverse kinds could hardly be expected to have any nontrivial properties in common.Metaphor and analogy can be helpful,or they can be misleading. All depends on whether the similarities the metaphor captures are significant or superficial.")]
+
+#zh(id: "S001")[#text("近年来，人们提出了不少发展‘一般系统理论’的建议。这种理论将抽去物理、生物或社会系统所特有的性质，从而适用于所有这些系统。我们很可能觉得，目标虽值得赞许，差异如此之大的系统却很难有什么共同的、并非无足轻重的性质。隐喻和类比可以帮助理解，也可能误导；关键在于，隐喻捕捉到的相似性究竟重要，还是只在表面。")]
+
+#html.p(id: "en-S002")[#text("It may not be entirely vain,however, to search for common properties among diverse kinds of complex systems.The ideas that go by the name of cybernetics constitute,if not a theory,at least a point of view that has been proving fruitful over a wide range of applications.2 It has been useful to look at the behavior of adaptive systems in terms of the concepts of feedback and homeostasis, and to analyze adaptiveness in terms of the theory of selective information.3The ideas of feedback and information provide a frame of reference for viewing a wide range of situations, just as do the ideas of evolution,of relativism,of axiomatic method,and of operationalism.")]
+
+#zh(id: "S002")[#text("不过，在各类复杂系统中寻找共同性质，未必全是徒劳。被称为控制论的那些观念，即使还不构成一套理论，也至少形成了一种观点，已在广泛的应用中证明富有成效。用反馈和稳态的概念观察适应系统的行为，以及用选择性信息理论分析适应性，都是有用的。反馈与信息的观念，为观察许多不同情境提供了参照框架，正如演化、相对主义、公理化方法和操作主义的观念一样。")]
+
+#html.p(id: "en-S003")[#text("In this paper I should like to report on some things we have been learning about particular kinds of complex systems encountered in the behavioral sciences. The developments I shall discuss arose in the context of specific phenomena, but the theoretical formulations themselves make little reference to details of structure.Instead they refer primarily to the complexity of the systems under view without specifying the exact content of that complexity.Because of their abstractness, the theories may have relevance— application would be too strong a term—to other kinds of complex systems that are observed in the social, biological, and physical sciences.")]
+
+#zh(id: "S003")[#text("本文想介绍我们对行为科学中某些复杂系统的新认识。我要讨论的进展，产生于具体的现象；但理论表述本身很少涉及结构细节，而主要着眼于所考察系统的复杂性，并不限定这种复杂性的具体内容。正因为这种抽象性，这些理论或许也与社会、生物和物理科学中观察到的其他复杂系统有关——说‘应用’还太强，只能说‘有关’。")]
+
+#html.p(id: "en-S004")[#text("In recounting these developments, I shall avoid technical detail, which can generally be found elsewhere.I shall describe each theory in the particular context in which it arose.Then,I shall cite some examples of complex systems,from areas of science other than the initial application, to which the theoretical framework appears relevant. In doing so, I shall make reference to areas of knowledge where I am not expert—perhaps not even literate. I feel quite comfortable in doing so before the members of this society,representing as it does the whole span of the scientific and scholarly endeavor.Collectively you will have little difficulty, I am sure, in distinguishing instances based on idle fancy or sheer ignorance from instances that cast some light on the ways in which complexity exhibits itself wherever it is found in nature.I shall leave to you the final judgment of relevance in your respective fields.")]
+
+#zh(id: "S004")[#text("介绍这些进展时，我会避开技术细节；这些细节通常能在其他地方找到。我将先在每种理论产生的具体背景中解释它，再举出最初应用领域以外的科学领域中的复杂系统实例，看看理论框架是否也与它们有关。这样做时，我会涉及自己并非专家、甚至未必熟悉的知识领域。在本学会的成员面前，我很乐于这么做，因为你们代表着科学与学术探索的整个范围。凭借大家共同的知识，要分辨哪些例子出于空想或无知，哪些确实照亮了自然界中的复杂性，我相信不会太困难。它们与你们各自领域是否有关，最终仍由你们判断。")]
+
+#html.p(id: "en-S005")[#text("I shall not undertake a formal definition of")]
+
+#zh(id: "S005")[#text("难道大厅没有进行正式的定义")]
+
+#html.p(id: "en-S006")[#text("\"complex systems.\"4 Roughly, by a complex system I mean one made up of a large number of parts that interact in a non simple way.In such systems,the whole is more than the sum of the parts, not in an ultimate, metaphysical sense, but in the important pragmatic sense that, given the properties of the parts and the laws of their interaction, it is not a trivial matter to infer the properties of the whole.In the face of complexity, anin-principlereductionistmaybe atthe same time a pragmatic holist.5")]
+
+#zh(id: "S006")[#text("“复杂系统。”4 粗略地说，复杂系统是指由大量以非简单方式相互作用的部分组成的系统。在这样的系统中，整体大于部分之和，这不是终极的形而上学意义上的，而是重要的实用意义上的，即给定部分的属性及其相互作用的规律，推断整体的属性并不是一件小事。面对复杂性，原则上的还原论者可能同时也是一个务实的整体主义者。5")]
+
+#html.p(id: "en-S007")[#text("The four sections that follow discuss four aspects of complexity. The first offers some comments on the frequency with which complexity takes the form of hierarchy-—the complex system being composed of subsystems that, in turn, have their own subsystems,and so on.The second section theorizes about the relation between the structure of a complex system and the time required for it to emerge through evolutionary processes:specifically,it argues that hierarchic systems will evolve far more quickly than non-hierarchic systems of comparable size.The third section explores the dynamic properties of hierarchically organized systems,and shows how they can be decomposed into subsystems in order to analyze their behavior.The fourth section examines the relation between complex systems and their descript ions.")]
+
+#zh(id: "S007")[#text("接下来的四个部分讨论复杂性的四个方面。第一部分对复杂性以层次结构形式出现的频率提出了一些评论——复杂系统由子系统组成，而子系统又拥有自己的子系统，等等。第二部分对复杂系统的结构与它通过进化过程出现所需的时间之间的关系进行了理论分析：具体来说，它认为层次系统将比同等规模的非层次系统进化得更快。第三部分探讨了层次组织系统的动态特性，并展示了它们如何发展。可以分解为子系统以分析它们的行为。第四部分研究复杂系统及其描述之间的关系。")]
+
+#html.p(id: "en-S008")[#text("Thus, the central theme that runs through my remarks is that complexity frequently takes the form of hierarchy,and that hierarchic systems have some common properties that are independent of their specific content. Hierarchy, I shall argue, is oneof the central structural schemes that the architect of complexity uses.")]
+
+#zh(id: "S008")[#text("因此，贯穿我讲话的中心主题是，复杂性经常采取层次结构的形式，并且层次结构系统具有一些独立于其具体内容的共同属性。我认为，层次结构是复杂性建筑师使用的核心结构方案之一。")]
+
+== HIERARCHIC SYSTEMS / 层级系统
+
+#html.p(id: "en-S009")[#text("By a hierarchic system,or hierarchy,I mean a system that is composed of interrelated subsystems, each of the latter being, in turn, hierarchic in structure untilwe reach some lowest level of elementary subsystem.In most systems in nature,it is somewhat arbitrary as to where we leave off the partitioning, and what subsystems we take as elementary.Physics makes much use of the concept of “elementary particle” although particles have a disconcerting tendency not to remain elementary very long. Only a couple of generations ago,the atoms themselves were elementary particles; today, to the nuclear physicist they are complex systems.For certain purposes of astronomy, whole stars, or even galaxies, can be regarded as elementary subsystems.In one kind of biological research, a cell may be treated as an elementary subsystem;in another,a protein molecule; in still another,an amino acid residue.")]
+
+#zh(id: "S009")[#text("我所说的层次系统或层次结构，是指由相互关联的子系统组成的系统，每个子系统依次在结构上具有层次结构，直到我们达到基本子系统的最低级别。在自然界中的大多数系统中，我们在哪里停止划分以及我们将哪些子系统视为基本子系统有些随意。物理学大量使用了“基本粒子”的概念，尽管粒子有一个令人不安的趋势，即不会长时间保持基本状态。仅在几代人之前，原子本身还是基本粒子；今天，对于核物理学家来说，它们是复杂的系统。出于天文学的某些目的，整个恒星，甚至星系，都可以被视为基本子系统。在一种生物研究中，可以将细胞视为基本子系统；在另一种生物研究中，可以将蛋白质分子视为基本子系统；还有一个是氨基酸残基。")]
+
+#html.p(id: "en-S010")[#text("Just why a scientist has a right to treat as elementary a subsystem that is in fact exceedingly complex is one of the questions we shall take up. For the moment, we shall accept the fact that scientists do this all the time, and that if they are careful scientists they usually get away with it.")]
+
+#zh(id: "S010")[#text("为什么科学家有权将实际上极其复杂的子系统视为基本子系统，这是我们要讨论的问题之一。目前，我们应该接受这样一个事实：科学家一直在这样做，而且如果他们是细心的科学家，他们通常会逃脱惩罚。")]
+
+#html.p(id: "en-S011")[#text("Etymologically,the word “hierarchy”has had a narrower meaning than I am giving it here. The term has generally been used to refer to a complex system in which each of the subsystems is subordinated by an authority relation to the system it belongs to. More exactly, in a hierarchic formal organization,each system consists of a “boss\"and a set of subordinate subsystems. Each of the subsystems has a “boss\"who is the immediate subordinate of the boss of the system. We shall want to consider systems in which the relations among subsystems are more complex than in the formal organizational hierarchy just described.We shall want to include systems in which there is no relation of subordination among subsystems.(In fact, even in human organ iz ations, the formal hierarchy exists only on paper; the real fesh-and-blood organization has many inter-part relations other than the lines of formal authority.）For lack of a better term,I shall use hierarchy in the broader sense introduced in the previous paragraphs, to refer to all complex systems anal yz able into successive sets of subsystems, and speak of “formal hierarchy”when I want to refer to the more specialized concept.")]
+
+#zh(id: "S011")[#text("从词源学上来说，“等级制度”这个词的含义比我在这里给出的要窄。该术语通常用来指一个复杂的系统，其中每个子系统都受其所属系统的权限关系的支配。更准确地说，在一个层次化的正式组织中，每个系统都由一个“老板”和一组下属子系统组成。每个子系统都有一个“老大”，他是系统老大的直属下属。我们应该考虑子系统之间的关系比刚刚描述的正式组织层次结构更复杂的系统。我们应该包括子系统之间没有从属关系的系统。（事实上，即使在人类组织中，正式的层次结构也只存在于纸上；真正的有血有肉的组织除了正式的权力界限之外，还有许多部门间的关系。）由于缺乏更好的术语，我将使用前面介绍的更广泛意义上的层次结构，来指代所有的组织。复杂系统能够分析成连续的子系统集，当我想引用更专业的概念时，我会谈到“形式层次结构”。")]
+
+== SOCIAL SYSTEMS / 社会系统
+
+#html.p(id: "en-S012")[#text("I have already given an example of one kind of hierarchy that is frequently encountered in the social sciences: a formal organization. Business firms, governments, universities all have a clearly visible parts-within-parts structure.But formal organizations are not the only,or even the most common,kind of social hierarchy.Almost all societies have elementary units called families, which may be grouped into villages or tribes, and these into larger groupings, and so on. If we make a chart of social interactions,of who talks towhom,the clusters of dense interaction in the chart will identify a rather well-defined hierarchic structure. The groupings in this structure may be defined operationally by some measure of frequencyof interaction inthis socio metric matrix.")]
+
+#zh(id: "S012")[#text("我已经给出了社会科学中经常遇到的一种等级制度的例子：正式组织。商业公司、政府、大学都有清晰可见的部分内结构。但正式组织并不是唯一的，甚至不是最常见的社会等级制度。几乎所有社会都有称为家庭的基本单位，这些单位可以分为村庄或部落，然后再分为更大的群体，等等。如果我们制作一张社交互动图表，显示谁与谁交谈，图表中密集互动的集群将识别出一个相当明确的层次结构。该结构中的分组可以通过该社会度量矩阵中交互频率的某种测量来操作性地定义。")]
+
+== BIOLOGICAL AND PHYSICAL SYSTEMS / 生物系统与物理系统
+
+#html.p(id: "en-S013")[#text("The hierarchical structure of biological systems is a familiar fact.Taking the cell as the building block, we find cells organized into tissues, tissues into organs, organs into systens. Moving downwardl from the cell,well-defined subsystems—for example,nucleus,cell membrane,microsomes, mitochondria,and so on—have been identified in animal cells.")]
+
+#zh(id: "S013")[#text("生物系统的层次结构是一个熟悉的事实。以细胞为构件，我们发现细胞组织成组织，组织组织成器官，器官组织成系统。从细胞向下，在动物细胞中已经鉴定出了明确的子系统，例如细胞核、细胞膜、微粒体、线粒体等。")]
+
+#html.p(id: "en-S014")[#text("The hierarchic structure of many physical systems is equally clear-cut.I have already mentioned the two main series.At the microscopic level we have elementary particles, atoms, molecules, macromolecules. At the macroscopic level we have satellite systems, planetary systems, galaxies. Matter is distributed throughout space in a strikingly non-uniform fashion. The most nearly random dlistributions we find, gases, are not random clistributions of elementary particles but random distributions of complex systems,i.e. molecules. A considerable range of structural types is subsum ed under the term hierarchy as I have defined it.By this defnition,a diamond is hierarchic, forit isa crystal structure of carbon atons that can be further decomposed into protons,neutrons, and electrons.However, it is a very “fat\"hierarchy.in which the number of first-order subsystems belonging to the crystal can be indefinitely large.A volume of molecular gas is a flat hierarchy in the same sense. In ordinary usage, we and the successive subsets in each of these defines the partitioning,independently of any systems of relations among the subsets.By hierarchy I mean the partitioning in conjunction with the relations that hold among its parts.")]
+
+#zh(id: "S014")[#text("许多物理系统的层次结构同样清晰。我已经提到了两个主要系列。在微观层面上，我们有基本粒子、原子、分子、大分子。在宏观层面上，我们有卫星系统、行星系统、星系。物质以一种极其不均匀的方式分布在整个空间中。我们发现的最接近随机的分布，气体，不是基本粒子的随机分布，而是复杂系统的随机分布，即分子。正如我所定义的，相当多的结构类型都包含在术语层次结构中。根据这个定义，钻石是层次结构的，因为它是碳原子的晶体结构，可以进一步分解为质子、中子和电子。然而，它是一个非常“胖”的层次结构。其中属于晶体的一级子系统的数量可以无限大。一定体积的分子气体是同一体积中的平坦层次结构。感觉。在普通用法中，我们和每个子集中的连续子集定义了分区，独立于子集之间的任何关系系统。通过层次结构，我的意思是与其各部分之间的关​​系相结合的分区。")]
+
+#html.p(id: "en-S015")[#text("tend to reserve the word hierarchy for a system that is divided into a small or moderate number of subsystems,each of which may be further subdivided.Hence,we do not ordinarily think of or refer to a diamond or a gas as a hierarchic structure.Similarly,a linear polymer is simply a chain, which may be very long, of identical subparts, the monomers.At the molecular level it is a very flat hierarchy.")]
+
+#zh(id: "S015")[#text("倾向于为被分成少量或中等数量的子系统的系统保留“层次结构”这个词，每个子系统都可以进一步细分。因此，我们通常不会将钻石或气体视为或称为层次结构。类似地，线性聚合物只是由相同的子部分（单体）组成的链，可能很长。在分子水平上，它是一个非常平坦的层次结构。")]
+
+#html.p(id: "en-S016")[#text("In discussing formal organizations,the number of subordinates who report directly to a single boss is called his span of control.I will speak analogously of the span of a system, by which I shall mean the number of subsystems into which it is partitioned.Thus, a hierarchic system is fat at a given level if it has a wide span at that level. A diamond has a wide span at the crystal level, but not at the next level down,the molecular level.")]
+
+#zh(id: "S016")[#text("在讨论正式组织时，直接向单个老板报告的下属数量称为他的控制范围。我将类比地谈论系统的跨度，我的意思是系统划分为的子系统的数量。因此，如果一个等级系统在给定的级别上具有较宽的跨度，则该系统在该级别上是肥大的。钻石在晶体水平上具有很宽的跨度，但在下一个水平（分子水平）上却没有。")]
+
+#html.p(id: "en-S017")[#text("In most of our theory construction in the following sections we shall focus our attention on hierarchies of moderate span,but from time to timeI shall comment on the extent to which the theories might or might not be expected to apply to very fat hierarchies.")]
+
+#zh(id: "S017")[#text("在接下来几节的大部分理论构建中，我们将把注意力集中在中等跨度的层次结构上，但有时我会评论这些理论可能或可能不适用于非常厚的层次结构的程度。")]
+
+#html.p(id: "en-S018")[#text("There is one important difference between the physical and biological hierarchies,on the one hand, and social hierarchies, on the other. Most physical and biological hierarchies are described in spatial terms. We detect the organelles in a cell in the way we detect the raisins in a cake they are“visibly”differentiated substructures localized spatially in the larger structure.On the other hand, we propose to identify social hierarchies not by observing who lives close to whom but by observing who interacts with whom. These two points of view can be reconciled by defining hierarchy in terms of intensity of interaction,but observing that in most biological and physical systems relatively intense interaction implies relative spatial propinquity. One of the interesting characteristics of nerve cells and telephone wires is that they permit very specific strong interactions at great distances.To the extent that interactions are channeled through specialized communications and transportation systems, spatial propinquity becomes less determinative of structure.")]
+
+#zh(id: "S018")[#text("一方面，物理和生物等级与社会等级之间存在一个重要区别。大多数物理和生物层次结构都是用空间术语描述的。我们检测细胞中的细胞器就像检测蛋糕中的葡萄干一样，它们是在更大的结构中空间定位的“明显”分化的子结构。另一方面，我们建议通过观察谁与谁互动来识别社会等级，而不是通过观察谁与谁住得很近。这两种观点可以通过根据相互作用强度定义层次结构来调和，但观察到在大多数生物和物理系统中相对强烈的相互作用意味着相对的空间邻近性。神经细胞和电话线的有趣特征之一是它们允许在远距离上进行非常特定的强相互作用。在相互作用通过专门的通信和运输系统进行引导的情况下，空间邻近性对结构的决定性变得较小。")]
+
+== SYMBOLIC SYSTEMS / 符号系统
+
+#html.p(id: "en-S019")[#text("One very important class of systems has been omitted from my examples thus far: systems of human symbolic production.A book is a hierarchy in the sense in which I am using that term. It is generally divided into chapters, the chapters into sections,the sections into paragraphs,the paragraphs into sentences, the sentences into clauses and phrases, the clauses and phrases into words.We may take the words as our elementary units,or further subdivide them,as the linguist often does, into smaller units.If the book is narrative in character, it may divide into “episodes\" instead of sections,but divisions there will be.")]
+
+#zh(id: "S019")[#text("到目前为止，我的例子中省略了一类非常重要的系统：人类符号生产系统。从我使用该术语的意义上来说，一本书是一个层次结构。一般分为章，章分为节，节分为段落，段落分为句子，句子分为从句和短语，从句和短语分为单词。我们可以将单词作为我们的基本单位，或者像语言学家经常做的那样，将它们进一步细分为更小的单位。如果这本书是叙述性的，它可能会分为“情节”而不是章节，但会有划分。")]
+
+#html.p(id: "en-S020")[#text("The hierarchic structure of music,based on such units as movements, parts, themes, phrases, is well known.The hierarchic structure of products of the pictorial arts is more difficult to characterize, but I shall have something to say about it later.")]
+
+#zh(id: "S020")[#text("音乐的层次结构以动作、声部、主题、乐句等单位为基础，这是众所周知的。绘画艺术产品的层次结构则更难以描述，但我稍后会对此说一些话。")]
+
+== THE EVOLUTION OF COMPLEX SYSTEMS / 复杂系统的演化
+
+#html.p(id: "en-S021")[#text("Let me introduce the topic of evolution with a parable. There once were two watchmakers, named Hora and Tempus,who manufactured very fine watches. Both of them were highly regarded, and the phones in their workshops rang frequently -new customers were constantly calling them. However, Hora prospered, while Tempus became poorer and poorer and finally lost his shop.What was the reason?")]
+
+#zh(id: "S021")[#text("我用一个比喻来介绍一下进化论的话题。曾经有两位钟表匠，名叫霍拉（Hora）和坦普斯（Tempus），他们制造了非常精美的手表。两人的地位都很高，车间里的电话经常响，不断有新客户给他们打电话。然而，霍拉（Hora）生意兴隆，而坦帕斯（Tempus）却越来越穷，最后失去了店铺，原因是什么？")]
+
+#html.p(id: "en-S022")[#text("The watches the men made consisted of about 1,000 parts each. Tempus had so constructed his that if he had one partly assembled and had to put it down—-to answer the phone say—it immediately fell to pieces and had to be reassembled from the elements.The better the customers liked his watches, the more they phoned him, the more difficult it became for him tofind enough uninterrupted time to finish a watch.")]
+
+#zh(id: "S022")[#text("这些人制作的手表每只由大约 1,000 个零件组成。坦帕斯的手表是这样设计的，如果他组装了一块手表，然后不得不把它放下——比如接电话——它就会立即变成碎片，并且必须从各个元件中重新组装。顾客越喜欢他的手表，他们给他打电话的次数就越多，他就越难找到足够的不间断的时间来完成一块手表。")]
+
+#html.p(id: "en-S023")[#text("The watches that Hora made were no less complex than those of Tempus.But he had designed them so that he could put together subassemblies of about ten elements each.Ten of these subassemblies, again, could be put together into a larger subassembly;and a system of ten of the latter subassemblies constituted the whole watch.Hence, when Hora had to put down a partly assembled watchin order to answer the phone,he lost only a small part of his work,and he assembled his watches in only a fraction of the man-hours it took Tempus.")]
+
+#zh(id: "S023")[#text("霍拉制造的手表并不比坦帕斯的复杂。但他设计它们的目的是，他可以将大约十个元件组装在一起。这些子组件中的十个，又可以组装成一个更大的子组件；而后十个子组件的系统构成了整个手表。因此，当霍拉不得不放下部分组装的手表来接电话时，他只损失了一小部分工作，他只用一小部分组装了他的手表。 Tempus 所花费的工时。")]
+
+#html.p(id: "en-S024")[#text("It is rather easy to make a quantitative analysis of the relative difficulty of the tasks of Tempus and Hora: Suppose the probability that an interrup tion will occur while apart is being added to an incomplete assembly is p.Then the pro babilstarted without interruption is (1-p)i1ooo—-a very small number unless p is .001 or less.Each inter rup tion will cost,on the average,the time to assemble 1/p parts(the expected number assembled before interruption).On the other hand,Hora has to complete one hundred eleven sub-assemblies of ten parts each.The probability that he will not be interrupted while completing any one of these is (1-p)i°,and each interruption will cost only about the time required to assemble five parts.7")]
+
+#zh(id: "S024")[#text("对 Tempus 和 Hora 任务的相对难度进行定量分析是相当容易的：假设在将零件添加到不完整装配中时发生中断的概率为 p。那么不中断开始的概率为 (1-p)i1ooo——一个非常小的数字，除非 p 为 0.001 或更小。平均而言，每次中断将花费组装 1/p 个零件的时间（中断前组装的预期数量）。另一方面，Hora 必须完成 111 个子装配，每个子装配有 10 个零件。他在完成其中任何一个时不被打断的概率为 (1-p)i°，每次打断只花费大约组装 5 个零件所需的时间。7")]
+
+#html.p(id: "en-S025")[#text("Now if p is about .01—that is,there is one chance in a hundred that either watchmaker will be interrupted while adding any one part to an assembly—thena straightforward calculation shows that it will take Tempus, on the average, about four thousand times as long to assemble a watch as Hora. We arrive atthe estimate as follows: 1.Hora must make 111 times as many complete assemblies per watch as Tempus; but, 2.Tempus will lose on the average 20 times as much work for each interrupted assembly as")]
+
+#zh(id: "S025")[#text("现在，如果 p 约为 0.01（也就是说，在将任何一个零件添加到组件中时，任一制表师有百分之一的机会会被中断），那么简单的计算表明，Tempus 组装一只手表所需的平均时间大约是 Hora 的四千倍。我们得出的估计如下： 1.Hora 必须完成每块手表的完整组装数量是 Tempus 的 111 倍；但是，2.Tempus 平均会因每次中断的装配而损失 20 倍的工作量")]
+
+#html.p(id: "en-S026")[#text("Hora [100 parts, on the average, as against 5] ;")]
+
+#zh(id: "S026")[#text("Hora [平均 100 份，而 5 份]；")]
+
+#html.p(id: "en-S027")[#text("and,")]
+
+#zh(id: "S027")[#text("和，")]
+
+#html.p(id: "en-E001")[#text("3. Tempus will complete an assembly only 44 times per million attempts (.99¹⁰⁰⁰ = 44 × 10⁻⁶), while Hora will complete nine out of ten (.99¹⁰ = 9 × 10⁻¹). Hence Tempus will have to make 20,000 as many attempts per completed assembly as Hora. (9 × 10⁻¹)/(44 × 10⁻⁶) = 2 × 10⁴. Multiplying these three ratios, we get:")]
+
+#zh(id: "E001")[#text("3. 坦普斯每尝试一百万次，只能完成44次组装（0.99¹⁰⁰⁰ = 44 × 10⁻⁶）；霍拉则每尝试十次能完成九次（0.99¹⁰ = 9 × 10⁻¹）。因此，每完成一次组装，坦普斯需要的尝试次数是霍拉的两万倍：（9 × 10⁻¹）/（44 × 10⁻⁶）= 2 × 10⁴。把这三个比值相乘，得到：")]
+
+#html.figure(id: "E002", class: "essay-equation")[
+  #image("assets/equation-02.png")
+]
+
+== BIOLOGICAL EVOLUTION / 生物演化
+
+#html.p(id: "en-S029")[#text("What lessons can we draw from our parable for biological evolution?Let us interpret a partially completed subassembly of kelementaryparts as the coexistence of k parts in a small volume ignoring their relative orientations.The model assumes that parts are entering the volume at a constant rate,but that there is a constant probability, p, that the part will be dispersed before another is added,unless the assembly reaches a stable state. These assumptions are not particula rly realistic.They undoubtedly underestimate the decrease in probability of achieving the assembly with increase in the size of the assembly. Hence the assumptions understate—probably by a large factor—the relative advantage of a hierarchic structure.")]
+
+#zh(id: "S029")[#text("我们可以从生物进化的寓言中汲取什么教训？让我们将 k 个基本部件的部分完成子组件解释为 k 个部件在小体积中的共存，忽略它们的相对方向。该模型假设部件以恒定速率进入体积，但有一个恒定的概率 p，即部件将在添加另一个部件之前分散，除非部件达到稳定状态。这些假设并不是特别现实。它们无疑低估了随着装配尺寸的增加而实现装配的可能性的降低。因此，这些假设低估了（可能在很大程度上）层级结构的相对优势。")]
+
+#html.p(id: "en-S030")[#text("Although we cannot,therefore,take the numerical estimate seriously the lesson for biological evolution is quite clear and direct.The time required for the evolution of a complex form from simple elements depends critically on the numbers and distribution of potential intermediate stable forms. In particular, if there exists a hierarchy of potential stable“subassemblies,”with about the same span, s, at each level of the hierarchy,then the time required for a subassembly can be expected tobe about the same at each level-that is proportional to 1/(1-p)*. The time required for the assembly of a system of n elements will be proportional to logs n, that is, to the number of levels in the system.One would say—-with more illustrative than literal intent-thatthe time required for the evolution of multi-celled organisms from single-celled organisms might be of the same order of magnitude as the time required for the evolution of single-celled organisms from macromolecules.The same argument could be applied to the evolution of proteins from amino acids,of molecules from atoms, of atons from elementary particles. A whole host of objections to this oversimplified scheme will occur,I am sure,to every working biologist, chemist, and physicist. Before turning to matters I know more about, I shall mention three of these problems,leaving the rest to the attention of the specialists.")]
+
+#zh(id: "S030")[#text("因此，尽管我们不能认真对待数值估计，但生物进化的教训是相当清晰和直接的。从简单元素进化到复杂形式所需的时间关键取决于潜在中间稳定形式的数量和分布。特别是，如果存在潜在稳定“子组件”的层次结构，并且在层次结构的每个级别上具有大约相同的跨度 s，则可以预期子组件所需的时间在每个级别上大约相同，即与 1/(1-p)* 成比例。组装 n 个元素的系统所需的时间将与 log n 成正比，即与系统中的级数成正比。有人会说（比字面意思更具说明性）从单细胞生物进化到多细胞生物所需的时间可能与从大分子进化到单细胞生物所需的时间处于同一数量级。同样的论点可以应用于蛋白质从氨基酸的进化、分子从原子的进化、原子从基本粒子的进化。我确信，每一位在职的生物学家、化学家和物理学家都会对这种过于简化的方案提出反对意见。在谈到我更了解的问题之前，我先提一下其中三个问题，其余的留给专家们注意。")]
+
+#html.p(id: "en-S031")[#text("First, in spite of the overtones of the watchmaker parable, the theory assumes no teleological mechanism.The complex forms can arise from the simple ones by purely random processes. (I shall propose another model in a moment that shows this clearly.）Direction is provided to the scheme by the stability of the complex forms,once these come into existence.But this is nothing more than survival of the fittest--i.e.,of the stable.")]
+
+#zh(id: "S031")[#text("首先，尽管钟表匠的寓言有隐喻，但该理论不假设任何目的论机制。复杂的形式可以通过纯粹的随机过程从简单的形式中产生。 （我稍后将提出另一个模型来清楚地表明这一点。）一旦复杂形式存在，复杂形式的稳定性就为该方案提供了方向。但这只不过是适者生存，即稳定的生存。")]
+
+#html.p(id: "en-S032")[#text("Second, not all large systems appear hierarchical. For example, most polymers—e.g., nylonare simply linear chains of large numbers of identical components, the monomers. However, for present purposes we can simply regard such a structure as a hierarchy with a span of one—the limiting case.For a chain of any length representsa state of relative equilibrium.8")]
+
+#zh(id: "S032")[#text("其次，并非所有大型系统都呈现分层结构。例如，大多数聚合物（例如尼龙）只是大量相同成分（单体）的线性链。然而，就目前的目的而言，我们可以简单地将这种结构视为跨度为 1 的层次结构（极限情况）。对于任何长度的链都表示相对平衡状态。8")]
+
+#html.p(id: "en-S033")[#text("Third,the evolution of complex systems from simple elements implies nothing,one way or the other,about the change in entropy of the entire system. If the process absorbs free energy, the complex system wil1 have a smaller entropy than the elements;if it releases free energy,the opposite will be true.The former alternative is the one that holds for most biological systems,and the net infow of free energy has to be supplied from the sun or some other source if the second law of thermodynamics is not to be violated.For the evolutionary process we are describing, the equilibria of the intermediate states need have only local and not global stability,and they may be stable only in the steady state—-that is,as long as there is an external source of free energy that may be drawn upon.9")]
+
+#zh(id: "S033")[#text("第三，复杂系统从简单元素的演化，无论以何种方式，都不意味着整个系统的熵的变化。如果该过程吸收自由能，则复杂系统的熵将小于元素；如果释放自由能，则情况相反。前一种选择适用于大多数生物系统，如果不违反热力学第二定律，自由能的净信息必须由太阳或其他来源提供。对于我们所描述的进化过程，中间态的平衡只需要局部稳定而不是全局稳定，并且它们可能只在稳态——也就是说，只要有可以利用的外部自由能源。9")]
+
+#html.p(id: "en-S034")[#text("Because organisms are not energetically closed systems, there is no way to deduce the direction, much less the rate,of evolution from classical thermodynamic considerations.All estimates indicate that the amount of entropy, measured in physical units, involved in the formation of a onecelled biological organism is trivially small—about -10-11 cal/degree.1o The “improbability”of evolution has nothing to do with this quantity of entropy, which is produced by every bacterial cell every generation. The irrelevance of quantity of")]
+
+#zh(id: "S034")[#text("因为生物体不是能量上封闭的系统，所以无法从经典的热力学考虑中推断出进化的方向，更不用说进化的速率了。所有的估计都表明，以物理单位测量的、参与单细胞生物有机体形成的熵量非常小——大约-10-11卡/度。1o进化的“不可能”与这个熵量无关，熵是由每个细菌细胞每一代产生的。数量无关")]
+
+#html.p(id: "en-S035")[#text("8 There is a well-developed theory of polymer size, information,in this sense,to speed of evolution can also be seen from thefact that exactly as much information is required to“copy”a cell through the reproductive process as to produce the first cell through evolution.")]
+
+#zh(id: "S035")[#text("8 关于聚合物尺寸、信息和进化速度，有一个完善的理论，这一事实也可以从以下事实看出：通过生殖过程“复制”细胞所需的信息与通过进化产生第一个细胞所需的信息完全相同。")]
+
+#html.p(id: "en-S036")[#text("The effect of the existence of stable intermediate forms exercises a powerful effect on the evolution of complex forms that maybe likened to the dramatic effect of catalysts upon reaction rates and steady state distribution of reaction products in open systems.11 In neither case does the entropy change provide us with a guide to system behavior.")]
+
+#zh(id: "S036")[#text("稳定中间形式的存在对复杂形式的演化产生了强大的影响，这可以比作开放系统中催化剂对反应速率和反应产物稳态分布的巨大影响。 11 在这两种情况下，熵变都没有为我们提供系统行为的指导。")]
+
+== PROBLEM SOLVING AS NATURAL SELECTION / 作为自然选择的问题求解
+
+#html.p(id: "en-S037")[#text("Let us turn now to some phenomena that have no obvious connection with biological evolution: human problem-solving processes. Consider, for example,the task of discovering the proof for a difficult theorem.The process can be—and often has been—described as a search through a maze. Starting with the axioms and previously proved theorems,various transformations allowed by the rules of the mathematical systems are attempted, to obtain new expressions.These are modified in turn until,with persistence and good fortune,a sequence or path of transformations is discovered that leads to the goal.")]
+
+#zh(id: "S037")[#text("现在让我们转向一些与生物进化没有明显联系的现象：人类解决问题的过程。例如，考虑一下发现一个困难定理的证明的任务。这个过程可以——而且经常被——描述为穿过迷宫的搜索。从公理和先前证明的定理开始，尝试数学系统规则允许的各种变换，以获得新的表达式。依次修改这些表达式，直到通过坚持和好运，发现实现目标的变换序列或路径。")]
+
+#html.p(id: "en-S038")[#text("The process usually involves a great deal of trial and error. Various paths are tried;some are abandoned,others are pushed further.Before a solution is found,a great many paths of the maze maybe explored.The more difficult and novel the problem,the greater is likely tobe the amount of trial and error required to find a solution.At the sametime,the trial and error is not completely random or blind; it is, in fact, rather highly selective. The new expressions that are obtained by transforming given ones are examined to see whether they represent progress toward the goal. Indications of progress spur further search in the same direction; lack of progress signals the abandonment of a line of search. Problem solving requires selective trial and error.12")]
+
+#zh(id: "S038")[#text("这个过程通常涉及大量的试验和错误。各种路径都被尝试过，有的被放弃，有的被推得更远。在找到解决方案之前，可能会探索迷宫中的很多路径。问题越困难、越新颖，找到解决方案所需的试错量就可能越大。同时，试错也不是完全随机或盲目的；事实上，它的选择性相当高。检查通过转换给定表达式获得的新表达式，看看它们是否代表实现目标的进展。进展的迹象刺激了朝同一方向进一步的探索；缺乏进展意味着放弃一系列搜索。解决问题需要选择性的尝试和错误。12")]
+
+#html.p(id: "en-S039")[#text("11 See H. Kacser, Some physico-chemical aspects of")]
+
+#zh(id: "S039")[#text("11 参见 H. Kacser，一些物理化学方面")]
+
+#html.p(id: "en-S040")[#text("Alittle reflection reveals that cues signaling progress play the same role in the problem-solving process that stable intermediate forms play in the biological evolutionary process. In fact, we can takeover the watchmaker parable and apply it also to problem solving. In problem solving, a partial result that represents recognizable progress toward the goal plays the role of a stable subassembly. Suppose that thetask is to open a safe whose lock has ten dials,each with one hundred possible settings, numbered from 0 to 99. How long will it take to open the safe by a blind trial-andl-error search for the correct setting?Since there are 1001° possible settings, we may expect to examine about one-half of these,on the average.before finding the correct one—-that is,fifty billion billion settings. Suppose, however, that the safe is defective,so that a click can be heard when any one dial is turned to the correct setting. Now each dial can be adjusted independently,and does not need to be touched again while the others are being set.The total number of settings that has to be tried is only10x50,or five hundred.Thetask of opening the safe has been altered, by the cues the clicks provide,from a practically impossible one to a trivial one.13")]
+
+#zh(id: "S040")[#text("稍加思考就会发现，信号进展的线索在解决问题的过程中所起的作用与稳定的中间形式在生物进化过程中所起的作用相同。事实上，我们可以继承钟表匠的寓言，并将其应用于解决问题。在解决问题时，代表实现目标的可识别进展的部分结果起着稳定子组件的作用。假设任务是打开一个保险箱，它的锁有 10 个拨盘，每个拨盘有 100 种可能的设置，编号从 0 到 99。通过盲目试错搜索正确的设置来打开保险箱需要多长时间？由于有 1001° 可能的设置，我们可能期望在找到正确的设置之前平均检查其中的一半，即 500 亿个设置。然而，假设保险箱有缺陷，当任何一个旋钮转到正确的设置时都会听到咔哒声。现在，每个转盘都可以独立调整，并且在设置其他转盘时不需要再次触摸。需要尝试的设置总数只有 10x50，即五百个。通过点击提供的提示，打开保险箱的任务已经改变，从实际上不可能的任务变成了微不足道的任务。13")]
+
+#html.p(id: "en-S041")[#text("A considerable amount has been learned in the past five years about the nature of the mazes that represent common human problem-solving tasks proving theorems, solving puzzles, playing chess, making investments, balancing assembly lines. to mention a few.All that we have learned about these mazes points to the same conclusion: that human problem solving, from the most blu nc de ring to the most insightful,involves nothing more than varying mixtures of trial and error and selectivity. The selectivity derives from various rules of amp lifer,215-233 in C.E. Shannon and J..Mc Carthy, Automata studies, Princeton, Princeton Univ. Press, 1956.")]
+
+#zh(id: "S041")[#text("在过去的五年里，人们对迷宫的本质有了相当多的了解，这些迷宫代表了人类常见的解决问题的任务：证明定理、解决难题、下棋、投资、平衡装配线。我们对这些迷宫的了解都指向同一个结论：人类解决问题，从最模糊的问题到最有洞察力的问题，无非就是反复试验和选择性的不同组合。选择性源自放大器寿命的各种规则，215-233 C.E. Shannon 和 J..Mc Carthy，自动机研究，普林斯顿大学，普林斯顿大学。出版社，1956 年。")]
+
+#html.p(id: "en-S042")[#text("thumb, or heuristics, that suggest which paths should be tried first and which leads are promising. We donot need to postulate processes more sophisticated than those involved in organic evolution to explain how enormous problem mazes are cut down to quite reasonable size.14")]
+
+#zh(id: "S042")[#text("拇指或启发式建议应首先尝试哪些路径以及哪些线索是有希望的。我们不需要假设比有机进化更复杂的过程来解释如何将巨大的问题迷宫缩小到相当合理的尺寸。 14")]
+
+== THE SOURCES OF SELECTIVITY / 选择性的来源
+
+#html.p(id: "en-S043")[#text("When we examine the sources from which the problem-solving system, or the evolving system, as the case may be,derives its selectivity,we discover that selectivity can always be equated with some kind of feedback of information from the environment.")]
+
+#zh(id: "S043")[#text("当我们检查问题解决系统或进化系统（视情况而定）的选择性来源时，我们发现选择性总是可以等同于来自环境的某种信息反馈。")]
+
+#html.p(id: "en-S044")[#text("Let us consider the case of problem solving first. There are two basic kinds of selectivity.One we have already noted:various paths are tried out, the consequences of following them are noted, and this information is used to guide further search. In the same way, in organic evolution, various complexes come into being,at least evanescent ly, and those that are stable provide new building blocks for further construction.It is this information about stable configurations,and not free energy or negentropy from the sun,that guides the process of evolution and provides the selectivity that is essential to account for its rapidity.")]
+
+#zh(id: "S044")[#text("我们首先考虑解决问题的情况。选择性有两种基本类型。其中一种我们已经注意到：尝试各种路径，记录遵循这些路径的后果，并且该信息用于指导进一步的搜索。同样，在有机进化中，各种复合体应运而生，至少是转瞬即逝，而那些稳定的复合体则为进一步的构建提供了新的构建模块。正是这种关于稳定构型的信息，而不是来自太阳的自由能或负熵，引导着进化的过程，并提供了解释其快速性所必需的选择性。")]
+
+#html.p(id: "en-S045")[#text("The second source of selectivity in problem solving is previous experience. We see this parti cula rly clearly when the problem to be solved is similar to one that has been solved before.Then, by simply trying again the paths that led to the earlier solution, or their analogues,trial-and-error search is greatly reduced or altogether eliminated.")]
+
+#zh(id: "S045")[#text("解决问题时选择性的第二个来源是以前的经验。当要解决的问题与之前已解决的问题相似时，我们尤其清楚地看到这一点。然后，通过简单地再次尝试导致早期解决方案或其类似物的路径，试错搜索就会大大减少或完全消除。")]
+
+#html.p(id: "en-S046")[#text("What corresponds to this latter kind of information in organic evolution?The closest analogue is reproduction.Once we reach the level of self reproducing systems, a complex system, when it has once been achieved,can be multiplied indefinitely.Reproduction in fact allows the inheritance of acquired characteristics,but at the level of genetic material, of course ; i.e., only characteristics acquired by the genes can be inherited.We shall return to the topic of reproduction in the final section of this paper.")]
+
+#zh(id: "S046")[#text("与有机进化中后一种信息相对应的是什么？最接近的类似物是繁殖。一旦我们达到自我繁殖系统的水平，一个复杂的系统一旦达到，就可以无限地倍增。繁殖实际上允许遗传后天的特征，但当然是在遗传物质的水平上；也就是说，只有基因获得的特征才能遗传。我们将在本文的最后部分回到繁殖的主题。")]
+
+== ON EMPIRES AND EMPIRE-BUILDING / 论帝国与帝国的建立
+
+#html.p(id: "en-S047")[#text("Wehave not exhausted the categories of complex systems to which the watchmaker argument can reasonably be applied.Philip assembled his")]
+
+#zh(id: "S047")[#text("我们还没有穷尽钟表匠论证可以合理应用的复杂系统的类别。菲利普总结了他的")]
+
+#html.p(id: "en-S048")[#text("Macedonian empire and gave it to his son, to be later combined with the Persian sub assembly and others into Alexander's greater system.On Alexander's death,his empire did not crumble to dust, but fragmented into some of the major subsystems that had composed it.")]
+
+#zh(id: "S048")[#text("马其顿帝国并将其交给他的儿子，后来与波斯子集和其他帝国合并到亚历山大的更大体系中。亚历山大死后，他的帝国并没有崩溃，而是分裂成组成它的一些主要子系统。")]
+
+#html.p(id: "en-S049")[#text("The watchmaker argument implies that if one would be Alexander,one should be born into a world where large stable political systems already exist.Where this condition was not fulfilled,as on the Scythian and Indian frontiers,Alexander found empire building a slippery business. So too, T. E. Lawrence's organizing of the Arabian revolt against the Turks was limited by the character of his largest stable building blocks, the separate,suspicious desert tribes.")]
+
+#zh(id: "S049")[#text("钟表匠的论点意味着，如果一个人是亚历山大，他应该出生在一个已经存在大型稳定政治体系的世界。在不满足这一条件的地方，例如在斯基泰和印度边境，亚历山大发现建立帝国是一件棘手的事情。同样，T.E.劳伦斯组织阿拉伯人反抗土耳其人的起义也受到他最大的稳定基石——独立的、可疑的沙漠部落——的特征的限制。")]
+
+#html.p(id: "en-S050")[#text("The profession of history places a greater value upon the validated particular fact than upon tendent io us generalization.I shall not elaborate upon my fancy,therefore,but will leave it to historians to decide whether anything can be learned for the interpretation of history from an abstract theory of hier arch ic complex systems.")]
+
+#zh(id: "S050")[#text("历史学专业更看重经过验证的特定事实，而不是倾向性的概括。因此，我不会详细阐述我的幻想，而是让历史学家来决定是否可以从古老的复杂系统的抽象理论中学到任何东西来解释历史。")]
+
+== CONCLUSION: THE EVOLUTIONARY EXPLANATION OF HIERARCHY / 小结：层级结构的演化解释
+
+#html.p(id: "en-S051")[#text("Wehave shown thusfar that complex systems will evolve from simple systems much more rapidly if there are stable intermediate forms than if there are not.The resulting complex forms in the former case will be hierarchic. We have only to turn the argument around to explain the observed predominance of hierarchies among the complex systems nature presents to us.Among possible complex forms,hierarchies are the ones that have the time to evolve.The hypothesis that complexity will be hierarchic makes no distinction among very fat hierarchies, like crystals, and tissues, and polymers,and the intermediate forms.Indeed,in the complex systems we encounter in nature,examples of both forms are prominent.A more complete theory than the one we have developed here would presumably have something to say about the determinants of widthof span inthese systems.")]
+
+#zh(id: "S051")[#text("到目前为止，我们已经证明，如果存在稳定的中间形式，那么复杂系统将从简单系统演化出来的速度会比不存在稳定的中间形式要快得多。前一种情况所产生的复杂形式将是分层的。我们只需要扭转论点来解释在自然界呈现给我们的复杂系统中观察到的层次结构的主导地位。在可能的复杂形式中，层次结构是那些有时间进化的形式。复杂性将是层次结构的假设没有区分非常丰富的层次结构，如晶体、组织、聚合物和中间形式。事实上，在我们在自然界中遇到的复杂系统中，两种形式的例子都很突出。这是一个比我们开发的理论更完整的理论这里大概要谈谈这些系统中跨度宽度的决定因素。")]
+
+== NEARLY DECOMPOSABLE SYSTEMS / 近可分解系统
+
+#html.p(id: "en-S052")[#text("In hierarchic systems, we can distinguish between the interactions among subsystems,on the one hand, and the interactions within subsystems —-i.e., among the parts of those subsystems——on the other.The interactions at the different levels. may be,and often will be,of different orders of")]
+
+#zh(id: "S052")[#text("在层次系统中，我们一方面可以区分子系统之间的相互作用，另一方面可以区分子系统内部（即子系统各部分之间）的相互作用。不同层次上的相互作用。可能并且经常会具有不同的顺序")]
+
+#html.figure(id: "F001", class: "essay-paper-figure")[
+  #image("assets/figure-03.png")
+]
+
+#html.p(id: "en-S053")[#text("FIG.1.A hypothetical nearly-de com pos able system.In terms of the heat-exchange example of the text,A1,")]
+
+#zh(id: "S053")[#text("图1.一个假设的近可分解系统。就文本的热交换示例而言，A1，")]
+
+#html.p(id: "en-S054")[#text("A2,and A3 may be interpreted as cubicles in one room, B1 and B2 as cubicles in a second room, and C1,")]
+
+#zh(id: "S054")[#text("A2 和 A3 可以解释为一个房间中的小隔间，B1 和 B2 可以解释为第二个房间中的小隔间，C1，")]
+
+#html.p(id: "en-S055")[#text("C2,and C3 as cubicles in a third.The matrix entries then are the heat diffusion coefficients between cubicles.")]
+
+#zh(id: "S055")[#text("C2 和 C3 作为第三个隔间。矩阵项是隔间之间的热扩散系数。")]
+
+#html.figure(id: "F002", class: "essay-paper-figure")[
+  #image("assets/figure-04.png")
+]
+
+#html.p(id: "en-S056")[#text("magnitude. In a formal organization there will generally be more interaction, on the average, between two employees who are members of the same department than between two employees from different departments. In organic substances, intermolecular forces will generally be weaker than molecular forces,and molecular forces than nuclear forces.")]
+
+#zh(id: "S056")[#text("震级。在正式组织中，平均而言，同一部门的两名员工之间的互动通常比来自不同部门的两名员工之间的互动更多。在有机物质中，分子间力通常弱于分子力，分子力弱于核力。")]
+
+#html.p(id: "en-S057")[#text("In a rare gas, the intermolecular forces will be negligible compared to those binding the molecules —we can treat the individual particles, for many purposes, as if they were independent of each other.We can describe such a system as decomposable into the subsystems comprised of the individual particles.As the gas becomes denser, molecular interactions become more significant. But over some range,we can treat the de com pos able case as a limit, and as a first approximation. We can use a theory of perfect gases,for example,to describe approximately the behavior of actual gases if they are not too dense. As a second approxima tion, we may move to a theory of nearly de com pos able systems,in which the interactions among the subsystems are weak, but not negligible.")]
+
+#zh(id: "S057")[#text("在稀有气体中，与结合分子的力相比，分子间力可以忽略不计——出于多种目的，我们可以将单个粒子视为彼此独立的。我们可以将这样的系统描述为可分解为由单个粒子组成的子系统。随着气体变得更稠密，分子相互作用变得更加重要。但在一定范围内，我们可以将可分解的情况视为极限，并视为第一个近似。例如，我们可以使用完美气体理论来近似描述实际气体（如果它们不太稠密）的行为。作为第二个近似，我们可以转向近可分解系统理论，其中子系统之间的相互作用很弱，但不可忽略。")]
+
+#html.p(id: "en-S058")[#text("At least some kinds of hier arch ic systems can be approximated successfully as nearly de com pos able systems. The main theoretical findings from the approach can be summed up in two propositions:")]
+
+#zh(id: "S058")[#text("至少某些类型的层次结构系统可以成功地近似为近可分解系统。该方法的主要理论发现可以总结为两个命题：")]
+
+#html.p(id: "en-S059")[#text("(a）in a nearly de com pos able system, the shortrun behavior of each of the component subsystems is approximately independent of the short-runbehavior of the other components;(b） in the long run, the behavior of any one of the components depends in only an aggregate way on the behavior of the other components.")]
+
+#zh(id: "S059")[#text("（a）在一个近可分解的系统中，每个组件子系统的短期行为大致独立于其他组件的短期运行行为；（b）从长远来看，任何一个组件的行为仅以聚合方式依赖于其他组件的行为。")]
+
+#html.p(id: "en-S060")[#text("Let me provide a very concrete simple example of a nearly de com pos able system.15Consider a building whose outside walls provide perfect thermal insulation from the environment.We shall take these walls as the boundary of our system.The building is divided into a large number of rooms, the walls between them being good, but not perfect, insulators. The walls between rooms are the boundaries of our major subsystems. Each room is divided by partitions into a number of cubicles, but the partitions are poor insulators. A thermometer hangs in each cubicle. Suppose that at the time of our first observation of the system there is a wide variation in temperature from cubicle to cubicle and from room to room-the various cubicles within the building areina state of thermaldisequilibrium.Whenwe take new temperature readings several hours later,what shall we find?There will be very little variation in temperature among the cubicles within each single room, but there may still be large temperature variations among rooms.When we take readings again several days later,we find an almost uniform temperature throughout the building; the temperature differences among rooms have virtually disappeared.")]
+
+#zh(id: "S060")[#text("让我提供一个非常具体的简单例子，说明一个近可分解的系统。15考虑一栋建筑，其外墙与环境提供完美的隔热。我们将这些墙作为我们系统的边界。该建筑被分成大量的房间，它们之间的墙壁是良好的，但不是完美的绝缘体。房间之间的墙壁是我们主要子系统的边界。每个房间都被隔板分成许多小隔间，但隔板的隔热性很差。每个隔间里都挂着一个温度计。假设在我们第一次观察系统时，各个隔间、各个房间的温度存在很大差异——建筑物内的各个隔间处于热不平衡状态。几个小时后，当我们获取新的温度读数时，我们会发现什么？每个房间内的隔间之间的温度变化很小，但房间之间的温度变化可能仍然很大。几天后，当我们再次读取读数时，我们发现整个建筑物的温度几乎均匀；房间之间的温差几乎消失了。")]
+
+#html.p(id: "en-S061")[#text("We can describe the process of equilibration formally by setting up the usual equations of heat fow. The equations can be represented by the matrix of their coeffcients,ru, where ru is the rate at which heat flows from the ith cubicle to the jth cubicle per degree difference in their temperatures. If cubicles i and j do not have a common wall, rij will be zero. If cubicles i and j have a common wall, and are in the same room, ru will be large. If cubicles i and j are separated by the wall of a room, ri will be nonzero but small. Hence, by grouping all the cubicles together that are in the same room,we can arrange the matrix of coefficients so that all its large elements lie inside a string of square sub matrices along the main diagonal. All the elements outside these diagonal squares will be either zero or small (see figure 1). We may take some small number, e, as the upper bound of the extra diagonal elements. We shall calla matrix havingthese properties a nearly de com pos able matrix.")]
+
+#zh(id: "S061")[#text("我们可以通过建立通常的热流方程来形式化地描述平衡过程。这些方程可以用其系数 ru 的矩阵表示，其中 ru 是每度温差从第 i 个隔间流向第 j 个隔间的热量速率。如果隔间 i 和 j 没有公共墙壁，则 rij 将为零。如果隔间 i 和 j 有一面公共墙，并且位于同一房间，则 ru 会很大。如果隔间 i 和 j 由房间的墙壁隔开，则 ri 将不为零但很小。因此，通过将同一房间中的所有小隔间分组在一起，我们可以排列系数矩阵，使其所有大元素都位于沿主对角线的一串方形子矩阵内。这些对角线方块之外的所有元素都为零或较小（见图 1）。我们可以取一些小数e作为额外对角线元素的上限。我们将具有这些属性的矩阵称为近可分解矩阵。")]
+
+#html.p(id: "en-S062")[#text("Now it has been proved that a dynamic system that can be described by a nearly de com pos able matrix has the properties, stated above, of a nearly de com pos able system. In our simple example of heat fow this means that in the short run each room will reach an equilibrium temperature (an average of the initial temperatures of its offces) nearly independently of the others;and that each room will remain approximately in a state of equilibrium over the longer period during which an over-all temperature equilibrium is being established throughout the building. After the intraroom short-rune qui libri a have been reached,a single thermometer in each room will be adequate to describe the dynamic behavior of the entire system—separate thermometers in each cubicle will be superfluous.")]
+
+#zh(id: "S062")[#text("现在已经证明，可以用近可分解矩阵描述的动态系统具有如上所述的近可分解系统的性质。在我们简单的热流示例中，这意味着在短期内，每个房间将几乎独立于其他房间达到平衡温度（其办公室初始温度的平均值）；并且每个房间将在较长时间内保持大致平衡状态，在此期间整个建筑物建立整体温度平衡。达到房间内短期平衡后，每个房间中的单个温度计将足以描述整个系统的动态行为 - 每个隔间中的单独温度计将是多余的。")]
+
+== NEAR DECOMPOSABILITY OF SOCIAL SYSTEMS / 社会系统的近可分解性
+
+#html.p(id: "en-S063")[#text("As a glance at figure 1 shows, near de com posability is a rather strong property for a matrix to possess, and the matrices that have this property will describe very special dynamic systems--vanish ingly few systems out of all those that are think able.How few they will be depends,of course, on how good an approximation we insist upon. If we demand that epsilon be very small, correspondingly few dynamic systems will fit the definition.But we have already seen that in the natural world nearly de com pos able systems are far from rare. On the contrary, systems in which each variable is linked with almost equal strength with almost all other parts of the system are far rarer and less typical.")]
+
+#zh(id: "S063")[#text("如图 1 所示，近可分解性是矩阵必须具备的一个相当强的属性，并且具有此属性的矩阵将描述非常特殊的动态系统——在所有可以想象的系统中消失的系统很少。当然，它们的数量取决于我们坚持的近似值有多好。如果我们要求 epsilon 非常小，相应地很少有动态系统符合这个定义。但是我们已经看到，在自然界中，近可分解的系统并不罕见。相反，每个变量与系统的几乎所有其他部分以几乎相同的强度联系的系统要少得多，也不太典型。")]
+
+#html.p(id: "en-S064")[#text("In economic dynamics, the main variables are the prices and quantities of commodities. It is empirically true that the price of any given commodity and the rate at which it is exchanged depend to a significant extent only on the prices and quantities of a few other commodities, together with a few other aggregate magnitudes, like the average price level or some over-all measure of economic activity.Thelargelinkagecoeffcients are associated,in general,with the main fows of raw materials and semi-finished products within and between industries.An input-output matrix of the economy, giving the magnitudes of these fows,reveals the nearly de com pos able structure of the system—-with one qualification.There is a consumption subsystem of the economy that is linked strongly to variables in most of the other subsystems.Hence, we have to modify our notions of de com pos ability slightly to accommodate the special role of the consumption subsystem in our analysis of the dynamic behavior of the economy. In the dynamics of social systems, where members of a system communicate with and influence other members, near de com pos ability is generally very prominent.This is most obvious in formal organizations,where the formal authority relation connects each member of the organization with one immediate superior and with a small number of subordinates. Of course many communi cations in organizations follow other channels than the lines of formal authority.But most of these channels lead from any particular individual to a very limited number of his superiors, subordinates, and associates.Hence, departmental boundaries play very much the same role as the walls in our heat example.")]
+
+#zh(id: "S064")[#text("在经济动态中，主要变量是商品的价格和数量。从经验上看，任何给定商品的价格及其交换率在很大程度上仅取决于少数其他商品的价格和数量，以及其他一些总体量值，例如平均价格水平或经济活动的某种总体衡量标准。一般来说，大联动系数与行业内部和行业之间原材料和半成品的主要流动相关。经济的投入产出矩阵，给出了这些量值揭示了系统的近可分解的结构——有一个条件。经济中存在一个消费子系统，它与大多数其他子系统中的变量密切相关。因此，我们必须稍微修改我们的可分解能力的概念，以适应消费子系统在我们分析经济动态行为中的特殊作用。在社会系统的动态中，系统成员与其他成员进行沟通和影响时，近分解能力通常非常突出。这在正式组织中最为明显，正式的权力关系将组织中的每个成员与一名直接上级和少数下级联系起来。当然，组织中的许多沟通都遵循正式权威之外的其他渠道。但大多数这些渠道从任何特定个人引导到其上级、下级和同事的数量非常有限。因此，部门边界与我们的热力示例中的墙的作用非常相似。")]
+
+== PHYSICO-CHEMICAL SYSTEMS / 物理化学系统
+
+#html.p(id: "en-S065")[#text("In the complex systems familiar in biological chemistry, a similar structure is clearly visible. Take the atomic nuclei in such a system as the elementary parts of the system,and construct a matrix of bond strengths between elements.There willbe matrix elements of quite different orders of magnitude.The largest will generally correspond to the covalent bonds,the next to the ionic bonds, the third group to hydrogen bonds, still smaller linkages to van der Waals forces.16 If we select an epsilon just a little smaller than the magnitude of a covalent bond,the system will decompose into subsystems—the constituent molecules.The smaller linkages will correspond to the intermolecular bonds.")]
+
+#zh(id: "S065")[#text("在生物化学所熟悉的复杂系统中，类似的结构清晰可见。将这样的体系中的原子核作为体系的基本部分，构建元素之间键强度的矩阵。会有数量级差异很大的矩阵元素。最大的一般对应于共价键，其次是离子键，第三组对应于氢键，更小的对应于范德华力。16如果我们选择一个比共价键大小稍小的ε，系统将分解成子系统——组成分子。越小连接将对应于分子间键。")]
+
+#html.p(id: "en-S066")[#text("It is well known that high-energy, high-frequency vibrations are associated with the smaller physical subsystems, low-frequency vibrations with the larger systems into which the subsystems are assembled.For example,the radiation freque nci es associated with molecular vibrations are much lower than those associated with the vi brations of the planetary electrons of the atoms;the latter,in turn, are lower than those associated with nuclear processes.17 Molecular systems are nearly de com pos able systems, the short-run dynamics relating tothe internal structures of the subsystems; the long-run dynamics to the interactions of these subsystems.")]
+
+#zh(id: "S066")[#text("众所周知，高能、高频振动与较小的物理子系统相关，低频振动与子系统组装而成的较大系统相关。例如，与分子振动相关的辐射频率远低于与原子行星电子振动相关的辐射频率；后者又低于与核过程相关的辐射频率。17分子系统是近可分解的系统，短期动力学与分子振动相关。子系统的内部结构；这些子系统相互作用的长期动态。")]
+
+#html.p(id: "en-S067")[#text("A number of the important approximations employed in physics depend for their validity on the near-de com pos ability of the systems studied.The theory of the thermodynamics of irreversible processes, for example,requires the assumption of macroscopic disequilibrium but microscopic equilibrium,18exactly the situation described in our heat-exchange example. Similarly computations in quantum mechanics are often handled by treating weak interactions as producing perturbations on a system of strong interactions.")]
+
+#zh(id: "S067")[#text("物理学中采用的许多重要近似方法的有效性取决于所研究系统的近分解能力。例如，不可逆过程的热力学理论需要假设宏观不平衡但微观平衡，18这正是我们的热交换示例中描述的情况。类似地，量子力学中的计算通常通过将弱相互作用视为对强相互作用系统产生扰动来处理。")]
+
+== SOME OBSERVATIONS ON HIERARCHIC SPAN / 关于层级跨度的若干观察
+
+#html.p(id: "en-S068")[#text("To understand why the span of hierarchies is sometimes very broad——as in crystals-—sometimes narrow,we need to examine more detail of the inter actions.In general,the critical consideration is the extent towhich interaction between two(or a few）subsystems excludes interaction of these subsystems with the others.Let us examine first some physical examples.")]
+
+#zh(id: "S068")[#text("为了理解为什么层次结构的跨度有时很宽（如在晶体中）有时很窄，我们需要检查相互作用的更多细节。一般来说，关键的考虑因素是两个（或几个）子系统之间的相互作用排除这些子系统与其他子系统之间的相互作用的程度。让我们首先检查一些物理示例。")]
+
+#html.p(id: "en-S069")[#text("Consider a gas of identical molecules, each of which can form covalent bonds,in certain ways, with others. Let us suppose that we can associate with each atom a specific number of bonds that it is capable of maintaining simultaneously.(This number is obviously related to the number we usually call its valence.） Now suppose that two atoms join,and that we can also associate with the combi nation a specific number of external bonds it is capable of maintaining.If this number is the same")]
+
+#zh(id: "S069")[#text("考虑由相同分子组成的气体，每个分子都可以以某种方式与其他分子形成共价键。让我们假设我们可以与每个原子关联它能够同时维持的特定数量的键。（这个数字显然与我们通常所说的化合价有关。）现在假设两个原子加入，并且我们还可以与该组合关联它能够同时维持的特定数量的外部键。如果这个数字是相同的")]
+
+#html.figure(id: "T001", class: "essay-paper-figure")[
+  #image("assets/table-05.png")
+]
+
+#zh(id: "T001")[#text("与各类系统相关的振动的典型波数。各项：受张力的钢丝；分子振动；分子转动；行星振动；原子核转动；原子核表面振动。")]
+
+#html.p(id: "en-S070")[#text("as the number associated with the individual atoms, the bonding process can go on indefinitely-—the atoms can form crystals or polymers of indefinite extent.If the number of bonds of which the composite is capable is less than the number associ a ted with each of the parts, then the process of agglomeration must come to a halt.")]
+
+#zh(id: "S070")[#text("由于与单个原子相关的数量，键合过程可以无限地进行——原子可以形成无限范围的晶体或聚合物。如果复合材料能够形成的键的数量少于与每个部分相关的数量，那么团聚过程必须停止。")]
+
+#html.p(id: "en-S071")[#text("We need only mention some elementary examples. Ordinary gases show no tendency to aggl ome rate because the multiple bonding of atoms “\"uses up”\" their capacity to interact.While each oxygen atom has a valence of two,the O。molecules have a zero valence.Contrariwise,indefinite chains of single-bonded carbon atoms can be built up because a chain of any number of such atoms, each with two side groups, has a valence of exact ly two.")]
+
+#zh(id: "S071")[#text("我们只需要提及一些基本的例子。普通气体不会表现出聚集的趋势，因为原子的多重键“耗尽”了它们相互作用的能力。虽然每个氧原子的价数为二，但 O 分子的价数为零。相反，可以建立单键碳原子的无限链，因为任意数量的此类原子的链，每个原子都有两个侧基，其价数恰好为二。")]
+
+#html.p(id: "en-S072")[#text("Now what happens if we have a system of elements that possess both strong and weak interaction capacities, and whose strong bonds are exhaus tib le through combination?Subsystems will form,until all the capacity for strong interaction is utilized in their construction.Then these subsystems will be linked by the weaker second-order bonds into larger systems. For example,a water molecule has essentially a valence of zero-allthe potential covalent bonds are fully occupied by the interaction of hydrogen and oxygen molecules. But the geometry of the molecule creates an electric dipole that permits weak interaction between the water and salts dissolved in it—whence such phenomena as its electrolytic conductivity.19")]
+
+#zh(id: "S072")[#text("现在，如果我们有一个同时具有强相互作用能力和弱相互作用能力的元素系统，并且其强键通过组合而耗尽，会发生什么？子系统将会形成，直到所有强相互作用的能力都被用于其构建。然后这些子系统将通过较弱的二阶键连接成更大的系统。例如，水分子的价态本质上为零——所有潜在的共价键都被氢和氧分子的相互作用完全占据。但分子的几何形状产生了一个电偶极子，允许水和溶解在其中的盐之间发生微弱的相互作用，从而产生诸如电解电导率等现象。 19")]
+
+#html.p(id: "en-S073")[#text("Similarly, it has been observed that, although electrical forces aremuch stronger than grav it ational forces,the latter are far more important than the former for systems on an astronomical scale.The explanation, of course, is that the electrical forces, being bipolar, are all “used up\" in the linkages of the smaller subsystems, and that significant net balances of positive or negative charges are not generally found in regions of macroscopic size. In social as in physical systems there are generally limits on the simultaneous interaction of large numbers of subsystems. In the social case, these limits are related to the fact that a human being is more nearly a serial than a parallel information-processing system.He can carry on only one conversation at a time,and although this does not limit the size of the audience towhich a mass communication can be addressed,it does limit the number of people simultaneously involved in most other forms of social interaction.Apart from requirements of direct interaction,most roles impose tasks and responsibilities that are time consuming. One cannot, for example, enact the role of “friend\" with large numbers of other people.")]
+
+#zh(id: "S073")[#text("同样，据观察，虽然电力比重力强得多，但对于天文尺度的系统来说，后者比前者重要得多。当然，解释是，电力是双极的，在较小子系统的连接中全部“用完”，并且在宏观尺寸的区域中通常不会发现正电荷或负电荷的显着净平衡。在社会系统中，就像在物理系统中一样，大量子系统的同时交互通常受到限制。在社交案例中，这些限制与这样一个事实有关：人类更像是一个串行信息处理系统，而不是并行信息处理系统。他一次只能进行一次对话，虽然这并没有限制大众传播的受众规模，但它确实限制了同时参与大多数其他形式的社交互动的人数。除了直接互动的要求外，大多数角色都强加了耗时的任务和责任。例如，一个人无法与大量其他人扮演“朋友”的角色。")]
+
+#html.p(id: "en-S074")[#text("It is probably true that in social as in physical systems, the higher frequency dynamics are associated with the subsystems,the lower frequency dynamics with the larger systems. It is generally believed, for example, that the relevant planning horizon of executives is longer the higher their location in the organizational hierarchy.It is probably also true that both the average duration of an interaction between executives and the average interval between interactions is greater at higher than at lower levels.")]
+
+#zh(id: "S074")[#text("确实，在社会系统和物理系统中，较高频率的动态与子系统相关，较低频率的动态与较大的系统相关。例如，人们普遍认为，高管在组织层次结构中的位置越高，他们的相关规划期限就越长。高层管理人员之间互动的平均持续时间和互动之间的平均间隔也可能比低级别的高管更大。")]
+
+== SUMMARY: NEAR DECOMPOSABILITY / 小结：近可分解性
+
+#html.p(id: "en-S075")[#text("We have seen that hierarchies have the property of near-de com pos ability.Intra-component linkages are generally stronger than inter component linkages.This fact has the effect of separating the high-frequency dynamics of a hierarchy—involving the internal structure of the components from the low frequency dynamics—involving interaction among components. We shall turn next to some important consequences of this separation for the description and comprehension of complex systems.")]
+
+#zh(id: "S075")[#text("我们已经看到层次结构具有近分解能力的属性。组件内的链接通常比组件间的链接更强。这一事实具有将层次结构的高频动态（涉及组件的内部结构）与低频动态（涉及组件之间的交互）分开的效果。接下来我们将讨论这种分离对于复杂系统的描述和理解的一些重要后果。")]
+
+== THE DESCRIPTION OF COMPLEXITY / 复杂性的描述
+
+#html.p(id: "en-S076")[#text("If you ask a person to draw a complex object e.g., a human face-he will almost always proceed in a hierarchic fashion.2o First he will outline the face.Then he will add or insert features: eyes, nose, mouth, ears, hair. If asked to elaborate,he will begin to develop details for each of the features—pupils, eyelids, lashes for the eyes, andsoon—until he reaches the limits of his an atom ical knowledge.His information about the object is arranged hierarchicly in memory, like a topical outline.")]
+
+#zh(id: "S076")[#text("如果你要求一个人画一个复杂的物体，例如人脸，他几乎总是以分层的方式进行。2o 首先他会勾勒出脸部轮廓。然后他会添加或插入特征：眼睛、鼻子、嘴巴、耳朵、头发。如果要求详细说明，他将开始开发每个特征的细节——瞳孔、眼睑、眼睛睫毛等等——直到他达到原子知识的极限。他关于物体的信息在记忆中按层次结构排列，就像主题大纲一样。")]
+
+#html.p(id: "en-S077")[#text("When information is put in outline form,it is easy to include information about the relations among the major parts and information about the internal relations of parts in each of the suboutlines.Detailed information about the relations of sub parts belonging to different parts has no place in the outline and is likely to be lost.The loss of such information and the preservation mainly of informationabouthierarchicorderisasalient characteristic that distinguishes the drawings of a child or someone untrained in representation from the drawing of a trained artist. (I am speaking of an artist who is striving for representation.)")]
+
+#zh(id: "S077")[#text("当信息以大纲形式呈现时，很容易在每个子大纲中包含有关主要部分之间的关​​系的信息和有关各部分内部关系的信息。有关属于不同部分的子部分之间的关​​系的详细信息在大纲中没有位置，并且很可能丢失。此类信息的丢失和主要保留有关层次顺序的信息是区分儿童或未经表现训练的人的绘画与受过训练的艺术家的绘画的显着特征。 （我说的是一位正在努力表现的艺术家。）")]
+
+== NEAR DECOMPOSABILITY AND COMPREHENSIBILITY / 近可分解性与可理解性
+
+#html.p(id: "en-S078")[#text("From our discussion of the dynamic properties of nearly de com pos able systems,we have seen that comparatively little information is lost by representing them as hierarchies. Sub parts belonging to different parts only interact in an ag greg at ive fashion—-the detail of their interaction can be ignored.In studying the interaction of two large molecules,generally we do not need to consider in detail the interactions of nuclei of the atoms belonging to the one molecule with the nuclei of the atoms belonging to the other.In studying the interaction of two nations,we do not need to study in detail the interactions of each citizen of the first with each citizen of the second.")]
+
+#zh(id: "S078")[#text("从我们对近可分解系统的动态特性的讨论中，我们发现将它们表示为层次结构会丢失相对较少的信息。属于不同部分的子部分仅以聚合方式相互作用——它们相互作用的细节可以被忽略。在研究两个大分子的相互作用时，通常我们不需要详细考虑属于一个分子的原子核与属于另一个分子的原子核的相互作用。在研究两个国家的相互作用时，我们不需要详细研究第一个公民的每个公民与第二个公民的每个公民的相互作用。")]
+
+#html.p(id: "en-S079")[#text("The fact,then,that many complex systems have a nearly de com pos able,hierarchic structure is a major facilitating factor enabling us to understand, to describe, and even to “see” such systems and their parts.Or perhaps the proposition should be put the other way round. If there are important systems in the world that are complex without being hierarchic, they may to a considerable extent escape our observation and our understanding.Analysis of their behavior would involve such detailed knowledge and calculation of the interactions of their elementary parts that it would be beyond our capacities of memory or computation.21")]
+
+#zh(id: "S079")[#text("那么，许多复杂系统具有近可分解的层次结构这一事实是一个主要的促进因素，使我们能够理解、描述、甚至“看到”这些系统及其组成部分。或者也许这个命题应该反过来说。如果世界上存在复杂而没有等级制度的重要系统，那么它们可能在很大程度上逃脱了我们的观察和理解。对其行为的分析将涉及如此详细的知识和对其基本部分相互作用的计算，这将超出我们的记忆或计算能力。 21")]
+
+#html.p(id: "en-S080")[#text("I shall not try to settle which is chicken and which is egg: whether we are able to understand the world because it is hierarchic,or whether it appears hierarchic because those aspects of it which are not elude our understanding and observa tion. I have already given some reasons for supposing that the former is at least half the truth—that evolving complexity would tend to be hierarchic—but it may not be the whole truth.")]
+
+#zh(id: "S080")[#text("我不会试图解决哪个是鸡哪个是蛋：我们是否能够理解世界，因为它是等级制的，或者它是否显得等级制，因为它的那些方面没有逃避我们的理解和观察。我已经给出了一些理由来假设前者至少是事实的一半——不断发展的复杂性往往是分层的——但它可能不是全部事实。")]
+
+== SIMPLE DESCRIPTIONS OF COMPLEX SYSTEMS / 复杂系统的简单描述
+
+#html.p(id: "en-S081")[#text("One might suppose that the description of a complex system would itself bea complex structure of symbols—and indeed,it may be just that. But thereis no conservation law that requires that the description be as cumbersome as the object described. A trivial example will show how a system can be described economically. Suppose the system is a two-dimensional array like this:")]
+
+#zh(id: "S081")[#text("人们可能会认为复杂系统的描述本身就是复杂的符号结构——事实上，可能正是如此。但没有守恒定律要求描述与所描述的对象一样繁琐。一个简单的例子将展示如何经济地描述一个系统。假设系统是一个像这样的二维数组：")]
+
+#html.figure(id: "E003", class: "essay-equation")[
+  #image("assets/equation-06.png")
+]
+
+#zh(id: "E003")[#text("把 AB/CD 这个阵列记为 a，把 MN/OP 记为 m，把 RS/TU 记为 r，把 HI/JK 记为 h。再把 am/ma 记为 w，把 rh/hr 记为 x。于是整个阵列就只是 wx/xw。原来的结构由64个符号组成，写下它的描述却只需要35个符号。我们利用原结构中的冗余，实现了这种缩写。")]
+
+#html.p(id: "en-S082")[#text("We achieve the abbreviation by making use of the redundancy in the original structure.SSince")]
+
+#zh(id: "S082")[#text("我们利用原始结构中的冗余来实现缩写。SSSince")]
+
+#html.p(id: "en-S083")[#text("AB the pattern ,for example, occurs four times CD’ in the total pattern,it is economical to represent it by the single symbol,a.")]
+
+#zh(id: "S083")[#text("例如，AB 模式在整个模式中出现了四次 CD'，用单个符号 a 来表示它是经济的。")]
+
+#html.p(id: "en-S084")[#text("If a complex structure is completely unredundant—if no aspect of its structure can be inferred from any other—then it is its own simplest description. We can exhibit it,but we cannot describe it by a simpler structure.The hierarchic structures we have been discussing have a high degree of redundancy,hence can often be described in economical terms.The redundancy takes a number of forms,of which I shall mention three:")]
+
+#zh(id: "S084")[#text("如果一个复杂的结构是完全多余的——如果它的结构的任何方面都不能从任何其他结构中推断出来——那么它就是它自己最简单的描述。我们可以展示它，但我们不能用更简单的结构来描述它。我们一直在讨论的层次结构具有高度的冗余，因此通常可以用经济的术语来描述。冗余有多种形式，我将提到其中三种：")]
+
+#html.p(id: "en-S085")[#text("1. Hierarchic systems are usually composed of only a few different kinds of subsystems, in various combinations and arrangements. A familiar example is the proteins,their multitudinous variety arising from arrangements of only twenty different amino acids.Similarly,the ninety-odd elements provide all the kinds of building blocks needed for an infinite variety of molecules.Hence, we can construct our description from a restricted alphabet of elementary terms corresponding to the basic set of elementary subsystems from which the complex system is generated.")]
+
+#zh(id: "S085")[#text("1. 分层系统通常仅由几种不同类型的子系统以各种组合和安排组成。一个熟悉的例子是蛋白质，它们的种类繁多，仅由二十种不同的氨基酸排列而成。同样，九十多种元素提供了无限多种分子所需的所有构建块。因此，我们可以从与生成复杂系统的基本子系统相对应的基本术语的有限字母表中构建我们的描述。")]
+
+#html.p(id: "en-S086")[#text("2. Hierarchic systems are, as we have seen, often nearly de com pos able. Hence only aggregative properties of their parts enter into the descript ion of the interactions of those parts. A generalization of the notion of near-de com posa bility might be called the “empty world hypothesis\" most things are only weakly connected with most other things;for a tolerable description of reality only a tiny fraction of all possible interactions needs to be taken into account.By adopting a descriptive language that allows the absence of something to go un mentioned,a nearly empty world can be described quite concisely.Mother Hubbard did not have to check off the list of possible contents to say that her cupboard was bare.")]
+
+#zh(id: "S086")[#text("2. 正如我们所见，层级系统通常是近可分解的。因此，只有它们各部分的聚合属性才能进入这些部分相互作用的描述中。近可分解性概念的概括可能被称为“空世界假说”，大多数事物与大多数其他事物之间的联系很弱；为了对现实进行合理的描述，只需要考虑所有可能的相互作用中的一小部分。通过采用一种允许不提及某些事物的描述性语言，可以非常简洁地描述一个近乎空的世界。哈伯德妈妈不必检查可能内容的列表来说她的橱柜是空的。")]
+
+#html.p(id: "en-S087")[#text("3. By appropriate “re coding,” the redundancy that is present but un obvious in the structure of a complex system can often be made patent.The most common re coding of descriptions of dynamic systems consists in replacing a description of the time path with a description of a differential law that generates that path.The simplicity, that is,resides in a constant relation between the state of the system at any given time and the state of the system a short time later.Thus,the structure of the sequence, 1 3 5 7 9 11..., is most simply expressed by observing that each member is obtained by adding 2 to the previous one.But this is the sequence that Galileo found to describe the velocity at the end of successive time intervals of a ball rolling down an inclined plane.")]
+
+#zh(id: "S087")[#text("3. 通过适当的“重新编码”，复杂系统结构中存在但不明显的冗余通常可以变得明显。动态系统描述的最常见的重新编码在于用生成该路径的微分定律的描述替换时间路径的描述。简单性，即存在于任何给定时间的系统状态与短时间内系统状态之间的恒定关系。因此，序列的结构，1 3 5 7 9 11...，最简单的表达方式是观察每个成员都是通过将前一个成员加 2 获得的。但这是伽利略发现的序列，用于描述球沿着斜面滚下的连续时间间隔结束时的速度。")]
+
+#html.p(id: "en-S088")[#text("It is a familiar proposition that the task of scien ce is to make use of the world'sredundancyto describe that world simply. I shall not pursue the general methodological point here, but shall instead take a closer look at two main types of description that seem tobe available tous in seeking an understanding of complex systems. I shall call these state description and process description, respectively.")]
+
+#zh(id: "S088")[#text("科学的任务是利用世界的冗余性来简单地描述这个世界，这是一个熟悉的命题。我不会在这里追求一般的方法论点，而是会仔细研究两种主要类型的描述，这两种类型似乎可用于寻求对复杂系统的理解。我将分别将这些称为状态描述和过程描述。")]
+
+== STATE DESCRIPTIONS AND PROCESS DESCRIPTIONS / 状态描述与过程描述
+
+#html.p(id: "en-S089")[#text("“A circle is the locus of all points equidistant from a given point.\" To construct a circle, rotate a compass with one arm fixed until the other arm has returned to its starting point.\"It is implicit in Euclid that if you carry out the process specified in the second sentence, you will produce an object that satisfies the definition of the first. The first sentence is a state description of a circle, the second a process description.")]
+
+#zh(id: "S089")[#text("“圆是距给定点等距的所有点的轨迹。”要构造一个圆，请在一个手臂固定的情况下旋转指南针，直到另一个手臂返回到其起点。“欧几里得中隐含的是，如果执行第二句中指定的过程，您将产生一个满足第一句定义的对象。第一句是圆的状态描述，第二句是过程描述。")]
+
+#html.p(id: "en-S090")[#text("These two modes of apprehending structure are the warp and weft of our experience.Pictures, blueprints, most diagrams, chemical structural formulae are state descriptions.Recipes, differential equations, equations for chemical reactions are process descriptions. The former characterize the world as sensed; they provide the criteria for identifying objects,often by modeling the objects themselves.The latter characterize the world as acted upon; they provide the means for producing or generating objects having the desired character is tics.")]
+
+#zh(id: "S090")[#text("这两种理解结构的模式是我们经验的经纱和纬纱。图片、蓝图、大多数图表、化学结构式是状态描述。配方、微分方程、化学反应方程是过程描述。前者将世界描述为可感知的世界；后者将世界描述为感知的世界。它们通常通过对对象本身进行建模来提供识别对象的标准。后者描述了所作用的世界；它们提供了生产或产生具有所需特征的物体的方法。")]
+
+#html.p(id: "en-S091")[#text("The distinction between the world as sensed and the world as acted upon defines the basic condition for the survival of adaptive organisms. The organism must develop correlations between goals in the sensed world and actions in the world of process. When they are made conscious and verbalized,these correlations correspond to what we usually call means-end analysis.Given a desired state of affairs and an existing state of affairs, the task of an adaptive organism is to find the difference between these two states,and then to find the correlating process that will erase the difference.22 Thus, problem solving requires continual transla tion between the state and process descriptions of the same complex reality. Plato, in the Meno, argued that all learning is remembering. He could not otherwise explain how we can discover or recognize the answer toa problem unless we already know the answer.23Our dual relation to the world is the source and solution of the paradox.We pose a problem by giving the state description of the solution.The task is to discover a sequence of processes that will produce the goal state from an initial state. Translation from the process description to the state description enables us to recognize when we have succeeded.The solution is genuinely new to us— and we do not need Plato's theory of remembering to explain how we recognize it.")]
+
+#zh(id: "S091")[#text("感知的世界和行动的世界之间的区别定义了适应性有机体生存的基本条件。有机体必须在感知世界的目标和过程世界的行动之间建立关联。当它们被意识化并被语言化时，这些相关性就对应于我们通常所说的手段-目的分析。给定期望的事态和现有的事态，适应性有机体的任务是找到这两种状态之间的差异，然后找到消除差异的关联过程。22因此，解决问题需要在同一复杂现实的状态和过程描述之间不断进行转换。柏拉图在《美诺》中认为，所有的学习都是记忆。除非我们已经知道答案，否则他无法解释我们如何发现或识别问题的答案。23我们与世界的双重关系是悖论的根源和解决方案。我们通过给出解决方案的状态描述来提出问题。任务是发现一系列过程，这些过程将从初始状态产生目标状态。从过程描述到状态描述的翻译使我们能够认识到我们何时成功。这个解决方案对我们来说确实是新的——而且我们不需要柏拉图的记忆理论来解释我们如何认识它。")]
+
+#html.p(id: "en-S092")[#text("There is now a growing body of evidence that the activity called human problem solving is basically a form of means-end analysis that aims at discovering a process description of the path that leads to a desired goal. The general paradigm is : given a blueprint, to find the corresponding recipe.Muchof the activity of science is an application of that paradigm: given the description of some natural phenomena,to find the differential equations for processes that will produce the phenomena.")]
+
+#zh(id: "S092")[#text("现在越来越多的证据表明，人类解决问题的活动基本上是手段-目的分析的一种形式，旨在发现通向期望目标的路径的过程描述。一般范式是：给定一个蓝图，找到相应的配方。科学活动的大部分都是该范式的应用：给定一些自然现象的描述，找到产生该现象的过程的微分方程。")]
+
+== THE DESCRIPTION OF COMPLEXITY IN SELF-REPRODUCING SYSTEMS / 自我复制系统中复杂性的描述
+
+#html.p(id: "en-S093")[#text("The problem of finding relatively simple descriptions for complex systems is of interest not only for an understanding of human knowledge of the world but also for an explanation of how a complex system can reproduce itself. In my discussion of the evolution of complex systems,I touched onlybriefy on the role of self-reproduction.")]
+
+#zh(id: "S093")[#text("为复杂系统找到相对简单的描述的问题不仅对于理解人类对世界的知识很有意义，而且对于解释复杂系统如何自我复制也很有意义。在我对复杂系统演化的讨论中，我只简单地谈到了自我复制的作用。")]
+
+#html.p(id: "en-S094")[#text("Atoms of high atomic weight and complex inorganic molecules are witnesses to the fact that the evolution of complexity does not imply self reproduction.If evolution of complexity from simplicity is suf fci ent ly probable, it will occur repeatedly ; the statistical equilibrium of the system will find a large fraction of the elementary particles participating in complex systems.")]
+
+#zh(id: "S094")[#text("高原子量的原子和复杂的无机分子见证了复杂性的演化并不意味着自我复制。如果从简单到复杂的演化有足够的可能，那么它就会重复发生；系统的统计平衡将发现大部分基本粒子参与复杂系统。")]
+
+#html.p(id: "en-S095")[#text("If, however, the existence of a particular complex form increased the probability of the creation of another form just like it,the equilibrium between complexes and components couldbe greatly altered in favor of the former.If we have a descript ion of an object that is sufficiently clear and complete,we can reproduce the object from the description.Whatever the exact mechanism of reproduction,the description provides us with the necessary information.")]
+
+#zh(id: "S095")[#text("然而，如果某种特定复杂形式的存在增加了创造另一种类似形式的可能性，那么复合体和成分之间的平衡就会大大改变，有利于前者。如果我们对一个物体有足够清晰和完整的描述，我们就可以从描述中再现该物体。无论再现的确切机制是什么，描述都为我们提供了必要的信息。")]
+
+#html.p(id: "en-S096")[#text("Now we have seen that the descriptions of complex systems can take many forms.In particular, we can have state descriptions or we can have process descriptions; blueprints or recipes. Reproductive processes could be built around either of these sources of information.Perhaps the simplest possibility is for the complex system to serve as a description of itself—a template on which a copy can be formed. One of the most plausible current theories, for example, of the reproduction of deoxyribonucleic acid (DNA) proposes that a DNA molecule,in the form of a double helix of matching parts (each essentially a “negative” of the other), unwinds to allow each half of the helix to serve as a template on which a new matching half can form.")]
+
+#zh(id: "S096")[#text("现在我们已经看到，复杂系统的描述可以有多种形式。特别是，我们可以有状态描述，也可以有过程描述；蓝图或食谱。繁殖过程可以围绕这些信息源中的任何一个来构建。也许最简单的可能性是让复杂系统充当其自身的描述——一个可以在其上形成副本的模板。例如，当前最可信的脱氧核糖核酸 (DNA) 复制理论之一提出，DNA 分子以匹配部分的双螺旋形式（每个部分本质上是另一个的“负”）展开，使螺旋的每一半都可以作为模板，在该模板上可以形成新的匹配部分。")]
+
+#html.p(id: "en-S097")[#text("On the other hand,our current knowledge of how DNA controls the metabolism of the organism suggests that reproduction by template is only one of the processes involved.According to the prevailing theory, DNA serves as a template both for itself and for the related substance ribonucleic acid (RNA).RNA,in turn, serves as a template for protein.But proteins-according to current knowledge—guide the organism's metabolism not by the template method but by serving as catalysts to govern reaction rates in the cell.While RNA is a blueprint for protein, protein is a recipe for metabolism.24")]
+
+#zh(id: "S097")[#text("另一方面，我们目前对DNA如何控制生物体新陈代谢的了解表明，通过模板进行繁殖只是所涉及的过程之一。根据流行的理论，DNA既是其自身的模板，也是相关物质核糖核酸（RNA）的模板。RNA反过来又是蛋白质的模板。但是，根据目前的知识，蛋白质不是通过模板方法引导生物体的新陈代谢，而是通过充当控制细胞内反应速率的催化剂来引导生物体的新陈代谢。而RNA是蓝图对于蛋白质来说，蛋白质是新陈代谢的配方。24")]
+
+== ONTOGENY RECAPITULATES PHYLOGENY / 个体发育重演系统发育
+
+#html.p(id: "en-S098")[#text("The DNA in the chromosomes of an organism contains some,and perhaps most,of the information that is needed to determine its development and activity.We have seen that,if current theories are even approximately correct, the information is recorded not as a state description of the organism but as a series of“instructions\"for the construction and maintenance of the organism from nutrient materials.I have already used the metaphor of a recipe; I could equally well compare it with a computer program, which is also a sequence of instructions, governing the construction of symbolic structures. Let me spin out some of the consequences of the latter comparison.")]
+
+#zh(id: "S098")[#text("生物体染色体中的DNA包含一些，也许是大部分，决定其发育和活动所需的信息。我们已经看到，即使目前的理论大致正确，信息也不是作为生物体的状态描述而记录的，而是作为一系列由营养物质构建和维持生物体的“指令”。我已经使用了食谱的比喻；我同样可以将它与计算机程序进行比较，计算机程序也是一系列指令，控制着符号结构的构造。让我来阐述一下后一种比较的一些后果。")]
+
+#html.p(id: "en-S099")[#text("If genetic material is a program—-viewed in its relation to the organism—it is a program with special and peculiar properties. First, it is a self reproducing program; we have already considered its possible copying mechanism. Second, it is a program that has developed by Darwinian evolution.On the basis of our watchmaker's argument, we may assert that many of its ancestors were also viable programs—-programs for the subassemblies.")]
+
+#zh(id: "S099")[#text("如果遗传物质是一个程序——从它与有机体的关系来看——它是一个具有特殊和奇特属性的程序。首先，它是一个自我复制的程序；我们已经考虑过它可能的复制机制。其次，它是达尔文进化论发展起来的程序。根据我们钟表匠的论点，我们可以断言，它的许多祖先也是可行的程序——子组件的程序。")]
+
+#html.p(id: "en-S100")[#text("Are there any other conjectures we can make about the structure of this program? There is a well-known generalization in biology that isverbally so neat that we would be reluctant to give it up even if the facts did not support it: ontogeny recapitulates phylogeny. The individual organism, in its development, goes through stages that resemble some of its ancestral forms.The fact that the human embryo develops gill bars and then modifies them for other purposes is a familiar particular belonging to the generalization. Biologists today like to emphasize the qualifications of the principle that ontogeny recapitulates only the grossest aspects of phylogeny, and these only crudely.These qualifications should not make us lose sight of the fact that the generalization does hold in rough approximation—it does summarize a very significant set of facts about the organism's development. How can we interpret these facts?")]
+
+#zh(id: "S100")[#text("关于这个程序的结构我们还能做出其他的猜想吗？生物学中有一个众所周知的概括，语言上如此简洁，即使事实不支持它，我们也不愿放弃它：个体发育概括了系统发育。个体有机体在其发育过程中，会经历类似于其某些祖先形式的阶段。人类胚胎发育出鳃条，然后将其修改用于其他目的，这一事实是属于普遍现象的一个熟悉的特殊情况。今天的生物学家喜欢强调个体发育仅概括系统发育的最粗略方面这一原则的限制，而且这些限制只是粗略地概括。这些限制不应使我们忽视这样一个事实，即该概括确实在粗略近似中成立——它确实总结了关于有机体发育的一组非常重要的事实。我们如何解释这些事实？")]
+
+#html.p(id: "en-S101")[#text("One way to solve a complex problem is to reduce it to a problem previously solved—to show what steps lead from the earlier solution to a solution of the new problem.If, around the turn of the century, we wanted to instruct a workman to make an automobile,perhaps the simplest way would have been to tell him how to modify a wagon by removing the single tree and adding a motor and transmission.Similarly,a genetic program could be altered in the course of evolution by adding new processes that would modify a simpler form into a more complex one-—to construct a gastrula,take a blastula and alter it!")]
+
+#zh(id: "S101")[#text("解决复杂问题的一种方法是将其简化为先前已解决的问题，以显示从早期解决方案到解决新问题的步骤。如果在世纪之交，我们想指导一名工人制造一辆汽车，也许最简单的方法是告诉他如何通过移除一棵树并添加发动机和传动装置来修改一辆马车。同样，遗传程序可以在进化过程中通过添加新过程来改变，这些过程可以将更简单的形式修改为更复杂的形式一——构建原肠胚，取出囊胚并改变它！")]
+
+#html.p(id: "en-S102")[#text("The genetic description of a single cell may, therefore,take a quite different form from the genetic description that assembles cells intoa multi-celled organism.Multiplication by cell division would require, as a minimum,a state description (the DNA,say),and a simple “interpretive process\"--to use the term from computer language —that copies this description as a part of the larger copying process of cell division. But such a mechanism clearly would not suffce for the differentiation of cells in development.It appears more natural to conceptualize that mechanism as based on a process description, and a somewhat more complex interpretive process that produces the adult organism in a sequence of stages, each new stage in development representing the effect of an operator upon the previous one.")]
+
+#zh(id: "S102")[#text("因此，单细胞的遗传描述可能采取与将细胞组装成多细胞生物体的遗传描述完全不同的形式。通过细胞分裂进行增殖至少需要一个状态描述（例如DNA），以及一个简单的“解释过程”（使用计算机语言中的术语），将这种描述复制为更大的细胞分裂复制过程的一部分。但这样的机制显然不足以满足发育中细胞的分化。将这种机制概念化为基于过程描述和稍微复杂的解释过程似乎更自然，该解释过程在一系列阶段中产生成体有机体，发育中的每个新阶段都代表操作员对前一个阶段的影响。")]
+
+#html.p(id: "en-S103")[#text("It is harder to conceptualize the interrelation of these two descriptions. Interrelated they must be,for enough has been learned of gene-enzyme mechanisms toshow that these play a major role in development as in cell metabolism. The single clue we obtain from our earlier discussion is that the description may itself be hierarchical, or nearly de com pos able,in structure, the lower levels governing the fast,“high-frequency”dynamics of the individual cell, the higher level interactions governing the slow, “low-frequency” dynamics of the developing multi-cellular organism.")]
+
+#zh(id: "S103")[#text("概念化这两种描述的相互关系比较困难。它们必定是相互关联的，因为我们对基因酶机制的了解已经足够多，表明它们在发育和细胞代谢中发挥着重要作用。我们从之前的讨论中获得的唯一线索是，描述本身可能是分层的，或者在结构上几乎是可分解的，较低级别控制单个细胞的快速、“高频”动态，较高级别的相互作用控制发育中的多细胞生物体的缓慢、“低频”动态。")]
+
+#html.p(id: "en-S104")[#text("There are only bits of evidence, apart from the facts of recapitulation, that the genetic program is organized in this way, but such evidence as exists is compatible with this notion.25To the extent thatwe can differentiate the genetic information that governs cell metabolism from the genetic information that governs the development of differen tia ted cells in the multi-cellular organization, we simplify enormously—as we have already seen —our task of theoretical description.But I have perhaps pressed this speculation far enough.")]
+
+#zh(id: "S104")[#text("除了重述的事实之外，只有一些证据表明遗传程序是以这种方式组织的，但现有的证据与这个概念是兼容的。25只要我们能够区分控制细胞代谢的遗传信息和控制多细胞组织中分化细胞发育的遗传信息，我们就极大地简化了——正如我们已经看到的——我们的理论描述任务。但我可能已经把这个推测推得足够远了。")]
+
+#html.p(id: "en-S105")[#text("The generalization that in evolving systems whose descriptions are stored in a process language, we might expect ontogeny partially to recapitulate phylogeny has applications outside the realm of biology.It can be applied as readily, for example, to the transmission of knowledge in the educational process.In most subjects, parti cula rly inthe rapidly advancing sciences,the progress from elementary to advanced courses is to a considerable extent a progress through the conceptual history of the science itself.Fortunately, the recapitulation is seldom literal—any more than it is in the biological case.We do not teach the ph log is ton theory in chemistry inorder later to correct it.(I am not sure I could not cite examples in other subjects where we do exactly that.）But curriculum revisions that rid us of the accumulations of the past are infrequent and painful.Nor are they always desirable partial recapitulation may, in many instances, provide the most expeditious route to advanced knowledge.")]
+
+#zh(id: "S105")[#text("在描述存储在过程语言中的进化系统中，我们可能期望个体发育部分地概括系统发育，这在生物学领域之外也有应用。例如，它可以很容易地应用于教育过程中的知识传播。在大多数学科中，特别是在快速发展的科学中，从初级到高级课程的进步在很大程度上是通过科学本身的概念史的进步。幸运的是，概括很少见字面意义上的——比生物学案例中的情况还要多。我们在化学中教授ph log is ton理论并不是为了以后纠正它。（我不确定我是否能在其他学科中引用我们确实这样做的例子。）但是，消除过去积累的课程修订是罕见且痛苦的。它们也不总是可取的部分重述，在许多情况下，可能会提供获得高级知识的最快捷途径。")]
+
+== SUMMARY: THE DESCRIPTION OF COMPLEXITY / 小结：复杂性的描述
+
+#html.p(id: "en-S106")[#text("How complex or simple a structure is depends critically upon the way in whichwe describe it. Mostof the complex structures found in the world are enormously redundant,and we can use this redundancy to simplify their description.But to use it, to achieve the simplification,we must find the right representation.")]
+
+#zh(id: "S106")[#text("结构的复杂或简单很大程度上取决于我们描述它的方式。世界上发现的大多数复杂结构都是巨大的冗余，我们可以利用这种冗余来简化它们的描述。但是要使用它，实现简化，我们必须找到正确的表示。")]
+
+#html.p(id: "en-S107")[#text("The notion of substituting a process description for a state description of nature has played a central role in the development of modern science. Dynamic laws, expressed in the form of systems of differential or difference equations,have in a large number of cases provided the clue for the simple description of the complex.In the preceding paragraphs I have tried to show that this characteristic of scientific inquiry is not accidental or superficial.The correlation between state descript ion and process description is basic to the functioning of any adaptive organism,to its capacity for acting purposefully upon its environment. Our present-day understanding of genetic mechanisms suggests that even in describing itself the multi-cellular organism finds a process description—-a genetically encoded program—to be the parsimonious and useful representation.")]
+
+#zh(id: "S107")[#text("用过程描述代替自然状态描述的概念在现代科学的发展中发挥了核心作用。以微分或差分方程组的形式表达的动态规律在很多情况下为复杂的简单描述提供了线索。在前面的段落中，我试图表明科学探究的这一特征不是偶然的或肤浅的。状态描述和过程描述之间的相关性是任何适应性有机体的功能的基础，是其有目的地对其环境采取行动的能力的基础。我们目前对遗传机制的理解表明，即使在描述自身时，多细胞生物也会发现过程描述（基因编码的程序）是简约且有用的表示。")]
+
+== CONCLUSION / 结论
+
+#html.p(id: "en-S108")[#text("Our speculations have carried us over a rather alarming array of topics, but that is the price we must pay if we wishto seek properties common to many sorts of complex systems.My thesis has been that one path to the construction of a nontrivial theory of complex systems isby way of a theory of hierarchy. Empirically, a large proportion of the complex systems we observe in nature exhibit hier arch ic structure. On theoretical grounds we could expect complex systems to be hierarchies in a world in which complexity had to evolve from simplicity. In their dynamics, hierarchies have a property, near-de com pos ability, that greatly simplifies their behavior. Near-decompos ability also simplifies the description of a complex system,and makes it easier to understand how the information needed for the development or reproduction of the system can be stored in reasonable compass.")]
+
+#zh(id: "S108")[#text("我们的推测使我们涉及了一系列相当令人震惊的主题，但如果我们希望寻找多种复杂系统的共同性质，这就是我们必须付出的代价。我的论文是，构造复杂系统的非平凡理论的一条途径是通过层次理论。根据经验，我们在自然界中观察到的大部分复杂系统都表现出层次结构。从理论上讲，我们可以预期复杂的系统是一个层次结构的世界，在这个世界中，复杂性必须从简单性演变而来。在其动态中，层次结构具有一种属性，即近乎分解的能力，这极大地简化了它们的行为。近分解能力还简化了复杂系统的描述，使人们更容易理解如何将系统开发或复制所需的信息存储在合理的罗盘中。")]
+
+#html.p(id: "en-S109")[#text("In both science and engineering, the study of \"systems\" is an increasingly popular activity. Its popularity is more a response to a pressing need for synthesizing and analyzing complexity than it is to any large development of a body of knowledge and technique for dealing with complexity. If this popularity is to be more than a fad, necessity will have to mother invention and provide substance to go with the name.The explorations reviewed here represent one particular direction of search for such substance.")]
+
+#zh(id: "S109")[#text("在科学和工程领域，对“系统”的研究是一项越来越受欢迎的活动。它的流行更多地是对综合和分析复杂性的迫切需求的回应，而不是对处理复杂性的知识和技术体系的任何大规模发展的回应。如果这种流行不仅仅是一种时尚，那么必要性就必须孕育发明并提供与名称相匹配的实质内容。这里回顾的探索代表了寻找这种实质内容的一个特定方向。")]
+
+== Notes / 注释
+
+#html.p(id: "en-N001")[#text("* The ideas in this paper have been the topic of many conversations with my colleague,Allen Newell.George W. Corner suggested important improvements in biological content as well as editorial form.I am also indebted,for valuable comments on the manuscript,to Richard H. Meier,John R. Platt, and Warren Weaver. Some of the conjectures about the nearly de com pos able structure of the nucleus-atom-molecule hierarchy were checked against the available quantitative data by Andrew Schoene and William Wise.My work in this area has been supported by a Ford Foundation grant for research in organizations and a Carnegie Corporation grant for research on cognitive processes. To all of the above, my warm thanks,and the usual absolution. 1 See especially the yearbooks of the Society for General Systems Research.Prominent among the exponents of general systems theory are L.von Berta la nffy,K. Boulding, R. W. Gerard, and J. G. Miller. For a more skeptical view-perhaps too skeptical in the light of the present discussion—see H. A. Simon and A. Newell, Models: their uses and limitations,in L. D.White, ed., The state of the social sciences,66-83,Chicago,Univ.of Chicago Press, 1956. 2 N. Wiener, Cybernetics,New York,John Wiley & Sons,1948. For an imaginative forerunner, see A.J. Lotka,Elements of mathematical biology，New York, Dover Publications,1951,first published in 1924 as Elements of physical biology. PROCEEDINGS OF THE AMERICAN PHILOSOPHICAL SOCIETY,VOL")]
+
+#zh(id: "N001")[#text("* 本文中的想法一直是我与同事艾伦·纽厄尔 (Allen Newell) 多次交谈的主题。乔治·W·科纳 (George W. Corner) 建议对生物内容和编辑形式进行重要改进。我还要感谢理查德·H·迈耶 (Richard H. Meier)、约翰·R·普拉特 (John R. Platt) 和沃伦·韦弗 (Warren Weaver) 对本文的宝贵评论。 Andrew Schoene 和 William Wise 对照可用的定量数据对一些关于核-原子-分子层次结构的近可分解结构的猜想进行了检查。我在这一领域的工作得到了福特基金会组织研究资助和卡内基公司认知过程研究资助的支持。对以上所有的人，我表示热烈的感谢，以及通常的宽恕。 1 特别参见通用系统研究学会的年鉴。通用系统理论的杰出代表人物有 L.von Berta la nffy, K.博尔丁、R. W. 杰拉德和 J. G. 米勒。对于更持怀疑态度的观点（根据目前的讨论可能过于怀疑），请参阅 H. A. Simon 和 A. Newell，《模型：它们的用途和局限性》，L. D. White 编辑，《社会科学状况》，66-83，芝加哥，芝加哥大学出版社，1956 年。 2 N. Wiener，控制论，纽约，John Wiley & Sons，1948。对于富有想象力的先行者，请参阅 A.J. Lotka，《数学生物学原理》，纽约，多佛出版社，1951 年，1924 年首次出版，名为《物理生物学原理》。美国哲学会论文集，卷")]
+
+#html.p(id: "en-N002")[#text("3 C.Shannon and W.Weaver,The mathematical theory of communication,Urbana,Univ.of Ilinois Press,1949; W.R.Ashby,Design for a brain,New York,John Wiley & Sons,1952. 106,NO.6,DECEMBER,1962")]
+
+#zh(id: "N002")[#text("3 C.Shannon 和 W.Weaver，《传播的数学理论》，厄巴纳，伊利诺伊大学出版社，1949 年； W.R.阿什比，《大脑设计》，纽约，约翰·威利父子公司，1952 年。 106，6号，1962年12月")]
+
+#html.p(id: "en-N003")[#text("4 W.Weaver,in:Science and complexity,American Scientist 36:536,1948,has distinguished two kinds of complexity,disorganized and organized.We shall be primarily concerned with organized complexity. 5 See also John R.Platt,Properties of large molecules that go beyond the properties of their chemical sub-groups, Jour.Thcorct.Biol.1:342-358,1961.Since the reductionism-holism issueis a major cause de guerre between scientists and humanists,perhaps we might even hope that peace could be negotiated between the two cultures along the lines of the compromise just suggested.As I go along, I shall have a little to say about_complexity in the arts as well as in the natural sciences.I must emphasize the pragmatism of my holi sm to distinguish it sharply from the position taken by W. M. Elsass er in The physical foundation of biology,New York,Pergamon Press, 1958.")]
+
+#zh(id: "N003")[#text("4 W.Weaver，在《科学与复杂性》，《美国科学家》36：536，1948 中区分了两种复杂性：无组织的和有组织的。我们将主要关注有组织的复杂性。 5 另请参见 John R.Platt，超越其化学亚组性质的大分子的性质，Jour.Thcorct.Biol.1:342-358,1961。由于还原论-整体论问题是科学家和人文主义者之间的一个主要原因，也许我们甚至可能希望和平可以在两种文化之间沿着刚刚建议的妥协路线进行谈判。在我继续进行的过程中，我将有一点要说的我必须强调我的整体主义的实用主义，以将其与 W. M. Elsasser 在《生物学的物理基础》中所采取的立场截然不同，纽约，佩加蒙出版社，1958 年。")]
+
+#html.p(id: "en-N004")[#text("6 The mathematical term“partitioning”will not do for what I call here a hierarchy;for the set of subsystems,")]
+
+#zh(id: "N004")[#text("6 数学术语“分区”不适用于我在此所说的层次结构；对于子系统集，")]
+
+#html.p(id: "en-N005")[#text("7 The speculations on speed of evolution were first suggested by H. Jacobson's application of information theory to estimating the time required for biological evolution. See his paper,Information,reproduction,and the origin of life,in American Scientist 43:119-127,January,1955. From thermodynamic considerations it is possible to estimate the amount of increase in entropy that occurs when a complex system decomposes into its elements.(See, for example, R.B.Setlow and E.C.Pollard, Molccular biophysics, 63-65,Reading,Mass., Addison-Wesley Publishing Co.,1962,and references cited there.） But entropy is the logarithm of a probability,hence information, the negative of entropy,can be interpreted as the logarithm of the reciprocal of the probability—the“improbability，\" so to speak.The essential idea in Jacobson's model is that the expected time required for the system to reach a particular state is inversely proportional to the probabilityof the state-hence increases exponentially with the amount of information(negentropy）of the state. Following this line of argument, but not introducing the notion of levels and stable subassemblies,Jacobson arrived at estimates of the time required for evolution so large as tomake the event rather improbable.Our analysis,carried through in the same way,but with attention to the stable intermediate forms,produces very much smaller estimates.")]
+
+#zh(id: "N005")[#text("7 关于演化速度的推测，最初是由 H. Jacobson 应用信息论来估计生物进化所需的时间而提出。参见他的论文《信息、繁殖和生命起源》，载于《美国科学家》43:119-127，1955 年 1 月。从热力学考虑，可以估计当复杂系统分解为其元素时发生的熵增加量。（例如，参见 R.B.Setlow 和 E.C.Pollard, Molcular biophysicals, 63-65,Reading,Mass., Addison-Wesley Publishing Co.,1962，以及其中引用的参考文献。）但是熵是概率的对数，因此信息是概率的负数熵，可以解释为概率的倒数的对数——可以说是“不概率”。雅各布森模型的基本思想是系统达到特定状态所需的预期时间与该状态的概率成反比——因此随着状态的信息量（负熵）呈指数增长。遵循这一论点，但没有引入水平和稳定子集合的概念，雅各布森得出了估计进化所需的时间如此之长，以至于使事件变得相当不可能。我们的分析以相同的方式进行，但关注稳定的中间形式，产生的估计要小得多。")]
+
+#html.p(id: "en-N006")[#text("based on models of random assembly.Seefor example P.J.Flory,Principles of polymer chemistry，ch.8, Ithaca, Cornell Univ. Press, 1953. Since all suba ssemblies in the polymerization theory are stable,limitation of molecular growth depends on“poisoning”of terminal groups by impurities or formation of cycles rather than upon disruption of partially-formed chains. 9 This point has been made many times before,but it cannot be emphasized too strongly.For further discussion,see Setlow and Pollard,op.cit.,49-64;E.Schrodinger,What is life? Cambridge Univ.Press,1945;and H. Linschitz, The information content of a bacterial cell, in H.Quest ler,ed.,Information theory in biology,251- 262,Urbana, Univ.of Ilinois Press,1953. 10 See Linschitz, op.cit.This quantity,10-11 cal/degree, corresponds to obout 1013 bits of information.")]
+
+#zh(id: "N006")[#text("基于随机组装模型。参见例如 P.J.Flory，高分子化学原理，第 8 章，伊萨卡，康奈尔大学。 Press，1953。由于聚合理论中的所有子组件都是稳定的，分子生长的限制取决于杂质或环的形成对端基的“中毒”，而不是部分形成的链的破坏。 9 这一点以前已经说过很多次了，但强调也不为过。进一步的讨论，参见 Setlow 和 Pollard，op.cit.，49-64；E.Schrodinger，什么是生命？剑桥大学出版社，1945 年；和 H. Linschitz，《细菌细胞的信息内容》，H.Quest ler 编辑，《生物学信息论》，251-262，厄巴纳伊利诺伊大学出版社，1953 年。 10 参见 Linschitz，同上。这个量，10-11 卡/度，对应于大约 1013 位信息。")]
+
+#html.p(id: "en-N007")[#text("biological organization,Appendix,pp.191-249 in C.H. Waddington,The strategy of the genes,London,George Allen & Unwin, 1957. 12 See A. Newell, J. C. Shaw, and H. A. Simon, Empirical explorations of the logic theory machine,Procee dings of the1957Western Joint Computer Conference, February,1957,New York:Institute of Radio Engineers;Chess-playing programs and the problem of complexity,IBM Journal of Research and Development 2: 320-335,October,1958；and for a similar view of problem solving,W.R.Ashby,Design for an intelligence")]
+
+#zh(id: "N007")[#text("生物组织，附录，第 191-249 页，C.H. Waddington，基因策略，伦敦，George Allen & Unwin，1957。 12 参见 A. Newell、J. C. Shaw 和 H. A. Simon，逻辑理论机的实证探索，Procee dings of the 1957 Western Joint Computer Conference，1957 年 2 月，纽约：无线电工程师学会；象棋程序和复杂性问题，IBM 研究与开发杂志2: 320-335,October,1958；对于解决问题的类似观点，W.R.Ashby，智能设计")]
+
+#html.p(id: "en-N008")[#text("13 The clicking safe example was supplied by D. P. Simon.Ashby, op. cit.,230, has called the selectivity involved in situations of this kind “selection by components.\"The even greater reduction in time produced by hier arch iz ation in the clicking safe example,as compared with the watchmaker's metaphor,is due tothe fact that a random search for the correct combination is involved inthe former case,while in the latter the parts come together in the right order.It is not clear which of these metaphors provides the better model for biological evolution,but we may be sure that the watchmaker's metaph or gives an exceedingly conservative estimate of the savings due to hier arch iz ation.The safe may give an excessively high estimate because it assumes all possible arrangements of the elements to be equally probable.")]
+
+#zh(id: "N008")[#text("13 点击安全示例由 D. P. Simon.Ashby 提供，同上。引文，230，将这种情况中涉及的选择性称为“组件选择”。“与钟表匠的隐喻相比，在点击安全示例中，层次结构所产生的时间甚至更大的减少是由于前一种情况涉及对正确组合的随机搜索，而在后者中，各部分以正确的顺序组合在一起。目前尚不清楚这些隐喻中的哪一个为生物进化提供了更好的模型，但我们可以肯定，钟表匠的隐喻或对由于分层架构而节省的成本给出了极其保守的估计。保险箱可能会给出过高的估计，因为它假设元素的所有可能排列都是同样可能的。")]
+
+#html.p(id: "en-N009")[#text("14 A.Newell and H. A. Simon, Computer simulation of human thinking,Science 134:2011-2017,December 22, 1961.")]
+
+#zh(id: "N009")[#text("14 A.Newell 和 H.A.Simon，人类思维的计算机模拟，《科学》134：2011-2017，1961 年 12 月 22 日。")]
+
+#html.p(id: "en-N010")[#text("15 This discussion of near-de com pos ability is based upon H.A.Simon and A.Ando,Aggregation of variables in dynamic systems,Econometric a 29:111-138,April, 1961.The example is drawn from the same source, 117-118.The theory has been further developed and by Ando and F. M. Fisher. See F. M. Fisher, On the costof approximate specification in simultaneous equation estimation,Econometric a 29:139-170,April,1961,and F.M.Fisher and A.Ando,Two theorems on Ceteris Paribus in the analysis of dynamic systems,American Political Scienc cR evie rv 61:103-113,March,1962.")]
+
+#zh(id: "N010")[#text("15 对近分解能力的讨论基于 H.A.Simon 和 A.Ando，动态系统中变量的聚合，计量经济学 29:111-138，1961 年 4 月。该示例取自同一来源，117-118。该理论由 Ando 和 F.M. Fisher 进一步发展。参见 F. M. Fisher，《联立方程估计中的近似规范成本》，计量经济学 29:139-170，1961 年 4 月，以及 F.M.Fisher 和 A.Ando，动态系统分析中有关其他条件不变的两个定理，美国政治科学 cRevie rv 61:103-113，1962 年 3 月。")]
+
+#html.p(id: "en-N011")[#text("16 For a survey of the several classes of molecular and inter-molecular forces,and their dissociation energies see Setlow and Pollard, op.cit.,chapter 6.The energies of typical covalent bonds are of the order of 80-100 k cal/mole,of the hydrogen bonds,10 k cal/mole.Ionic bonds generally lie between these two levels, the bonds due to van der Waals forces are lower in energy.")]
+
+#zh(id: "N011")[#text("16 对于几类分子和分子间力及其解离能的调查，请参阅 Setlow 和 Pollard，同上，第 6 章。典型共价键的能量约为 80-100 k 卡/摩尔，氢键为 10 k 卡/摩尔。离子键通常位于这两个能级之间，范德华力产生的键能量较低。")]
+
+#html.p(id: "en-N012")[#text("18S.R.de Groot,Thermodynamics of irreversible processes,11-12,New York, Inter science Publishers,1951.")]
+
+#zh(id: "N012")[#text("18S.R.de Groot，不可逆过程的热力学，11-12，纽约，Inter science Publishers，1951。")]
+
+#html.p(id: "en-N013")[#text("19 See,for example, L.Pauling, General chemistry, ch.15.")]
+
+#zh(id: "N013")[#text("19 例如，参见 L.Pauling，《普通化学》，第 15 章。")]
+
+#html.p(id: "en-N014")[#text("20 George A.Miller has collected protocols from subjects who were given the task of drawing faces,and finds that they behave in the manner described here(private communication).See also E.H.Go mb rich,Art and illusion,291-296,New York,Pantheon Books,1960.")]
+
+#zh(id: "N014")[#text("20 乔治·A·米勒 (George A. Miller) 收集了接受画脸任务的受试者的协议，并发现他们的行为方式与此处描述的方式相同（私人交流）。另请参阅 E.H.Go mb rich，《艺术与幻觉》，291-296，纽约，万神殿图书，1960 年。")]
+
+#html.p(id: "en-N015")[#text("21 I believe the fallacy in the central thesis of W. M. Elsass er's The physical foundation of biology,mentioned earlier,lies in his ignoring the simplification in description of complex systems that derives from their hier arch ic structure.Thus (p.155):“If we now apply similar arguments to the coupling of enzymatic reactions with the substratum of protein molecules,we see that over a sufficient period of time,the information corresponding to the structural details of these molecules will be communicated to the dynamics of the cell, to higher levels of organization as it were,and may infuence such dynamics. While this reasoning is only qualitative,it lends credence tothe assumption that in the living organism,unlike the inorganic crystal,the effects of microscopic structure cannot be simply averaged out;as time goes on this infuence will pervade the behavior of the cell‘at all levels.'\" But from our discussion of near-de com pos ability it would appear that those aspects of micro structure that control the slow developmental aspects of organism ic")]
+
+#zh(id: "N015")[#text("21 我相信前面提到的 W. M. Elsass 的《生物学的物理基础》中心论点的谬误在于他忽略了源自其层次结构的复杂系统描述的简化。因此（第 155 页）：“如果我们现在将类似的论点应用于酶促反应与蛋白质分子基质的耦合，我们会看到，在足够长的时间内，与这些分子的结构细节相对应的信息虽然这种推理只是定性的，但它证实了这样的假设：在生物体中，与无机晶体不同，微观结构的影响不能简单地平均掉；随着时间的推移，这种影响将遍及细胞的“各个层面”的行为。有机体IC发育缓慢的方面")]
+
+#html.p(id: "en-N016")[#text("dynamics can be separated out from the aspects that controlthe more rapid cellular metabolic processes.For this reason we should not despair of unravelling the web of causes.See also J. R. Platt's review of Elsass er's book in Perspectives in biology and medicine2:243-245, 1959.")]
+
+#zh(id: "N016")[#text("动力学可以从控制更快速的细胞代谢过程的方面中分离出来。因此，我们不应该对解开原因网络感到绝望。另请参见 J. R. Platt 在 Perspectives in Biological and Medicine 2:243-245, 1959 中对 Elsass er 的书的评论。")]
+
+#html.p(id: "en-N017")[#text("22 See H. A. Simon and A. Newell, Simulation of human thinking,in M.Green berger (ed.)，Management and the computer of the future,95-114,esp.pp 110 ff., New York,Wiley,1962.")]
+
+#zh(id: "N017")[#text("22 参见 H. A. Simon 和 A. Newell，人类思维的模拟，载于 M.Green berger (ed.)，管理与未来的计算机，95-114，esp.pp 110 ff.，纽约，Wiley，1962。")]
+
+#html.p(id: "en-N018")[#text("23 The zworks of Plato,B.Jowett, trans., 3: 26-35,New York, Dial Press.")]
+
+#zh(id: "N018")[#text("23 柏拉图的 zworks，B.Jowett，译，3：26-35，纽约，Dial Press。")]
+
+#html.p(id: "en-N019")[#text("24 C.B.Anfnsen,The molecular basis of evolution, chs.3 and 10,New York,Wiley,1959,will qualify this sketchy,oversimplified account.For an imaginative discussion of some mechanisms of process description that could govern molecular structure,see H. H. Pattee, On the origin of macromolecular sequences,Bio physical Journal 1:683-710,1961.")]
+
+#zh(id: "N019")[#text("24 C.B.Anfnsen，《进化的分子基础》，第 3 章和第 10 章，纽约，Wiley，1959 年，将限定这种粗略、过于简单化的说明。有关可以控制分子结构的过程描述的一些机制的富有想象力的讨论，请参见 H. H. Pattee，《大分子序列的起源》，生物物理学杂志 1：683-710，1961。")]
+
+#html.p(id: "en-N020")[#text("25 There is considerable evidence that successive genes along a chromosome often determine enzymes controlling successive stages of protein syntheses.For a review of some of this evidence, see P.E.Hartman,Transduction: a comparative review,in W.D.Mc Elroy and B.Glass (eds.),The chemical basis of heredity,Baltimore,Johns Hopkins Press,1957, at pp. 442-454. Evidence for differential activity of genes in different tissues and at different stages of development is discussed by J.G.Gall, Chromosomal Differentiation, in W.D. Mc Elroy and B.Glass (eds.)，The chemical basis of development, Baltimore,Johns Hopkins Press, 1958, at pp.103-135. Finally,a model very like that proposed here has been independently, and far more fully, outlined by J. R. Platt, A‘book model’ of genetic information transfer in cells and tissues, in Kasha and Pullman (eds.),Hori sons in biochemistry,New York, Academic Press,forthcoming. Of course,this kind of mechanism is not the only one in which development could be controlled by a process descript ion.Induction,in the form envisaged in Spemann's organizer theory,is based on process description, in which metabolites in already formed tissue control the next stages of development.")]
+
+#zh(id: "N020")[#text("25 有相当多的证据表明，沿着染色体的连续基因通常决定控制蛋白质合成的连续阶段的酶。有关一些证据的综述，请参阅 P.E.Hartman，转导：比较综述，W.D.Mc Elroy 和 B.Glass（编辑），遗传的化学基础，巴尔的摩，约翰霍普金斯出版社，1957 年，第 442-454 页。 J.G.Gall 的《染色体分化》在 W.D. Mc Elroy 和 B.Glass (eds.)，《发育的化学基础》，巴尔的摩，约翰·霍普金斯出版社，1958 年，第 103-135 页讨论了不同组织和不同发育阶段基因活性差异的证据。最后，J. R. Platt 独立且更全面地概述了一个与此处提出的模型非常相似的模型，《细胞和组织中遗传信息传递的“书本模型”》，Kasha 和 Pullman（编辑），Hori sons in biochemistry，纽约，学术出版社，即将出版。当然，这种机制并不是唯一一种可以通过过程描述来控制发育的机制。诱导，以斯佩曼的组织者理论设想的形式，是基于过程描述的，其中已经形成的组织中的代谢物控制着下一阶段的发育。")]

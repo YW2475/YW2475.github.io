@@ -1,0 +1,57 @@
+{
+  "paper": {
+    "id": "beerbohm-walk",
+    "title": "Going Out for a Walk",
+    "zh_title": "出去散步",
+    "author": "Max Beerbohm",
+    "year": 1918,
+    "category": "文学与思想",
+    "kind": "full",
+    "folder": "Going Out for a Walk 1918",
+    "source": "https://www.gutenberg.org/cache/epub/1956/pg1956-images.html",
+    "description": "一本正经地反对被拉出去散步，尤其是边走边聊天。",
+    "edition": "Dated 1918 in the essay; collected in And Even Now (1920)."
+  },
+  "scope": "full",
+  "source_format": "html",
+  "translation_method": "assistant-retranslated from the complete public-domain essay",
+  "glossary": {},
+  "extraction_notes": "Original essay only; modern navigation, licenses, collection contents, and editor introductions excluded. Original verse and dialogue retained.",
+  "blocks": [
+    {
+      "id": "S001",
+      "type": "paragraph",
+      "en": "It is a fact that not once in all my life have I gone out for a walk. I have been taken out for walks; but that is another matter. Even while I trotted prattling by my nurse’s side I regretted the good old days when I had, and wasn’t, a perambulator. When I grew up it seemed to me that the one advantage of living in London was that nobody ever wanted me to come out for a walk. London’s very drawbacks—its endless noise and hustle, its smoky air, the squalor ambushed everywhere in it—assured this one immunity. Whenever I was with friends in the country, I knew that at any moment, unless rain were actually falling, some man might suddenly say ‘Come out for a walk!’ in that sharp imperative tone which he would not dream of using in any other connexion. People seem to think there is something inherently noble and virtuous in the desire to go for a walk. Any one thus desirous feels that he has a right to impose his will on whomever he sees comfortably settled in an arm-chair, reading. It is easy to say simply ‘No’ to an old friend. In the case of a mere acquaintance one wants some excuse. ‘I wish I could, but’—nothing ever occurs to me except ‘I have some letters to write.’ This formula is unsatisfactory in three ways. (1) It isn’t believed. (2) It compels you to rise from your chair, go to the writing-table, and sit improvising a letter to somebody until the walkmonger (just not daring to call you liar and hypocrite) shall have lumbered out of the room. (3) It won’t operate on Sunday mornings. ‘There’s no post out till this evening’ clinches the matter; and you may as well go quietly.",
+      "zh": "我这辈子从来没有一次主动出去散过步，这是事实。我被人带出去散过步；但那是另一回事。小时候，我一边在保姆身旁小跑，一边叽叽喳喳，就已经怀念那些美好的旧日时光：那时我有一辆童车，自己还不是个步行者。长大后，我觉得住在伦敦的一个好处，就是没人要我出去散步。伦敦的种种缺点——无休无止的喧闹与忙乱、烟雾弥漫的空气、随处潜伏的脏乱——恰好保障了这一项豁免。只要我和朋友们待在乡下，就知道任何时候，除非外面正在下雨，总会有个人忽然说：“出去散步吧！”那语气命令得尖锐，在别的任何场合他都想不到这样说。人们仿佛觉得，想散步本身就是高尚而有德行的。凡有这种愿望的人，就觉得自己有权把意志强加给任何舒舒服服坐在扶手椅里读书的人。面对老朋友，简单说声“不”很容易；面对普通熟人，就得找个借口。“我也想去，可是……”我从来想不出别的，只能说“我还有几封信要写”。这个说法有三处不妥：（一）没人相信；（二）你不得不从椅子上起来，走到书桌旁，坐下来临时编一封给某人的信，直到那位散步贩子——只差不敢骂你骗子和伪君子——慢吞吞地离开房间；（三）星期天上午它不起作用。“今天傍晚才有邮班”，对方一句话就把事情敲定了，你还不如乖乖跟着去。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S002",
+      "type": "paragraph",
+      "en": "Walking for walking’s sake may be as highly laudable and exemplary a thing as it is held to be by those who practise it. My objection to it is that it stops the brain. Many a man has professed to me that his brain never works so well as when he is swinging along the high road or over hill and dale. This boast is not confirmed by my memory of anybody who on a Sunday morning has forced me to partake of his adventure. Experience teaches me that whatever a fellow-guest may have of power to instruct or to amuse when he is sitting on a chair, or standing on a hearth-rug, quickly leaves him when he takes one out for a walk. The ideas that came so thick and fast to him in any room, where are they now? where that encyclopiedic knowledge which he bore so lightly? where the kindling fancy that played like summer lightning over any topic that was started? The man’s face that was so mobile is set now; gone is the light from his fine eyes. He says that A. (our host) is a thoroughly good fellow. Fifty yards further on, he adds that A. is one of the best fellows he has ever met. We tramp another furlong or so, and he says that Mrs. A. is a charming woman. Presently he adds that she is one of the most charming women he has ever known. We pass an inn. He reads vapidly aloud to me: ‘The King’s Arms. Licensed to sell Ales and Spirits.’ I foresee that during the rest of the walk he will read aloud any inscription that occurs. We pass a milestone. He points at it with his stick, and says ‘Uxminster. 11 Miles.’ We turn a sharp corner at the foot of a hill. He points at the wall, and says ‘Drive Slowly.’ I see far ahead, on the other side of the hedge bordering the high road, a small notice-board. He sees it too. He keeps his eye on it. And in due course ‘Trespassers,’ he says, ‘Will Be Prosecuted.’ Poor man!—mentally a wreck.",
+      "zh": "为散步而散步，或许真像那些散步者所认为的，是一件值得高度赞扬、堪为榜样的事。我反对它，是因为它会让脑子停摆。不少人向我宣称，走在大路上或翻山越岭时，自己的脑子转得最好。但我记忆里，凡在星期天上午强迫我分享这种冒险的人，没有一个能证实这番夸口。经验告诉我，一位同住的客人坐在椅子上，或站在壁炉前的地毯上时，纵使再能给人教益和乐趣，一旦拉人出去散步，这些本事很快就离他而去了。那些无论在哪间屋子都源源涌来的点子，如今在哪里？那份被他轻松驾驭的百科全书般的知识在哪里？那种一碰到任何话题，就像夏日闪电般亮起的想象力在哪里？他本来表情生动的脸，如今僵住了；那双漂亮眼睛里的光，也消失了。他说，A——我们的主人——真是个好人。又走五十码，他补充说，A是他见过的最好的人之一。我们再走约一个弗隆，他说，A太太真是个迷人的女人。过了一会儿，他又补充说，她是他认识的最迷人的女人之一。经过一家小旅店，他毫无生气地把招牌念给我听：“国王纹章。获准出售麦芽酒与烈酒。”我预见，这趟散步余下的时间里，他会把遇见的任何字样都念出来。经过一块里程碑，他拿手杖指着说：“乌克斯明斯特，十一英里。”我们在山脚下急转一个弯，他指着墙说：“慢行。”我看见前方很远的地方，大路旁的树篱另一边，有块小告示牌。他也看见了，一直盯着。等走到了，“擅入者，”他说，“将被起诉。”可怜的人！精神上已经成了废墟。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S003",
+      "type": "paragraph",
+      "en": "Luncheon at the A’s, however, salves him and floats him in full sail. Behold him once more the life and soul of the party. Surely he will never, after the bitter lesson of this morning, go out for another walk. An hour later, I see him striding forth, with a new companion. I watch him out of sight. I know what he is saying. He is saying that I am rather a dull man to go a walk with. He will presently add that I am one of the dullest men he ever went a walk with. Then he will devote himself to reading out the inscriptions.",
+      "zh": "不过，A家的午饭又让他恢复了，仿佛扬满了帆。看吧，他重新成了聚会的灵魂与活力源泉。经过今早的惨痛教训，他总不会再去散步了吧。一小时后，我看见他带着一位新同伴，大步走了出去。我目送他消失，知道他正在说什么。他说，和我出去散步相当乏味。过一会儿，他还会补充说，我是他一起散过步的最乏味的人之一。然后，他就会专心念那些路边的字样。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S004",
+      "type": "paragraph",
+      "en": "How comes it, this immediate deterioration in those who go walking for walking’s sake? Just what happens? I take it that not by his reasoning faculties is a man urged to this enterprise. He is urged, evidently, by something in him that transcends reason; by his soul, I presume. Yes, it must be the soul that raps out the ‘Quick march!’ to the body.—‘Halt! Stand at ease!’ interposes the brain, and ‘To what destination,’ it suavely asks the soul, ‘and on what errand, are you sending the body?’—‘On no errand whatsoever,’ the soul makes answer, ‘and to no destination at all. It is just like you to be always on the look-out for some subtle ulterior motive. The body is going out because the mere fact of its doing so is a sure indication of nobility, probity, and rugged grandeur of character.’—‘Very well, Vagula, have your own wayula! But I,’ says the brain, ‘flatly refuse to be mixed up in this tomfoolery. I shall go to sleep till it is over.’ The brain then wraps itself up in its own convolutions, and falls into a dreamless slumber from which nothing can rouse it till the body has been safely deposited indoors again.",
+      "zh": "那些为散步而散步的人，为什么立刻就退化了？到底发生了什么？我想，人从事这项事业，不是受理性推动。显然，他是受内心某种超越理性的东西推动的；我猜，是灵魂。对了，一定是灵魂向身体喝出“快步走！”这道命令。“立定！稍息！”脑子插进来说，接着又温文地问灵魂：“你派身体到哪个目的地去，办什么事？”“不办任何事，”灵魂回答，“也根本没有目的地。你总是这个样子，非要搜寻什么微妙的别有用心。身体出去，只因为出去这件事本身，就确实表明了品格的高贵、正直与坚毅雄伟。”“好吧，小游魂，随你便！可是，”脑子说，“我坚决拒绝卷入这种胡闹。我这就去睡觉，直到它结束。”于是，脑子裹紧自己那些脑回，陷入无梦的沉睡；在身体再次被安安全全放回屋里以前，没什么能叫醒它。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S005",
+      "type": "paragraph",
+      "en": "Even if you go to some definite place, for some definite purpose, the brain would rather you took a vehicle; but it does not make a point of this; it will serve you well enough unless you are going for a walk. It won’t, while your legs are vying with each other, do any deep thinking for you, nor even any close thinking; but it will do any number of small odd jobs for you willingly—provided that your legs, also, are making themselves useful, not merely bandying you about to gratify the pride of the soul. Such as it is, this essay was composed in the course of a walk, this morning. I am not one of those extremists who must have a vehicle to every destination. I never go out of my way, as it were, to avoid exercise. I take it as it comes, and take it in good part. That valetudinarians are always chattering about it, and indulging in it to excess, is no reason for despising it. I am inclined to think that in moderation it is rather good for one, physically. But, pending a time when no people wish me to go and see them, and I have no wish to go and see any one, and there is nothing whatever for me to do off my own premises, I never will go out for a walk.",
+      "zh": "即使你为了某个明确目的，前往某个明确地点，脑子仍宁愿你乘车；但它并不坚持这一点，只要不是专门去散步，它仍肯好好为你效劳。在你的两条腿彼此竞赛时，它不会替你做深刻的思考，甚至不会做缜密的思考；不过它愿意替你做许多零碎的小事——前提是你的腿也在做有用的事，而不是仅仅为了满足灵魂的骄傲，来回摆弄你的身体。无论这篇文章写得如何，它就是今天早晨在走路途中构思的。我不是那种无论去哪儿都非得乘车的极端分子。我从不刻意绕路逃避运动——姑且这么说吧。运动来了，我便接受，而且欣然接受。那些老担心身体不好的人，总把运动挂在嘴上，又沉迷得过了头，这并不是鄙视运动的理由。我倾向于认为，适量运动对身体还是有些好处的。但是，在那个没有人想让我去见他们、我也不想见任何人、而我自己的住所之外更无事可做的时代到来之前，我永远不会出去散步。",
+      "translation_status": "assistant-retranslated"
+    }
+  ]
+}

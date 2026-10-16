@@ -3,7 +3,7 @@
 /// The `date` argument may be either a `datetime` value or preformatted
 /// content. The `path` argument may include or omit a trailing slash.
 #let blog-entry(date: auto, path: str, title: str) = {
-  let href = if path.ends-with("/") {
+  let href = if path.starts-with("https://") or path.starts-with("http://") or path.ends-with("/") {
     path
   } else {
     path + "/"

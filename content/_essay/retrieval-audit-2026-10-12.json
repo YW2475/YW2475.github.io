@@ -1,0 +1,68 @@
+[
+  {
+    "id": "dillard-weasels",
+    "file": "D:\\1 Coding\\Typst\\BLOG\\content\\_essay\\originals-2026-10-12\\dillard-weasels\\PDFs\\Living_Like_Weasels.pdf",
+    "format": "pdf",
+    "pages": 2,
+    "sha256": "e7394f020a74af07c134d4d3d48c7e2fdc2c32a3b867ec2eb5fa2e6e7aaaa656",
+    "source": "https://openlab.citytech.cuny.edu/fyw-oer-eng-1101-rhetorical-modes/files/2017/12/6.1-Descriptive-Mode-Dillard-Questions.pdf",
+    "download_status": "downloaded",
+    "bilingual_status": "not-generated",
+    "si_requested": false
+  },
+  {
+    "id": "borges-wilkins",
+    "file": "D:\\1 Coding\\Typst\\BLOG\\content\\_essay\\originals-2026-10-12\\borges-wilkins\\PDFs\\borges-wilkins.pdf",
+    "format": "pdf",
+    "pages": 5,
+    "sha256": "8d4f176fae875d814ae40d470b05473bd4ea25847efbdeeea7575816e1c5569a",
+    "source": "https://sites.evergreen.edu/politicalshakespeares/wp-content/uploads/sites/226/2015/12/Borges-The-Analytical-Language-of-JW.pdf",
+    "download_status": "downloaded",
+    "bilingual_status": "not-generated",
+    "si_requested": false
+  },
+  {
+    "id": "sacks-colorblind",
+    "file": "D:\\1 Coding\\Typst\\BLOG\\content\\_essay\\originals-2026-10-12\\sacks-colorblind\\PDFs\\The_Case_of_the_Colorblind_Painter.pdf",
+    "format": "pdf",
+    "pages": 18,
+    "sha256": "cdea7fcb5ba55baf10c17fd2e09ddaf15d0039b708aa6e50fabbf706affb7ad1",
+    "source": "https://www.csh.rit.edu/~oguns/school/psychology/Articles/colorblindpainter.pdf",
+    "download_status": "downloaded",
+    "bilingual_status": "not-generated",
+    "si_requested": false
+  },
+  {
+    "id": "schelling-segregation",
+    "file": "D:\\1 Coding\\Typst\\BLOG\\content\\_essay\\originals-2026-10-12\\schelling-segregation\\PDFs\\Dynamic_Models_of_Segregation_1971.pdf",
+    "format": "pdf",
+    "pages": 45,
+    "sha256": "f487710010d76812f8fb4eef461077b822c9aa2ffc6dc43abef7eec2ab54564e",
+    "source": "https://acoustique.ec-lyon.fr/chaos/Schelling71.pdf",
+    "download_status": "downloaded",
+    "bilingual_status": "not-generated",
+    "si_requested": false
+  },
+  {
+    "id": "geertz-cockfight",
+    "file": "D:\\1 Coding\\Typst\\BLOG\\content\\_essay\\originals-2026-10-12\\geertz-cockfight\\PDFs\\Deep_Play_2005_complete.pdf",
+    "format": "pdf",
+    "pages": 31,
+    "sha256": "4891f662d639f6d657d03b6842bff3f16de687faba855f6e53962acff8beb7ad",
+    "source": "https://direct.mit.edu/daed/article-pdf/134/4/56/1829020/001152605774431563.pdf",
+    "download_status": "downloaded",
+    "bilingual_status": "complete-draft",
+    "si_requested": false
+  },
+  {
+    "id": "boulding-spaceship",
+    "file": "D:\\1 Coding\\Typst\\BLOG\\content\\_essay\\originals-2026-10-12\\boulding-spaceship\\PDFs\\The_Economics_of_the_Coming_Spaceship_Earth.pdf",
+    "format": "pdf",
+    "pages": 14,
+    "sha256": "e2f6097610c8403fdf7eaef86fac56e8c6c3a83aeda1a41a21ef2b98d3eb261f",
+    "source": "https://arachnid.biosci.utexas.edu/courses/THOC/Readings/Boulding_SpaceshipEarth.pdf",
+    "download_status": "downloaded",
+    "bilingual_status": "complete-draft",
+    "si_requested": false
+  }
+]

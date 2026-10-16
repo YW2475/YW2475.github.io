@@ -18,6 +18,10 @@
 	margin: 0;
 }
 
+.essay-verse {
+	white-space: pre-line;
+}
+
 li > .essay-translation {
 	width: 100%;
 	margin-bottom: 0.7rem;
@@ -97,6 +101,13 @@ li > .essay-translation {
 .essay-equation > .math-block {
 	width: 100%;
 	max-width: 100%;
+}
+
+.essay-equation > img {
+	display: block;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
 }
 
 .essay-paper-figure > img {

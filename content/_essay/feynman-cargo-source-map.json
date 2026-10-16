@@ -1,0 +1,251 @@
+{
+  "paper": {
+    "id": "feynman-cargo",
+    "title": "Cargo Cult Science",
+    "zh_title": "货物崇拜科学",
+    "author": "Richard P. Feynman",
+    "year": 1974,
+    "category": "心智与判断",
+    "kind": "full",
+    "folder": "Cargo Cult Science 1974",
+    "source": "https://calteches.library.caltech.edu/51/2/CargoCult.htm",
+    "description": "实验、科学诚信，以及怎样避免欺骗自己。",
+    "status": "bilingual-full",
+    "local_source": "C:/Users/ME/.codex/attachments/9dc04ffa-3891-443c-afb2-d9ede8662674/已粘贴的文本.txt",
+    "translation_status": "draft-with-terminology-review"
+  },
+  "scope": "full-user-supplied-article",
+  "source_format": "pasted-text",
+  "translation_method": "Google Translate draft, with assistant terminology corrections and selected manual translations. Not a sentence-by-sentence certified translation.",
+  "glossary": {
+    "Cargo Cult Science": "货物崇拜科学",
+    "scientific integrity": "科学诚信",
+    "pituitary": "脑垂体",
+    "reflexology": "反射疗法"
+  },
+  "extraction_notes": "Original body, source figures, tables, equations, notes, and references retained. Website navigation, download covers, running headers, publisher boilerplate, and duplicate pull quotes excluded. OCR errors are possible in the supplied sources and reconstructed text.",
+  "blocks": [
+    {
+      "id": "S001",
+      "type": "paragraph",
+      "en": "During the Middle Ages there were all kinds of crazy ideas, such as that a piece of rhinoceros horn would increase potency. (Another crazy idea of the Middle Ages is these hats we have on today—which is too loose in my case.) Then a method was discovered for separating the ideas—which was to try one to see if it worked, and if it didn’t work, to eliminate it. This method became organized, of course, into science. And it developed very well, so that we are now in the scientific age. It is such a scientific age, in fact, that we have difficulty in understanding how witch doctors could ever have existed, when nothing that they proposed ever really worked—or very little of it did.",
+      "zh": "在中世纪，有各种各样疯狂的想法，比如一块犀牛角可以增加效力。 （中世纪的另一个疯狂想法就是我们今天戴的这些帽子——对我来说太松了。）然后发现了一种分离这些想法的方法——那就是尝试一个，看看它是否有效，如果不起作用，就消除它。当然，这种方法被组织成科学。而且它发展得非常好，以至于我们现在已经进入了科学时代。事实上，这是一个科学时代，我们很难理解巫医是如何存在的，因为他们提出的任何建议都没有真正起作用——或者几乎没有起作用。"
+    },
+    {
+      "id": "S002",
+      "type": "paragraph",
+      "en": "But even today I meet lots of people who sooner or later get me into a conversation about UFO’s, or astrology, or some form of mysticism, expanded consciousness, new types of awareness, ESP, and so forth. And I’ve concluded that it’s not a scientific world.",
+      "zh": "但即使在今天，我还是遇到了很多人，他们迟早会让我谈论 UFO、占星学、某种形式的神秘主义、扩展意识、新型意识、超感官知觉等等。我得出的结论是，这不是一个科学世界。"
+    },
+    {
+      "id": "S003",
+      "type": "paragraph",
+      "en": "Most people believe so many wonderful things that I decided to investigate why they did. And what has been referred to as my curiosity for investigation has landed me in a difficulty where I found so much junk to talk about that I can’t do it in this talk. I’m overwhelmed. First I started out by investigating various ideas of mysticism, and mystic experiences. I went into isolation tanks (they’re dark and quiet and you float in Epsom salts) and got many hours of hallucinations, so I know something about that. Then I went to Esalen, which is a hotbed of this kind of thought (it’s a wonderful place; you should go visit there). Then I became overwhelmed. I didn’t realize how much there was.",
+      "zh": "大多数人相信很多美好的事情，因此我决定调查他们为什么这样做。所谓的“我对调查的好奇心”让我陷入了困境，我发现了太多的垃圾可以谈论，以至于我无法在这次演讲中做到这一点。我不知所措。首先，我开始研究神秘主义的各种想法和神秘体验。我进入了隔离池（它们又黑又安静，你漂浮在泻盐中）并出现了好几个小时的幻觉，所以我对此有所了解。然后我去了伊莎兰，那里是这种思想的温床（这是一个很棒的地方，你应该去那里参观一下）。然后我就不知所措了。我不知道有多少。"
+    },
+    {
+      "id": "S004",
+      "type": "paragraph",
+      "en": "I was sitting, for example, in a hot bath and there’s another guy and a girl in the bath. He says to the girl, “I’m learning massage and I wonder if I could practice on you?” She says OK, so she gets up on a table and he starts off on her foot—working on her big toe and pushing it around. Then he turns to what is apparently his instructor, and says, “I feel a kind of dent. Is that the pituitary?” And she says, “No, that’s not the way it feels.” I say, “You’re a hell of a long way from the pituitary, man.” And they both looked at me—I had blown my cover, you see—and she said, “It’s reflexology.” So I closed my eyes and appeared to be meditating.",
+      "zh": "例如，我坐在热水浴缸里，浴缸里还有另一个男人和一个女孩。他对女孩说：“我正在学按摩，不知道可以在你身上练习吗？”她说“好吧”，于是她在桌子上站起来，他开始用她的脚开始——按摩她的大脚趾并推动它。然后他转向显然是他的导师，说道：“我感觉到一种凹痕。那是垂体吗？”她说：“不，不是那样的感觉。”我说：“你离脑垂体还很远，伙计。”他们都看着我——我已经暴露了自己的身份，你看——她说，“这是反射疗法。”于是我闭上眼睛，似乎在冥想。"
+    },
+    {
+      "id": "S005",
+      "type": "paragraph",
+      "en": "That’s just an example of the kind of things that overwhelm me. I also looked into extrasensory perception and PSI phenomena, and the latest craze there was Uri Geller, a man who is supposed to be able to bend keys by rubbing them with his finger. So I went to his hotel room, on his invitation, to see a demonstration of both mind reading and bending keys. He didn’t do any mind reading that succeeded; nobody can read my mind, I guess. And my boy held a key and Geller rubbed it, and nothing happened. Then he told us it works better under water, and so you can picture all of us standing in the bathroom with the water turned on and the key under it, and him rubbing the key with his finger. Nothing happened. So I was unable to investigate that phenomenon.",
+      "zh": "这只是让我不知所措的事情的一个例子。我还研究了超感官知觉和 PSI 现象，最新的热潮是尤里·盖勒 (Uri Geller)，他被认为能够通过用手指摩擦钥匙来弯曲钥匙。于是，我应他的邀请去了他的酒店房间，观看读心术和弯曲钥匙的演示。他没有做过任何成功的读心术；我想没有人能读懂我的想法。我的儿子拿着一把钥匙，盖勒摩擦了它，但什么也没发生。然后他告诉我们，它在水下效果更好，所以你可以想象我们所有人都站在浴室里，水打开，钥匙在水下，他用手指摩擦钥匙。什么也没发生。所以我无法调查这个现象。"
+    },
+    {
+      "id": "S006",
+      "type": "paragraph",
+      "en": "But then I began to think, what else is there that we believe? (And I thought then about the witch doctors, and how easy it would have been to check on them by noticing that nothing really worked.) So I found things that even more people believe, such as that we have some knowledge of how to educate. There are big schools of reading methods and mathematics methods, and so forth, but if you notice, you’ll see the reading scores keep going down—or hardly going up—in spite of the fact that we continually use these same people to improve the methods. There’s a witch doctor remedy that doesn’t work. It ought to be looked into: how do they know that their method should work? Another example is how to treat criminals. We obviously have made no progress—lots of theory, but no progress—in decreasing the amount of crime by the method that we use to handle criminals.",
+      "zh": "但后来我开始思考，我们还相信什么？ （然后我想到了巫医，以及通过注意到没有什么真正起作用来检查他们是多么容易。）所以我发现了更多人相信的事情，比如我们有一些关于如何教育的知识。有很多阅读方法和数学方法等等的大流派，但如果你注意到的话，你会发现阅读分数不断下降——或者几乎上升——尽管我们不断地使用这些相同的人来改进方法。有一种巫医疗法不起作用。应该研究一下：他们如何知道他们的方法应该有效？另一个例子是如何对待罪犯。显然，我们在通过处理罪犯的方法来减少犯罪数量方面没有取得任何进展——有很多理论，但没有取得任何进展。"
+    },
+    {
+      "id": "S007",
+      "type": "paragraph",
+      "en": "Yet these things are said to be scientific. We study them. And I think ordinary people with commonsense ideas are intimidated by this pseudoscience. A teacher who has some good idea of how to teach her children to read is forced by the school system to do it some other way—or is even fooled by the school system into thinking that her method is not necessarily a good one. Or a parent of bad boys, after disciplining them in one way or another, feels guilty for the rest of her life because she didn’t do “the right thing,” according to the experts.",
+      "zh": "然而这些事情据说是科学的。我们研究它们。我认为有常识的普通人都被这种伪科学吓倒了。一位对如何教孩子阅读有一些好主意的老师会被学校系统强迫以其他方式来做，或者甚至被学校系统愚弄，认为她的方法不一定是好方法。专家称，坏男孩的父母在以某种方式管教他们后，会终生感到内疚，因为她没有做“正确的事”。"
+    },
+    {
+      "id": "S008",
+      "type": "paragraph",
+      "en": "So we really ought to look into theories that don’t work, and science that isn’t science.",
+      "zh": "因此，我们确实应该研究不起作用的理论和不科学的科学。"
+    },
+    {
+      "id": "S009",
+      "type": "paragraph",
+      "en": "I tried to find a principle for discovering more of these kinds of things, and came up with the following system. Any time you find yourself in a conversation at a cocktail party—in which you do not feel uncomfortable that the hostess might come around and say, “Why are you fellows talking shop?’’ or that your wife will come around and say, “Why are you flirting again?”—then you can be sure you are talking about something about which nobody knows anything.",
+      "zh": "我试图找到一个原则来发现更多此类事物，并提出了以下系统。任何时候，当你发现自己在鸡尾酒会上交谈时，如果女主人走过来问：“你们为什么在谈论生意？”或者你的妻子走过来问：“你们为什么又调情？”，你不会感到不舒服——那么你就可以确定你正在谈论一些没人知道的事情。"
+    },
+    {
+      "id": "S010",
+      "type": "paragraph",
+      "en": "Using this method, I discovered a few more topics that I had forgotten—among them the efficacy of various forms of psychotherapy. So I began to investigate through the library, and so on, and I have so much to tell you that I can’t do it at all. I will have to limit myself to just a few little things. I’ll concentrate on the things more people believe in. Maybe I will give a series of speeches next year on all these subjects. It will take a long time.",
+      "zh": "通过这种方法，我又发现了一些我已经忘记的话题——其中包括各种形式的心理治疗的功效。于是我开始通过图书馆等方式进行调查，我有很多东西要告诉你，但我根本做不到。我将不得不将自己限制在一些小事情上。我会专注于更多人相信的事情。也许明年我会就所有这些主题发表一系列演讲。这需要很长时间。"
+    },
+    {
+      "id": "S011",
+      "type": "paragraph",
+      "en": "I think the educational and psychological studies I mentioned are examples of what I would like to call Cargo Cult Science. In the South Seas there is a Cargo Cult of people. During the war they saw airplanes land with lots of good materials, and they want the same thing to happen now. So they’ve arranged to make things like runways, to put fires along the sides of the runways, to make a wooden hut for a man to sit in, with two wooden pieces on his head like headphones and bars of bamboo sticking out like antennas—he’s the controller—and they wait for the airplanes to land. They’re doing everything right. The form is perfect. It looks exactly the way it looked before. But it doesn’t work. No airplanes land. So I call these things Cargo Cult Science, because they follow all the apparent precepts and forms of scientific investigation, but they’re missing something essential, because the planes don’t land.",
+      "zh": "我认为，刚才提到的教育和心理学研究，就是我想称作‘货物崇拜科学’的例子。南太平洋有些岛民信奉货物崇拜。战争期间，他们看到飞机降落，送来许多好东西，便希望现在也能发生同样的事。于是，他们造出跑道，在跑道两边点上火，搭一座木屋让人坐在里面，头上架两块木片，像耳机一样，再插上几根竹竿当作天线——这个人就是空中交通管制员——然后等待飞机降落。他们什么都做对了，形式完美，看上去和从前一模一样，但就是不管用，没有飞机降落。所以我把这些事情叫作货物崇拜科学：它们遵循科学研究的一切表面原则和形式，却缺少某种关键的东西，因为飞机没有降落。"
+    },
+    {
+      "id": "S012",
+      "type": "paragraph",
+      "en": "Now it behooves me, of course, to tell you what they’re missing. But it would be just about as difficult to explain to the South Sea Islanders how they have to arrange things so that they get some wealth in their system. It is not something simple like telling them how to improve the shapes of the earphones. But there is one feature I notice that is generally missing in Cargo Cult Science. That is the idea that we all hope you have learned in studying science in school—we never explicitly say what this is, but just hope that you catch on by all the examples of scientific investigation. It is interesting, therefore, to bring it out now and speak of it explicitly. It’s a kind of scientific integrity, a principle of scientific thought that corresponds to a kind of utter honesty—a kind of leaning over backwards. For example, if you’re doing an experiment, you should report everything that you think might make it invalid—not only what you think is right about it: other causes that could possibly explain your results; and things you thought of that you’ve eliminated by some other experiment, and how they worked—to make sure the other fellow can tell they have been eliminated.",
+      "zh": "当然，我现在应该告诉你，他们究竟缺少了什么。不过，要向南太平洋岛民解释，他们该怎样安排事情，才能让财富进入自己的社会，也差不多同样困难。这不是教他们改进耳机的形状那么简单。但我注意到，货物崇拜科学通常缺少一个特点。我们都希望你们在学校学习科学时，已经学会了它——我们从来没有明确说出来，只希望你们能从科学研究的各种例子中领会。因此，现在把它拿出来明说，很有意思。这是一种科学诚信，是科学思考的一条原则，要求一种彻底的诚实，甚至不惜对自己格外苛刻。譬如，做实验时，你应该报告一切你认为可能使实验无效的因素，而不只是你认为做对了的地方：还有哪些原因也可能解释结果；你想到过哪些因素，又用什么其他实验把它们排除了，以及那些实验是怎样起作用的——让别人能判断，它们确实已经被排除。"
+    },
+    {
+      "id": "S013",
+      "type": "paragraph",
+      "en": "Details that could throw doubt on your interpretation must be given, if you know them. You must do the best you can—if you know anything at all wrong, or possibly wrong—to explain it. If you make a theory, for example, and advertise it, or put it out, then you must also put down all the facts that disagree with it, as well as those that agree with it. There is also a more subtle problem. When you have put a lot of ideas together to make an elaborate theory, you want to make sure, when explaining what it fits, that those things it fits are not just the things that gave you the idea for the theory; but that the finished theory makes something else come out right, in addition.",
+      "zh": "如果您知道可能会对您的解释产生疑问的细节，则必须提供这些细节。如果你知道任何错误或可能错误的事情，你必须尽你所能来解释它。例如，如果你提出一个理论，并将其宣传或发布，那么你还必须记下所有不同意它的事实以及那些同意它的事实。还有一个更微妙的问题。当你把很多想法放在一起形成一个复杂的理论时，你需要确保在解释它适合什么时，它适合的那些东西不仅是给你提供理论想法的东西，而且是那些给你提供理论想法的东西。但除此之外，最终的理论还使其他事情变得正确。"
+    },
+    {
+      "id": "S014",
+      "type": "paragraph",
+      "en": "In summary, the idea is to try to give all of the information to help others to judge the value of your contribution; not just the information that leads to judgment in one particular direction or another.",
+      "zh": "总的来说，就是尽量提供全部信息，帮助别人判断你的贡献有什么价值；而不只是提供那些会把判断引向某个特定方向的信息。"
+    },
+    {
+      "id": "S015",
+      "type": "paragraph",
+      "en": "The easiest way to explain this idea is to contrast it, for example, with advertising. Last night I heard that Wesson Oil doesn’t soak through food. Well, that’s true. It’s not dishonest; but the thing I’m talking about is not just a matter of not being dishonest, it’s a matter of scientific integrity, which is another level. The fact that should be added to that advertising statement is that no oils soak through food, if operated at a certain temperature. If operated at another temperature, they all will—including Wesson Oil. So it’s the implication which has been conveyed, not the fact, which is true, and the difference is what we have to deal with.",
+      "zh": "解释这个想法的最简单方法是将其与广告进行对比。昨晚我听说威森油不能浸泡食物。嗯，确实如此。这并不是不诚实；而是。但我所说的不仅仅是不诚实的问题，而是科学诚信的问题，这是另一个层面的问题。应该在广告声明中添加的事实是，如果在一定温度下操作，则不会有油渗透食物。如果在其他温度下操作，它们都会发生——包括威森石油公司。因此，所传达的含义才是正确的，而不是事实，区别在于我们必须处理什么。"
+    },
+    {
+      "id": "S016",
+      "type": "paragraph",
+      "en": "We’ve learned from experience that the truth will out. Other experimenters will repeat your experiment and find out whether you were wrong or right. Nature’s phenomena will agree or they’ll disagree with your theory. And, although you may gain some temporary fame and excitement, you will not gain a good reputation as a scientist if you haven’t tried to be very careful in this kind of work. And it’s this type of integrity, this kind of care not to fool yourself, that is missing to a large extent in much of the research in Cargo Cult Science.",
+      "zh": "我们从经验中得知，真相终将大白。其他实验者会重复你的实验并找出你是错还是对。自然现象可能会同意你的理论，也可能会不同意你的理论。而且，尽管你可能会获得一些暂时的名声和兴奋，但如果你没有在这种工作中非常小心，你就不会获得作为科学家的良好声誉。正是这种正直，这种不欺骗自己的谨慎，在货物崇拜科学的许多研究中很大程度上缺失了。"
+    },
+    {
+      "id": "S017",
+      "type": "paragraph",
+      "en": "A great deal of their difficulty is, of course, the difficulty of the subject and the inapplicability of the scientific method to the subject. Nevertheless, it should be remarked that this is not the only difficulty. That’s why the planes don’t land—but they don’t land.",
+      "zh": "当然，它们的大部分困难在于主题的难度和科学方法对该主题的不适用。然而，应该指出的是，这并不是唯一的困难。这就是为什么飞机不着陆——但它们就是不着陆。"
+    },
+    {
+      "id": "S018",
+      "type": "paragraph",
+      "en": "We have learned a lot from experience about how to handle some of the ways we fool ourselves. One example: Millikan measured the charge on an electron by an experiment with falling oil drops and got an answer which we now know not to be quite right. It’s a little bit off, because he had the incorrect value for the viscosity of air. It’s interesting to look at the history of measurements of the charge of the electron, after Millikan. If you plot them as a function of time, you find that one is a little bigger than Millikan’s, and the next one’s a little bit bigger than that, and the next one’s a little bit bigger than that, until finally they settle down to a number which is higher.",
+      "zh": "我们从经验中学到了很多关于如何处理我们欺骗自己的方法的知识。一个例子：密立根通过油滴下落实验测量了电子的电荷，并得到了一个我们现在知道并不完全正确的答案。这有点偏差，因为他得到的空气粘度值不正确。回顾密立根之后电子电荷测量的历史是很有趣的。如果你将它们绘制为时间的函数，你会发现一个比密立根的大一点，下一个比密立根的大一点，下一个又比密立根的大一点，直到最后它们稳定在一个更高的数字。"
+    },
+    {
+      "id": "S019",
+      "type": "paragraph",
+      "en": "Why didn’t they discover that the new number was higher right away? It’s a thing that scientists are ashamed of—this history—because it’s apparent that people did things like this: When they got a number that was too high above Millikan’s, they thought something must be wrong—and they would look for and find a reason why something might be wrong. When they got a number closer to Millikan’s value they didn’t look so hard. And so they eliminated the numbers that were too far off, and did other things like that. We’ve learned those tricks nowadays, and now we don’t have that kind of a disease.",
+      "zh": "为什么他们没有立即发现新数字更高？这是科学家们感到羞耻的事情——这段历史——因为很明显人们做了这样的事情：当他们得到的数字高于密立根的数字时，他们认为一定有什么地方出了问题——他们会寻找并找到某些事情可能出错的原因。当他们得到一个更接近密立根值的数字时，他们就不再那么努力了。因此他们消除了相差太大的数字，并做了其他类似的事情。现在我们已经学会了这些技巧，现在我们没有那种病了。"
+    },
+    {
+      "id": "S020",
+      "type": "paragraph",
+      "en": "But this long history of learning how to not fool ourselves—of having utter scientific integrity—is, I’m sorry to say, something that we haven’t specifically included in any particular course that I know of. We just hope you’ve caught on by osmosis.",
+      "zh": "但我很遗憾地说，我们并没有在我所知道的任何特定课程中专门包含学习如何不欺骗自己的悠久历史，即拥有完全的科学完整性。我们只是希望您已经通过潜移默化而理解了。"
+    },
+    {
+      "id": "S021",
+      "type": "paragraph",
+      "en": "The first principle is that you must not fool yourself—and you are the easiest person to fool. So you have to be very careful about that. After you’ve not fooled yourself, it’s easy not to fool other scientists. You just have to be honest in a conventional way after that.",
+      "zh": "第一条原则是：你不能欺骗自己，而你自己恰恰是最容易受骗的人。所以，在这一点上你必须格外小心。等你不再欺骗自己之后，要做到不欺骗其他科学家就容易了；此后，你只需要按通常的标准保持诚实。"
+    },
+    {
+      "id": "S022",
+      "type": "paragraph",
+      "en": "I would like to add something that’s not essential to the science, but something I kind of believe, which is that you should not fool the layman when you’re talking as a scientist. I’m not trying to tell you what to do about cheating on your wife, or fooling your girlfriend, or something like that, when you’re not trying to be a scientist, but just trying to be an ordinary human being. We’ll leave those problems up to you and your rabbi. I’m talking about a specific, extra type of integrity that is not lying, but bending over backwards to show how you’re maybe wrong, that you ought to do when acting as a scientist. And this is our responsibility as scientists, certainly to other scientists, and I think to laymen.",
+      "zh": "我想补充一些对科学来说并不重要的东西，但我有点相信，那就是当你以科学家的身份说话时，你不应该欺骗外行。当你不想成为一名科学家，而只是想成为一个普通人时，我并不是想告诉你如何应对欺骗你的妻子，或愚弄你的女朋友，或类似的事情。我们会把这些问题留给你和你的拉比。我说的是一种特定的、额外的正直，它不是说谎，而是竭尽全力地表明你可能错了，这是作为一名科学家时应该做的。这是我们作为科学家的责任，当然也是对其他科学家的责任，我认为也是对外行人的责任。"
+    },
+    {
+      "id": "S023",
+      "type": "paragraph",
+      "en": "For example, I was a little surprised when I was talking to a friend who was going to go on the radio. He does work on cosmology and astronomy, and he wondered how he would explain what the applications of this work were. “Well,” I said, “there aren’t any.” He said, “Yes, but then we won’t get support for more research of this kind.” I think that’s kind of dishonest. If you’re representing yourself as a scientist, then you should explain to the layman what you’re doing—and if they don’t want to support you under those circumstances, then that’s their decision.",
+      "zh": "例如，当我和一个要上广播的朋友交谈时，我有点惊讶。他从事宇宙学和天文学研究，他想知道如何解释这项工作的应用。 “嗯，”我说，“没有。”他说：“是的，但是这样我们就不会得到对更多此类研究的支持。”我认为这有点不诚实。如果你把自己描绘成一名科学家，那么你应该向外行解释你在做什么——如果他们在这种情况下不想支持你，那就是他们的决定。"
+    },
+    {
+      "id": "S024",
+      "type": "paragraph",
+      "en": "One example of the principle is this: If you’ve made up your mind to test a theory, or you want to explain some idea, you should always decide to publish it whichever way it comes out. If we only publish results of a certain kind, we can make the argument look good. We must publish both kinds of result. For example—let’s take advertising again—suppose some particular cigarette has some particular property, like low nicotine. It’s published widely by the company that this means it is good for you—they don’t say, for instance, that the tars are a different proportion, or that something else is the matter with the cigarette. In other words, publication probability depends upon the answer. That should not be done.",
+      "zh": "这一原则的一个例子是这样的：如果你决定测试一种理论，或者你想解释一些想法，你应该始终决定以任何方式发布它。如果我们只发表某种结果，我们就能让论证看起来不错。我们必须公布这两种结果。例如，让我们再次以广告为例，假设某种特定的香烟具有某些特定的特性，例如低尼古丁。该公司广泛宣传这意味着它对你有好处——例如，他们没有说焦油的比例不同，或者香烟有其他问题。换句话说，发表概率取决于答案。不应该这样做。"
+    },
+    {
+      "id": "S025",
+      "type": "paragraph",
+      "en": "I say that’s also important in giving certain types of government advice. Supposing a senator asked you for advice about whether drilling a hole should be done in his state; and you decide it would be better in some other state. If you don’t publish such a result, it seems to me you’re not giving scientific advice. You’re being used. If your answer happens to come out in the direction the government or the politicians like, they can use it as an argument in their favor; if it comes out the other way, they don’t publish it at all. That’s not giving scientific advice.",
+      "zh": "我认为这对于提供某些类型的政府建议也很重要。假设一位参议员向您征求关于是否应该在他的州钻孔的建议；然后你决定在其他州会更好。如果你不发表这样的结果，在我看来你就没有提供科学建议。你被利用了。如果你的答案恰好符合政府或政客喜欢的方向，他们可以用它作为对他们有利的论据；如果结果相反，他们根本不会发表。这并没有提供科学建议。"
+    },
+    {
+      "id": "S026",
+      "type": "paragraph",
+      "en": "Other kinds of errors are more characteristic of poor science. When I was at Cornell. I often talked to the people in the psychology department. One of the students told me she wanted to do an experiment that went something like this—I don’t remember it in detail, but it had been found by others that under certain circumstances, X, rats did something, A. She was curious as to whether, if she changed the circumstances to Y, they would still do, A. So her proposal was to do the experiment under circumstances Y and see if they still did A.",
+      "zh": "其他类型的错误更多的是不良科学的特征。当我在康奈尔大学的时候。我经常和心理学系的人交谈。其中一个学生告诉我，她想做一个类似这样的实验——我记不太清了，但其他人发现，在某种情况下，X，老鼠做了一些事情，A。她很好奇，如果她把情况改为Y，它们是否仍然会做A。所以她的建议是在情况Y下做实验，看看它们是否仍然做A。"
+    },
+    {
+      "id": "S027",
+      "type": "paragraph",
+      "en": "I explained to her that it was necessary first to repeat in her laboratory the experiment of the other person—to do it under condition X to see if she could also get result A—and then change to Y and see if A changed. Then she would know that the real difference was the thing she thought she had under control.",
+      "zh": "我向她解释说，要先在她的实验室重复别人的实验，在X条件下做，看看她是否也能得到结果A，然后换成Y，看看A是否改变。然后她就会知道，真正的区别在于她认为自己可以控制的事情。"
+    },
+    {
+      "id": "S028",
+      "type": "paragraph",
+      "en": "She was very delighted with this new idea, and went to her professor. And his reply was, no, you cannot do that, because the experiment has already been done and you would be wasting time. This was in about 1935 or so, and it seems to have been the general policy then to not try to repeat psychological experiments, but only to change the conditions and see what happens.",
+      "zh": "她对这个新想法非常高兴，并去找了她的教授。他的回答是，不，你不能这样做，因为实验已经完成了，你会浪费时间。那是在大约 1935 年左右，当时的一般政策似乎是不尝试重复心理实验，而只是改变条件，看看会发生什么。"
+    },
+    {
+      "id": "S029",
+      "type": "paragraph",
+      "en": "Nowadays there’s a certain danger of the same thing happening, even in the famous field of physics. I was shocked to hear of an experiment done at the big accelerator at the National Accelerator Laboratory, where a person used deuterium. In order to compare his heavy hydrogen results to what might happen to light hydrogen he had to use data from someone else’s experiment on light hydrogen, which was done on different apparatus. When asked he said it was because he couldn’t get time on the program (because there’s so little time and it’s such expensive apparatus) to do the experiment with light hydrogen on this apparatus because there wouldn’t be any new result. And so the men in charge of programs at NAL are so anxious for new results, in order to get more money to keep the thing going for public relations purposes, they are destroying—possibly—the value of the experiments themselves, which is the whole purpose of the thing. It is often hard for the experimenters there to complete their work as their scientific integrity demands.",
+      "zh": "如今，即使在著名的物理学领域，同样的事情也存在一定的危险。我很震惊地听到在国家加速器实验室的大型加速器上进行的一项实验，其中有人使用了氘。为了将他的重氢结果与轻氢可能发生的情况进行比较，他必须使用其他人在不同设备上进行的轻氢实验的数据。当被问及时，他说这是因为他无法抽出时间在该设备上进行轻氢实验（因为时间太少而且设备又那么昂贵），因为不会有任何新结果。因此，NAL 项目的负责人非常渴望新的结果，为了获得更多的资金来维持项目的公共关系目的，他们可能正在破坏实验本身的价值，而这正是实验的全部目的。那里的实验人员通常很难按照其科学诚信的要求完成他们的工作。"
+    },
+    {
+      "id": "S030",
+      "type": "paragraph",
+      "en": "All experiments in psychology are not of this type, however. For example, there have been many experiments running rats through all kinds of mazes, and so on—with little clear result. But in 1937 a man named Young did a very interesting one. He had a long corridor with doors all along one side where the rats came in, and doors along the other side where the food was. He wanted to see if he could train the rats to go in at the third door down from wherever he started them off. No. The rats went immediately to the door where the food had been the time before.",
+      "zh": "然而，所有心理学实验都不是这种类型。例如，已经有很多实验让老鼠穿过各种迷宫等等，但几乎没有明确的结果。但在 1937 年，一位名叫杨的人做了一件非常有趣的事。他有一条长长的走廊，一侧是老鼠进来的地方，另一侧是食物所在的地方。他想看看能否训练老鼠从他开始的地方往下的第三扇门进去。不，老鼠立刻就到了上次放食物的门口。"
+    },
+    {
+      "id": "S031",
+      "type": "paragraph",
+      "en": "The question was, how did the rats know, because the corridor was so beautifully built and so uniform, that this was the same door as before? Obviously there was something about the door that was different from the other doors. So he painted the doors very carefully, arranging the textures on the faces of the doors exactly the same. Still the rats could tell. Then he thought maybe the rats were smelling the food, so he used chemicals to change the smell after each run. Still the rats could tell. Then he realized the rats might be able to tell by seeing the lights and the arrangement in the laboratory like any commonsense person. So he covered the corridor, and, still the rats could tell.",
+      "zh": "问题是，走廊建造得如此精美，又如此统一，老鼠怎么知道这和以前是同一扇门呢？显然，这扇门与其他的门有些不同。所以他对门进行了非常仔细的涂漆，将门面上的纹理排列得一模一样。但老鼠还是能看出来。然后他认为老鼠可能是在闻食物的味道，所以他在每次跑步后都使用化学物质来改变气味。但老鼠还是能看出来。然后他意识到，老鼠也许能够像任何有常识的人一样通过看到实验室里的灯光和布置来判断。所以他覆盖了走廊，但老鼠仍然能看出来。"
+    },
+    {
+      "id": "S032",
+      "type": "paragraph",
+      "en": "He finally found that they could tell by the way the floor sounded when they ran over it. And he could only fix that by putting his corridor in sand. So he covered one after another of all possible clues and finally was able to fool the rats so that they had to learn to go in the third door. If he relaxed any of his conditions, the rats could tell.",
+      "zh": "他终于发现，他们可以通过跑过地板时发出的声音来判断。他只能把走廊铺上沙子来解决这个问题。于是，他把所有可能的线索都一一罗列出来，终于骗过了老鼠，让它们学会了从第三扇门进去。如果他放松任何条件，老鼠就能知道。"
+    },
+    {
+      "id": "S033",
+      "type": "paragraph",
+      "en": "Now, from a scientific standpoint, that is an A‑Number‑l experiment. That is the experiment that makes rat‑running experiments sensible, because it uncovers the clues that the rat is really using—not what you think it’s using. And that is the experiment that tells exactly what conditions you have to use in order to be careful and control everything in an experiment with rat‑running.",
+      "zh": "从科学的角度说，这是一个一流的实验。正是这样的实验，让老鼠走迷宫之类的研究变得有意义，因为它揭示了老鼠实际使用的线索，而不是你以为它使用的线索。它也准确地告诉你，做这种实验时必须满足哪些条件，才能谨慎地把一切因素控制住。"
+    },
+    {
+      "id": "S034",
+      "type": "paragraph",
+      "en": "I looked into the subsequent history of this research. The subsequent experiment, and the one after that, never referred to Mr. Young. They never used any of his criteria of putting the corridor on sand, or being very careful. They just went right on running rats in the same old way, and paid no attention to the great discoveries of Mr. Young, and his papers are not referred to, because he didn’t discover anything about the rats. In fact, he discovered all the things you have to do to discover something about rats. But not paying attention to experiments like that is a characteristic of Cargo Cult Science.",
+      "zh": "我研究了这项研究的后续历史。随后的实验以及之后的实验都没有提到杨先生。他们从来没有使用他的任何标准，即把走廊放在沙子上，或者非常小心。他们只是用同样的老方法继续跑老鼠，没有注意到杨先生的伟大发现，他的论文也没有被提及，因为他没有发现任何关于老鼠的东西。事实上，他发现了所有你必须做的事情才能发现关于老鼠的事情。但不重视这样的实验是货物崇拜科学的一个特点。"
+    },
+    {
+      "id": "S035",
+      "type": "paragraph",
+      "en": "Another example is the ESP experiments of Mr. Rhine, and other people. As various people have made criticisms—and they themselves have made criticisms of their own experiments—they improve the techniques so that the effects are smaller, and smaller, and smaller until they gradually disappear. All the parapsychologists are looking for some experiment that can be repeated—that you can do again and get the same effect—statistically, even. They run a million rats—no, it’s people this time—they do a lot of things and get a certain statistical effect. Next time they try it they don’t get it any more. And now you find a man saying that it is an irrelevant demand to expect a repeatable experiment. This is science?",
+      "zh": "另一个例子是莱茵先生等人的ESP实验。由于不同的人提出了批评——他们自己也对自己的实验提出了批评——他们改进了技术，使效果越来越小，直到逐渐消失。所有的超心理学家都在寻找一些可以重复的实验——你可以再次做并获得相同的效果——甚至在统计上也是如此。他们运行了一百万只老鼠——不，这次是人——他们做了很多事情并得到了一定的统计效果。下次他们尝试时，他们就不再明白了。现在你发现一个人说期望一个可重复的实验是一个无关紧要的要求。这就是科学吗？"
+    },
+    {
+      "id": "S036",
+      "type": "paragraph",
+      "en": "This man also speaks about a new institution, in a talk in which he was resigning as Director of the Institute of Parapsychology. And, in telling people what to do next, he says that one of the things they have to do is be sure they only train students who have shown their ability to get PSI results to an acceptable extent—not to waste their time on those ambitious and interested students who get only chance results. It is very dangerous to have such a policy in teaching—to teach students only how to get certain results, rather than how to do an experiment with scientific integrity.",
+      "zh": "这个人还在一次演讲中谈到了一个新机构，当时他辞去了超心理学研究所所长的职务。而且，在告诉人们下一步该做什么时，他说他们必须做的一件事是确保只培训那些已经证明有能力将 PSI 结果达到可接受程度的学生，而不是把时间浪费在那些雄心勃勃、感兴趣、只是偶然获得结果的学生身上。在教学中采取这样的政策——只教学生如何得到一定的结果，而不是如何科学地进行实验，是非常危险的。"
+    },
+    {
+      "id": "S037",
+      "type": "paragraph",
+      "en": "So I wish to you—I have no more time, so I have just one wish for you—the good luck to be somewhere where you are free to maintain the kind of integrity I have described, and where you do not feel forced by a need to maintain your position in the organization, or financial support, or so on, to lose your integrity. May you have that freedom. May I also give you one last bit of advice: Never say that you’ll give a talk unless you know clearly what you’re going to talk about and more or less what you’re going to say.",
+      "zh": "因此，我祝愿你们——时间不多了，我只有这一个愿望——有幸身处一个可以自由保持上述诚信的地方，不必为了维持自己在组织里的位置、获得经费支持等等，而被迫放弃诚信。愿你们拥有这样的自由。最后，再给你们一句忠告：除非你已经清楚自己要讲什么，而且大致知道会说些什么，否则千万别答应做一场演讲。"
+    }
+  ]
+}

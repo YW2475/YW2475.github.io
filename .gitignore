@@ -24,6 +24,9 @@ biome.json
 _site/
 target/
 
+# Original essay files are local study material, not a publication bundle.
+content/_essay/originals-2026-10-12/
+
 # temp files
 *.tmp
 *.bak

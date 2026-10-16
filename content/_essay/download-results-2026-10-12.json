@@ -1,0 +1,223 @@
+[
+  {
+    "id": "leopold-mountain",
+    "result": {
+      "summary": {
+        "total": 1,
+        "downloaded": 0,
+        "seconds": 1.6
+      },
+      "manifest": "D:\\1 Coding\\Typst\\BLOG\\content\\_essay\\originals-2026-10-12\\leopold-mountain\\manifest.json",
+      "results": [
+        {
+          "title": "Thinking Like a Mountain",
+          "status": "pdf_fetch_failed",
+          "url": "https://eowilsonfoundation.org/wp-content/uploads/2023/10/Thinking-Like-a-Mountain-Essay.pdf",
+          "err": "HTTP 403",
+          "si_requested": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "dillard-weasels",
+    "result": {
+      "summary": {
+        "total": 1,
+        "downloaded": 1,
+        "seconds": 1.8
+      },
+      "manifest": "D:\\1 Coding\\Typst\\BLOG\\content\\_essay\\originals-2026-10-12\\dillard-weasels\\manifest.json",
+      "results": [
+        {
+          "title": "Living Like Weasels",
+          "status": "open_access_downloaded",
+          "provider": "direct_url",
+          "accessMode": "open_access",
+          "ok": true,
+          "file": "D:\\1 Coding\\Typst\\BLOG\\content\\_essay\\originals-2026-10-12\\dillard-weasels\\PDFs\\Living_Like_Weasels.pdf",
+          "bytes": 89417,
+          "sha256": "e7394f020a74af07c134d4d3d48c7e2fdc2c32a3b867ec2eb5fa2e6e7aaaa656",
+          "contentType": "application/pdf",
+          "format": "pdf",
+          "source": "https://openlab.citytech.cuny.edu/fyw-oer-eng-1101-rhetorical-modes/files/2017/12/6.1-Descriptive-Mode-Dillard-Questions.pdf",
+          "si_requested": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "sacks-colorblind",
+    "result": {
+      "summary": {
+        "total": 1,
+        "downloaded": 1,
+        "seconds": 3.4
+      },
+      "manifest": "D:\\1 Coding\\Typst\\BLOG\\content\\_essay\\originals-2026-10-12\\sacks-colorblind\\manifest.json",
+      "results": [
+        {
+          "title": "The Case of the Colorblind Painter",
+          "status": "open_access_downloaded",
+          "provider": "direct_url",
+          "accessMode": "open_access",
+          "ok": true,
+          "file": "D:\\1 Coding\\Typst\\BLOG\\content\\_essay\\originals-2026-10-12\\sacks-colorblind\\PDFs\\The_Case_of_the_Colorblind_Painter.pdf",
+          "bytes": 188495,
+          "sha256": "cdea7fcb5ba55baf10c17fd2e09ddaf15d0039b708aa6e50fabbf706affb7ad1",
+          "contentType": "application/pdf",
+          "format": "pdf",
+          "source": "https://www.csh.rit.edu/~oguns/school/psychology/Articles/colorblindpainter.pdf",
+          "si_requested": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "flexner-useless",
+    "result": {
+      "summary": {
+        "total": 1,
+        "downloaded": 0,
+        "seconds": 0.8
+      },
+      "manifest": "D:\\1 Coding\\Typst\\BLOG\\content\\_essay\\originals-2026-10-12\\flexner-useless\\manifest.json",
+      "results": [
+        {
+          "title": "The Usefulness of Useless Knowledge",
+          "status": "pdf_fetch_failed",
+          "url": "https://www.ias.edu/ideas/usefulness-useless-knowledge",
+          "err": "HTTP 403",
+          "si_requested": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "borges-wilkins",
+    "result": {
+      "summary": {
+        "total": 1,
+        "downloaded": 0,
+        "seconds": 10.7
+      },
+      "manifest": "D:\\1 Coding\\Typst\\BLOG\\content\\_essay\\originals-2026-10-12\\borges-wilkins\\manifest.json",
+      "results": [
+        {
+          "title": "The Analytical Language of John Wilkins",
+          "status": "failed_after_retry",
+          "url": "https://sites.evergreen.edu/politicalshakespeares/wp-content/uploads/sites/226/2015/12/Borges-The-Analytical-Language-of-JW.pdf",
+          "err": "TypeError: fetch failed",
+          "si_requested": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "woolf-moth",
+    "result": {
+      "summary": {
+        "total": 1,
+        "downloaded": 0,
+        "seconds": 6.1
+      },
+      "manifest": "D:\\1 Coding\\Typst\\BLOG\\content\\_essay\\originals-2026-10-12\\woolf-moth\\manifest.json",
+      "results": [
+        {
+          "title": "The Death of the Moth",
+          "status": "pdf_fetch_failed",
+          "url": "https://docenti.unimc.it/sharifah.alatas/teaching/2019/21609/files/Woolf_DeathoftheMoth.pdf",
+          "err": "HTTP 404",
+          "si_requested": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "thurber-bed",
+    "result": {
+      "summary": {
+        "total": 1,
+        "downloaded": 0,
+        "seconds": 10.6
+      },
+      "manifest": "D:\\1 Coding\\Typst\\BLOG\\content\\_essay\\originals-2026-10-12\\thurber-bed\\manifest.json",
+      "results": [
+        {
+          "title": "The Night the Bed Fell",
+          "status": "failed_after_retry",
+          "url": "https://www.newyorker.com/magazine/1933/07/08/my-life-and-hard-times-i-the-night-the-bed-fell",
+          "err": "TypeError: fetch failed",
+          "si_requested": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "russell-idleness",
+    "result": {
+      "summary": {
+        "total": 1,
+        "downloaded": 0,
+        "seconds": 2.2
+      },
+      "manifest": "D:\\1 Coding\\Typst\\BLOG\\content\\_essay\\originals-2026-10-12\\russell-idleness\\manifest.json",
+      "results": [
+        {
+          "title": "In Praise of Idleness",
+          "status": "pdf_fetch_failed",
+          "url": "https://humanum.arts.cuhk.edu.hk/humftp/E-text/Russell/praise.htm",
+          "err": "not_fulltext_html",
+          "si_requested": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "boulding-spaceship",
+    "result": {
+      "summary": {
+        "total": 1,
+        "downloaded": 1,
+        "seconds": 2.3
+      },
+      "manifest": "D:\\1 Coding\\Typst\\BLOG\\content\\_essay\\originals-2026-10-12\\boulding-spaceship\\manifest.json",
+      "results": [
+        {
+          "title": "The Economics of the Coming Spaceship Earth",
+          "status": "open_access_downloaded",
+          "provider": "direct_url",
+          "accessMode": "open_access",
+          "ok": true,
+          "file": "D:\\1 Coding\\Typst\\BLOG\\content\\_essay\\originals-2026-10-12\\boulding-spaceship\\PDFs\\The_Economics_of_the_Coming_Spaceship_Earth.pdf",
+          "bytes": 77216,
+          "sha256": "e2f6097610c8403fdf7eaef86fac56e8c6c3a83aeda1a41a21ef2b98d3eb261f",
+          "contentType": "application/pdf",
+          "format": "pdf",
+          "source": "https://arachnid.biosci.utexas.edu/courses/THOC/Readings/Boulding_SpaceshipEarth.pdf",
+          "si_requested": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "schelling-segregation",
+    "result": {
+      "summary": {
+        "total": 1,
+        "downloaded": 0,
+        "seconds": 10.7
+      },
+      "manifest": "D:\\1 Coding\\Typst\\BLOG\\content\\_essay\\originals-2026-10-12\\schelling-segregation\\manifest.json",
+      "results": [
+        {
+          "title": "Dynamic Models of Segregation",
+          "status": "failed_after_retry",
+          "url": "https://acoustique.ec-lyon.fr/chaos/Schelling71.pdf",
+          "err": "TypeError: fetch failed",
+          "si_requested": false
+        }
+      ]
+    }
+  }
+]

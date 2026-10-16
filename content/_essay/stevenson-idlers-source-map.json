@@ -1,0 +1,203 @@
+{
+  "paper": {
+    "id": "stevenson-idlers",
+    "title": "An Apology for Idlers",
+    "zh_title": "为闲人辩护",
+    "author": "Robert Louis Stevenson",
+    "year": 1877,
+    "category": "文学与思想",
+    "kind": "full",
+    "folder": "An Apology for Idlers 1877",
+    "source": "https://www.gutenberg.org/files/386/386-h/386-h.htm",
+    "description": "为闲逛、观察和聊天所带来的生活与学习辩护。"
+  },
+  "scope": "full",
+  "source_format": "html",
+  "translation_method": "assistant-retranslated from the complete public-domain essay",
+  "glossary": {},
+  "extraction_notes": "Original essay only; modern navigation, licenses, collection contents, and editor introductions excluded. Original verse and dialogue retained.",
+  "blocks": [
+    {
+      "id": "S001",
+      "type": "paragraph",
+      "en": "“ Boswell: We grow weary when idle.”",
+      "zh": "“博斯韦尔：闲着的时候，我们会感到厌倦。”",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S002",
+      "type": "paragraph",
+      "en": "“ Johnson: That is, sir, because others being busy, we want company; but if we were idle, there would be no growing weary; we should all entertain one another.”",
+      "zh": "“约翰逊：先生，那是因为别人都忙，我们缺少伴侣；要是大家都闲着，就不会厌倦了，我们可以彼此逗乐。”",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S003",
+      "type": "paragraph",
+      "en": "Just now, when every one is bound, under pain of a decree in absence convicting them of lèse-respectability, to enter on some lucrative profession, and labour therein with something not far short of enthusiasm, a cry from the opposite party who are content when they have enough, and like to look on and enjoy in the meanwhile, savours a little of bravado and gasconade. And yet this should not be. Idleness so called, which does not consist in doing nothing, but in doing a great deal not recognised in the dogmatic formularies of the ruling class, has as good a right to state its position as industry itself. It is admitted that the presence of people who refuse to enter in the great handicap race for sixpenny pieces, is at once an insult and a disenchantment for those who do. A fine fellow (as we see so many) takes his determination, votes for the sixpences, and in the emphatic Americanism, it “goes for” them. And while such an one is ploughing distressfully up the road, it is not hard to understand his resentment, when he perceives cool persons in the meadows by the wayside, lying with a handkerchief over their ears and a glass at their elbow. Alexander is touched in a very delicate place by the disregard of Diogenes. Where was the glory of having taken Rome for these tumultuous barbarians, who poured into the Senate house, and found the Fathers sitting silent and unmoved by their success? It is a sore thing to have laboured along and scaled the arduous hilltops, and when all is done, find humanity indifferent to your achievement. Hence physicists condemn the unphysical; financiers have only a superficial toleration for those who know little of stocks; literary persons despise the unlettered; and people of all pursuits combine to disparage those who have none.",
+      "zh": "如今，人人都必须从事一种有利可图的职业，近乎热情地在其中劳作，否则就会被缺席判决，定下冒犯体面之罪。在这种时候，另一派人——有了足够的东西便知足，同时喜欢旁观、享受生活的人——发出一声呐喊，似乎就带上了几分逞强和吹嘘。不过，事情本不该如此。所谓闲散，并不是什么也不做，而是做许多统治阶层的教条程式并不承认的事情；它和勤奋一样，有权陈述自己的立场。必须承认，那些拒绝参加争夺六便士的大型让步赛的人，对参加者既是一种侮辱，也是一种扫兴。一个好青年——这样的人我们见得多了——下定决心，选择六便士，然后用那句有力的美国话说，便“冲着它去”。当这样的人辛苦地沿路跋涉时，看到路边草地上那些悠然自得的人，手帕盖着耳朵躺下，身边放着一杯饮料，他的愤恨就不难理解。第欧根尼的无动于衷，触痛了亚历山大极敏感的地方。那些喧闹的蛮族涌入元老院，发现元老们静坐着，对他们的胜利毫不动容，那么占领罗马的荣耀又在哪里？辛苦劳作、爬上险峻的山巅，事成之后却发现人类对你的成就漠不关心，是很难受的。因此，物理学家谴责不研究物理的人，金融家对不懂股票的人只保持表面的容忍，文人鄙视不读书的人；各行各业的人又联合起来，贬低那些没有事业的人。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S004",
+      "type": "paragraph",
+      "en": "But though this is one difficulty of the subject, it is not the greatest. You could not be put in prison for speaking against industry, but you can be sent to Coventry for speaking like a fool. The greatest difficulty with most subjects is to do them well; therefore, please to remember this is an apology. It is certain that much may be judiciously argued in favour of diligence; only there is something to be said against it, and that is what, on the present occasion, I have to say. To state one argument is not necessarily to be deaf to all others, and that a man has written a book of travels in Montenegro, is no reason why he should never have been to Richmond.",
+      "zh": "不过，虽然这算是本题的一项困难，却还不是最大的。反对勤奋，不会使你入狱；但说话像个傻子，却会使你遭人冷落。多数题目最大的难处，是把它写好；所以，请记住，这是一篇辩护。为勤勉提出许多明智的论据，当然不难；只是反对它，也有些话可说，而这正是我此刻要说的。提出一个论点，并不必然意味着听不进所有其他论点；一个人写了本黑山游记，也不能证明他从没去过里士满。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S005",
+      "type": "paragraph",
+      "en": "It is surely beyond a doubt that people should be a good deal idle in youth. For though here and there a Lord Macaulay may escape from school honours with all his wits about him, most boys pay so dear for their medals that they never afterwards have a shot in their locker, and begin the world bankrupt. And the same holds true during all the time a lad is educating himself, or suffering others to educate him. It must have been a very foolish old gentleman who addressed Johnson at Oxford in these words: “Young man, ply your book diligently now, and acquire a stock of knowledge; for when years come upon you, you will find that poring upon books will be but an irksome task.” The old gentleman seems to have been unaware that many other things besides reading grow irksome, and not a few become impossible, by the time a man has to use spectacles and cannot walk without a stick. Books are good enough in their own way, but they are a mighty bloodless substitute for life. It seems a pity to sit, like the Lady of Shalott, peering into a mirror, with your back turned on all the bustle and glamour of reality. And if a man reads very hard, as the old anecdote reminds us, he will have little time for thought.",
+      "zh": "毫无疑问，人在年轻时应该有相当多的闲暇。尽管偶尔会有一位麦考莱勋爵，摆脱学校荣誉后还保全全部才智，多数男孩却为奖章付出了如此昂贵的代价，后来弹药库里再无一发子弹，一踏进世界就已经破产。整个自我教育、或承受别人教育的青年时代，情形都一样。曾在牛津这样劝约翰逊的老先生，一定很愚蠢：“年轻人，现在要勤奋读书，储存知识；等年岁上来，你就会发现埋头书本只是烦人的差事。”他似乎不知道，等人要戴眼镜、没有手杖就走不了路时，除了读书，很多事情都会变得烦人，不少甚至已经不可能。书自有其好处，却是生活的一种极无血色的替代品。像夏洛特的姑娘那样，坐着凝视镜子，把背朝向现实中的热闹与光彩，实在可惜。而且，如那则旧轶事提醒我们的，一个人若读书读得太拼命，留给思考的时间就少了。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S006",
+      "type": "paragraph",
+      "en": "If you look back on your own education, I am sure it will not be the full, vivid, instructive hours of truantry that you regret; you would rather cancel some lack-lustre periods between sleep and waking in the class. For my own part, I have attended a good many lectures in my time. I still remember that the spinning of a top is a case of Kinetic Stability. I still remember that Emphyteusis is not a disease, nor Stillicide a crime. But though I would not willingly part with such scraps of science, I do not set the same store by them as by certain other odds and ends that I came by in the open street while I was playing truant. This is not the moment to dilate on that mighty place of education, which was the favourite school of Dickens and of Balzac, and turns out yearly many inglorious masters in the Science of the Aspects of Life. Suffice it to say this: if a lad does not learn in the streets, it is because he has no faculty of learning. Nor is the truant always in the streets, for if he prefers, he may go out by the gardened suburbs into the country. He may pitch on some tuft of lilacs over a burn, and smoke innumerable pipes to the tune of the water on the stones. A bird will sing in the thicket. And there he may fall into a vein of kindly thought, and see things in a new perspective. Why, if this be not education, what is? We may conceive Mr. Worldly Wiseman accosting such an one, and the conversation that should thereupon ensue:—",
+      "zh": "回顾你自己的教育，我相信你不会后悔那些充实、生动、富于教益的逃学时光；你更想删掉的，是课堂上那些半睡半醒、黯淡无趣的时段。我自己这些年听过不少课，至今还记得陀螺旋转是动力稳定性的一个例子；还记得永佃权不是疾病，滴水权也不是罪行。虽然我不愿丢掉这些零星知识，却并不把它们看得比逃学时在街头捡来的其他杂七杂八的东西更重要。现在不适合详谈那个伟大的教育场所；它是狄更斯与巴尔扎克最喜欢的学校，每年都培养出不少默默无闻、精通生活百态的高手。说这一点就够了：一个少年如果在街头学不到东西，那是因为他没有学习的本领。逃学者也不总待在街上；愿意的话，他可以穿过花园遍布的郊区，走向乡间。在小溪上方的一丛丁香旁安顿下来，伴着水流过石头的声音，抽上无数斗烟。灌木丛里会有鸟歌唱。他可以在那里进入一种温厚的思绪，从新的角度看事情。如果这不叫教育，那么什么才叫教育？我们不妨设想，世故智者先生上前向这样一个少年搭话，于是发生如下对话：",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S007",
+      "type": "paragraph",
+      "en": "“How now, young fellow, what dost thou here?”",
+      "zh": "“喂，年轻人，你在这里做什么？”",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S008",
+      "type": "paragraph",
+      "en": "“Truly, sir, I take mine ease.”",
+      "zh": "“说实话，先生，我在歇着。”",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S009",
+      "type": "paragraph",
+      "en": "“Is not this the hour of the class? and should’st thou not be plying thy Book with diligence, to the end thou mayest obtain knowledge?”",
+      "zh": "“现在不是上课的时候吗？你难道不该勤奋研读你的书，以便获取知识？”",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S010",
+      "type": "paragraph",
+      "en": "“Nay, but thus also I follow after Learning, by your leave.”",
+      "zh": "“不，恕我说一句，我这样也在追求学问。”",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S011",
+      "type": "paragraph",
+      "en": "“Learning, quotha! After what fashion, I pray thee? Is it mathematics?”",
+      "zh": "“学问，你说！请问，什么学问？是数学吗？”",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S012",
+      "type": "paragraph",
+      "en": "“No, to be sure.”",
+      "zh": "“当然不是。”",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S013",
+      "type": "paragraph",
+      "en": "“Is it metaphysics?”",
+      "zh": "“是形而上学吗？”",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S014",
+      "type": "paragraph",
+      "en": "“Nor that.”",
+      "zh": "“也不是。”",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S015",
+      "type": "paragraph",
+      "en": "“Is it some language?”",
+      "zh": "“是什么语言吗？”",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S016",
+      "type": "paragraph",
+      "en": "“Nay, it is no language.”",
+      "zh": "“不，不是语言。”",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S017",
+      "type": "paragraph",
+      "en": "“Is it a trade?”",
+      "zh": "“是一门手艺吗？”",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S018",
+      "type": "paragraph",
+      "en": "“Nor a trade neither.”",
+      "zh": "“也不是手艺。”",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S019",
+      "type": "paragraph",
+      "en": "“Why, then, what is’t?”",
+      "zh": "“那么，到底是什么？”",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S020",
+      "type": "paragraph",
+      "en": "“Indeed, sir, as a time may soon come for me to go upon Pilgrimage, I am desirous to note what is commonly done by persons in my case, and where are the ugliest Sloughs and Thickets on the Road; as also, what manner of Staff is of the best service. Moreover, I lie here, by this water, to learn by root-of-heart a lesson which my master teaches me to call Peace, or Contentment.”",
+      "zh": "“先生，确实如此：不久以后，也许就轮到我踏上朝圣之旅了，所以我想留意，与我境况相同的人通常怎么做，路上最可怕的泥沼与荆棘在哪里，以及哪种手杖最有用。此外，我躺在这水边，要把一门功课深深学到心里；我的老师教我把它叫作平和，或知足。”",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S021",
+      "type": "paragraph",
+      "en": "Hereupon Mr. Worldly Wiseman was much commoved with passion, and shaking his cane with a very threatful countenance, broke forth upon this wise: “Learning, quotha!” said he; “I would have all such rogues scourged by the Hangman!”",
+      "zh": "听到这里，世故智者先生怒火中烧，脸色凶狠，摇着手杖，如此发作起来：“学问，你说！”他喊道，“我倒想让刽子手把这类流氓全都鞭打一顿！”",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S022",
+      "type": "paragraph",
+      "en": "And so he would go his way, ruffling out his cravat with a crackle of starch, like a turkey when it spread its feathers.",
+      "zh": "随后，他便走自己的路去了，像火鸡展开羽毛一样，把领巾抖得淀粉浆发出沙沙响声。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S023",
+      "type": "paragraph",
+      "en": "Now this, of Mr. Wiseman’s, is the common opinion. A fact is not called a fact, but a piece of gossip, if it does not fall into one of your scholastic categories. An inquiry must be in some acknowledged direction, with a name to go by; or else you are not inquiring at all, only lounging; and the work-house is too good for you. It is supposed that all knowledge is at the bottom of a well, or the far end of a telescope. Sainte-Beuve, as he grew older, came to regard all experience as a single great book, in which to study for a few years ere we go hence; and it seemed all one to him whether you should read in Chapter xx., which is the differential calculus, or in Chapter xxxix., which is hearing the band play in the gardens. As a matter of fact, an intelligent person, looking out of his eyes and hearkening in his ears, with a smile on his face all the time, will get more true education than many another in a life of heroic vigils. There is certainly some chill and arid knowledge to be found upon the summits of formal and laborious science; but it is all round about you, and for the trouble of looking, that you will acquire the warm and palpitating facts of life. While others are filling their memory with a lumber of words, one-half of which they will forget before the week be out, your truant may learn some really useful art: to play the fiddle, to know a good cigar, or to speak with ease and opportunity to all varieties of men. Many who have “plied their book diligently,” and know all about some one branch or another of accepted lore, come out of the study with an ancient and owl-like demeanour, and prove dry, stockish, and dyspeptic in all the better and brighter parts of life. Many make a large fortune, who remain underbred and pathetically stupid to the last. And meantime there goes the idler, who began life along with them—by your leave, a different picture. He has had time to take care of his health and his spirits; he has been a great deal in the open air, which is the most salutary of all things for both body and mind; and if he has never read the great Book in very recondite places, he has dipped into it and skimmed it over to excellent purpose. Might not the student afford some Hebrew roots, and the business man some of his half-crowns, for a share of the idler’s knowledge of life at large, and Art of Living? Nay, and the idler has another and more important quality than these. I mean his wisdom. He who has much looked on at the childish satisfaction of other people in their hobbies, will regard his own with only a very ironical indulgence. He will not be heard among the dogmatists. He will have a great and cool allowance for all sorts of people and opinions. If he finds no out-of-the-way truths, he will identify himself with no very burning falsehood. His way takes him along a by-road, not much frequented, but very even and pleasant, which is called Commonplace Lane, and leads to the Belvedere of Commonsense. Thence he shall command an agreeable, if no very noble prospect; and while others behold the East and West, the Devil and the Sunrise, he will be contentedly aware of a sort of morning hour upon all sublunary things, with an army of shadows running speedily and in many different directions into the great daylight of Eternity. The shadows and the generations, the shrill doctors and the plangent wars, go by into ultimate silence and emptiness; but underneath all this, a man may see, out of the Belvedere windows, much green and peaceful landscape; many firelit parlours; good people laughing, drinking, and making love as they did before the Flood or the French Revolution; and the old shepherd telling his tale under the hawthorn.",
+      "zh": "智者先生的意见，正是一般人的意见。一个事实若不属于你某种学究式的分类，就不能叫事实。研究必须沿着某个公认的方向，而且有一个叫得出的名称；否则，你根本不是在研究，只是在闲荡，连济贫院都太便宜你了。人们仿佛认为，全部知识都藏在井底，或者望远镜的另一端。圣伯夫上了年纪以后，渐渐把全部经验看成一本大书，我们离去以前，应在其中学习几年；在他看来，读第二十章微积分，与读第三十九章听花园里的乐队演奏，似乎没有什么分别。事实上，一个聪明人用眼睛看、用耳朵听，始终面带微笑，所得的真正教育，会比另一些人毕生英勇地熬夜苦读还多。正规而艰苦的科学高峰上，确有冷峻干燥的知识；但温暖而跳动的生活事实，却在你四周，只要肯看便能获得。当别人把大堆词语塞进记忆，而其中一半还不到周末就忘了，你那逃学者也许已经学会某种真正有用的本领：拉小提琴、辨识好雪茄，或者自在而适时地与各种人交谈。许多人“勤奋研读书本”，把某个公认知识领域摸得透透的，却带着衰老而猫头鹰般的神态走出书房，在生活中较好、较明亮的部分，显得枯燥、木讷、消化不良。许多人赚了一大笔钱，到头来仍没教养，蠢得可怜。与此同时，与他们一起开始人生的闲人，却走着另一条路——恕我说，完全是另一幅景象。他有时间照顾健康与心情，常在户外活动，而这最有益于身心；即使没有在那本大书的深奥章节中读过，也已通过涉猎与浏览获益良多。学生难道不能舍出几个希伯来语词根，商人难道不能舍出几枚半克朗，换一点闲人对于人生的知识与生活的艺术？不，闲人还有一种更重要的品质，我指的是智慧。一个人见惯了别人沉醉于各自癖好的孩子气满足，就会带着几分讽刺来宽容自己的癖好。他不会跻身教条主义者；对各种人物、各种观点，他都有广阔而冷静的容纳。即使发现不了奇异的真理，也不至于投身什么炽烈的谬误。他沿着一条少有人走、却平坦宜人的岔路，叫作平常巷，通向常识观景台。那里看到的景色，虽不很崇高，却很悦目。当别人注视东方与西方、魔鬼与日出，他会知足地觉察，月下万物仿佛都处在晨间，无数影子迅速朝不同方向奔入永恒的广大白昼。影子与世代、尖声高谈的学者与轰鸣的战争，最终都走向寂静与空无；然而在这一切之下，透过观景台的窗子，还能看见大片绿色而宁静的风景，许多炉火照亮的客厅，好人们笑着、喝着、谈情说爱，就像大洪水或法国大革命之前一样，还有那位老牧羊人在山楂树下数着他的羊。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S024",
+      "type": "paragraph",
+      "en": "Extreme busyness, whether at school or college, kirk or market, is a symptom of deficient vitality; and a faculty for idleness implies a catholic appetite and a strong sense of personal identity. There is a sort of dead-alive, hackneyed people about, who are scarcely conscious of living except in the exercise of some conventional occupation. Bring these fellows into the country, or set them aboard ship, and you will see how they pine for their desk or their study. They have no curiosity; they cannot give themselves over to random provocations; they do not take pleasure in the exercise of their faculties for its own sake; and unless Necessity lays about them with a stick, they will even stand still. It is no good speaking to such folk: they cannot be idle, their nature is not generous enough; and they pass those hours in a sort of coma, which are not dedicated to furious moiling in the gold-mill. When they do not require to go to the office, when they are not hungry and have no mind to drink, the whole breathing world is a blank to them. If they have to wait an hour or so for a train, they fall into a stupid trance with their eyes open. To see them, you would suppose there was nothing to look at and no one to speak with; you would imagine they were paralysed or alienated; and yet very possibly they are hard workers in their own way, and have good eyesight for a flaw in a deed or a turn of the market. They have been to school and college, but all the time they had their eye on the medal; they have gone about in the world and mixed with clever people, but all the time they were thinking of their own affairs. As if a man’s soul were not too small to begin with, they have dwarfed and narrowed theirs by a life of all work and no play; until here they are at forty, with a listless attention, a mind vacant of all material of amusement, and not one thought to rub against another, while they wait for the train. Before he was breeched, he might have clambered on the boxes; when he was twenty, he would have stared at the girls; but now the pipe is smoked out, the snuff-box empty, and my gentleman sits bolt upright upon a bench, with lamentable eyes. This does not appeal to me as being Success in Life.",
+      "zh": "无论在学校、大学、教堂还是市场，极端忙碌都是生命力不足的征兆；而能够闲下来，意味着广泛的兴趣与强烈的自我意识。周围有一类半死不活、因循惯例的人，除了从事某种传统职业，几乎感觉不到自己活着。把这些人带到乡间，或放到船上，你便会看见他们多么怀念办公桌与书房。他们没有好奇心，不能随意接受偶然的诱引，不会仅仅因为运用能力本身而快乐；除非“必要”拿着棍子逼迫，他们甚至一动不动。跟这种人说话没用：他们不能闲着，本性不够宽阔；凡不是在赚钱机器里疯狂劳作的时段，他们都像昏迷了一样。无须去办公室、不饿、也不想喝东西的时候，整个有呼吸的世界对他们都是一片空白。若须等一小时火车，他们便睁着眼陷入呆滞的恍惚。看见他们，你会以为什么都没有可看、谁都没有可谈，仿佛他们瘫痪或精神失常了；然而，他们在自己的领域里很可能是勤劳的人，对于契约的瑕疵或市场的变化，眼光极好。他们上过学校与大学，可一直盯着奖章；他们在世界上行走，与聪明人交往，可一直想着自己的事。仿佛人的灵魂还不够小，他们又用只工作不玩耍的一生，把它缩小、收窄。于是到了四十岁，等火车时，他们注意力无精打采，脑里没有一点可供娱乐的材料，也没有两个念头可互相摩擦。小时候，尚未穿长裤，也许会爬上箱子；二十岁时，会盯着姑娘看；如今，烟斗抽完了，鼻烟盒也空了，这位先生便笔直坐在长凳上，眼神可怜。这在我看来，算不上人生成功。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S025",
+      "type": "paragraph",
+      "en": "But it is not only the person himself who suffers from his busy habits, but his wife and children, his friends and relations, and down to the very people he sits with in a railway carriage or an omnibus. Perpetual devotion to what a man calls his business, is only to be sustained by perpetual neglect of many other things. And it is not by any means certain that a man’s business is the most important thing he has to do. To an impartial estimate it will seem clear that many of the wisest, most virtuous, and most beneficent parts that are to be played upon the Theatre of Life are filled by gratuitous performers, and pass, among the world at large, as phases of idleness. For in that Theatre, not only the walking gentlemen, singing chambermaids, and diligent fiddlers in the orchestra, but those who look on and clap their hands from the benches, do really play a part and fulfil important offices towards the general result. You are no doubt very dependent on the care of your lawyer and stockbroker, of the guards and signalmen who convey you rapidly from place to place, and the policemen who walk the streets for your protection; but is there not a thought of gratitude in your heart for certain other benefactors who set you smiling when they fall in your way, or season your dinner with good company? Colonel Newcome helped to lose his friend’s money; Fred Bayham had an ugly trick of borrowing shirts; and yet they were better people to fall among than Mr. Barnes. And though Falstaff was neither sober nor very honest, I think I could name one or two long-faced Barabbases whom the world could better have done without. Hazlitt mentions that he was more sensible of obligation to Northcote, who had never done him anything he could call a service, than to his whole circle of ostentatious friends; for he thought a good companion emphatically the greatest benefactor. I know there are people in the world who cannot feel grateful unless the favour has been done them at the cost of pain and difficulty. But this is a churlish disposition. A man may send you six sheets of letter-paper covered with the most entertaining gossip, or you may pass half an hour pleasantly, perhaps profitably, over an article of his; do you think the service would be greater, if he had made the manuscript in his heart’s blood, like a compact with the devil? Do you really fancy you should be more beholden to your correspondent, if he had been damning you all the while for your importunity? Pleasures are more beneficial than duties because, like the quality of mercy, they are not strained, and they are twice blest. There must always be two to a kiss, and there may be a score in a jest; but wherever there is an element of sacrifice, the favour is conferred with pain, and, among generous people, received with confusion. There is no duty we so much underrate as the duty of being happy. By being happy, we sow anonymous benefits upon the world, which remain unknown even to ourselves, or when they are disclosed, surprise nobody so much as the benefactor. The other day, a ragged, barefoot boy ran down the street after a marble, with so jolly an air that he set every one he passed into a good humour; one of these persons, who had been delivered from more than usually black thoughts, stopped the little fellow and gave him some money with this remark: “You see what sometimes comes of looking pleased.” If he had looked pleased before, he had now to look both pleased and mystified. For my part, I justify this encouragement of smiling rather than tearful children; I do not wish to pay for tears anywhere but upon the stage; but I am prepared to deal largely in the opposite commodity. A happy man or woman is a better thing to find than a five-pound note. He or she is a radiating focus of goodwill; and their entrance into a room is as though another candle had been lighted. We need not care whether they could prove the forty-seventh proposition; they do a better thing than that, they practically demonstrate the great Theorem of the Liveableness of Life. Consequently, if a person cannot be happy without remaining idle, idle he should remain. It is a revolutionary precept; but thanks to hunger and the workhouse, one not easily to be abused; and within practical limits, it is one of the most incontestable truths in the whole Body of Morality. Look at one of your industrious fellows for a moment, I beseech you. He sows hurry and reaps indigestion; he puts a vast deal of activity out to interest, and receives a large measure of nervous derangement in return. Either he absents himself entirely from all fellowship, and lives a recluse in a garret, with carpet slippers and a leaden inkpot; or he comes among people swiftly and bitterly, in a contraction of his whole nervous system, to discharge some temper before he returns to work. I do not care how much or how well he works, this fellow is an evil feature in other people’s lives. They would be happier if he were dead. They could easier do without his services in the Circumlocution Office, than they can tolerate his fractious spirits. He poisons life at the well-head. It is better to be beggared out of hand by a scapegrace nephew, than daily hag-ridden by a peevish uncle.",
+      "zh": "可是，受忙碌习惯之苦的不只有本人，还有妻子儿女、朋友亲戚，直到和他同坐一节火车车厢或公共马车的人。要不停投入他所谓的事业，就只能不停忽略其他许多事情。而事业也绝非必然是他该做的最重要的事。公平衡量起来，在人生舞台上，许多最明智、最有德行、最有益的角色，由不取报酬的演员承担，在世人眼里却算作闲散。在这个剧场里，不但走动的先生、唱歌的女仆、乐队中勤奋的提琴手，连坐在长凳上观看、拍手的人，也确实扮演角色，为整体效果尽重要的职责。无疑，你非常依赖律师与股票经纪人的照料，依赖把你迅速送到各地的列车员与信号员，依赖巡街保护你的警察；但对于某些别的恩人，你心里难道不该有一点感激？他们与你偶然相遇便使你微笑，或以良好陪伴为你的晚餐增味。纽科姆上校帮助朋友亏掉了钱；弗雷德·贝厄姆有借人衬衫的坏习惯；然而，与他们交往，都比与巴恩斯先生交往好。福斯塔夫虽不清醒，也不太诚实，我却能举出一两个面孔严肃的巴拉巴，世上没有他们反而更好。黑兹利特说，相较于那群爱炫耀的朋友，他更觉得自己欠诺思科特的人情，尽管后者从没做过什么能叫作服务的事；因为他认为，好伴侣确实是最大的恩人。我知道，世上有人非要别人历经痛苦和困难来施恩，才肯感激；可这是鄙陋的性情。一个人寄给你六页写满有趣闲话的信纸，或者你愉快地、甚至有收益地读了他半小时文章；难道他像与魔鬼立约那样，用心头血写成稿子，服务就更大了？难道通信者因为你的纠缠，在写信时一路咒骂你，你欠他的反而更多？快乐比职责更有益，因为它像慈悲的品质，不出于勉强，而且带来双重祝福。亲吻总需要两个人，笑话也许能惠及二十个人；但一旦带上牺牲，施恩者就痛苦，慷慨的受惠者也窘迫。没有什么职责，像使自己快乐的职责这样被我们低估。快乐时，我们向世界播下匿名的善意，连自己都不知道；即使被发现，最惊讶的往往也是施恩的人。前几天，一个衣衫褴褛、赤着脚的男孩，沿街追一颗弹珠，神态那么欢快，把经过的每个人都逗高兴了。其中一个人，刚摆脱比平常更阴郁的思绪，拦住孩子，给了他一点钱，说：“你看，看起来高兴，有时就会有这种结果。”他先前若已经高兴，现在还得兼带着困惑。我赞成奖励爱笑的孩子，而不是爱哭的孩子；除了在舞台上，我不愿为眼泪付钱，却愿大量购买相反的商品。遇见一个快乐的男人或女人，比捡到一张五镑钞票更好。他或她，是散发善意的中心；走进房间，就像又点亮了一支蜡烛。我们不必在意他们是否能证明第四十七号命题；他们做了更好的事，实际证明了“生活值得过”的伟大定理。因此，一个人若必须闲着才会快乐，就应该闲着。这是一条革命性原则，但幸亏有饥饿与济贫院，不容易遭滥用；在实际限度内，它是整个道德体系中最无可争辩的真理之一。请看一眼那些勤勉的人：他播下匆忙，收获消化不良；把大量活动拿去生息，回报却是大量神经紊乱。要么完全不与人交往，穿着地毯拖鞋、守着铅墨水瓶，隐居阁楼；要么匆匆、恶狠狠地冲进人群，整个神经系统缩成一团，发一通脾气，再回去工作。无论他工作多少、多好，这家伙都是别人生活里的坏成分。他要是死了，别人会更快乐。他在绕圈子衙门提供的服务，人们更容易舍弃；他乖戾的脾气，人们却难以忍受。他在生命的泉源里下毒。宁可被一个败家侄子立刻弄得一贫如洗，也不要每天受一个暴躁叔父的折磨。",
+      "translation_status": "assistant-retranslated"
+    },
+    {
+      "id": "S026",
+      "type": "paragraph",
+      "en": "And what, in God’s name, is all this pother about? For what cause do they embitter their own and other people’s lives? That a man should publish three or thirty articles a year, that he should finish or not finish his great allegorical picture, are questions of little interest to the world. The ranks of life are full; and although a thousand fall, there are always some to go into the breach. When they told Joan of Arc she should be at home minding women’s work, she answered there were plenty to spin and wash. And so, even with your own rare gifts! When nature is “so careless of the single life,” why should we coddle ourselves into the fancy that our own is of exceptional importance? Suppose Shakespeare had been knocked on the head some dark night in Sir Thomas Lucy’s preserves, the world would have wagged on better or worse, the pitcher gone to the well, the scythe to the corn, and the student to his book; and no one been any the wiser of the loss. There are not many works extant, if you look the alternative all over, which are worth the price of a pound of tobacco to a man of limited means. This is a sobering reflection for the proudest of our earthly vanities. Even a tobacconist may, upon consideration, find no great cause for personal vainglory in the phrase; for although tobacco is an admirable sedative, the qualities necessary for retailing it are neither rare nor precious in themselves. Alas and alas! you may take it how you will, but the services of no single individual are indispensable. Atlas was just a gentleman with a protracted nightmare! And yet you see merchants who go and labour themselves into a great fortune and thence into the bankruptcy court; scribblers who keep scribbling at little articles until their temper is a cross to all who come about them, as though Pharaoh should set the Israelites to make a pin instead of a pyramid: and fine young men who work themselves into a decline, and are driven off in a hearse with white plumes upon it. Would you not suppose these persons had been whispered, by the Master of the Ceremonies, the promise of some momentous destiny? and that this lukewarm bullet on which they play their farces was the bull’s-eye and centrepoint of all the universe? And yet it is not so. The ends for which they give away their priceless youth, for all they know, may be chimerical or hurtful; the glory and riches they expect may never come, or may find them indifferent; and they and the world they inhabit are so inconsiderable that the mind freezes at the thought.",
+      "zh": "那么，天哪，这一切折腾到底为了什么？究竟为了什么，他们要使自己和别人的生活变得苦涩？一个人一年发表三篇还是三十篇文章，完成还是没完成那幅伟大的寓意画，对世界都没多大关系。生命的队伍早已排满；即使一千人倒下，总有人填补缺口。有人对贞德说，她应待在家里做女人的活，她回答，纺纱洗衣的人已经很多了。即使你有罕见的天赋，也一样！自然既然“对单个生命如此漠不关心”，我们又何必纵容自己，以为自己格外重要？假设某个黑夜，莎士比亚在托马斯·卢西爵士的猎场被人一棍打死，世界仍会或好或坏地继续转：水罐照样去井边，镰刀照样去田间，学生照样读书，没人会知道失去了什么。若把各种可能彻底想一遍，现存的作品里，很少有什么对一个手头拮据的人来说，值得用一磅烟草的钱来换。这足以使我们尘世间最自负的虚荣冷静下来。连烟草商想一想，或许也不会从这句话中找到太多自夸的理由：烟草虽然是可敬的镇静剂，但零售烟草所需的品质，本身既不罕见，也不珍贵。唉，唉！你爱怎么理解都行，可没有哪一个人的服务不可或缺。阿特拉斯不过是一位做了场漫长噩梦的先生！然而，你仍看见商人先拼命赚来大笔财富，再一路劳动到破产法庭；小文人不停写小文章，直到脾气成了身边所有人的重担，仿佛法老不是让以色列人造金字塔，而是造一枚针；还有优秀青年，把自己工作得虚弱衰败，最后被装饰白羽毛的灵车运走。难道看起来不像，司仪已悄悄许给这些人一个重大的命运，而他们在其上演闹剧的这颗温吞弹丸，就是整个宇宙的靶心与中心？然而，并非如此。据他们所知，他们为之献出无价青春的目标，也许虚幻，甚至有害；所期待的荣耀与财富，也许永远不来，或来时他们已不在乎。而他们，以及他们居住的世界，微不足道到只要想一想，就令人心头发冷。",
+      "translation_status": "assistant-retranslated"
+    }
+  ]
+}

@@ -17,6 +17,12 @@
 )
 
 #tufted.blog-entry(
+  date: "1862",
+  path: "Walking 1862/",
+  title: "Walking / 散步",
+)
+
+#tufted.blog-entry(
   date: "1870",
   path: "Habits of the Pampas Woodpecker 1870/",
   title: "Note on the Habits of the Pampas Woodpecker / 潘帕斯啄木鸟习性札记",
@@ -32,6 +38,36 @@
   date: "1926",
   path: "On Being the Right Size 1926/",
   title: "On Being the Right Size / 论大小适宜",
+)
+
+#tufted.blog-entry(
+  date: "1946",
+  path: "Some Thoughts on the Common Toad 1946/",
+  title: "Some Thoughts on the Common Toad / 普通蟾蜍随想",
+)
+
+#tufted.blog-entry(
+  date: "1948",
+  path: "Death of a Pig 1948/",
+  title: "Death of a Pig / 一头猪之死",
+)
+
+#tufted.blog-entry(
+  date: "1949",
+  path: "Thinking Like a Mountain 1949/",
+  title: "Thinking Like a Mountain / 像山一样思考",
+)
+
+#tufted.blog-entry(
+  date: "1967",
+  path: "On the Origin of Mitosing Cells 1967/",
+  title: "On the Origin of Mitosing Cells / 有丝分裂细胞的起源",
+)
+
+#tufted.blog-entry(
+  date: "1971",
+  path: "Geometry for the Selfish Herd 1971/",
+  title: "Geometry for the Selfish Herd / 自私兽群的几何学",
 )
 
 #tufted.blog-entry(
@@ -67,6 +103,12 @@
 )
 
 #tufted.blog-entry(
+  date: "1939",
+  path: "The Usefulness of Useless Knowledge 1939/",
+  title: "The Usefulness of Useless Knowledge / 无用知识的用处",
+)
+
+#tufted.blog-entry(
   date: "1974",
   path: "What Is It Like to Be a Bat 1974/",
   title: "What Is It Like to Be a Bat? / 成为一只蝙蝠是什么感觉？",
@@ -76,6 +118,18 @@
   date: "1974",
   path: "Judgment under Uncertainty 1974/",
   title: "Judgment under Uncertainty: Heuristics and Biases / 不确定性下的判断：启发式与偏差",
+)
+
+#tufted.blog-entry(
+  date: "1974",
+  path: "Cargo Cult Science 1974/",
+  title: "Cargo Cult Science / 货物崇拜科学",
+)
+
+#tufted.blog-entry(
+  date: "1980",
+  path: "Minds Brains and Programs 1980/",
+  title: "Minds, Brains, and Programs / 心智、大脑与程序",
 )
 
 == Mathematics and Physics / 数学与物理
@@ -105,9 +159,21 @@
 )
 
 #tufted.blog-entry(
+  date: "1962",
+  path: "The Architecture of Complexity 1962/",
+  title: "The Architecture of Complexity / 复杂性的结构",
+)
+
+#tufted.blog-entry(
   date: "1972",
   path: "Predictability and the Butterfly Effect 1972/",
   title: "Predictability: Does the Flap of a Butterfly's Wings in Brazil Set Off a Tornado in Texas? / 可预测性：巴西蝴蝶扇动翅膀，会在得克萨斯引发龙卷风吗？",
+)
+
+#tufted.blog-entry(
+  date: "1972",
+  path: "More Is Different 1972/",
+  title: "More Is Different / 更多就是不同",
 )
 
 == Information and Technology / 信息与技术
@@ -122,6 +188,12 @@
   date: "1950",
   path: "Computing Machinery and Intelligence 1950/",
   title: "Computing Machinery and Intelligence / 计算机器与智能",
+)
+
+#tufted.blog-entry(
+  date: "1960",
+  path: "Man-Computer Symbiosis 1960/",
+  title: "Man-Computer Symbiosis / 人机共生",
 )
 
 #tufted.blog-entry(
@@ -157,9 +229,45 @@
 )
 
 #tufted.blog-entry(
+  date: "1932",
+  path: "In Praise of Idleness 1932/",
+  title: "In Praise of Idleness / 懒惰颂",
+)
+
+#tufted.blog-entry(
   date: "1956",
   path: "Body Ritual among the Nacirema 1956/",
   title: "Body Ritual among the Nacirema / 纳西雷马人的身体仪式",
+)
+
+#tufted.blog-entry(
+  date: "1958",
+  path: "I Pencil 1958/",
+  title: "I, Pencil / 我，铅笔",
+)
+
+#tufted.blog-entry(
+  date: "1966",
+  path: "The Economics of the Coming Spaceship Earth 1966/",
+  title: "The Economics of the Coming Spaceship Earth / 即将到来的宇宙飞船地球的经济学",
+)
+
+#tufted.blog-entry(
+  date: "1970",
+  path: "The Market for Lemons 1970/",
+  title: "The Market for “Lemons”: Quality Uncertainty and the Market Mechanism / “柠檬”市场：质量不确定性与市场机制",
+)
+
+#tufted.blog-entry(
+  date: "1972",
+  path: "Deep Play 1972/",
+  title: "Deep Play: Notes on the Balinese Cockfight / 深层游戏：巴厘岛斗鸡札记",
+)
+
+#tufted.blog-entry(
+  date: "1973",
+  path: "The Strength of Weak Ties 1973/",
+  title: "The Strength of Weak Ties / 弱关系的力量",
 )
 
 #tufted.blog-entry(
@@ -171,13 +279,67 @@
 == Literature and Ideas / 文学与思想
 
 #tufted.blog-entry(
+  date: "1710",
+  path: "A Meditation upon a Broomstick 1710/",
+  title: "A Meditation upon a Broomstick / 扫帚沉思录",
+)
+
+#tufted.blog-entry(
   date: "1729",
   path: "A Modest Proposal 1729/",
   title: "A Modest Proposal / 一个小小的建议",
 )
 
 #tufted.blog-entry(
+  date: "1838",
+  path: "Notes on Marriage 1838/",
+  title: "Notes on Marriage / 结婚札记",
+)
+
+#tufted.blog-entry(
+  date: "1877",
+  path: "An Apology for Idlers 1877/",
+  title: "An Apology for Idlers / 为闲人辩护",
+)
+
+#tufted.blog-entry(
+  date: "1908",
+  path: "On Running after Ones Hat 1908/",
+  title: "On Running after One’s Hat / 追帽子",
+)
+
+#tufted.blog-entry(
   date: "1909",
   path: "A Piece of Chalk 1909/",
   title: "A Piece of Chalk / 一块粉笔",
+)
+
+#tufted.blog-entry(
+  date: "1917",
+  path: "Taming the Bicycle 1917/",
+  title: "Taming the Bicycle / 驯服自行车",
+)
+
+#tufted.blog-entry(
+  date: "1918",
+  path: "Going Out for a Walk 1918/",
+  title: "Going Out for a Walk / 出去散步",
+)
+
+#tufted.blog-entry(
+  date: "1933",
+  path: "In Praise of Shadows 1933/",
+  title: "In Praise of Shadows / 阴翳礼赞",
+)
+
+#tufted.blog-entry(
+  date: "1933",
+  path: "The Night the Bed Fell 1933/",
+  title: "The Night the Bed Fell / 床塌下来的那一夜",
+)
+
+#tufted.blog-entry(
+  date: "1942",
+  path: "The Death of the Moth 1942/",
+  title: "The Death of the Moth / 飞蛾之死",
 )

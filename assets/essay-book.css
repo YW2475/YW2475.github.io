@@ -1,0 +1,12 @@
+/* Original numeric tables remain within the reading column. */
+article .essay-book-table {
+  width: 55%;
+  max-width: 55%;
+  margin: 1.4rem 0;
+  font-size: 1.1rem;
+  line-height: 1.5;
+}
+article .essay-book-table td { padding: 0.45rem 0.6rem; }
+@media (max-width: 760px) {
+  article .essay-book-table { width: 100%; max-width: 100%; }
+}

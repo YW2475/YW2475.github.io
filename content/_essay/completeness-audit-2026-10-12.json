@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-12",
+  "visible_local_entries": 54,
+  "unfinished": [
+    {
+      "id": "dillard-weasels",
+      "title": "Living Like Weasels",
+      "status": "incomplete"
+    },
+    {
+      "id": "borges-wilkins",
+      "title": "The Analytical Language of John Wilkins",
+      "status": "incomplete"
+    },
+    {
+      "id": "sacks-colorblind",
+      "title": "The Case of the Colorblind Painter",
+      "status": "incomplete"
+    },
+    {
+      "id": "schelling-segregation",
+      "title": "Dynamic Models of Segregation",
+      "status": "incomplete"
+    }
+  ],
+  "darwin_coverage": {
+    "body_chapters": [
+      "CHAPTER I.",
+      "CHAPTER II.",
+      "CHAPTER III.",
+      "CHAPTER IV.",
+      "CHAPTER V.",
+      "CHAPTER VI.",
+      "CHAPTER VII."
+    ],
+    "figures": 15,
+    "table_fragments": 8,
+    "includes_index": true,
+    "text_blocks": 802,
+    "original_words": 62397
+  },
+  "verification_scope": "Darwin source structure; Geertz and Boulding complete-source coverage, original notes, paired rendered blocks; incremental build. Prior entries not re-collated word-for-word.",
+  "searle_edition": "Complete supplied penultimate draft; final published edition unverified.",
+  "new_licensed_reader_checks": [
+    {
+      "id": "geertz-cockfight",
+      "rendered_pairs": 159,
+      "notes": 43
+    },
+    {
+      "id": "boulding-spaceship",
+      "rendered_pairs": 23,
+      "notes": 4
+    }
+  ],
+  "downloaded_original_pdfs": 6
+}

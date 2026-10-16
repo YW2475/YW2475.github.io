@@ -1,0 +1,164 @@
+#import "../index.typ": template, tufted
+#import "../../_essay/bilingual.typ": zh
+#show: template.with(
+  title: "Death of a Pig",
+  author: "E. B. White",
+  date: "1948",
+  description: "一头原本养来吃的猪生病后，作者怎样成为它的医生和朋友？",
+  lang: "en",
+  css: ("/assets/custom.css", "/assets/essay.css"),
+)
+
+= Death of a Pig / 一头猪之死
+
+== 1
+
+#html.p(id: "en-S001")[#text("I spent several days and nights in mid-September with an ailing pig and I feel driven to account for this stretch of time, more particularly since the pig died at last, and I lived, and things might easily have gone the other way round and none left to do the accounting. Even now, so close to the event, I cannot recall the hours sharply and am not ready to say whether death came on the third night or the fourth night. This uncertainty afflicts me with a sense of personal deterioration; if I were in decent health I would know how many nights I had sat up with a pig.")]
+
+#zh(id: "S001")[#text("九月中旬，我和一头病猪一起度过了几天几夜，觉得有必要把这段日子记下来；尤其因为猪最后死了，我却活着，而事情也完全可能倒过来，连记述的人都不剩。直到现在，事情才过去不久，我也记不清那些时刻，不敢肯定它死于第三个夜晚，还是第四个夜晚。这种不确定让我觉得自己已经衰败了；倘若我精神健全，就该知道自己究竟陪一头猪熬过了几个晚上。")]
+
+#html.p(id: "en-S002")[#text("The scheme of buying a spring pig in blossomtime, feeding it through summer and fall, and butchering it when the solid cold weather arrives, is a familiar scheme to me and follows an antique pattern. It is a tragedy enacted on most farms with perfect fidelity to the original script. The murder, being premeditated, is in the first degree but is quick and skillful, and the smoked bacon and ham provide a ceremonial ending whose fitness is seldom questioned.")]
+
+#zh(id: "S002")[#text("春天花开时买一头小猪，整个夏秋喂养它，等寒冷真正到来再把它宰掉，这套安排我很熟悉，也沿袭着古老的模式。大多数农场都上演这出悲剧，而且忠实地遵照原剧本。这场谋杀是预谋的，属于一级谋杀，却又迅速而熟练；熏肉和火腿则为仪式画上句号，其合宜与否几乎从未遭到质疑。")]
+
+#html.p(id: "en-S003")[#text("Once in a while something slips — one of the actors goes up in his lines and the whole performance stumbles and halts. My pig simply failed to show up for a meal. The alarm spread rapidly. The classic outline of the tragedy was lost. I found myself cast suddenly in the role of pig’s friend and physician— a farcical character with an enema bag for a prop. I had a presentiment, the very first afternoon, that the play would never regain its balance and that my sympathies were now wholly with the pig. This was slapstick — the sort of dramatic treatment which instantly appealed to my old dachshund, Fred, who joined the vigil, held the bag, and, when all was over, presided at the interment. When we slid the body into the grave, we both were shaken to the core. The loss we felt was not the loss of ham but the loss of pig. He had evidently become precious to me, not that he represented a distant nourishment in a hungry time, but that he had suffered in a suffering world. But I’m running ahead of my story and shall have to go back.")]
+
+#zh(id: "S003")[#text("偶尔，事情会出岔子：某个演员忘了台词，整场演出便踉跄着停了下来。我的猪只是不肯来吃一顿饭。警报迅速传开，悲剧的经典轮廓就此丢失。我发现自己突然被安排演猪的朋友兼医生——一个拿着灌肠袋当道具的滑稽角色。第一个下午，我就有一种预感：这出戏再也无法恢复平衡，而我的同情已经全在猪那一边了。这是一场闹剧，立刻引起了我那条老腊肠犬弗雷德的兴趣。他加入守夜，帮忙照料；一切结束后，又主持了葬礼。把尸体滑进墓穴时，我们俩都从内心深处受到震动。我们失去的不是火腿，而是猪。它显然已经变得珍贵，不是因为在饥饿的日子里，它象征着遥远的食物，而是因为它在一个充满苦难的世界里受过苦。不过，我已经讲到故事的前面去了，得先退回来。")]
+
+#html.p(id: "en-S004")[#text("My pigpen is at the bottom of an old orchard below the house. The pigs I have raised have lived in a faded building which once was an icehouse. There is a pleasant yard to move about in, shaded by an apple tree which overhangs the low rail fence. A pig couldn’t ask for anything better — or none has, at any rate. The sawdust in the icehouse makes a comfortable bottom in which to root, and a warm bed. This sawdust, however, came under suspicion when the pig took sick. One of my neighbors said he thought the pig would have done better on new ground — the same principle that applies in planting potatoes. He said there might be something unhealthy about that sawdust, that he never thought well of sawdust. It was about four o’clock in the afternoon when I first noticed that there was something wrong with the pig. He failed to appear at the trough for his supper, and when a pig (or a child) refuses supper a chill wave of fear runs through any household, or icehousehold. After examining my pig, who was stretched out in the sawdust inside the building, I went to the phone and cranked it four times. Mr. Henderson answered. “ What’s good for a sick pig?” I asked. (There is never any identification needed on a country phone; the person on the other end knows who is talking by the sound of the voice and by the character of the question.) “ I don’t know, I never had a sick pig,” said Mr. Henderson, “ but I can find out quick enough. You hang up and I’ll call Irving.”")]
+
+#zh(id: "S004")[#text("我的猪圈位于房子下面一个旧果园的底部。我养的猪住在一栋褪色的建筑里，那里曾经是一个冰库。有一个宜人的院子，可以在院子里走动，院子里有一棵苹果树，树荫悬在低矮的铁栅栏上。猪不能要求更好的东西了——或者说，无论如何，没有人能要求更好的东西了。冰窖里的锯末可以为植物提供舒适的底部和温暖的床。然而，当猪生病时，这些木屑就受到了怀疑。我的一位邻居说，他认为猪在新的土地上会表现得更好——这与种植土豆的原则相同。他说那些锯末可能有一些不健康的东西，他从来不认为锯末有什么好处。下午四点左右，我第一次注意到猪出了问题。他没有出现在食槽处吃晚饭，当一头猪（或一个孩子）拒绝吃晚饭时，任何家庭或冰屋都会感到一阵寒意。检查完我的猪（它躺在大楼内的锯末中）后，我走到电话旁，按了四次。亨德森先生接了电话。 “对病猪有什么好处？”我问。 （乡村电话从来不需要任何身份证明；另一端的人通过声音和问题的性质知道谁在说话。）“我不知道，我从来没有养过病猪，”亨德森先生说，“但我可以很快找到答案。你挂断电话，我会打电话给欧文。”")]
+
+#html.p(id: "en-S005")[#text("Mr. Henderson was back on the line again in five minutes. “ Irving says roll him over on his back and give him two ounces of castor oil or sweet oil, and if that doesn’t do the trick give him an injection of soapy water. He says he’s almost sure the pig’s plugged up, and even if he’s wrong, it can’t do any harm.”")]
+
+#zh(id: "S005")[#text("五分钟后，亨德森先生再次接通。 “欧文说把他翻过来，仰面朝天，给他两盎司蓖麻油或甜油，如果还不行，就给他注射肥皂水。他说他几乎可以肯定猪被堵住了，即使他错了，也不会造成任何伤害。”")]
+
+#html.p(id: "en-S006")[#text("I thanked Mr. Henderson. I didn’t go right down to the pig, though. I sank into a chair and sat still for a few minutes to think about my troubles, and then I got up and went to the barn, catching up on some odds and ends that needed tending to. Unconsciously I held off, for an hour, the deed by which I would officially recognize the collapse of the performance of raising a pig; I wanted no interruption in the regularity of feeding, the steadiness of growth, the even succession of days. I wanted no interruption, wanted no oil, no deviation. I just wanted to keep on raising a pig, full meal after full meal, spring into summer into fall. I didn’t even know whether there were two ounces of castor oil on the place.")]
+
+#zh(id: "S006")[#text("我感谢亨德森先生。不过，我并没有直接去找猪。我一屁股坐在椅子上，静静地坐了几分钟，想了想我的烦恼，然后起身去了谷仓，收拾了一些需要处理的零碎东西。我不知不觉地推迟了一个小时，以正式承认养猪表现的失败。我希望喂养的规律性、生长的稳定性以及连续的日子不会受到干扰。我想要没有中断，想要没有石油，没有偏差。我只想继续养猪，饱饱一顿，春夏秋冬。我什至不知道这个地方是否有两盎司蓖麻油。")]
+
+== 2
+
+#html.p(id: "en-S007")[#text("Shortly after five o’clock I remembered that we had been invited out to dinner that night and realized that if I were to dose a pig there was no time to lose. The dinner date seemed a familiar conflict: I move in a desultory society and often a week or two will roll by without my going to anybody’s house to dinner or anyone’s coming to mine, but when an occasion does arise, and I am summoned, something usually turns up (an hour or two in advance) to make all human intercourse seem vastly inappropriate. I have come to believe that there is in hostesses a special power of divination, and that they deliberately arrange dinners to coincide with pig failure or some other sort of failure. At any rate, it was after five o’clock and I knew I could put off no longer the evil hour.")]
+
+#zh(id: "S007")[#text("五点刚过，我想起那天晚上我们被邀请出去吃晚饭，我意识到如果我要给一头猪注射药物，就不能浪费时间了。晚餐约会似乎是一个熟悉的冲突：我生活在一个杂乱无章的社会，通常一两周过去了，我没有去任何人家吃晚饭，也没有人来我家，但是当确实有场合，我被召唤时，通常会出现一些东西（提前一两个小时），使所有人类交往都显得非常不合适。我开始相信女主人有一种特殊的占卜能力，她们故意安排晚餐，以配合猪失败或其他某种失败。无论如何，现在已经五点多了，我知道我不能再推迟这个邪恶的时刻了。")]
+
+#html.p(id: "en-S008")[#text("When my son and I arrived at the pigyard, armed with a small bottle of castor oil and a length of clothesline, the pig had emerged from his house and was standing in the middle of his yard, listlessly. He gave us a slim greeting. I could see that he felt uncomfortable and uncertain. I had brought the clothesline thinking I’d have to tie him (the pig weighed more than a hundred pounds) but we never used it. My son reached down, grabbed both front legs, upset him quickly, and when he opened his mouth to scream I turned the oil into his throat — a pink, corrugated area I had never seen before. I had just time to read the label while the neck of the bottle was in his mouth. It said Puretest. The screams, slightly muffled by oil, were pitched in the hysterically high range of pigsound, as though torture were being carried out, but they didn’t last long: it was all over rather suddenly, and, his legs released, the pig righted himself.")]
+
+#zh(id: "S008")[#text("当我和儿子带着一小瓶蓖麻油和一根晾衣绳到达猪场时，猪已经从他家出来了，无精打采地站在院子中央。他向我们打招呼。我看得出来他感到不舒服和不确定。我带来了晾衣绳，以为我必须把他绑起来（那头猪有一百多磅重），但我们从未使用过它。我儿子弯下腰，抓住两条前腿，很快让他心烦意乱，当他张开嘴尖叫时，我把油倒进了他的喉咙——这是我以前从未见过的粉红色波纹区域。当瓶颈含在他嘴里时，我刚好有时间阅读标签。上面写着纯粹测试。尖叫声被油稍微掩盖住了，在猪的歇斯底里的高音调中，仿佛正在实施酷刑，但它们并没有持续多久：一切都突然结束了，而且，他的腿松开了，猪又站直了身子。")]
+
+#html.p(id: "en-S009")[#text("In the upset position the corners of his mouth had been turned down, giving him a frowning expression. Back on his feet again, he regained the set smile that a pig wears even in sickness. He stood his ground, sucking slightly at the residue of oil; a few drops leaked out of his lips while his wicked eyes, shaded by their coy little lashes, turned on me in disgust and hatred. I scratched him gently with oily fingers and he remained quiet, as though trying to recall the satisfaction of being scratched when in health, and seeming to rehearse in his mind the indignity to which he had just been subjected. I noticed, as I stood there, four or five small dark spots on his back near the tail end, reddish brown in color, each about the size of a housefly. I could not make out what they were. They did not look troublesome but at the same time they did not look like mere surface bruises or chafe marks. Rather they seemed blemishes of internal origin. His stiff white bristles almost completely hid them and I had to part the bristles with my fingers to get a good look.")]
+
+#zh(id: "S009")[#text("心烦意乱的姿势下，他的嘴角低垂着，露出了皱眉的表情。重新站起来，他又恢复了猪生病时也会挂着的笑容。他站在原地，轻轻吮吸着残留的油。几滴水从他的嘴唇里流出来，他邪恶的眼睛被羞涩的小睫毛遮住，厌恶而仇恨地转向我。我用油腻的手指轻轻地挠了挠他，他却一言不发，仿佛在努力回忆健康时被抓伤的满足感，似乎在脑海中演练着他刚刚遭受的侮辱。当我站在那里时，我注意到它的背上靠近尾端的地方有四五个小黑点，颜色是红棕色的，每个都有家蝇那么大。我看不出它们是什么。它们看起来并不麻烦，但同时它们看起来也不像单纯的表面瘀伤或擦伤痕迹。相反，它们似乎是内在的瑕疵。他坚硬的白色刷毛几乎完全遮住了它们，我不得不用手指分开刷毛才能看得清楚。")]
+
+#html.p(id: "en-S010")[#text("Several hours later, a few minutes before midnight, having dined well and at someone else’s expense, I returned to the pighouse with a flashlight. The patient was asleep. Kneeling, I felt his ears (as you might put your hand on the forehead of a child) and they seemed cool, and then with the light made a careful examination of the yard and the house for sign that the oil had worked. I found none and went to bed.")]
+
+#zh(id: "S010")[#text("几个小时后，距离午夜还有几分钟，我用别人的钱吃饱了饭，带着手电筒回到了猪舍。病人已经睡着了。我跪下，摸了摸他的耳朵（就像你可以把手放在孩子的额头上），它们看起来很凉，然后用灯光仔细检查了院子和房子，看看有没有油起作用的迹象。我什么也没找到，就上床睡觉了。")]
+
+#html.p(id: "en-S011")[#text("We had been having an unseasonable spell of weather — hot, close days, with the fog shutting in every night, lifting for a few hours in midday, then creeping back again at dark, drifting in first over the trees on the point, then suddenly blowing across the fields, blotting out the world and taking possession of houses, men, and animals. Every one kept hoping for a break, but the break failed to come. Next day was another hot one. I visited the pig before breakfast and tried to tempt him with a little milk in his trough. He just stared at it, while I made a sucking sound through my teeth to remind him of past pleasures of the feast. With very small, timid pigs, weanlings, this ruse is often quite successful and will encourage them to eat; but with a large, sick pig the ruse is senseless and the sound I made must have made him feel, if anything, more miserable. He not only did not crave food, he felt a positive revulsion to it. I found a place under the apple tree where he had vomited in the night.")]
+
+#zh(id: "S011")[#text("我们经历了一段不合时宜的天气——炎热、封闭的天气，每晚都有雾气笼罩，中午升起几个小时，然后在天黑时又悄悄回来，首先飘过该点的树木，然后突然吹过田野，遮盖了整个世界，占领了房屋、人和动物。每个人都盼望着休息，但休息却没有到来。第二天又是炎热的一天。早餐前我拜访了那头猪，并试图用食槽里的一点牛奶来诱惑它。他只是盯着它，而我则用牙齿发出吮吸的声音，提醒他过去的盛宴乐趣。对于很小、胆怯的猪、断奶仔猪，这种策略通常非常成功，会鼓励它们吃东西；但对于一头病重的大猪来说，这个诡计是毫无意义的，而且我发出的声音一定让他感到更加痛苦。他不仅不想吃东西，而且还对它产生强烈的厌恶感。我在苹果树下找到了他夜间呕吐的地方。")]
+
+#html.p(id: "en-S012")[#text("At this point, although a depression had settled over me, I didn’t suppose that I was going to lose my pig. From the lustiness of a healthy pig a man derives a feeling of personal lustiness; the stuff that goes into the trough and is received with such enthusiasm is an earnest of some later feast of his own, and when this suddenly comes to an end and the food lies stale and untouched, souring in the sun, the pig’s imbalance becomes the man’s, vicariously, and life seems insecure, displaced, transitory.")]
+
+#zh(id: "S012")[#text("这时，尽管我已经心情低落，却还没想到会失去这头猪。一头健康的猪生机勃勃，人也会从中感到自己的生机；投进食槽、被它热烈接纳的食物，是日后自己一顿盛宴的凭证。当这一切突然停止，食物原封不动地留着，在阳光下发酸，猪的失衡也间接变成了人的失衡，生活显得不安、错位而短暂。")]
+
+== 3
+
+#html.p(id: "en-S013")[#text("As my own spirits declined, along with the pig’s, the spirits of my vile old dachshund rose. The frequency of our trips down the footpath through the orchard to the pigyard delighted him, although he suffers greatly from arthritis, moves with difficulty, and would be bedridden if he could find anyone willing to serve him meals on a tray.")]
+
+#zh(id: "S013")[#text("随着我和猪一起精神萎靡，我那条可恶的老腊肠犬却兴奋起来。我们频繁地沿果园小路走向猪圈，让他十分高兴；虽然他关节炎很重，行动困难，而且只要找得到一个愿意把饭菜放在托盘上送来的人，他准会赖在床上不起。")]
+
+#html.p(id: "en-S014")[#text("He never missed a chance to visit the pig with me, and he made many professional calls on his own. You could see him down there at all hours, his white face parting the grass along the fence as he wobbled and stumbled about, his stethoscope dangling — a happy quack, writing his villainous prescriptions and grinning his corrosive grin. When the enema bag appeared, and the bucket of warm suds, his happiness was complete, and he managed to squeeze his enormous body between the two lowest rails of the yard and then assumed full charge of the irrigation. Once, when I lowered the bag to check the flow, he reached in and hurriedly drank a few mouthfuls of the suds to test their potency. I have noticed that Fred will feverishly consume any substance that is associated with trouble — the bitter flavor is to his liking. When the bag was above reach, he concentrated on the pig and was everywhere at once, a tower of strength and inconvenience. The pig, curiously enough, stood rather quietly through this colonic carnival, and the enema, though ineffective, was not as difficult as I had anticipated.")]
+
+#zh(id: "S014")[#text("他从来不放过任何一个和我一起去看猪的机会，还亲自打了很多​​专业电话。你随时都可以看到他在那儿，他那张苍白的脸沿着栅栏劈开草地，摇摇晃晃、跌跌撞撞，他的听诊器晃来晃去——一个快乐的庸医，一边写着邪恶的处方，一边咧着腐蚀性的笑容。当灌肠袋和一桶温暖的肥皂水出现时，他的幸福感就完成了，他设法将巨大的身体挤在院子里最低的两根栏杆之间，然后承担起灌溉的全部责任。有一次，当我放下袋子检查流量时，他伸手进去，急忙喝了几口泡沫来测试它们的效力。我注意到弗雷德会疯狂地消耗任何与麻烦有关的物质——苦味正合他的口味。当袋子遥不可及时，他将注意力集中在猪身上，然后立即无处不在，成为一座力量之塔，同时又带来不便。奇怪的是，猪在这场结肠狂欢中相当安静地站着，灌肠虽然无效，但并不像我预期的那么困难。")]
+
+#html.p(id: "en-S015")[#text("I discovered, though, that once having given a pig an enema there is no turning back, no chance of resuming one of life’s more stereotyped roles. The pig’s lot and mine were inextricably bound now, as though the rubber tube were the silver cord. From then until the time of his death I held the pig steadily in the bowl of my mind; the task of trying to deliver him from his misery became a strong obsession. His suffering soon became the embodiment of all earthly wretchedness. Along toward the end of the afternoon, defeated in physicking, I phoned the veterinary twenty miles away and placed the case formally in his hands. He was full of questions, and when I casually mentioned the dark spots on the pig’s back, his voice changed its tone.")]
+
+#zh(id: "S015")[#text("但我发现，一旦给猪灌肠，就没有回头路，没有机会恢复生活中更为刻板的角色之一。猪的圈子和我的圈子现在已经密不可分了，就好像橡皮管是银线一样。从那时起，直到他去世，我一直把那头猪牢牢地放在我的脑海里。试图将他从痛苦中解救出来的任务变成了一种强烈的痴迷。他的痛苦很快就成为世间所有不幸的化身。下午快结束时，我在体检中失败了，给二十英里外的兽医打电话，把箱子正式交到他手里。他满腹疑问，当我随口提到猪背上的黑点时，他的语气就变了。")]
+
+#html.p(id: "en-S016")[#text("“ I don’t want to scare you,” he said, “ but when there are spots, erysipelas has to be considered.” Together we considered erysipelas, with frequent interruptions from the telephone operator, who wasn’t sure the connection had been established.")]
+
+#zh(id: "S016")[#text("“我不想吓到你，”他说，“但是当出现斑点时，就必须考虑丹毒了。”我们一起考虑丹毒，电话接线员经常打断电话，不确定是否已建立连接。")]
+
+#html.p(id: "en-S017")[#text("“ If a pig has erysipelas can he give it to a person?” I asked.")]
+
+#zh(id: "S017")[#text("‘猪得了丹毒，会传染给人吗？’我问。")]
+
+#html.p(id: "en-S018")[#text("“ Yes, he can,” replied the vet.")]
+
+#zh(id: "S018")[#text("‘会。’兽医回答。")]
+
+#html.p(id: "en-S019")[#text("“Have they answered?” asked the operator.")]
+
+#zh(id: "S019")[#text("‘那边接电话了吗？’接线员问。")]
+
+#html.p(id: "en-S020")[#text("“ Yes, they have,” I said. Then I addressed the vet again. “ You better come over here and examine this pig right away.”")]
+
+#zh(id: "S020")[#text("‘接了。’我说。然后我又对兽医说：‘你最好马上过来看看这头猪。’")]
+
+#html.p(id: "en-S021")[#text("“I can’t come myself,” said the vet, “ but McDonald can come this evening if that’s all right. Mac knows more about pigs than I do anyway.")]
+
+#zh(id: "S021")[#text("“我自己不能来，”兽医说，“但如果可以的话，麦克唐纳今晚可以来。无论如何，麦克对猪的了解比我多。”")]
+
+#html.p(id: "en-S022")[#text("You needn’t worry too much about the spots. To indicate erysipelas they would have to be deep hemorrhagic infarcts.”")]
+
+#zh(id: "S022")[#text("你不必太担心这些斑点。要表明丹毒，它们必须是深度出血性梗塞。”")]
+
+#html.p(id: "en-S023")[#text("“Deep hemorrhagic what?” I asked.")]
+
+#zh(id: "S023")[#text("‘深部出血性什么？’我问。")]
+
+#html.p(id: "en-S024")[#text("“ Infarcts,” said the vet.")]
+
+#zh(id: "S024")[#text("‘梗死灶。’兽医说。")]
+
+#html.p(id: "en-S025")[#text("“ Have they answered?” asked the operator.")]
+
+#zh(id: "S025")[#text("‘那边接电话了吗？’接线员问。")]
+
+#html.p(id: "en-S026")[#text("“ Well,” I said, “ I don’t know what you’d call these spots, except they’re about the size of a housefly. If the pig has erysipelas I guess I have it, too, by this time, because we’ve been very close lately.” “ McDonald will be over,” said the vet.")]
+
+#zh(id: "S026")[#text("“嗯，”我说，“我不知道你会怎么称呼这些斑点，但它们大约有家蝇那么大。如果那头猪得了丹毒，我想我现在也得了，因为我们最近关系非常密切。” “麦当劳就会结束了，”兽医说。")]
+
+#html.p(id: "en-S027")[#text("I hung up. My throat felt dry and I went to the cupboard and got a bottle of whiskey. Deep hemorrhagic infarcts — the phrase began fastening its hooks in my head. I had assumed that there could be nothing much wrong with a pig during the months it was being groomed for murder; my confidence in the essential health and endurance of pigs had been strong and deep, particularly in the health of pigs that belonged to me and that were part of my proud scheme. The awakening had been violent and I minded it all the more because I knew that what could be true of my pig could be true also of the rest of my tidy world. I tried to put this distasteful idea from me, but it kept recurring. I took a short drink of the whiskey and then, although I wanted to go down to the yard and look for fresh signs, I was scared to. I was certain I had erysipelas.")]
+
+#zh(id: "S027")[#text("我挂断了电话。我感觉喉咙发干，于是我走到柜子里拿了一瓶威士忌。深度出血性梗塞——这个词开始牢牢地扎在我的脑海里。我原以为一头猪在被训练用于谋杀的几个月里不会有什么大问题；但事实上，它并没有什么大问题。我对猪的基本健康和耐力充满信心，特别是对属于我的猪的健康，它们是我引以为傲的计划的一部分。觉醒是剧烈的，我更加介意它，因为我知道，适用于我的猪的事情也可能适用于我整洁的世界的其他部分。我试图把这个令人厌恶的想法从心里赶走，但它却不断地出现。我喝了一小口威士忌，然后，虽然我想去院子里寻找新鲜的迹象，但我很害怕。我确信我患有丹毒。")]
+
+#html.p(id: "en-S028")[#text("It was long after dark and the supper dishes had been put away when a car drove in and McDonald got out. He had a girl with him. I could just make her out in the darkness — she seemed young and pretty. “This is Miss Wyman,” he said. “ We’ve been having a picnic supper on the shore, that’s why I’m late.”")]
+
+#zh(id: "S028")[#text("天黑很久了，晚餐的盘子已经放好，这时一辆汽车开进来，麦克唐纳下了车。他身边有一个女孩。我可以在黑暗中辨认出她——她看起来年轻又漂亮。 “这是怀曼小姐，”他说。 “我们一直在岸边野餐，所以我迟到了。”")]
+
+#html.p(id: "en-S029")[#text("McDonald stood in the driveway and stripped off his jacket, then his shirt. His stocky arms and capable hands showed up in my flashlight’s gleam as I helped him find his coverall and get zipped up. The rear seat of his car contained an astonishing amount of paraphernalia, which he soon overhauled, selecting a chain, a syringe, a bottle of oil, a rubber tube, and some other things I couldn’t identify. Miss Wyman said she’d go along with us and see the pig. I led the way down the warm slope of the orchard, my light picking out the path for them, and we all three climbed the fence, entered the pighouse, and squatted by the pig while McDonald took a rectal reading. My flashlight picked up the glitter of an engagement ring on the girl’s hand.")]
+
+#zh(id: "S029")[#text("麦克唐纳站在车道上，脱掉夹克，然后脱掉衬衫。当我帮他找到工作服并拉上拉链时，他粗壮的手臂和灵巧的双手出现在我手电筒的光芒中。他的车后座上放着数量惊人的随身物品，他很快就把这些东西翻了个底朝天，挑选了一条链条、一个注射器、一瓶油、一根橡皮管，以及其他一些我无法辨认的东西。怀曼小姐说她会和我们一起去看那头猪。我带路走下果园温暖的斜坡，我的灯光为他们指明了道路，我们三个爬上栅栏，进入猪舍，蹲在猪旁边，而麦克唐纳则进行直肠读数。我的手电筒照亮了女孩手上订婚戒指的闪光。")]
+
+#html.p(id: "en-S030")[#text("“ No elevation,” said McDonald, twisting the thermometer in the light. “ You needn’t worry about erysipelas.” He ran his hand slowly over the pig’s stomach and at one point the pig cried out in pain. “ Poor piggledy-wiggledy!” said Miss Wyman.")]
+
+#zh(id: "S030")[#text("“没有海拔，”麦克唐纳一边说，一边在灯光下转动温度计。 “你不用担心丹毒。”他把手慢慢地抚过猪的肚子，猪一度痛得叫起来。 “可怜的小猪扭动！”怀曼小姐说。")]
+
+#html.p(id: "en-S031")[#text("The treatment I had been giving the pig for two days was then repeated, somewhat more expertly, by the doctor, Miss Wyman and I handing him things as he needed them — holding the chain that he had looped around the pig’s upper jaw, holding the syringe, holding the bottle stopper, the end of the tube, all of us working in darkness and in comfort, working with the instinctive teamwork induced by emergency conditions, the pig unprotesting, the house shadowy, protecting, intimate. I went to bed tired but with a feeling of relief that I had turned over part of the responsibility of the case to a licensed doctor. I was beginning to think, though, that the pig was not going to live.")]
+
+#zh(id: "S031")[#text("然后，医生、怀曼小姐和我重复了我对猪进行了两天的治疗，在他需要的时候递给他东西，这在某种程度上更加熟练了——握住他绕在猪上颌上的链子，握住注射器，握住瓶塞，管子的末端，我们所有人都在黑暗中舒适地工作，在紧急情况下本能地进行团队合作，猪没有抗议，房子阴暗​​、有保护性、亲密。我上床睡觉时很疲惫，但我感到如释重负，因为我已经将案件的部分责任移交给了一位有执照的医生。但我开始想，这头猪活不成了。")]
+
+== 4
+
+#html.p(id: "en-S032")[#text("He died twenty-four hours later, or it might have been forty-eight — there is a blur in time here, and I may have lost or picked up a day in the telling and the pig one in the dying. At intervals during the last day I took cool fresh water down to him and at such times as he found the strength to get to his feet he would stand with head in the pail and snuffle his snout around. He drank a few sips but no more; yet it seemed to comfort him to dip his nose in water and bobble it about, sucking in and blowing out through his teeth. Much of the time, now, he lay indoors half buried in sawdust. Once, near the last, while I was attending him I saw him try to make a bed for himself but he lacked the strength, and when he set his snout into the dust he was unable to plow even the little furrow he needed to lie down in.")]
+
+#zh(id: "S032")[#text("它在二十四小时后死了，也可能是四十八小时——这里的时间有些模糊，或许在我讲述的过程中丢失或多出了一天，而猪在死去的过程中也一样。最后一天，我不时提着清凉的新鲜水去看它。只要还有力气站起来，它就把头伸进桶里，用鼻子拨弄着水。它只喝了几口，没有更多；但把鼻子浸在水里，摇来晃去，从牙齿间吸进又呼出，似乎让它好受一些。这时候，它大半时间都躺在屋里，半个身子埋在锯末中。快到最后时，有一次我照料它，看见它想给自己做一个窝，却已经没有力气。它把鼻子拱进锯末，也无法犁出一道够自己躺下的小沟。")]
+
+#html.p(id: "en-S033")[#text("He came out of the house to die. When I went down, before going to bed, he lay stretched in the yard a few feet from the door. I knelt, saw that he was dead, and left him there: his face had a mild look, expressive neither of deep peace nor of deep suffering, although I think he had suffered a good deal. I went back up to the house and to bed, and cried internally — deep hemorrhagic intears. I didn’t wake till nearly eight the next morning, and when I looked out the open window the grave was already being dug, down beyond the dump under a wild apple. I could hear the spade strike against the small rocks that blocked the way. Never send to know for whom the grave is dug, I said to myself, it’s dug for thee. Fred, I well knew, was supervising the work of digging, so I ate breakfast slowly.")]
+
+#zh(id: "S033")[#text("它走出屋子来死。我临睡前下去，见它伸展开躺在院子里，离门只有几英尺。我跪下来，确认它已经死了，就把它留在那里。它的脸表情温和，既不显出极深的安宁，也不显出极深的痛苦，虽然我想它曾经受了不少苦。我回屋上床，在心里哭泣——深部出血性的内心泪水。第二天早晨，我快到八点才醒，朝敞开的窗外看，垃圾堆那边一棵野苹果树下，墓已经在挖了。我听得见铁锹撞上挡路的小石头。我对自己说，不要问这墓是为谁挖的，它就是为你挖的。我很清楚，弗雷德正在监督挖掘，所以慢慢吃完了早饭。")]
+
+#html.p(id: "en-S034")[#text("It was a Saturday morning. The thicket in which I found the gravediggers at work was dark and warm, the sky overcast. Here, among alders and young hackmatacks, at the foot of the apple tree, Howard had dug a beautiful hole, five feet long, three feet wide, three feet deep. He was standing in it, removing the last spadefuls of earth while Fred patrolled the brink in simple but impressive circles, disturbing the loose earth of the mound so that it trickled back in. There had been no rain in weeks and the soil, even three feet down, was dry and powdery. As I stood and stared, an enormous earthworm which had been partially exposed by the spade at the bottom dug itself deeper and made a slow withdrawal, seeking even remoter moistures at even lonelier depths. And just as Howard stepped out and rested his spade against the tree and lit a cigarette, a small green apple separated itself from a branch overhead and fell into the hole. Everything about this last scene seemed overwritten — the dismal sky, the shabby woods, the imminence of rain, the worm (legendary bedfellow of the dead), the apple (conventional garnish of a pig).")]
+
+#zh(id: "S034")[#text("那是一个星期六的早晨。我找到掘墓人时，他们正在一片阴暗、温暖的灌木丛里忙着，天空阴沉。就在这里，桤木和年轻的落叶松之间，那棵苹果树脚下，霍华德挖好了一个漂亮的洞，五英尺长，三英尺宽，三英尺深。他站在里面，铲掉最后几锹土；弗雷德沿着洞边巡逻，转着简单却令人印象深刻的圈子，扰动土堆上的浮土，让它们又滑回洞里。好几个星期没有下雨，泥土即使在三英尺深处也仍然干燥，细得像粉末。我站在那里凝视，一条巨大的蚯蚓被铁锹从洞底铲出了半截，又钻得更深，缓慢撤退，去更孤独的深处寻找更遥远的湿润。就在霍华德爬出洞、把铁锹靠在树上、点起一支烟时，头顶树枝上的一颗小青苹果掉下来，落进洞里。这最后一幕的每件东西，都像写得过头了：惨淡的天空，寒碜的树林，将至的雨，蚯蚓——传说中死者的同床伴侣——以及苹果——猪的传统配菜。")]
+
+#html.p(id: "en-S036")[#text("But even so, there was a directness and dispatch about animal burial, I thought, that made it a more decent affair than human burial: there was no stop over in the undertaker’s foul parlor, no wreath nor spray; and when we hitched a line to the pig’s hind legs and dragged him swiftly from his yard, throwing our weight into the harness and leaving a wake of crushed grass and smoothed rubble over the dump, ours was a businesslike procession, with Fred, the dishonorable pallbearer, staggering along in the rear, his perverse bereavement showing in every seam in his face; and the post mortem performed handily and swiftly right at the edge of the grave, so that the inwards which had caused the pig’s death preceded him into the ground and he lay at last resting squarely on the cause of his own undoing. I threw in the first shovelful, and then we worked rapidly and without talk, until the job was complete. I picked up the rope, made it fast to Fred’s collar (he is a notorious ghoul), and we all three filed back up the path to the house, Fred bringing up the rear and holding back every inch of the way, feigning unusual stiffness. I noticed that although he weighed far less than the pig, he was harder to drag, being possessed of the vital spark.")]
+
+#zh(id: "S036")[#text("即便如此，我觉得，埋葬动物有一种直接与利落，使它比人的葬礼更体面：不用在殡葬业者令人作呕的客厅里停留，没有花圈，也没有花束。我们把绳子套在猪的后腿上，迅速将它拖出院子，身体的重量压在绳上，身后留下一道被压倒的草和被磨平的碎石，穿过垃圾堆。我们的队伍务实得很；弗雷德，这个不体面的抬棺者，在后面蹒跚跟着，脸上每一道皱纹都显出他那古怪的哀伤。尸检就在墓边顺手而迅速地做了，导致猪死亡的内脏先它一步入土；最后，它便稳稳地躺在造成自己毁灭的东西上。我扔下第一锹土，随后我们迅速干活，谁也不说话，直到一切完成。我捡起绳子，系牢在弗雷德的项圈上——他是个出了名的食尸鬼——我们三个人就沿着小路，一列走回屋里。弗雷德殿后，一路都拖着不肯走，装出格外僵硬的样子。我注意到，虽然他比猪轻得多，却更难拖动，因为他还带着生命的火花。")]
+
+#html.p(id: "en-S037")[#text("The news of the death of my pig traveled fast and far, and I received many expressions of sympathy from friends and neighbors, for no one took the event lightly and the premature expiration of a pig is, I soon discovered, a departure which the community marks solemnly on its calendar, a sorrow in which it feels fully involved. I have written this account in penitence and in grief, as a man who failed to raise his pig, and to explain my deviation from the classic course of so many raised pigs. The grave in the woods is unmarked, but Fred can direct the mourner to it unerringly and with immense good will, and I know he and I shall often revisit it, singly and together, in seasons of reflection and despair, on flagless memorial days of our own choosing.")]
+
+#zh(id: "S037")[#text("猪死的消息传得又快又远，我收到许多朋友和邻居的慰问。没有人把这事看得轻；我很快发现，一头猪提前离世，是整个社群都会郑重记在日历上的离别，是人人都觉得与自己息息相关的悲伤。我怀着悔意与哀痛写下这篇记述，以一个没能养大自己的猪的人身份，解释我为何偏离了那么多猪走过的经典路线。树林里的墓没有标记，但弗雷德能满怀极大的善意，准确无误地把悼念者领到那里。我知道，在反思和绝望的时节，在那些由我们自己选定、不悬旗帜的纪念日里，他和我会常常重访那里，独自去，或一起去。")]

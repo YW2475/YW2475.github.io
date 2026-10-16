@@ -1,0 +1,2879 @@
+{
+  "paper": {
+    "id": "searle-programs",
+    "title": "Minds, Brains, and Programs",
+    "zh_title": "心智、大脑与程序",
+    "author": "John R. Searle",
+    "year": 1980,
+    "category": "心智与判断",
+    "kind": "full",
+    "folder": "Minds Brains and Programs 1980",
+    "source": "https://artscimedia.case.edu/wp-content/uploads/2013/07/14182625/Searle-Minds-Brains-and-Programs.pdf",
+    "description": "中文屋思想实验：按规则处理符号是否意味着理解？",
+    "status": "bilingual-complete-supplied-draft",
+    "local_source": "C:/Users/ME/Downloads/新建文件夹/Searle-Minds-Brains-and-Programs.pdf",
+    "translation_status": "draft-with-terminology-review",
+    "edition": "User-supplied penultimate draft, printed from an OCR transcription; not the final published edition.",
+    "scope": "complete-supplied-penultimate-draft"
+  },
+  "scope": "complete-supplied-penultimate-draft",
+  "source_format": "pdf-text",
+  "translation_method": "Google Translate draft, with assistant terminology corrections and selected manual translations. Not a sentence-by-sentence certified translation.",
+  "glossary": {
+    "intentionality": "意向性",
+    "strong AI": "强人工智能",
+    "weak AI": "弱人工智能",
+    "Chinese room": "中文屋",
+    "causal powers": "因果能力"
+  },
+  "extraction_notes": "Original body, source figures, tables, equations, notes, and references retained. Website navigation, download covers, running headers, publisher boilerplate, and duplicate pull quotes excluded. OCR errors are possible in the supplied sources and reconstructed text.",
+  "blocks": [
+    {
+      "type": "heading",
+      "en": "Abstract",
+      "pages": [
+        1
+      ],
+      "confidence": 1,
+      "id": "H001",
+      "zh": "摘要"
+    },
+    {
+      "type": "paragraph",
+      "en": "This article can be viewed as an attempt to explore the consequences of two propositions. (1) Intentionality in human beings (and animals) is a product of causal features of the brain. I assume this is an empirical fact about the actual causal relations between mental processes and brains. It says simply that certain brain processes are sufficient for intentionality. (2) Instantiating a computer program is never by itself a sufficient condition of intentionality. The main argument of this paper is directed at establishing this claim. The form of the argument is to show how a human agent could instantiate the program and still not have the relevant intentionality. These two propositions have the following consequences (3) The explanation of how the brain produces intentionality cannot be that it does it by instantiating a computer program. This is a strict logical consequence of 1 and 2. (4) Any mechanism capable of producing intentionality must have causal powers equal to those of the brain. This is meant to be a trivial consequence of 1. (5) Any attempt literally to create intentionality artificially (strong AI) could not succeed just by designing programs but would have to duplicate the causal powers of the human brain. This follows from 2 and 4.",
+      "pages": [
+        1
+      ],
+      "bbox": [
+        16.0,
+        431.166015625,
+        586.16796875,
+        581.9340209960938
+      ],
+      "confidence": 1,
+      "id": "S001",
+      "zh": "本文可以被视为探索两个命题后果的尝试。 (1) 人类（和动物）的意向性是大脑因果特征的产物。我认为这是关于心理过程和大脑之间实际因果关系的经验事实。它简单地说，某些大脑过程足以实现意向性。 (2) 实例化计算机程序本身绝不是意向性的充分条件。本文的主要论点就是为了证实这一主张。论证的形式是展示人类代理如何实例化该程序，但仍然不具有相关的意向性。这两个命题有以下推论： (3) 大脑如何产生意向性的解释不可能是它通过实例化计算机程序来实现的。这是1和2的严格逻辑推论。 (4)任何能够产生意向性的机制都必须具有与大脑同等的因果能力。这只是 1. (5) 的一个微不足道的结果。任何试图人工创造意向性（强人工智能）的尝试都不能仅通过设计程序来成功，而必须复制人脑的因果能力。这是从 2 和 4 得出的。"
+    },
+    {
+      "type": "paragraph",
+      "en": "\"Could a machine think?\" On the argument advanced here only a machine could think, and only very special kinds of machines, namely brains and machines with internal causal powers equivalent to those of brains And that is why strong AI has little to tell us about thinking, since it is not about machines but about programs, and no program by itself is sufficient for thinking.",
+      "pages": [
+        1
+      ],
+      "bbox": [
+        16.0,
+        591.666015625,
+        588.4960327148438,
+        647.9340209960938
+      ],
+      "confidence": 1,
+      "id": "S002",
+      "zh": "“机器能思考吗？”根据这里提出的论点，只有机器才能思考，而且只有非常特殊的机器，即大脑和具有与大脑相当的内部因果能力的机器，这就是为什么强人工智能几乎没有告诉我们关于思考的知识，因为它不是关于机器，而是关于程序，并且没有程序本身足以思考。"
+    },
+    {
+      "type": "heading",
+      "en": "Keywords",
+      "pages": [
+        1
+      ],
+      "confidence": 1,
+      "id": "H002",
+      "zh": "关键词"
+    },
+    {
+      "type": "paragraph",
+      "en": "artificial intelligence, brain, intentionality, mind",
+      "pages": [
+        1
+      ],
+      "bbox": [
+        16.0,
+        695.166015625,
+        248.42201232910156,
+        710.9340209960938
+      ],
+      "confidence": 1,
+      "id": "S003",
+      "zh": "人工智能、大脑、意向性、心智"
+    },
+    {
+      "type": "paragraph",
+      "en": "What psychological and philosophical significance should we attach to recent efforts at computer simulations of human cognitive capacities? In answering this question, I find it useful to distinguish what I will call \"strong\" AI from \"weak\" or \"cautious\" AI (Artificial Intelligence). According to weak AI, the principal value of the computer in the study of the mind is that it gives us a very powerful tool. For example, it enables us to formulate and test hypotheses in a more rigorous and precise fashion. But according to strong AI, the computer is not merely a tool in the study of the mind; rather, the appropriately programmed computer really is a mind, in the sense that computers given the right programs can be literally said to understand and have other cognitive states. In strong AI, because the programmed computer has cognitive states, the programs are not mere tools that enable us to test psychological explanations; rather, the programs are themselves the explanations.",
+      "pages": [
+        1,
+        2
+      ],
+      "bbox": [
+        16.0,
+        734.166015625,
+        559.9959716796875,
+        749.9340209960938
+      ],
+      "confidence": 1,
+      "id": "S004",
+      "zh": "我们应该对人类认知能力的计算机模拟最近的努力赋予什么心理和哲学意义？在回答这个问题时，我发现区分“强”人工智能和“弱”或“谨慎”人工智能（人工智能）很有用。根据弱人工智能的观点，计算机在心智研究中的主要价值在于它为我们提供了一个非常强大的工具。例如，它使我们能够以更严格和精确的方式制定和测试假设。但根据强人工智能的说法，计算机不仅仅是心灵研究的工具；它也是研究心灵的工具。相反，经过适当编程的计算机实际上是一个思想，从某种意义上说，给予正确程序的计算机可以字面意思说理解并具有其他认知状态。在强人工智能中，由于编程计算机具有认知状态，因此程序不仅仅是使我们能够测试心理解释的工具；相反，程序本身就是解释。"
+    },
+    {
+      "type": "paragraph",
+      "en": "I have no objection to the claims of weak AI, at least as far as this article is concerned. My discussion here will be directed at the claims I have defined as those of strong AI, specifically the claim that the appropriately programmed computer literally has cognitive states and that the programs thereby explain human cognition. When I hereafter refer to AI, I have in mind the strong version, as expressed by these two claims.",
+      "pages": [
+        2
+      ],
+      "bbox": [
+        16.0,
+        144.66600036621094,
+        585.3938598632812,
+        200.9340057373047
+      ],
+      "confidence": 1,
+      "id": "S005",
+      "zh": "我不反对弱人工智能的说法，至少就本文而言。我在这里的讨论将针对我所定义的强人工智能的主张，特别是这样的主张，即适当编程的计算机确实具有认知状态，并且程序从而解释了人类认知。当我以后提到人工智能时，我想到的是这两个主张所表达的强版本。"
+    },
+    {
+      "type": "paragraph",
+      "en": "I will consider the work of Roger Schank and his colleagues at Yale (Schank & Abelson 1977), because I am more familiar with it than I am with any other similar claims, and because it provides a very clear example of the sort of work I wish to examine. But nothing that follows depends upon the details of Schank's programs. The same arguments would apply to Winograd's SHRDLU (Winograd 1973), Weizenbaum's ELIZA (Weizenbaum 1965), and indeed any Turing machine simulation of human mental phenomena.",
+      "pages": [
+        2
+      ],
+      "bbox": [
+        16.0,
+        210.66600036621094,
+        590.9920654296875,
+        280.4339904785156
+      ],
+      "confidence": 1,
+      "id": "S006",
+      "zh": "我将考虑罗杰·尚克（Roger Schank）和他在耶鲁大学的同事的工作（Schank & Abelson 1977），因为我比任何其他类似的主张更熟悉它，并且因为它为我希望研究的那种工作提供了一个非常清晰的例子。但接下来的一切都取决于尚克计划的细节。同样的论点也适用于 Winograd 的 SHRDLU（Winograd 1973）、Weizenbaum 的 ELIZA（Weizenbaum 1965）以及任何对人类心理现象的图灵机模拟。"
+    },
+    {
+      "type": "paragraph",
+      "en": "Very briefly, and leaving out the various details, one can describe Schank's program as follows: the aim of the program is to simulate the human ability to understand stories. It is characteristic of human beings' story-understanding capacity that they can answer questions about the story even though the information that they give was never explicitly stated in the story. Thus, for example, suppose you are given the following story:",
+      "pages": [
+        2
+      ],
+      "bbox": [
+        16.0,
+        290.166015625,
+        594.7420043945312,
+        346.4339904785156
+      ],
+      "confidence": 1,
+      "id": "S007",
+      "zh": "非常简单地，并忽略各种细节，人们可以将尚克的程序描述如下：该程序的目的是模拟人类理解故事的能力。人类故事理解能力的特点是，即使他们提供的信息从未在故事中明确说明，他们也可以回答有关故事的问题。因此，举例来说，假设您看到以下故事："
+    },
+    {
+      "type": "paragraph",
+      "en": "-A man went into a restaurant and ordered a hamburger. When the hamburger arrived it was burned to a crisp, and the man stormed out of the restaurant angrily, without paying for the hamburger or leaving a tip.\" Now, if you are asked - Did the man eat the hamburger?\" you will presumably answer, ' No, he did not.' Similarly, if you are given the following story: '-A man went into a restaurant and ordered a hamburger; when the hamburger came he was very pleased with it; and as he left the restaurant he gave the waitress a large tip before paying his bill,\" and you are asked the question, -Did the man eat the hamburger?,-' you will presumably answer, -Yes, he ate the hamburger.\" Now Schank's machines can similarly answer questions about restaurants in this fashion. To do this, they have a representation\" of the sort of information that human beings have about restaurants, which enables them to answer such questions as those above, given these sorts of stories. When the machine is given the story and then asked the question, the machine will print out answers of the sort that we would expect human beings to give if told similar stories. Partisans of strong AI claim that in this question and answer sequence the machine is not only simulating a human ability but also",
+      "pages": [
+        2
+      ],
+      "bbox": [
+        16.0,
+        356.166015625,
+        592.4140625,
+        520.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S008",
+      "zh": "- 一个男人走进一家餐馆，点了一个汉堡。当汉堡到达时，它被烧成了脆饼，这名男子愤怒地冲出了餐厅，没有付钱，也没有留下小费。你可能会回答：“不，他没有。”同样，如果给你下面的故事：“-一个男人走进一家餐馆，点了一个汉堡；”当汉堡端上来时，他非常满意。当他离开餐厅时，他在结帐前给了女服务员一大笔小费，“然后你被问到这个问题，-这个人吃了汉堡吗？-”你大概会回答，-是的，他吃了汉堡。”现在，Schank 的机器可以类似地以这种方式回答有关餐馆的问题。为了做到这一点，他们拥有人类所拥有的关于餐馆的信息的表示，这使得他们能够在给定这些类型的故事的情况下回答上述问题。当机器被告知故事然后提出问题时，机器将打印出我们期望人类在讲述类似故事时给出的答案。强人工智能的支持者声称，在这个问答序列中，机器不仅模拟了人类的能力，而且还模拟了人类的能力。"
+    },
+    {
+      "type": "paragraph",
+      "en": "1. that the machine can literally be said to understand the story and provide the answers to questions, and",
+      "pages": [
+        2
+      ],
+      "bbox": [
+        31.0,
+        530.166015625,
+        544.0780029296875,
+        545.9340209960938
+      ],
+      "confidence": 1,
+      "id": "S009",
+      "zh": "1. 从字面上看，机器可以理解故事并提供问题的答案，并且"
+    },
+    {
+      "type": "paragraph",
+      "en": "2. that what the machine and its program do explains the human ability to understand the story and answer questions about it.",
+      "pages": [
+        2
+      ],
+      "bbox": [
+        31.0,
+        555.666015625,
+        551.7340087890625,
+        584.9340209960938
+      ],
+      "confidence": 1,
+      "id": "S010",
+      "zh": "2. 机器及其程序所做的事情解释了人类理解故事并回答有关故事的问题的能力。"
+    },
+    {
+      "type": "paragraph",
+      "en": "Both claims seem to me to be totally unsupported by Schank's' work, as I will attempt to show in what follows.",
+      "pages": [
+        2
+      ],
+      "bbox": [
+        16.0,
+        594.666015625,
+        556.0,
+        610.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S011",
+      "zh": "在我看来，这两种说法似乎都没有得到尚克作品的支持，正如我将在下文中试图表明的那样。"
+    },
+    {
+      "type": "paragraph",
+      "en": "One way to test any theory of the mind is to ask oneself what it would be like if my mind actually worked on the principles that the theory says all minds work on. Let us apply this test to the Schank program with the following Gedankenexperiment. Suppose that I'm locked in a room and given a large batch of Chinese writing. Suppose furthermore (as is indeed the case) that I know no Chinese, either written or spoken, and that I'm not even confident that I could recognize Chinese writing as Chinese writing distinct from, say, Japanese writing or meaningless squiggles. To me, Chinese writing is just so many meaningless squiggles.",
+      "pages": [
+        2
+      ],
+      "bbox": [
+        16.0,
+        620.166015625,
+        578.073974609375,
+        703.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S012",
+      "zh": "检验任何心灵理论的一种方法是问自己，如果我的心灵实际上按照该理论所说的所有心灵都遵循的原则运作，会是什么样子。让我们通过以下 Gedanken 实验将此测试应用于 Schank 程序。假设我被锁在一个房间里，并给了我一大堆中文文字。进一步假设（事实确实如此）我不懂中文，无论是书面的还是口语的，并且我什至没有信心我可以将中文文字识别为与日语文字或无意义的花体字不同的中文文字。对我来说，中文文字就是那么多毫无意义的花体字。"
+    },
+    {
+      "type": "paragraph",
+      "en": "Now suppose further that after this first batch of Chinese writing I am given a second batch of Chinese script together with a set of rules for correlating the second batch with the first batch. The rules are in English, and I understand these rules as well as any other native speaker of English. They enable me to correlate one set of formal symbols with another set of formal symbols, and all that 'formal' means here is that I can identify the symbols entirely by their shapes. Now suppose also that I am given a third batch of Chinese symbols together with some instructions, again in English, that enable me to correlate elements of this third batch with the first two batches, and these rules instruct me how to give back certain Chinese symbols with certain sorts of shapes in response to certain sorts of shapes given me in the third batch. Unknown to me, the people who are giving me all of these symbols call the first batch \"a script,\" they call the second batch a \"story. ' and they call the third batch \"questions.\" Furthermore, they call the symbols I give them back in response to the third batch \"answers to the questions.\" and the set of rules in English that they gave me, they call \"the program.\"",
+      "pages": [
+        2,
+        3
+      ],
+      "bbox": [
+        16.0,
+        713.166015625,
+        592.6600341796875,
+        755.9340209960938
+      ],
+      "confidence": 1,
+      "id": "S013",
+      "zh": "现在进一步假设，在第一批中文书写之后，我得到了第二批中文文字以及一组用于将第二批与第一批相关联的规则。规则是英文的，我和其他以英语为母语的人一样理解这些规则。它们使我能够将一组形式符号与另一组形式符号相关联，而“形式”在这里意味着我可以完全通过符号的形状来识别它们。现在还假设我得到了第三批中文符号以及一些说明（同样是英文的），使我能够将第三批的元素与前两批相关联，并且这些规则指导我如何响应于第三批中给定的某些形状的某些形状的中文符号。我不知道的是，给我所有这些符号的人称第一批为“脚本”，他们称第二批为“故事”。他们称第三批为“问题”。此外，他们称我为回应第三批而返回的符号为“问题的答案”。他们给我的一组英文规则，他们称为“程序”。"
+    },
+    {
+      "type": "paragraph",
+      "en": "Now just to complicate the story a little, imagine that these people also give me stories in English, which I understand, and they then ask me questions in English about these stories, and I give them back answers in English. Suppose also that after a while I get so good at following the instructions for manipulating the Chinese symbols and the programmers get so good at writing the programs that from the external point of view that is, from the point of view of somebody outside the room in which I am locked -- my answers to the questions are absolutely indistinguishable from those of native Chinese speakers. Nobody just looking at my answers can tell that I don't speak a word of Chinese.",
+      "pages": [
+        3
+      ],
+      "bbox": [
+        16.0,
+        144.66600036621094,
+        594.4959716796875,
+        227.9340057373047
+      ],
+      "confidence": 1,
+      "id": "S014",
+      "zh": "现在让故事变得复杂一点，想象一下这些人也用我理解的英语给我讲故事，然后他们用英语问我有关这些故事的问题，我用英语给他们答案。还假设一段时间后，我变得非常擅长遵循操作中文符号的说明，而程序员也非常擅长编写程序，以至于从外部的角度来看，即从我被锁在房间外面的人的角度来看，我对问题的回答与以中文为母语的人的答案完全没有区别。没有人只看我的回答就知道我不会说中文。"
+    },
+    {
+      "type": "paragraph",
+      "en": "Let us also suppose that my answers to the English questions are, as they no doubt would be, indistinguishable from those of other native English speakers, for the simple reason that I am a native English speaker. From the external point of view -- from the point of view of someone reading my \"answers\" -- the answers to the Chinese questions and the English questions are equally good. But in the Chinese case, unlike the English case, I produce the answers by manipulating uninterpreted formal symbols. As far as the Chinese is concerned, I simply behave like a computer; I perform computational operations on formally specified elements. For the purposes of the Chinese, I am simply an instantiation of the computer program.",
+      "pages": [
+        3
+      ],
+      "bbox": [
+        16.0,
+        237.66600036621094,
+        589.0780639648438,
+        334.4339904785156
+      ],
+      "confidence": 1,
+      "id": "S015",
+      "zh": "我们还假设我对英语问题的回答与其他以英语为母语的人的答案毫无区别，原因很简单，我是以英语为母语的人。从外部的角度来看，从读我的“答案”的人的角度来看，中文问题和英文问题的答案同样好。但在中文案例中，与英语案例不同，我通过操纵未解释的形式符号来产生答案。对于中国人来说，我的行为就像一台电脑；我对正式指定的元素执行计算操作。对于中国人来说，我只是计算机程序的一个实例。"
+    },
+    {
+      "type": "paragraph",
+      "en": "Now the claims made by strong AI are that the programmed computer understands the stories and that the program in some sense explains human understanding. But we are now in a position to examine these claims in light of our thought experiment.",
+      "pages": [
+        3
+      ],
+      "bbox": [
+        16.0,
+        344.166015625,
+        585.5859375,
+        386.9339904785156
+      ],
+      "confidence": 1,
+      "id": "S016",
+      "zh": "现在，强人工智能声称编程计算机能够理解故事，并且程序在某种意义上解释了人类的理解。但我们现在可以根据我们的思想实验来检验这些主张。"
+    },
+    {
+      "type": "paragraph",
+      "en": "1 As regards the first claim, it seems to me quite obvious in the example that I do not understand a word of the Chinese stories. I have inputs and outputs that are indistinguishable from those of the native Chinese speaker, and I can have any formal program you like, but I still understand nothing. For the same reasons, Schank's computer understands nothing of any stories. whether in Chinese. English. or whatever. since in the Chinese case the computer is me. and in cases where the computer is not me, the computer has nothing more than I have in the case where I understand nothing.",
+      "pages": [
+        3
+      ],
+      "bbox": [
+        16.0,
+        396.666015625,
+        594.0040893554688,
+        479.9339904785156
+      ],
+      "confidence": 1,
+      "id": "S017",
+      "zh": "1 关于第一个说法，在我看来，在例子中很明显我听不懂中国故事中的一个词。我的输入和输出与中文母语者的输入和输出没有区别，我可以有任何你喜欢的正式程序，但我仍然一无所知。出于同样的原因，尚克的计算机无法理解任何故事。无论是中文。英语。或其他什么。因为在中国的情况下，计算机就是我。在计算机不是我的情况下，计算机什么也没有，就像我什么也不懂的情况下一样。"
+    },
+    {
+      "type": "paragraph",
+      "en": "2. As regards the second claim, that the program explains human understanding, we can see that the computer and its program do not provide sufficient conditions of understanding since the computer and the program are functioning, and there is no understanding. But does it even provide a necessary condition or a significant contribution to understanding? One of the claims made by the supporters of strong AI is that when I understand a story in English, what I am doing is exactly the same -- or perhaps more of the same -- as what I was doing in manipulating the Chinese symbols. It is simply more formal symbol manipulation that distinguishes the case in English, where I do understand, from the case in Chinese, where I don't. I have not demonstrated that this claim is false, but it would certainly appear an incredible claim in the example. Such plausibility as the claim has derives from the supposition that we can construct a program that will have the same inputs and outputs as native speakers, and in addition we assume that speakers have some level of description where they are also instantiations of a program.",
+      "pages": [
+        3
+      ],
+      "bbox": [
+        16.0,
+        489.666015625,
+        595.0780029296875,
+        626.9340209960938
+      ],
+      "confidence": 1,
+      "id": "S018",
+      "zh": "2.关于第二个主张，即程序解释了人类的理解，我们可以看到，计算机及其程序并没有提供充分的理解条件，因为计算机和程序正在运行，并且不存在理解。但它是否为理解提供了必要条件或重大贡献？强人工智能的支持者提出的一个主张是，当我理解一个英文故事时，我所做的事情与我在操纵中文符号时所做的事情完全相同，或者可能更多相同。这只是更正式的符号操作，它区分了英语中的情况（我能理解）和中文中的情况（我不能理解）。我还没有证明这个说法是错误的，但在这个例子中它肯定会显得令人难以置信。这种说法的合理性源于这样的假设：我们可以构建一个与母语人士具有相同输入和输出的程序，此外，我们还假设说话者具有一定程度的描述，其中他们也是程序的实例。"
+    },
+    {
+      "type": "paragraph",
+      "en": "On the basis of these two assumptions we assume that even if Schank's program isn't the whole story about understanding, it may be part of the story. Well, I suppose that is an empirical possibility, but not the slightest reason has so far been given to believe that it is true, since what is suggested though certainly not demonstrated -- by the example is that the computer program is simply irrelevant to my understanding of the story. In the Chinese case I have everything that artificial intelligence can put into me by way of a program, and I understand nothing; in the English case I understand everything, and there is so far no reason at all to suppose that my understanding has anything to do with computer programs, that is, with computational operations on purely formally specified elements. As long as the program is defined in terms of computational operations on purely formally defined elements, what the example suggests is that these by themselves have no interesting connection with understanding. They are certainly not sufficient conditions, and not the slightest reason has been given to suppose that they are necessary conditions or even that they make a significant contribution to understanding.",
+      "pages": [
+        3,
+        4
+      ],
+      "bbox": [
+        16.0,
+        636.666015625,
+        592.1561279296875,
+        746.9340209960938
+      ],
+      "confidence": 1,
+      "id": "S019",
+      "zh": "基于这两个假设，我们假设即使尚克的程序不是理解的全部，它也可能是故事的一部分。好吧，我认为这是一种经验上的可能性，但迄今为止还没有任何理由相信这是真的，因为通过例子所暗示的（尽管肯定没有证明）计算机程序与我对故事的理解完全无关。在中国的情况下，我拥有人工智能可以通过程序输入给我的一切，但我什么也不懂；在英语的情况下，我理解一切，到目前为止，没有任何理由认为我的理解与计算机程序有关，即与纯粹形式指定的元素上的计算操作有关。只要程序是根据纯粹形式定义的元素的计算操作来定义的，这个例子表明这些本身与理解没有有趣的联系。它们当然不是充分条件，也没有任何理由认为它们是必要条件，甚至认为它们对理解做出了重大贡献。"
+    },
+    {
+      "type": "paragraph",
+      "en": "Notice that the force of the argument is not simply that different machines can have the same input and output while operating on different formal principles -- that is not the point at all. Rather, whatever purely formal principles you put into the computer, they will not be sufficient for understanding, since a human will be able to follow the formal principles without understanding anything. No reason whatever has been offered to suppose that such principles are necessary or even contributory, since no reason has been given to suppose that when I understand English I am operating with any formal program at all.",
+      "pages": [
+        4
+      ],
+      "bbox": [
+        16.0,
+        77.16600036621094,
+        591.5859985351562,
+        160.4340057373047
+      ],
+      "confidence": 1,
+      "id": "S020",
+      "zh": "请注意，论证的力量不仅仅是不同的机器在按照不同的形式原则运行时可以具有相同的输入和输出——这根本不是重点。相反，无论你将什么纯粹的形式原则输入计算机，它们都不足以理解，因为人类无需理解任何东西就能够遵循形式原则。没有任何理由认为这些原则是必要的，甚至是有贡献的，因为没有任何理由认为当我理解英语时我根本就在使用任何正式的程序。"
+    },
+    {
+      "type": "paragraph",
+      "en": "Well, then, what is it that I have in the case of the English sentences that I do not have in the case of the Chinese sentences? The obvious answer is that I know what the former mean, while I haven't the faintest idea what the latter mean. But in what does this consist and why couldn't we give it to a machine, whatever it is? I will return to this question later, but first I want to continue with the example.",
+      "pages": [
+        4
+      ],
+      "bbox": [
+        16.0,
+        170.16600036621094,
+        579.9099731445312,
+        226.4340057373047
+      ],
+      "confidence": 1,
+      "id": "S021",
+      "zh": "那么，有什么是我在英语句子中拥有而在中文句子中没有的呢？显而易见的答案是我知道前者的含义，而我对后者的含义一无所知。但这包括什么？为什么我们不能把它交给机器，无论它是什么？我稍后会回到这个问题，但首先我想继续这个例子。"
+    },
+    {
+      "type": "paragraph",
+      "en": "I have had the occasions to present this example to several workers in artificial intelligence, and, interestingly, they do not seem to agree on what the proper reply to it is. I get a surprising variety of replies, and in what follows I will consider the most common of these (specified along with their geographic origins).",
+      "pages": [
+        4
+      ],
+      "bbox": [
+        16.0,
+        236.16600036621094,
+        592.75,
+        278.9339904785156
+      ],
+      "confidence": 1,
+      "id": "S022",
+      "zh": "我曾有机会向几位人工智能工作者介绍这个例子，有趣的是，他们似乎并没有就正确的回答达成一致。我收到了令人惊讶的各种各样的答复，在下文中我将考虑其中最常见的答复（连同其地理起源一起指定）。"
+    },
+    {
+      "type": "paragraph",
+      "en": "But first I want to block some common misunderstandings about \"understanding\": in many of these discussions one finds a lot of fancy footwork about the word \"understanding.\" My critics point out that there are many different degrees of understanding; that \"understanding\" is not a simple two-place predicate; that there are even different kinds and levels of understanding, and often the law of excluded middle doesn-t even apply in a straightforward way to statements of the form \"x understands y; that in many cases it is a matter for decision and not a simple matter of fact whether x understands y; and so on. To all of these points I want to say: of course, of course. But they have nothing to do with the points at issue. There are clear cases in which \"understanding' literally applies and clear cases in which it does not apply; and these two sorts of cases are all I need for this argument 2 I understand stories in English; to a lesser degree I can understand stories in French; to a still lesser degree, stories in German; and in Chinese, not at all. My car and my adding machine, on the other hand, understand nothing: they are not in that line of business. We often attribute \"under standing\" and other cognitive predicates by metaphor and analogy to cars, adding machines, and other artifacts, but nothing is proved by such attributions. We say, \"The door knows when to open because of its photoelectric cell,\" \"The adding machine knows how) (understands how to, is able) to do addition and subtraction but not division,\" and \"The thermostat perceives chances in the temperature.\"",
+      "pages": [
+        4
+      ],
+      "bbox": [
+        16.0,
+        288.666015625,
+        595.64794921875,
+        479.9339904785156
+      ],
+      "confidence": 1,
+      "id": "S023",
+      "zh": "但首先我想澄清一些关于“理解”的常见误解：在许多这样的讨论中，人们发现了很多关于“理解”这个词的花哨的技巧。我的批评者指出，存在许多不同程度的理解； “理解”不是一个简单的二位谓词；理解甚至有不同的种类和层次，排中律常常甚至不能直接适用于“x理解y”这种形式的陈述；在许多情况下，x是否理解y是一个需要决定的问题，而不是一个简单的事实问题；等等。对于所有这些观点，我想说：当然，当然。但它们与所讨论的问题无关。“理解”在字面上适用的情况很明显，也有不适用的情况；等等。这两种情况就是我这个论点所需要的。 2 我理解英语故事；我能在一定程度上理解法语故事；在较小程度上是德语故事；而在中文中则完全不是。另一方面，我的汽车和加法机什么也不懂：它们不属于该行业。我们经常通过隐喻和类比将“理解”和其他认知谓词归因于汽车、加法器和其他人工制品，但这种归因并不能证明任何东西。我们说，“门因为它的光电管而知道何时打开”，“加法机知道如何）（理解如何，能够）进行加法和减法，但不能进行除法”，以及“恒温器感知温度的机会”。"
+    },
+    {
+      "type": "paragraph",
+      "en": "The reason we make these attributions is quite interesting, and it has to do with the fact that in artifacts we extend our own intentionality;3 our tools are extensions of our purposes, and so we find it natural to make metaphorical attributions of intentionality to them; but I take it no philosophical ice is cut by such examples. The sense in which an automatic door \"understands instructions\" from its photoelectric cell is not at all the sense in which I understand English. If the sense in which Schank's programmed computers understand stories is supposed to be the metaphorical sense in which the door understands, and not the sense in which I understand English, the issue would not be worth discussing. But Newell and Simon (1963) write that the kind of cognition they claim for computers is exactly the same as for human beings. I like the straightforwardness of this claim, and it is the sort of claim I will be considering. I will argue that in the literal sense the programmed computer understands what the car and the adding machine understand, namely, exactly nothing. The computer understanding is not just (like my understanding of German) partial or incomplete; it is zero.",
+      "pages": [
+        4
+      ],
+      "bbox": [
+        16.0,
+        489.666015625,
+        592.6600341796875,
+        640.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S024",
+      "zh": "我们做出这些归因的原因非常有趣，这与以下事实有关：在人工制品中，我们扩展了自己的意向性；3我们的工具是我们目的的延伸，因此我们发现对它们进行隐喻性的意向性归因是很自然的；但我认为这样的例子并不能消除哲学上的坚冰。自动门从光电管“理解指令”的意义上与我理解英语的意义上完全不同。如果尚克的编程计算机理解故事的意义应该是门理解的隐喻意义，而不是我理解英语的意义，那么这个问题就不值得讨论。但纽厄尔和西蒙（Newell and Simon，1963）写道，他们所声称的计算机的认知与人类的认知完全相同。我喜欢这种直截了当的主张，这也是我将考虑的主张。我认为，从字面意义上讲，编程计算机理解汽车和加法机理解的内容，即什么也不理解。计算机的理解不仅仅是（就像我对德语的理解）部分或不完整；它为零。"
+    },
+    {
+      "type": "paragraph",
+      "en": "Now to the replies:",
+      "pages": [
+        4
+      ],
+      "bbox": [
+        16.0,
+        650.166015625,
+        109.07801055908203,
+        665.9340209960938
+      ],
+      "confidence": 1,
+      "id": "S025",
+      "zh": "现在回复："
+    },
+    {
+      "type": "paragraph",
+      "en": "I. The systems reply (Berkeley). \"While it is true that the individual person who is locked in the room does not understand the story, the fact is that he is merely part of a whole system, and the system does understand the story. The person has a large ledger in front of him in which are written the rules, he has a lot of scratch paper and pencils for doing calculations, he has 'data banks' of sets of Chinese symbols. Now, understanding is not being ascribed to the mere individual; rather it is being ascribed to this whole system of which he is a part.\"",
+      "pages": [
+        4
+      ],
+      "bbox": [
+        16.0,
+        675.666015625,
+        595.6599731445312,
+        745.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S026",
+      "zh": "I. 系统回复（伯克利）。 “虽然被锁在房间里的个人确实不理解这个故事，但事实是他只是整个系统的一部分，而系统确实理解这个故事。这个人面前有一本大账本，上面写着规则，他有大量的草稿纸和铅笔用于计算，他有一组中国符号的‘数据库’。现在，理解不只是归因于个人；而是归因于他作为其中一部分的整个系统。部分。”"
+    },
+    {
+      "type": "paragraph",
+      "en": "My response to the systems theory is quite simple: let the individual internalize all of these elements of the system. He memorizes the rules in the ledger and the data banks of Chinese symbols, and he does all the calculations in his head. The individual then incorporates the entire system. There isn't anything at all to the system that he does not encompass. We can even get rid of the room and suppose he works outdoors. All the same, he understands nothing of the Chinese, and a fortiori neither does the system, because there isn't anything in the system that isn't in him. If he doesn't understand, then there is no way the system could understand because the system is just a part of him.",
+      "pages": [
+        5
+      ],
+      "bbox": [
+        16.0,
+        25.416000366210938,
+        594.4061279296875,
+        108.68399810791016
+      ],
+      "confidence": 1,
+      "id": "S027",
+      "zh": "我对系统理论的回应非常简单：让个人内化系统的所有这些要素。他记住了账本和中国符号数据库中的规则，所有的计算都在脑子里进行。然后，个人整合整个系统。系统中没有任何东西是他不包含的。我们甚至可以摆脱房间并假设他在户外工作。尽管如此，他对中国人一无所知，更不用说这个制度了，因为制度中没有任何东西是他不了解的。如果他不明白，那么系统就不可能理解，因为系统只是他的一部分。"
+    },
+    {
+      "type": "paragraph",
+      "en": "Actually I feel somewhat embarrassed to give even this answer to the systems theory because the theory seems to me so implausible to start with. The idea is that while a person doesn't understand Chinese, somehow the conjunction of that person and bits of paper might understand Chinese. It is not easy for me to imagine how someone who was not in the grip of an ideology would find the idea at all plausible. Still, I think many people who are committed to the ideology of strong AI will in the end be inclined to say something very much like this; so let us pursue it a bit further. According to one version of this view, while the man in the internalized systems example doesn't understand Chinese in the sense that a native Chinese speaker does (because, for example, he doesn't know that the story refers to restaurants and hamburgers, etc.), still \"the man as a formal symbol manipulation system\" really does understand Chinese. The subsystem of the man that is the formal symbol manipulation system for Chinese should not be confused with the subsystem for English.",
+      "pages": [
+        5
+      ],
+      "bbox": [
+        16.0,
+        118.41600036621094,
+        591.0700073242188,
+        255.6840057373047
+      ],
+      "confidence": 1,
+      "id": "S028",
+      "zh": "事实上，即使对系统理论给出这样的答案，我也感到有些尴尬，因为在我看来，这个理论一开始就显得难以置信。这个想法是，虽然一个人不懂中文，但不知何故，这个人和纸片的结合可能会理解中文。我很难想象一个没有被某种意识形态所束缚的人会如何认为这个想法是合理的。尽管如此，我认为许多致力于强人工智能意识形态的人最终都会倾向于说类似这样的话；那么让我们进一步探讨一下。根据这一观点的一个版本，虽然内化系统示例中的人并不像以中文为母语的人那样理解中文（因为，例如，他不知道这个故事指的是餐馆和汉堡包等），但“作为正式符号操纵系统的人”仍然确实理解中文。作为中文形式符号处理系统的 man 子系统不应与英语子系统混淆。"
+    },
+    {
+      "type": "paragraph",
+      "en": "So there are really two subsystems in the man; one understands English, the other Chinese, and \"it's just that the two systems have little to do with each other.\" But, I want to reply, not only do they have little to do with each other, they are not even remotely alike. The subsystem that understands English (assuming we allow ourselves to talk in this jargon of \"subsystems\" for a moment) knows that the stories are about restaurants and eating hamburgers, he knows that he is being asked questions about restaurants and that he is answering questions as best he can by making various inferences from the content of the story, and so on. But the Chinese system knows none of this. Whereas the English subsystem knows that \"hamburgers\" refers to hamburgers, the Chinese subsystem knows only that \"squiggle squiggle\" is followed by \"squoggle squoggle.\" All he knows is that various formal symbols are being introduced at one end and manipulated according to rules written in English, and other symbols are going out at the other end.",
+      "pages": [
+        5
+      ],
+      "bbox": [
+        16.0,
+        265.416015625,
+        588.8140258789062,
+        389.1839904785156
+      ],
+      "confidence": 1,
+      "id": "S029",
+      "zh": "所以人身上实际上有两个子系统：一个懂英语，一个懂中文，“只是这两个系统没什么关系”。但是，我想回答的是，他们不仅没有什么关系，甚至一点都不像。理解英语的子系统（假设我们允许自己用“子系统”的行话谈论一会儿）知道这些故事是关于餐馆和吃汉堡包的，他知道他正在被问到有关餐馆的问题，并且他正在通过从故事内容中做出各种推论来尽最大努力回答问题，等等。但中国的制度对此一无所知。英语子系统知道“hamburgers”指的是汉堡包，而中文子系统只知道“squiggle squiggle”后面跟着“squoggle squiggle”。他所知道的是，各种形式符号在一端引入，并根据用英语编写的规则进行操作，而其他符号则在另一端输出。"
+    },
+    {
+      "type": "paragraph",
+      "en": "The whole point of the original example was to argue that such symbol manipulation by itself couldn't be sufficient for understanding Chinese in any literal sense because the man could write \"squoggle squoggle\" after \"squiggle squiggle\" without understanding anything in Chinese. And it doesn't meet that argument to postulate subsystems within the man, because the subsystems are no better off than the man was in the first place; they still don't have anything even remotely like what the English-speaking man (or subsystem) has. Indeed, in the case as described, the Chinese subsystem is simply a part of the English subsystem, a part that engages in meaningless symbol manipulation according to rules in English.",
+      "pages": [
+        5
+      ],
+      "bbox": [
+        16.0,
+        398.916015625,
+        592.491943359375,
+        495.6839904785156
+      ],
+      "confidence": 1,
+      "id": "S030",
+      "zh": "最初例子的全部要点是论证这种符号操作本身不足以从任何字面意义上理解中文，因为这个人可以在“squiggle squiggle”之后写“squiggle squiggle”而不理解任何中文。假定人体内有子系统并不符合这一论点，因为这些子系统并不比人最初的情况更好。他们仍然没有任何东西，甚至与说英语的人（或子系统）有一点相似。事实上，在所描述的情况下，中文子系统只是英文子系统的一部分，是根据英文规则进行无意义符号操作的部分。"
+    },
+    {
+      "type": "paragraph",
+      "en": "Let us ask ourselves what is supposed to motivate the systems reply in the first place; that is, what independent grounds are there supposed to be for saying that the agent must have a subsystem within him that literally understands stories in Chinese? As far as I can tell the only grounds are that in the example I have the same input and output as native Chinese speakers and a program that goes from one to the other. But the whole point of the examples has been to try to show that that couldn't be sufficient for understanding, in the sense in which I understand stories in English, because a person, and hence the set of systems that go to make up a person, could have the right combination of input, output, and program and still not understand anything in the relevant literal sense in which I understand English.",
+      "pages": [
+        5
+      ],
+      "bbox": [
+        16.0,
+        505.416015625,
+        591.1719970703125,
+        602.1840209960938
+      ],
+      "confidence": 1,
+      "id": "S031",
+      "zh": "让我们问自己，首先应该是什么来激发系统的响应？也就是说，有什么独立的理由可以说智能体体内一定有一个能够真正理解中文故事的子系统？据我所知，唯一的理由是，在示例中，我与中文母语者具有相同的输入和输出，并且程序从一个到另一个。但这些例子的全部意义在于试图表明，从我理解英语故事的意义上来说，这不足以理解，因为一个人，以及构成一个人的一组系统，可能拥有输入、输出和程序的正确组合，但仍然无法理解我理解英语的相关字面意义的任何内容。"
+    },
+    {
+      "type": "paragraph",
+      "en": "The only motivation for saying there must be a subsystem in me that understands Chinese is that I have a program and I can pass the Turing test; I can fool native Chinese speakers. But precisely one of the points at issue is the adequacy of the Turing test. The example shows that there could be two \"systems,\" both of which pass the Turing test, but only one of which understands; and it is no argument against this point to say that since they both pass the Turing test they must both understand, since this claim fails to meet the argument that the system in me that understands English has a great deal more than the system that merely processes Chinese. In short, the systems reply simply begs the question by insisting without argument that the system must understand Chinese.",
+      "pages": [
+        5
+      ],
+      "bbox": [
+        16.0,
+        611.916015625,
+        592.0779418945312,
+        708.6840209960938
+      ],
+      "confidence": 1,
+      "id": "S032",
+      "zh": "说我体内一定有一个能听懂中文的子系统的唯一动机是我有一个程序，我可以通过图灵测试；我可以愚弄以中文为母语的人。但争论的焦点之一正是图灵测试的充分性。这个例子表明，可能有两个“系统”，它们都通过了图灵测试，但只有一个能够理解；没有理由反对这一点，因为他们都通过了图灵测试，所以他们都必须理解，因为这种说法无法满足这样的论点：我体内理解英语的系统比仅仅处理中文的系统要多得多。简而言之，系统的回复只是通过毫无争议地坚持系统必须理解中文来回避问题。"
+    },
+    {
+      "type": "paragraph",
+      "en": "Furthermore, the systems reply would appear to lead to consequences that are independently absurd. If we are to conclude that there must be cognition in me on the grounds that I have a certain sort of input and output and a program in between, then it looks like all sorts of noncognitive subsystems are going to turn out to be cognitive. For example, there is a level of description at which my stomach does information processing, and it instantiates any number of computer programs, but I take it we do not want to say that it has any understanding [cf. Pylyshyn: \"Computation and Cognition\" BBS 3(1) 1980]. But if we accept the systems reply, then it is hard to see how we avoid saying that stomach, heart, liver, and so on, are all understanding subsystems, since there is no principled way to distinguish the motivation for saying the Chinese subsystem understands from saying that the stomach understands. It is, by the way, not an answer to this point to say that the Chinese system has information as input and output and the stomach has food and food products as input and output, since from the point of view of the agent, from my point of view, there is no information in either the food or the Chinese -- the Chinese is just so many meaningless squiggles. The information in the Chinese case is solely in the eyes of the programmers and the interpreters, and there is nothing to prevent them from treating the input and output of my digestive organs as information if they so desire.",
+      "pages": [
+        5,
+        6
+      ],
+      "bbox": [
+        16.0,
+        718.416015625,
+        594.4059448242188,
+        747.6840209960938
+      ],
+      "confidence": 1,
+      "id": "S033",
+      "zh": "此外，系统的回复似乎会导致独立荒谬的后果。如果我们根据我有某种输入和输出以及介于两者之间的程序而得出结论，我体内一定有认知能力，那么看起来各种非认知子系统都将成为认知子系统。例如，有一个描述级别，我的胃在这个级别上进行信息处理，并且它实例化了任意数量的计算机程序，但我认为我们不想说它有任何理解力[cf. Pylyshyn：“计算与认知”BBS 3(1) 1980]。但如果我们接受系统的答复，那么就很难避免说胃、心脏、肝脏等等都是理解子系统，因为没有原则性的方法来区分说中国子系统理解和说胃理解的动机。顺便说一句，说中文系统有信息作为输入和输出，胃有食物和食品作为输入和输出，这并不是对这一点的回答，因为从智能体的角度来看，从我的角度来看，食物或中文中都没有信息——中文只是这么多毫无意义的花体。中文案例中的信息仅在程序员和解释员的眼中，没有什么可以阻止他们将我的消化器官的输入和输出视为信息，如果他们愿意的话。"
+    },
+    {
+      "type": "paragraph",
+      "en": "This last point bears on some independent problems in strong AI, and it is worth digressing for a moment to explain it. If strong AI is to be a branch of psychology, then it must be able to distinguish those systems that are genuinely mental from those that are not. It must be able to distinguish the principles on which the mind works from those on which nonmental systems work; otherwise it will offer us no explanations of what is specifically mental about the mental. And the mental-nonmental distinction cannot be just in the eye of the beholder but it must be intrinsic to the systems; otherwise it would be up to any beholder to treat people as nonmental and, for example, hurricanes as mental if he likes. But quite often in the AI literature the distinction is blurred in ways that would in the long run prove disastrous to the claim that AI is a cognitive inquiry. McCarthy, for example, writes, '-Machines as simple as thermostats can be said to have beliefs, and having beliefs seems to be a characteristic of most machines capable of problem solving performance\" (McCarthy 1979).",
+      "pages": [
+        6
+      ],
+      "bbox": [
+        16.0,
+        185.16600036621094,
+        595.4140014648438,
+        322.4339904785156
+      ],
+      "confidence": 1,
+      "id": "S034",
+      "zh": "最后一点与强人工智能中的一些独立问题有关，值得暂时离题解释一下。如果强人工智能要成为心理学的一个分支，那么它必须能够区分真正的心理系统和非心理系统。它必须能够区分思维工作的原理和非思维系统工作的原理；否则它不会向我们提供关于心理的具体心理的解释。精神与非精神的区别不能仅仅存在于旁观者的眼中，而必须是系统固有的；否则，任何旁观者都可以将人们视为非精神生物，例如，如果他愿意，可以将飓风视为精神生物。但在人工智能文献中，这种区别常常是模糊的，从长远来看，这对于人工智能是一种认知探究的主张来说是灾难性的。例如，麦卡锡写道，“像恒温器这样简单的机器可以说是有信念的，而拥有信念似乎是大多数能够解决问题的机器的一个特征”（McCarthy 1979）。"
+    },
+    {
+      "type": "paragraph",
+      "en": "Anyone who thinks strong AI has a chance as a theory of the mind ought to ponder the implications of that remark. We are asked to accept it as a discovery of strong AI that the hunk of metal on the wall that we use to regulate the temperature has beliefs in exactly the same sense that we, our spouses, and our children have beliefs, and furthermore that \"most\" of the other machines in the room -- telephone, tape recorder, adding machine, electric light switch, -- also have beliefs in this literal sense. It is not the aim of this article to argue against McCarthy's point, so I will simply assert the following without argument. The study of the mind starts with such facts as that humans have beliefs, while thermostats, telephones, and adding machines don't. If you get a theory that denies this point you have produced a counterexample to the theory and the theory is false.",
+      "pages": [
+        6
+      ],
+      "bbox": [
+        16.0,
+        332.166015625,
+        592.5820922851562,
+        442.4339904785156
+      ],
+      "confidence": 1,
+      "id": "S035",
+      "zh": "任何认为强人工智能有机会成为一种心灵理论的人都应该思考这句话的含义。我们被要求将其视为强人工智能的发现，即我们用来调节温度的墙上的大块金属具有与我们、我们的配偶和孩子具有完全相同的信念的信念，而且房间中“大多数”其他机器——电话、录音机、加法机、电灯开关——也具有这种字面意义上的信念。本文的目的不是反驳麦卡锡的观点，因此我将简单地断言以下内容而不进行论证。对心灵的研究始于这样的事实：人类有信念，而恒温器、电话和加法机却没有。如果你得到的理论否认了这一点，那么你就已经给出了该理论的反例，并且该理论是错误的。"
+    },
+    {
+      "type": "paragraph",
+      "en": "One gets the impression that people in AI who write this sort of thing think they can get away with it because they don't really take it seriously, and they don't think anyone else will either. I propose for a moment at least, to take it seriously. Think hard for one minute about what would be necessary to establish that that hunk of metal on the wall over there had real beliefs beliefs with direction of fit, propositional content, and conditions of satisfaction; beliefs that had the possibility of being strong beliefs or weak beliefs; nervous, anxious, or secure beliefs; dogmatic, rational, or superstitious beliefs; blind faiths or hesitant cogitations; any kind of beliefs. The thermostat is not a candidate. Neither is stomach, liver adding machine, or telephone. However, since we are taking the idea seriously, notice that its truth would be fatal to strong AI's claim to be a science of the mind. For now the mind is everywhere. What we wanted to know is what distinguishes the mind from thermostats and livers. And if McCarthy were right, strong AI wouldn't have a hope of telling us that.",
+      "pages": [
+        6
+      ],
+      "bbox": [
+        16.0,
+        452.166015625,
+        594.406005859375,
+        589.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S036",
+      "zh": "人们给人的印象是，写出这类东西的人工智能领域的人认为他们可以侥幸逃脱惩罚，因为他们并没有真正认真对待它，而且他们认为其他人也不会认真对待它。我建议至少暂时认真对待它。认真思考一分钟，需要什么才能证明那边墙上的那块金属具有真实的信念，以及适合的方向、命题内容和满足条件；有可能成为强信念或弱信念的信念；紧张、焦虑或安全的信念；教条、理性或迷信的信仰；盲目信仰或犹豫不决；任何一种信仰。恒温器不是候选者。胃、肝脏加法机或电话也不是。然而，由于我们正在认真对待这个想法，请注意，它的真实性对于强人工智能声称是一门心灵科学来说是致命的。现在思想无处不在。我们想知道的是大脑与恒温器和肝脏的区别。如果麦卡锡是对的，强人工智能就没有希望告诉我们这一点。"
+    },
+    {
+      "type": "paragraph",
+      "en": "II. The Robot Reply (Yale). \"Suppose we wrote a different kind of program from Schank's program. Suppose we put a computer inside a robot, and this computer would not just take in formal symbols as input and give out formal symbols as output, but rather would actually operate the robot in such a way that the robot does something very much like perceiving, walking, moving about, hammering nails, eating drinking -- anything you like. The robot would, for example have a television camera attached to it that enabled it to 'see,' it would have arms and legs that enabled it to 'act,' and all of this would be controlled by its computer 'brain.' Such a robot would, unlike Schank's computer, have genuine understanding and other mental states.\"",
+      "pages": [
+        6
+      ],
+      "bbox": [
+        16.0,
+        599.166015625,
+        592.8280029296875,
+        695.9340209960938
+      ],
+      "confidence": 1,
+      "id": "S037",
+      "zh": "二.机器人的答复（耶鲁大学）。 “假设我们编写了一种与尚克程序不同的程序。假设我们将一台计算机放入机器人中，这台计算机不仅会接受形式符号作为输入，并给出形式符号作为输出，而且会实际操作机器人，让机器人做一些非常类似于感知、行走、移动、钉钉子、吃东西、喝水等任何你喜欢的事情。例如，机器人会附有一个电视摄像机，使其能够‘看’，它会有手臂和腿，使它能够“行动”，而所有这一切都将由它的计算机“大脑”控制。与尚克的计算机不同，这样的机器人具有真正的理解力和其他心理状态。”"
+    },
+    {
+      "type": "paragraph",
+      "en": "The first thing to notice about the robot reply is that it tacitly concedes that cognition is not solely a matter of formal symbol manipulation, since this reply adds a set of causal relation with the outside world [cf. Fodor: \"Methodological Solipsism\" BBS 3(1) 1980]. But the answer to the robot reply is that the addition of such \"perceptual\" and \"motor\" capacities adds nothing by way of understanding, in particular, or intentionality, in general, to Schank's original program. To see this, notice that the same thought experiment applies to the robot case. Suppose that instead of the computer inside the robot, you put me inside the room and, as in the original Chinese case, you give me more Chinese symbols with more instructions in English for matching Chinese symbols to Chinese symbols and feeding back Chinese symbols to the outside. Suppose, unknown to me, some of the Chinese symbols that come to me come from a television camera attached to the robot and other Chinese symbols that I am giving out serve to make the motors inside the robot move the robot's legs or arms. It is important to emphasize that all I am doing is manipulating formal symbols: I know none of these other facts. I am receiving \"information\" from the robot's \"perceptual\" apparatus, and I am giving out \"instructions\" to its motor apparatus without knowing either of these facts. I am the robot's homunculus, but unlike the traditional homunculus, I don't know what's going on. I don't understand anything except the rules for symbol manipulation. Now in this case I want to say that the robot has no intentional states at all; it is simply moving about as a result of its electrical wiring and its program. And furthermore, by instantiating the program I have no intentional states of the relevant type. All I do is follow formal instructions about manipulating formal symbols.",
+      "pages": [
+        6,
+        7
+      ],
+      "bbox": [
+        16.0,
+        705.666015625,
+        586.6420288085938,
+        748.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S038",
+      "zh": "关于机器人的回复，首先要注意的是，它默认认知不仅仅是形式符号操作的问题，因为这个回复增加了一组与外部世界的因果关系[cf.福多：“方法论唯我论”BBS 3(1) 1980]。但机器人答复的答案是，这种“感知”和“运动”能力的增加并没有增加任何理解，特别是或一般意义上的意向性，对尚克的原始程序。要看到这一点，请注意相同的思想实验也适用于机器人案例。假设你把我放在房间里，而不是机器人里面的计算机，就像原来的中国情况一样，你给我更多的中文符号和更多的英文指令，用于将中文符号与中文符号进行匹配，并将中文符号反馈到外面。假设，我不知道的是，我想到的一些中国符号来自于机器人上的电视摄像机，而我发出的其他中国符号则用于使机器人内部的电机移动机器人的腿或手臂。需要强调的是，我所做的只是操纵形式符号：我不知道其他事实。我从机器人的“感知”装置接收“信息”，并且在不知道这些事实的情况下向其运动装置发出“指令”。我是机器人的小人，但与传统的小人不同，我不知道发生了什么。除了符号操作的规则之外，我什么都不明白。现在在这种情况下我想说机器人根本没有有意的状态；它只是由于其电线和程序而移动。此外，通过实例化该程序，我没有相关类型的有意状态。我所做的就是遵循有关操作形式符号的正式说明。"
+    },
+    {
+      "type": "paragraph",
+      "en": "III. The brain simulator reply (Berkeley and M.I.T.). \"Suppose we design a program that doesn't represent information that we have about the world, such as the information in Schank's scripts, but simulates the actual sequence of neuron firings at the synapses of the brain of a native Chinese speaker when he understands stories in Chinese and gives answers to them. The machine takes in Chinese stories and questions about them as input, it simulates the formal l structure of actual Chinese brains in processing these stories, and it gives out Chinese answers as outputs. We can even imagine that the machine operates, not with a single serial program, but with a whole set of programs operating in parallel, in the manner that actual human brains presumably operate when they process natural language. Now surely in such a case we would have to say that the machine understood the stories; and if we refuse to say that, wouldn't we also have to deny that native Chinese speakers understood the stories? At the level of the synapses, what would or could be different about the program of the computer and the program of the Chinese brain?\"",
+      "pages": [
+        7
+      ],
+      "bbox": [
+        16.0,
+        212.16600036621094,
+        595.156005859375,
+        349.4339904785156
+      ],
+      "confidence": 1,
+      "id": "S039",
+      "zh": "三．大脑模拟器回复（伯克利和麻省理工学院）。 “假设我们设计的程序并不代表我们所掌握的关于世界的信息，例如尚克脚本中的信息，而是模拟一个以中文为母语的人理解中文故事并给出答案时大脑突触神经元放电的实际序列。机器将中文故事和有关它们的问题作为输入，它模拟实际中国人大脑在处理这些故事时的形式结构，并给出中文答案作为输出。我们甚至可以想象机器不是用单个串行程序，而是用一整套程序并行操作，就像人类大脑处理自然语言时的操作方式一样。现在，在这种情况下，我们肯定不得不说机器理解这些故事；如果我们拒绝这么说，我们是否也必须否认中国人理解这些故事？在突触层面，计算机的程序和中国人大脑的程序会有什么不同？"
+    },
+    {
+      "type": "paragraph",
+      "en": "Before countering this reply I want to digress to note that it is an odd reply for any partisan of artificial intelligence (or functionalism, etc.) to make: I thought the whole idea of strong AI is that we don't need to know how the brain works to know how the mind works. The basic hypothesis, or so I had supposed, was that there is a level of mental operations consisting of computational processes over formal elements that constitute the essence of the mental and can be realized in all sorts of different brain processes, in the same way that any computer program can be realized in different computer hardwares: on the assumptions of strong AI, the mind is to the brain as the program is to the hardware, and thus we can understand the mind without doing neurophysiology. If we had to know how the brain worked to do AI, we wouldn't bother with AI. However, even getting this close to the operation of the brain is still not sufficient to produce understanding. To see this, imagine that instead of a mono lingual man in a room shuffling symbols we have the man operate an elaborate set of water pipes with valves connecting them. When the man receives the Chinese symbols, he looks up in the program, written in English, which valves he has to turn on and off. Each water connection corresponds to a synapse in the Chinese brain, and the whole system is rigged up so that after doing all the right firings, that is after turning on all the right faucets, the Chinese answers pop out at the output end of the series of pipes.",
+      "pages": [
+        7
+      ],
+      "bbox": [
+        16.0,
+        359.166015625,
+        595.4920043945312,
+        550.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S040",
+      "zh": "在反驳这个回答之前，我想离题一下，对于任何人工智能（或功能主义等）的支持者来说，这都是一个奇怪的回答：我认为强人工智能的整个想法是，我们不需要知道大脑如何工作就知道思维如何工作。基本假设，或者说我的假设是，存在一定程度的心理操作，由形式元素上的计算过程组成，构成心理的本质，并且可以在各种不同的大脑过程中实现，就像任何计算机程序都可以在不同的计算机硬件中实现一样：在强人工智能的假设下，思想之于大脑，就像程序之于硬件一样，因此我们可以在不进行神经生理学的情况下理解思想。如果我们必须知道大脑如何工作才能实现人工智能，我们就不会为人工智能而烦恼。然而，即使如此接近大脑的运作仍然不足以产生理解。为了看到这一点，想象一下，我们让一个人操作一组精心设计的水管，水管之间有连接的阀门，而不是一个只会说一种语言的人在房间里洗牌符号。当该男子收到中文符号时，他会在用英文编写的程序中查找，他必须打开和关闭这些阀门。每个水连接都对应于中国人大脑中的一个突触，整个系统经过精心设计，以便在执行所有正确的触发后，即打开所有正确的水龙头后，中文答案会在一系列管道的输出端弹出。"
+    },
+    {
+      "type": "paragraph",
+      "en": "I Now where is the understanding in this system? It takes Chinese as input, it simulates the formal structure of the synapses of the Chinese brain, and it gives Chinese as output. But the man certainly doesn-t understand Chinese, and neither do the water pipes, and if we are tempted to adopt what I think is the absurd view that somehow the conjunction of man and water pipes understands, remember that in principle the man can internalize the formal structure of the water pipes and do all the \"neuron firings\" in his imagination. The problem with the brain simulator is that it is simulating the wrong things about the brain. As long as it simulates only the formal structure of the sequence of neuron firings at the synapses, it won't have simulated what matters about the brain, namely its causal properties, its ability to produce intentional states. And that the formal properties are not sufficient for the causal properties is shown by the water pipe example: we can have all the formal properties carved off from the relevant neurobiological causal properties.",
+      "pages": [
+        7
+      ],
+      "bbox": [
+        16.0,
+        560.166015625,
+        592.090087890625,
+        697.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S041",
+      "zh": "我现在对这个系统的理解在哪里？它以中文作为输入，模拟中国人大脑突触的形式结构，并给出中文作为输出。但这个人肯定不懂中文，水管也不懂，如果我们想接受我认为荒谬的观点，即人与水管的结合以某种方式理解，请记住，原则上，人可以内化水管的形式结构，并在他的想象中进行所有“神经元放电”。大脑模拟器的问题在于它模拟了大脑的错误事物。只要它只模拟突触神经元放电序列的形式结构，它就不会模拟大脑的重要部分，即它的因果特性，它产生有意状态的能力。水管的例子表明，形式属性对于因果属性来说是不够的：我们可以将所有形式属性从相关的神经生物学因果属性中分离出来。"
+    },
+    {
+      "type": "paragraph",
+      "en": "IV. The combination reply (Berkeley and Stanford). 'While each of the previous three replies might not be completely convincing by itself as a refutation of the Chinese room counterexample, if you take all three together they are collectively much more convincing and even decisive. Imagine a robot with a brain-shaped computer lodged in its cranial cavity, imagine the computer programmed with all the synapses of a human brain, imagine the whole behavior of the robot is indistinguishable from human behavior, and now think of the whole thing as a unified system and not just as a computer with inputs and outputs. Surely in such a case we would have to ascribe intentionality to the system. '",
+      "pages": [
+        7,
+        8
+      ],
+      "bbox": [
+        16.0,
+        707.166015625,
+        588.3280029296875,
+        749.9340209960938
+      ],
+      "confidence": 1,
+      "id": "S042",
+      "zh": "四．组合回复（伯克利和斯坦福）。虽然前三个答复本身作为对中国房间反例的反驳可能并不完全令人信服，但如果你把所有三个答复放在一起，它们综合起来就更有说服力，甚至更具决定性。想象一个机器人，其颅腔中装有一台大脑形状的计算机，想象一下用人脑的所有突触编程的计算机，想象一下机器人的整个行为与人类行为没有区别，现在将整个事物视为一个统一的系统，而不仅仅是一台具有输入和输出的计算机。当然，在这种情况下，我们必须将意向性归因于系统。 '"
+    },
+    {
+      "type": "paragraph",
+      "en": "I entirely agree that in such a case we would find it rational and indeed irresistible to accept the hypothesis that the robot had intentionality, as long as we knew nothing more about it. Indeed, besides appearance and behavior, the other elements of the combination are really irrelevant. If we could build a robot whose behavior was indistinguishable over a large range from human behavior, we would attribute intentionality to it, pending some reason not to. We wouldn't need to know in advance that its computer brain was a formal analogue of the human brain.",
+      "pages": [
+        8
+      ],
+      "bbox": [
+        16.0,
+        90.66600036621094,
+        591.1599731445312,
+        160.4340057373047
+      ],
+      "confidence": 1,
+      "id": "S043",
+      "zh": "我完全同意，在这种情况下，只要我们对此一无所知，我们就会发现接受机器人具有意向性的假设是合理的，而且确实是不可抗拒的。确实，除了外表和行为之外，其他的组合元素实在是无关紧要。如果我们能够制造出一个机器人，其行为在很大范围内与人类行为无法区分，我们就会将其归因于意向性，除非有理由不这样做。我们不需要提前知道它的计算机大脑是人类大脑的正式模拟。"
+    },
+    {
+      "type": "paragraph",
+      "en": "But I really don't see that this is any help to the claims of strong AI; and here-s why: According to strong AI, instantiating a formal program with the right input and output is a sufficient condition of, indeed is constitutive of, intentionality. As Newell (1979) puts it, the essence of the mental is the operation of a physical symbol system. But the attributions of intentionality that we make to the robot in this example have nothing to do with formal programs. They are simply based on the assumption that if the robot looks and behaves sufficiently like us, then we would suppose, until proven otherwise, that it must have mental states like ours that cause and are expressed by its behavior and it must have an inner mechanism capable of producing such mental states. If we knew independently how to account for its behavior without such assumptions we would not attribute intentionality to it especially if we knew it had a formal program. And this is precisely the point of my earlier reply to objection 11.",
+      "pages": [
+        8
+      ],
+      "bbox": [
+        16.0,
+        170.16600036621094,
+        584.4879760742188,
+        293.9339904785156
+      ],
+      "confidence": 1,
+      "id": "S044",
+      "zh": "但我真的不认为这对强人工智能的主张有任何帮助；原因如下：根据强人工智能，用正确的输入和输出实例化正式程序是意向性的充分条件，实际上是意向性的组成部分。正如纽厄尔（Newell，1979）所说，心理的本质是物理符号系统的运作。但在这个例子中，我们对机器人的意向性归因与正式程序无关。它们只是基于这样的假设：如果机器人的外观和行为足够像我们，那么我们会假设，除非另有证明，它必须具有像我们一样的心理状态，导致其行为并通过其行为表达，并且它必须具有能够产生这种心理状态的内部机制。如果我们独立地知道如何在没有这样的假设的情况下解释它的行为，我们就不会归因于它的意向性，特别是如果我们知道它有一个正式的程序。这正是我之前对反对意见11的答复的要点。"
+    },
+    {
+      "type": "paragraph",
+      "en": "Suppose we knew that the robot's behavior was entirely accounted for by the fact that a man inside it was receiving uninterpreted formal symbols from the robot's sensory receptors and sending out uninterpreted formal symbols to its motor mechanisms, and the man was doing this symbol manipulation in accordance with a bunch of rules. Furthermore, suppose the man knows none of these facts about the robot, all he knows is which operations to perform on which meaningless symbols. In such a case we would regard the robot as an ingenious mechanical dummy. The hypothesis that the dummy has a mind would now be unwarranted and unnecessary, for there is now no longer any reason to ascribe intentionality to the robot or to the system of which it is a part (except of course for the man's intentionality in manipulating the symbols). The formal symbol manipulations go on, the input and output are correctly matched, but the only real locus of intentionality is the man, and he doesn't know any of the relevant intentional states; he doesn't, for example, see what comes into the robot's eyes, he doesn't intend to move the robot's arm, and he doesn't understand any of the remarks made to or by the robot. Nor, for the reasons stated earlier, does the system of which man and robot are a part.",
+      "pages": [
+        8
+      ],
+      "bbox": [
+        16.0,
+        303.666015625,
+        593.5000610351562,
+        467.9339904785156
+      ],
+      "confidence": 1,
+      "id": "S045",
+      "zh": "假设我们知道机器人的行为完全是由于机器人内部的一个人从机器人的感觉受体接收未解释的形式符号并向其运动机制发送未解释的形式符号这一事实来解释的，而该人正在根据一系列规则进行这种符号操作。此外，假设该人对机器人的这些事实一无所知，他所知道的只是对哪些无意义的符号执行哪些操作。在这种情况下，我们会将机器人视为巧妙的机械假人。假人有思想的假设现在是没有根据和不必要的，因为现在不再有任何理由将意向性归因于机器人或其所属的系统（当然除了人操纵符号的意向性）。形式符号操作继续进行，输入和输出正确匹配，但唯一真正的意向性所在地是人，他不知道任何相关的意向状态；例如，他看不到机器人眼睛里的东西，他不打算移动机器人的手臂，并且他不理解机器人对机器人说的任何话或机器人说的任何话。出于前面所述的原因，人类和机器人作为其一部分的系统也不会出现这种情况。"
+    },
+    {
+      "type": "paragraph",
+      "en": "To see this point, contrast this case with cases in which we find it completely natural to ascribe intentionality to members of certain other primate species such as apes and monkeys and to domestic animals such as dogs. The reasons we find it natural are, roughly, two: we can't make sense of the animal's behavior without the ascription of intentionality and we can see that the beasts are made of similar stuff to ourselves -- that is an eye, that a nose, this is its skin, and so on. Given the coherence of the animal's behavior and the assumption of the same causal stuff underlying it, we assume both that the animal must have mental states underlying its behavior, and that the mental states must be produced by mechanisms made out of the stuff that is like our stuff. We would certainly make similar assumptions about the robot unless we had some reason not to, but as soon as we knew that the behavior was the result of a formal program, and that the actual causal properties of the physical substance were irrelevant we would abandon the assumption of intentionality. [See \"Cognition and Consciousness in Nonhuman Species BBS 1(4) 1978.]",
+      "pages": [
+        8
+      ],
+      "bbox": [
+        16.0,
+        477.666015625,
+        593.1640625,
+        614.9340209960938
+      ],
+      "confidence": 1,
+      "id": "S046",
+      "zh": "为了看清这一点，请将这个案例与我们发现将意向性归因于某些其他灵长类物种（例如猿和猴子）以及家养动物（例如狗）的成员是完全自然的情况进行对比。我们认为它自然的原因大致有两个：如果没有意向性的归属，我们就无法理解动物的行为，而且我们可以看到动物是由与我们相似的东西组成的——那就是眼睛，鼻子，这是它的皮肤，等等。考虑到动物行为的连贯性以及其背后的相同因果因素的假设，我们假设动物必须具有其行为背后的精神状态，并且精神状态必须由与我们的物质相似的物质制成的机制产生。我们当然会对机器人做出类似的假设，除非我们有某种理由不这样做，但一旦我们知道该行为是正式程序的结果，并且物理物质的实际因果属性无关紧要，我们就会放弃意向性的假设。 [参见“非人类物种的认知和意识 BBS 1(4) 1978。]"
+    },
+    {
+      "type": "paragraph",
+      "en": "There are two other responses to my example that come up frequently (and so are worth discussing) but really miss the point.",
+      "pages": [
+        8
+      ],
+      "bbox": [
+        16.0,
+        624.666015625,
+        593.1640625,
+        653.9340209960938
+      ],
+      "confidence": 1,
+      "id": "S047",
+      "zh": "对于我的例子，还有另外两个经常出现的回应（因此值得讨论），但确实没有抓住要点。"
+    },
+    {
+      "type": "paragraph",
+      "en": "V. The other minds reply (Yale). \"How do you know that other people understand Chinese or anything else? Only by their behavior. Now the computer can pass the behavioral tests as well as they can (in principle), so if you are going to attribute cognition to other people you must in principle also attribute it to computers. '",
+      "pages": [
+        8
+      ],
+      "bbox": [
+        16.0,
+        663.666015625,
+        593.0859985351562,
+        706.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S048",
+      "zh": "V. 其他人的回答（耶鲁大学）。 “你怎么知道其他人理解中文或其他什么东西？只能通过他们的行为。现在计算机可以像他们一样通过行为测试（原则上），所以如果你要将认知归因于其他人，原则上你也必须将其归因于计算机。”"
+    },
+    {
+      "type": "paragraph",
+      "en": "This objection really is only worth a short reply. The problem in this discussion is not about how I know that other people have cognitive states, but rather what it is that I am attributing to them when I attribute cognitive states to them.",
+      "pages": [
+        8
+      ],
+      "bbox": [
+        16.0,
+        716.166015625,
+        594.2501220703125,
+        745.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S049",
+      "zh": "这个反对意见确实只值得简短答复。这次讨论的问题不是我如何知道其他人有认知状态，而是当我将认知状态归因于他们时，我将其归因于他们的是什么。"
+    },
+    {
+      "type": "paragraph",
+      "en": "The thrust of the argument is that it couldn't be just computational processes and their output because the computational processes and their output can exist without the cognitive state. It is no answer to this argument to feign anesthesia. In 'cognitive sciences\" one presupposes the reality and knowability of the mental in the same way that in physical sciences one has to presuppose the reality and knowability of physical objects.",
+      "pages": [
+        9
+      ],
+      "bbox": [
+        16.0,
+        24.666000366210938,
+        592.6600341796875,
+        80.93399810791016
+      ],
+      "confidence": 1,
+      "id": "S050",
+      "zh": "该论点的主旨是，它不能只是计算过程及其输出，因为计算过程及其输出可以在没有认知状态的情况下存在。假装麻醉并不能回答这个论点。在“认知科学”中，人们预先假定了心理的现实性和可知性，就像在物理科学中，人们必须预先假定物理对象的现实性和可知性一样。"
+    },
+    {
+      "type": "paragraph",
+      "en": "VI. The many mansions reply (Berkeley). \"Your whole argument presupposes that AI is only about analogue and digital computers. But that just happens to be the present state of technology. Whatever these causal processes are that you say are essential for intentionality (assuming you are right), eventually we will be able to build devices that have these causal processes, and that will be artificial intelligence. So your arguments are in no way directed at the ability of artificial intelligence to produce and explain cognition.\"",
+      "pages": [
+        9
+      ],
+      "bbox": [
+        16.0,
+        90.66600036621094,
+        593.7459716796875,
+        160.4340057373047
+      ],
+      "confidence": 1,
+      "id": "S051",
+      "zh": "六．许多豪宅回复（伯克利）。 “你的整个论点假设人工智能只是关于模拟和数字计算机。但这恰好是目前的技术状态。无论你所说的对意向性至关重要的因果过程是什么（假设你是对的），最终我们将能够构建具有这些因果过程的设备，这将是人工智能。所以你的论点绝不是针对人工智能产生和解释认知的能力。”"
+    },
+    {
+      "type": "paragraph",
+      "en": "I really have no objection to this reply save to say that it in effect trivializes the project of strong AI by redefining it as whatever artificially produces and explains cognition. The interest of the original claim made on behalf of artificial intelligence is that it was a precise, well defined thesis: mental processes are computational processes over formally defined elements. I have been concerned to challenge that thesis. If the claim is redefined so that it is no longer that thesis, my objections no longer apply because there is no longer a testable hypothesis for them to apply to.",
+      "pages": [
+        9
+      ],
+      "bbox": [
+        16.0,
+        170.16600036621094,
+        591.4959716796875,
+        239.9340057373047
+      ],
+      "confidence": 1,
+      "id": "S052",
+      "zh": "我真的不反对这个答复，只是说它实际上通过将强人工智能重新定义为人工产生和解释认知的东西而使强人工智能项目变得无足轻重。代表人工智能提出的最初主张的有趣之处在于，它是一个精确的、定义明确的论文：心理过程是对正式定义的元素的计算过程。我一直很想挑战这个论点。如果该主张被重新定义，使其不再是那个论点，那么我的反对意见就不再适用，因为不再有可检验的假设可供它们应用。"
+    },
+    {
+      "type": "paragraph",
+      "en": "Let us now return to the question I promised I would try to answer: granted that in my original example I understand the English and I do not understand the Chinese, and granted therefore that the machine doesn't understand either English or Chinese, still there must be something about me that makes it the case that I understand English and a corresponding something lacking in me that makes it the case that I fail to understand Chinese. Now why couldn't we give those somethings, whatever they are, to a machine?",
+      "pages": [
+        9
+      ],
+      "bbox": [
+        16.0,
+        249.66600036621094,
+        585.7420043945312,
+        319.4339904785156
+      ],
+      "confidence": 1,
+      "id": "S053",
+      "zh": "现在让我们回到我承诺要尝试回答的问题：假设在我最初的例子中我懂英文，不懂中文，因此机器既不懂英文也不懂中文，但我身上一定有某种东西使我能够理解英语，而我身上一定有某种东西使我无法理解中文。现在为什么我们不能把这些东西，不管它们是什么，交给机器呢？"
+    },
+    {
+      "type": "paragraph",
+      "en": "I see no reason in principle why we couldn't give a machine the capacity to understand English or Chinese, since in an important sense our bodies with our brains are precisely such machines. But I do see very strong arguments for saying that we could not give such a thing to a machine where the operation of the machine is defined solely in terms of computational processes over formally defined elements; that is, where the operation of the machine is defined as an instantiation of a computer program. It is not because I am the instantiation of a computer program that I am able to understand English and have other forms of intentionality (I am, I suppose, the instantiation of any number of computer programs), but as far as we know it is because I am a certain sort of organism with a certain biological (i.e. chemical and physical) structure, and this structure, under certain conditions, is causally capable of producing perception, action, understanding, learning, and other intentional phenomena. And part of the point of the present argument is that only something that had those causal powers could have that intentionality. Perhaps other physical and chemical processes could produce exactly these effects; perhaps, for example, Martians also have intentionality but their brains are made of different stuff. That is an empirical question, rather like the question whether photosynthesis can be done by something with a chemistry different from that of chlorophyll.",
+      "pages": [
+        9
+      ],
+      "bbox": [
+        16.0,
+        329.166015625,
+        594.3280639648438,
+        506.9339904785156
+      ],
+      "confidence": 1,
+      "id": "S054",
+      "zh": "我认为原则上我们没有理由不能赋予机器理解英语或中文的能力，因为从某种重要意义上说，我们的身体和大脑正是这样的机器。但我确实看到了非常有力的论据，认为我们不能将这样的东西赋予机器，因为机器的操作仅根据形式定义的元素的计算过程来定义；也就是说，机器的操作被定义为计算机程序的实例。并不是因为我是计算机程序的实例化，所以我能够理解英语并具有其他形式的意向性（我想，我是任意数量的计算机程序的实例化），但据我们所知，这是因为我是某种具有某种生物（即化学和物理）结构的有机体，而这种结构在某些条件下，能够因果地产生感知、行动、理解、学习和其他意向现象。当前论证的部分要点是，只有具有这些因果能力的事物才能具有这种意向性。也许其他物理和化学过程也能产生这些效果；例如，也许火星人也有意向性，但他们的大脑是由不同的东西组成的。这是一个经验问题，就像光合作用是否可以通过化学成分不同于叶绿素的物质来完成的问题一样。"
+    },
+    {
+      "type": "paragraph",
+      "en": "But the main point of the present argument is that no purely formal model will ever be sufficient by itself for intentionality because the formal properties are not by themselves constitutive of intentionality, and they have by themselves no causal powers except the power, when instantiated, to produce the next stage of the formalism when the machine is running. And any other causal properties that particular realizations of the formal model have, are irrelevant to the formal model because we can always put the same formal model in a different realization where those causal properties are obviously absent. Even if, by some miracle Chinese speakers exactly realize Schank's program, we can put the same program in English speakers, water pipes, or computers, none of which understand Chinese, the program notwithstanding.",
+      "pages": [
+        9
+      ],
+      "bbox": [
+        16.0,
+        516.666015625,
+        593.7339477539062,
+        626.9340209960938
+      ],
+      "confidence": 1,
+      "id": "S055",
+      "zh": "但本论点的要点是，任何纯粹的形式模型本身都不足以满足意向性，因为形式属性本身并不构成意向性，并且它们本身没有因果能力，除了实例化时在机器运行时产生下一阶段形式主义的能力之外。形式模型的特定实现所具有的任何其他因果属性与形式模型无关，因为我们总是可以将相同的形式模型放入显然不存在这些因果属性的不同实现中。即使奇迹般地讲中文的人完全实现了尚克的程序，我们也可以将相同的程序放入讲英语的人、水管或计算机中，尽管有这个程序，但它们都不懂中文。"
+    },
+    {
+      "type": "paragraph",
+      "en": "What matters about brain operations is not the formal shadow cast by the sequence of synapses but rather the actual properties of the sequences. All the arguments for the strong version of artificial intelligence that I have seen insist on drawing an outline around the shadows cast by cognition and then claiming that the shadows are the real thing. By way of concluding I want to try to state some of the general philosophical points implicit in the argument. For clarity I will try to do it in a question and answer fashion, and I begin with that old chestnut of a question:",
+      "pages": [
+        9
+      ],
+      "bbox": [
+        16.0,
+        636.666015625,
+        594.7420043945312,
+        706.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S056",
+      "zh": "对于大脑的运作来说，重要的不是突触序列所投射的形式阴影，而是序列的实际属性。我所见过的所有关于强人工智能版本的论点都坚持在认知投射的阴影周围画出轮廓，然后声称阴影是真实的东西。作为结论，我想尝试阐述该论证中隐含的一些一般性哲学观点。为了清楚起见，我将尝试以问答的方式进行，我从一个老问题开始："
+    },
+    {
+      "type": "paragraph",
+      "en": "\"Could a machine think?\"",
+      "pages": [
+        9
+      ],
+      "bbox": [
+        16.0,
+        716.166015625,
+        142.39599609375,
+        731.9340209960938
+      ],
+      "confidence": 1,
+      "id": "S057",
+      "zh": "“机器能思考吗？”"
+    },
+    {
+      "type": "paragraph",
+      "en": "The answer is, obviously, yes. We are precisely such machines.",
+      "pages": [
+        9
+      ],
+      "bbox": [
+        16.0,
+        741.666015625,
+        324.57403564453125,
+        757.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S058",
+      "zh": "答案显然是肯定的。我们正是这样的机器。"
+    },
+    {
+      "type": "paragraph",
+      "en": "\"Yes, but could an artifact, a man-made machine think?\"",
+      "pages": [
+        10
+      ],
+      "bbox": [
+        16.0,
+        37.41600036621094,
+        293.89599609375,
+        53.183998107910156
+      ],
+      "confidence": 1,
+      "id": "S059",
+      "zh": "“是的，但是人造物、人造机器能够思考吗？”"
+    },
+    {
+      "type": "paragraph",
+      "en": "Assuming it is possible to produce artificially a machine with a nervous system, neurons with axons and dendrites, and all the rest of it, sufficiently like ours, again the answer to the question seems to be obviously, yes. If you can exactly duplicate the causes, you could duplicate the effects. And indeed it might be possible to produce consciousness, intentionality, and all the rest of it using some other sorts of chemical principles than those that human beings use. It is, as I said, an empirical question. \"OK, but could a digital computer think?\"",
+      "pages": [
+        10
+      ],
+      "bbox": [
+        16.0,
+        62.91600036621094,
+        595.504150390625,
+        132.6840057373047
+      ],
+      "confidence": 1,
+      "id": "S060",
+      "zh": "假设有可能人工制造出一台具有神经系统、具有轴突和树突的神经元以及所有其他部分的机器，与我们的机器非常相似，那么这个问题的答案似乎显然是肯定的。如果你能精确地复制原因，你就可以复制结果。事实上，使用人类所使用的化学原理以外的其他化学原理，可能会产生意识、意向性以及所有其他东西。正如我所说，这是一个经验问题。 “好吧，但是数字计算机可以思考吗？”"
+    },
+    {
+      "type": "paragraph",
+      "en": "If by \"digital computer\" we mean anything at all that has a level of description where it can correctly be described as the instantiation of a computer program, then again the answer is, of course, yes, since we are the instantiations of any number of computer programs, and we can think.",
+      "pages": [
+        10
+      ],
+      "bbox": [
+        16.0,
+        142.41600036621094,
+        591.3280029296875,
+        185.1840057373047
+      ],
+      "confidence": 1,
+      "id": "S061",
+      "zh": "如果我们所说的“数字计算机”是指任何具有一定描述水平的东西，可以正确地将其描述为计算机程序的实例化，那么答案当然是肯定的，因为我们是任意数量的计算机程序的实例化，并且我们可以思考。"
+    },
+    {
+      "type": "paragraph",
+      "en": "\"But could something think, understand, and so on solely in virtue of being a computer with the right sort of program? Could instantiating a program, the right program of course, by itself be a sufficient condition of understanding?\"",
+      "pages": [
+        10
+      ],
+      "bbox": [
+        16.0,
+        194.91600036621094,
+        592.8279418945312,
+        224.1840057373047
+      ],
+      "confidence": 1,
+      "id": "S062",
+      "zh": "“但是，仅仅因为是一台具有正确类型程序的计算机，某种东西就能思考、理解等等吗？实例化一个程序（当然是正确的程序）本身是否可以成为理解的充分条件？”"
+    },
+    {
+      "type": "paragraph",
+      "en": "This I think is the right question to ask, though it is usually confused with one or more of the earlier questions, and the answer to it is no.",
+      "pages": [
+        10
+      ],
+      "bbox": [
+        16.0,
+        233.91600036621094,
+        593.1640625,
+        263.1839904785156
+      ],
+      "confidence": 1,
+      "id": "S063",
+      "zh": "我认为这是一个正确的问题，尽管它通常与一个或多个先前的问题相混淆，而且答案是否定的。"
+    },
+    {
+      "type": "paragraph",
+      "en": "\"Why not?\"",
+      "pages": [
+        10
+      ],
+      "bbox": [
+        16.0,
+        272.916015625,
+        74.14600372314453,
+        288.6839904785156
+      ],
+      "confidence": 1,
+      "id": "S064",
+      "zh": "“为什么不呢？”"
+    },
+    {
+      "type": "paragraph",
+      "en": "Because the formal symbol manipulations by themselves don't have any intentionality; they are quite meaningless; they aren't even symbol manipulations, since the symbols don't symbolize anything. In the linguistic jargon, they have only a syntax but no semantics. Such intentionality as computers appear to have is solely in the minds of those who program them and those who use them, those who send in the input and those who interpret the output.",
+      "pages": [
+        10
+      ],
+      "bbox": [
+        16.0,
+        298.416015625,
+        595.4141235351562,
+        354.6839904785156
+      ],
+      "confidence": 1,
+      "id": "S065",
+      "zh": "因为形式符号的操纵本身没有任何意向性；它们毫无意义；它们甚至不是符号操作，因为符号不象征任何东西。在语言学术语中，它们只有语法而没有语义。计算机似乎具有的这种意向性只存在于那些对它们进行编程和使用它们的人、发送输入的人和解释输出的人的头脑中。"
+    },
+    {
+      "type": "paragraph",
+      "en": "The aim of the Chinese room example was to try to show this by showing that as soon as we put something into the system that really does have intentionality (a man), and we program him with the formal program, you can see that the formal program carries no additional intentionality. It adds nothing, for example, to a man's ability to understand Chinese.",
+      "pages": [
+        10
+      ],
+      "bbox": [
+        16.0,
+        364.416015625,
+        592.4140625,
+        420.6839904785156
+      ],
+      "confidence": 1,
+      "id": "S066",
+      "zh": "中国房间例子的目的是试图通过表明一旦我们将确实具有意向性的东西（一个人）放入系统中，并用正式程序对其进行编程，您可以看到正式程序不带有额外的意向性。例如，它不会增加一个人理解中文的能力。"
+    },
+    {
+      "type": "paragraph",
+      "en": "Precisely that feature of AI that seemed so appealing -- the distinction between the program and the realization -proves fatal to the claim that simulation could be duplication. The distinction between the program and its realization in the hardware seems to be parallel to the distinction between the level of mental operations and the level of brain operations. And if we could describe the level of mental operations as a formal program, then it seems we could describe what was essential about the mind without doing either introspective psychology or neurophysiology of the brain. But the equation, \"mind is to brain as program is to hardware\" breaks down at several points among them the following three:",
+      "pages": [
+        10
+      ],
+      "bbox": [
+        16.0,
+        430.416015625,
+        584.9019775390625,
+        527.1840209960938
+      ],
+      "confidence": 1,
+      "id": "S067",
+      "zh": "恰恰是人工智能看起来如此吸引人的特征——程序和实现之间的区别——事实证明，模拟可能是重复的说法是致命的。程序及其在硬件中的实现之间的区别似乎与心理操作水平和大脑操作水平之间的区别是平行的。如果我们能够将心理运作的水平描述为一个正式的程序，那么我们似乎就可以描述心灵的本质，而无需进行大脑的内省心理学或神经生理学研究。但是，“思想之于大脑，就像程序之于硬件”这个等式在几个点上被打破，其中包括以下三个："
+    },
+    {
+      "type": "paragraph",
+      "en": "First, the distinction between program and realization has the consequence that the same program could have all sorts of crazy realizations that had no form of intentionality. Weizenbaum (1976, Ch. 2), for example, shows in detail how to construct a computer using a roll of toilet paper and a pile of small stones. Similarly, the Chinese story understanding program can be programmed into a sequence of water pipes, a set of wind machines, or a monolingual English speaker, none of which thereby acquires an understanding of Chinese. Stones, toilet paper, wind, and water pipes are the wrong kind of stuff to have intentionality in the first place -- only something that has the same causal powers as brains can have intentionality -- and though the English speaker has the right kind of stuff for intentionality you can easily see that he doesn't get any extra intentionality by memorizing the program, since memorizing it won't teach him Chinese.",
+      "pages": [
+        10
+      ],
+      "bbox": [
+        16.0,
+        536.916015625,
+        590.7579345703125,
+        660.6840209960938
+      ],
+      "confidence": 1,
+      "id": "S068",
+      "zh": "首先，程序和实现之间的区别导致同一个程序可能有各种疯狂的实现，而这些实现没有任何形式的意向性。例如，Weizenbaum（1976，第 2 章）详细展示了如何使用一卷卫生纸和一堆小石头构建计算机。类似地，中文故事理解程序可以被编程为一系列水管、一组风力机或一个只会说英语的人，但它们都无法理解中文。石头、卫生纸、风和水管从一开始就是不具有意向性的东西——只有与大脑具有相同因果能力的东西才能具有意向性——尽管说英语的人有正确的意向性东西，但你可以很容易地看出，他通过记住程序并没有获得任何额外的意向性，因为记住它不会教他中文。"
+    },
+    {
+      "type": "paragraph",
+      "en": "Second, the program is purely formal, but the intentional states are not in that way formal. They are defined in terms of their content, not their form. The belief that it is raining, for example, is not defined as a certain formal shape, but as a certain mental content with conditions of satisfaction, a direction of fit (see Searle 1979), and the like. Indeed the belief as such hasn't even got a formal shape in this syntactic sense, since one and the same belief can be given an indefinite number of different syntactic expressions in different linguistic systems.",
+      "pages": [
+        10
+      ],
+      "bbox": [
+        16.0,
+        670.416015625,
+        594.4959716796875,
+        740.1840209960938
+      ],
+      "confidence": 1,
+      "id": "S069",
+      "zh": "其次，该计划纯粹是正式的，但意向状态却不是那么正式。它们是根据内容而不是形式来定义的。例如，对下雨的信念并不被定义为某种形式，而是一种具有满足条件、适应方向等的某种精神内容（参见 Searle 1979）等。事实上，这种信念本身在句法意义上甚至还没有形成正式的形态，因为同一个信念在不同的语言系统中可以被赋予无限数量的不同句法表达。"
+    },
+    {
+      "type": "paragraph",
+      "en": "Third, as I mentioned before, mental states and events are literally a product of the operation of the brain, but the program is not in that way a product of the computer.",
+      "pages": [
+        11
+      ],
+      "bbox": [
+        16.0,
+        24.666000366210938,
+        564.6640014648438,
+        53.933998107910156
+      ],
+      "confidence": 1,
+      "id": "S070",
+      "zh": "第三，正如我之前提到的，精神状态和事件实际上是大脑运作的产物，但程序并不是计算机的产物。"
+    },
+    {
+      "type": "paragraph",
+      "en": "-Well if programs are in no way constitutive of mental processes, why have so many people believed the converse? That at least needs some explanation.\"",
+      "pages": [
+        11
+      ],
+      "bbox": [
+        16.0,
+        63.66600036621094,
+        577.0780639648438,
+        92.93399810791016
+      ],
+      "confidence": 1,
+      "id": "S071",
+      "zh": "——如果程序根本不是心理过程的组成部分，为什么还有那么多人相信相反的观点呢？这至少需要一些解释。”"
+    },
+    {
+      "type": "paragraph",
+      "en": "I don't really know the answer to that one. The idea that computer simulations could be the real thing ought to have seemed suspicious in the first place because the computer isn't confined to simulating mental operations, by any means. No one supposes that computer simulations of a five-alarm fire will burn the neighborhood down or that a computer simulation of a rainstorm will leave us all drenched. Why on earth would anyone suppose that a computer simulation of understanding actually understood anything? It is sometimes said that it would be frightfully hard to get computers to feel pain or fall in love, but love and pain are neither harder nor easier than cognition or anything else. For simulation, all you need is the right input and output and a program in the middle that transforms the former into the latter. That is all the computer has for anything it does. To confuse simulation with duplication is the same mistake, whether it is pain, love, cognition, fires, or rainstorms.",
+      "pages": [
+        11
+      ],
+      "bbox": [
+        16.0,
+        102.66600036621094,
+        594.1600341796875,
+        226.4340057373047
+      ],
+      "confidence": 1,
+      "id": "S072",
+      "zh": "我真的不知道这个问题的答案。计算机模拟可能是真实事物的想法一开始就应该令人怀疑，因为无论如何，计算机并不局限于模拟心理操作。没有人认为计算机模拟的五级火灾会烧毁社区，或者计算机模拟的暴风雨会让我们全身湿透。为什么有人会认为计算机模拟的理解实际上理解了任何东西？有时有人说，让计算机感受到痛苦或坠入爱河是极其困难的，但爱和痛苦既不比认知或其他任何东西更难也不容易。对于模拟，您所需要的只是正确的输入和输出以及中间将前者转换为后者的程序。这就是计算机所能做的一切。将模拟与复制混为一谈是同样的错误，无论是痛苦、爱情、认知、火灾还是暴风雨。"
+    },
+    {
+      "type": "paragraph",
+      "en": "Still, there are several reasons why AI must have seemed and to many people perhaps still does seem -- in some way to reproduce and thereby explain mental phenomena, and I believe.we will not succeed in removing these illusions until we have fully exposed the reasons that give rise to them.",
+      "pages": [
+        11
+      ],
+      "bbox": [
+        16.0,
+        236.16600036621094,
+        583.4920654296875,
+        278.9339904785156
+      ],
+      "confidence": 1,
+      "id": "S073",
+      "zh": "尽管如此，有几个原因可以解释为什么人工智能一定已经出现，并且对许多人来说也许仍然如此——以某种方式再现并从而解释心理现象，而且我相信，在我们完全揭露产生这些幻觉的原因之前，我们不会成功地消除这些幻觉。"
+    },
+    {
+      "type": "paragraph",
+      "en": "First, and perhaps most important, is a confusion about the notion of information processing: many people in cognitive science believe that the human brain, with its mind, does something called -information processing,\" and analogously the computer with its program does information processing; but fires and rainstorms, on the other hand, don't do information processing at all. Thus, though the computer can simulate the formal features of any process whatever, it stands in a special relation to the mind and brain because when the computer is properly programmed, ideally with the same program as the brain, the information processing is identical in the two cases, and this information processing is really the essence of the mental.",
+      "pages": [
+        11
+      ],
+      "bbox": [
+        16.0,
+        288.666015625,
+        593.1640014648438,
+        385.4339904785156
+      ],
+      "confidence": 1,
+      "id": "S074",
+      "zh": "首先，也许也是最重要的，是对信息处理概念的混淆：认知科学领域的许多人认为，人脑及其思维在进行所谓的“信息处理”，类似地，计算机及其程序也进行信息处理；但另一方面，火灾和暴风雨根本不进行信息处理。因此，尽管计算机可以模拟任何过程的形式特征，但它与思维和大脑之间存在特殊关系，因为当计算机正确编程时，最好使用与计算机相同的程序。大脑，这两种情况下的信息处理是相同的，而这种信息处理确实是心理的本质。"
+    },
+    {
+      "type": "paragraph",
+      "en": "But the trouble with this argument is that it rests on an ambiguity in the notion of '- information.\" In the sense in which people \"process information\" when they reflect, say, on problems in arithmetic or when they read and answer questions about stories, the programmed computer does not do -information processing.\" Rather, what it does is manipulate formal symbols. The fact that the programmer and the interpreter of the computer output use the symbols to stand for objects in the world is totally beyond the scope of the computer. The computer, to repeat, has a syntax but no semantics. Thus, if you type into the computer '2 plus 2 equals?\" it will type out '-4.\" But it has no idea that -4\" means 4 or that it means anything at all. And the point is not that it lacks some second-order information about the interpretation of its first- order symbols, but rather that its first-order symbols don't have any interpretations as far as the computer is concerned. All the computer has is more symbols.",
+      "pages": [
+        11
+      ],
+      "bbox": [
+        16.0,
+        395.166015625,
+        595.3360595703125,
+        518.9340209960938
+      ],
+      "confidence": 1,
+      "id": "S075",
+      "zh": "但这一论点的问题在于，它基于“信息”概念的模糊性。“从人们在思考算术问题或阅读和回答有关故事的问题时“处理信息”的意义上来说，编程的计算机并不进行信息处理。”相反，它所做的是操纵形式符号。程序员和计算机输出的解释器使用符号来代表世界上的物体这一事实完全超出了计算机的范围。重复一遍，计算机有语法，但没有语义。因此，如果您在计算机中输入“2 加 2 等于？”，它将输出“-4”。但它不知道 -4\" 意味着 4 或者它根本意味着什么。关键不是它缺乏一些关于其一阶符号解释的二阶信息，而是它的一阶符号对于计算机而言没有任何解释。计算机拥有的只是更多的符号。"
+    },
+    {
+      "type": "paragraph",
+      "en": "The introduction of the notion of \"information processing\" therefore produces a dilemma: either we construe the notion of \"information processing\" in such a way that it implies intentionality as part of the process or we don't. If the former, then the programmed computer does not do information processing, it only manipulates formal symbols. If the latter, then, though the computer does information processing, it is only doing so in the sense in which adding machines, typewriters, stomachs, thermostats, rainstorms, and hurricanes do information processing; namely, they have a level of description at which we can describe them as taking information in at one end, transforming it, and producing information as output. But in this case it is up to outside observers to interpret the input and output as information in the ordinary sense. And no similarity is established between the computer and the brain in terms of any similarity of information processing.",
+      "pages": [
+        11
+      ],
+      "bbox": [
+        16.0,
+        528.666015625,
+        594.9219970703125,
+        652.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S076",
+      "zh": "因此，“信息处理”概念的引入产生了一个困境：要么我们将“信息处理”的概念解释为暗示意向性作为过程的一部分，要么我们不这样做。如果是前者，那么编程的计算机不进行信息处理，它只操作形式符号。如果是后者，那么，尽管计算机进行信息处理，但它只是在加法机、打字机、胃、恒温器、暴风雨和飓风进行信息处理的意义上进行信息处理；也就是说，它们具有一定程度的描述，我们可以将它们描述为在一端接收信息，对其进行转换，并产生信息作为输出。但在这种情况下，由外部观察者将输入和输出解释为普通意义上的信息。就信息处理的相似性而言，计算机和大脑之间不存在任何相似性。"
+    },
+    {
+      "type": "paragraph",
+      "en": "Second, in much of AI there is a residual behaviorism or operationalism. Since appropriately programmed computers can have input-output patterns similar to those of human beings, we are tempted to postulate mental states in the computer similar to human mental states. But once we see that it is both conceptually and empirically possible for a system to have human capacities in some realm without having any intentionality at all, we should be able to overcome this impulse. My desk adding machine has calculating capacities, but no intentionality, and in this paper I have tried to show that a system could have input and output capabilities that duplicated those of a native Chinese speaker and still not understand Chinese, regardless of how it was programmed. The Turing test is typical of the tradition in being unashamedly behavioristic and operationalistic, and I believe that if AI workers totally repudiated behaviorism and operationalism much of the confusion between simulation and duplication would be eliminated.",
+      "pages": [
+        11,
+        12
+      ],
+      "bbox": [
+        16.0,
+        662.166015625,
+        584.9920043945312,
+        745.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S077",
+      "zh": "其次，人工智能的大部分领域都存在残余的行为主义或操作主义。由于适当编程的计算机可以具有与人类相似的输入输出模式，因此我们很想假设计算机中的心理状态与人类的心理状态相似。但是，一旦我们看到一个系统在概念上和经验上都可能在某些领域拥有人类的能力而不具有任何意向性，我们就应该能够克服这种冲动。我的桌上加法机具有计算能力，但没有意向性，在本文中，我试图证明一个系统可以具有与中文母语者相同的输入和输出能力，但仍然无法理解中文，无论它是如何编程的。图灵测试是典型的无耻行为主义和操作主义传统，我相信，如果人工智能工作者完全否定行为主义和操作主义，模拟和复制之间的大部分混淆就会被消除。"
+    },
+    {
+      "type": "paragraph",
+      "en": "Third, this residual operationalism is joined to a residual form of dualism; indeed strong AI only makes sense given the dualistic assumption that, where the mind is concerned, the brain doesn't matter. In strong AI (and in functionalism, as well) what matters are programs, and programs are independent of their realization in machines; indeed, as far as AI is concerned, the same program could be realized by an electronic machine, a Cartesian mental substance, or a Hegelian world spirit. The single most surprising discovery that I have made in discussing these issues is that many AI workers are quite shocked by my idea that actual human mental phenomena might be dependent on actual physical/chemical properties of actual human brains.",
+      "pages": [
+        12
+      ],
+      "bbox": [
+        16.0,
+        77.16600036621094,
+        595.4141235351562,
+        173.9340057373047
+      ],
+      "confidence": 1,
+      "id": "S078",
+      "zh": "第三，这种残余的操作主义与残余的二元论相结合；事实上，只有考虑到二元假设，即就心灵而言，大脑并不重要，强人工智能才有意义。在强人工智能（以及功能主义）中，重要的是程序，而程序独立于它们在机器中的实现；事实上，就人工智能而言，同样的程序可以通过电子机器、笛卡尔精神实体或黑格尔世界精神来实现。我在讨论这些问题时得到的最令人惊讶的发现是，许多人工智能工作者对我的想法感到非常震惊，即实际的人类心理现象可能取决于实际人类大脑的实际物理/化学特性。"
+    },
+    {
+      "type": "paragraph",
+      "en": "But if you think about it a minute you can see that I should not have been surprised; for unless you accept some form of dualism, the strong AI project hasn't got a chance. The project is to reproduce and explain the mental by designing programs, but unless the mind is not only conceptually but empirically independent of the brain you couldn't carry out the project, for the program is completely independent of any realization. Unless you believe that the mind is separable from the brain both conceptually and empirically -- dualism in a strong form -- you cannot hope to reproduce the mental by writing and running programs since programs must be independent of brains or any other particular forms of instantiation. If mental operations consist in computational operations on formal symbols, then it follows that they have no interesting connection with the brain; the only connection would be that the brain just happens to be one of the indefinitely many types of machines capable of instantiating the program.",
+      "pages": [
+        12
+      ],
+      "bbox": [
+        16.0,
+        183.66600036621094,
+        593.81201171875,
+        307.4339904785156
+      ],
+      "confidence": 1,
+      "id": "S079",
+      "zh": "但如果你想一想，你就会发现我不应该感到惊讶；我不应该感到惊讶。因为除非你接受某种形式的二元论，否则强大的人工智能项目就没有机会。该项目是通过设计程序来重现和解释心理，但除非思想不仅在概念上而且在经验上独立于大脑，否则您无法执行该项目，因为该程序完全独立于任何实现。除非你相信心灵在概念上和经验上都是与大脑分离的——强烈形式的二元论——否则你不能希望通过编写和运行程序来重现心灵，因为程序必须独立于大脑或任何其他特定形式的实例化。如果心理操作是对形式符号的计算操作，那么它们与大脑就没有有趣的联系；唯一的联系是，大脑恰好是能够实例化程序的无数种机器之一。"
+    },
+    {
+      "type": "paragraph",
+      "en": "This form of dualism is not the traditional Cartesian variety that claims there are two sorts of substances, but it is Cartesian in the sense that it insists that what is specifically mental about the mind has no intrinsic connection with the actual properties of the brain. This underlying dualism is masked from us by the fact that AI literature contains frequent fulminations against \"dualism'-; what the authors seem to be unaware of is that their position presupposes a strong version of dualism.",
+      "pages": [
+        12
+      ],
+      "bbox": [
+        16.0,
+        317.166015625,
+        591.6640014648438,
+        386.9339904785156
+      ],
+      "confidence": 1,
+      "id": "S080",
+      "zh": "这种形式的二元论不是传统的笛卡尔派，认为有两种物质，但它是笛卡尔派，因为它坚持认为关于心灵的特定精神与大脑的实际属性没有内在联系。人工智能文献中经常包含对“二元论”的严厉谴责，这一事实掩盖了这种潜在的二元论；作者似乎没有意识到，他们的立场以强烈的二元论为前提。"
+    },
+    {
+      "type": "paragraph",
+      "en": "\"Could a machine think?\" My own view is that only a machine could think, and indeed only very special kinds of machines, namely brains and machines that had the same causal powers as brains. And that is the main reason strong AI has had little to tell us about thinking, since it has nothing to tell us about machines. By its own definition, it is about programs, and programs are not machines. Whatever else intentionality is, it is a biological phenomenon, and it is as likely to be as causally dependent on the specific biochemistry of its origins as lactation, photosynthesis, or any other biological phenomena. No one would suppose that we could produce milk and sugar by running a computer simulation of the formal sequences in lactation and photosynthesis, but where the mind is concerned many people are willing to believe in such a miracle because of a deep and abiding dualism: the mind they suppose is a matter of formal processes and is independent of quite specific material causes in the way that milk and sugar are not.",
+      "pages": [
+        12
+      ],
+      "bbox": [
+        16.0,
+        396.666015625,
+        586.6719970703125,
+        520.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S081",
+      "zh": "“机器能思考吗？”我自己的观点是，只有机器才能思考，而且实际上只有非常特殊的机器，即大脑和与大脑具有相同因果能力的机器。这就是强人工智能无法告诉我们关于思维的主要原因，因为它无法告诉我们关于机器的任何信息。根据它自己的定义，它是关于程序的，而程序不是机器。无论意向性是什么，它都是一种生物现象，并且它很可能像哺乳、光合作用或任何其他生物现象一样，因果地依赖于其起源的特定生物化学。没有人会认为我们可以通过对哺乳和光合作用的正式序列进行计算机模拟来生产牛奶和糖，但就心灵而言，许多人愿意相信这样的奇迹，因为存在深刻而持久的二元论：他们认为心灵是一个正式过程的问题，并且独立于非常具体的物质原因，而牛奶和糖则不然。"
+    },
+    {
+      "type": "paragraph",
+      "en": "In defense of this dualism the hope is often expressed that the brain is a digital computer (early computers, by the way, were often called \"electronic brains\"). But that is no help. Of course the brain is a digital computer. Since everything is a digital computer, brains are too. The point is that the brain's causal capacity to produce intentionality cannot consist in its instantiating a computer program, since for any program you like it is possible for something to instantiate that program and still not have any mental states. Whatever it is that the brain does to produce intentionality, it cannot consist in instantiating a program since no program, by itself, is sufficient for intentionality.",
+      "pages": [
+        12
+      ],
+      "bbox": [
+        16.0,
+        530.166015625,
+        593.2420043945312,
+        613.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S082",
+      "zh": "为了捍卫这种二元论，人们经常希望大脑是一台数字计算机（顺便说一下，早期的计算机通常被称为“电子大脑”）。但这没有什么帮助。当然，大脑是一台数字计算机。既然一切都是数字计算机，大脑也是。关键在于，大脑产生意向性的因果能力不能在于其实例化计算机程序，因为对于您喜欢的任何程序，有可能有某种东西实例化该程序但仍然没有任何心理状态。无论大脑做什么来产生意向性，它都不可能在于实例化一个程序，因为没有任何程序本身足以产生意向性。"
+    },
+    {
+      "type": "paragraph",
+      "en": "ACKNOWLEDGMENT",
+      "pages": [
+        12
+      ],
+      "bbox": [
+        16.0,
+        624.281982421875,
+        206.00799560546875,
+        648.2760009765625
+      ],
+      "confidence": 1,
+      "id": "S083",
+      "zh": "致谢"
+    },
+    {
+      "type": "paragraph",
+      "en": "I am indebted to a rather large number of people for discussion of these matters and for their patient attempts to overcome my ignorance of artificial intelligence. I would especially like to thank Ned Block, Hubert Dreyfus, John Haugeland, Roger Schank, Robert Wilensky, and Terry Winograd.",
+      "pages": [
+        12
+      ],
+      "bbox": [
+        16.0,
+        660.666015625,
+        574.9180297851562,
+        703.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S084",
+      "zh": "我要感谢相当多的人对这些问题的讨论，以及他们耐心地尝试克服我对人工智能的无知。我要特别感谢 Ned Block、Hubert Dreyfus、John Haugeland、Roger Schank、Robert Wilensky 和 ​​Terry Winograd。"
+    },
+    {
+      "type": "heading",
+      "en": "Notes",
+      "pages": [
+        12
+      ],
+      "confidence": 1,
+      "id": "H003",
+      "zh": "注释"
+    },
+    {
+      "type": "paragraph",
+      "en": "1. I am not, of course, saying that Schank himself is committed to these claims.",
+      "pages": [
+        13
+      ],
+      "bbox": [
+        31.0,
+        24.666000366210938,
+        418.5820007324219,
+        40.433998107910156
+      ],
+      "confidence": 1,
+      "id": "S085",
+      "zh": "1. 当然，我并不是说尚克本人认同这些主张。"
+    },
+    {
+      "type": "paragraph",
+      "en": "2. Also, \"understanding\" implies both the possession of mental (intentional) states and the truth (validity, success) of these states For the purposes of this discussion we are concerned only with the possession of the states.",
+      "pages": [
+        13
+      ],
+      "bbox": [
+        31.0,
+        50.16600036621094,
+        587.7340087890625,
+        79.43399810791016
+      ],
+      "confidence": 1,
+      "id": "S086",
+      "zh": "2. 此外，“理解”既意味着拥有精神（意向）状态，也意味着这些状态的真实性（有效性、成功）。出于本次讨论的目的，我们只关心这些状态的拥有。"
+    },
+    {
+      "type": "paragraph",
+      "en": "3. Intentionality is by definition that feature of certain mental states by which they are directed at or about objects and states of affairs in the world. Thus, beliefs, desires, and intentions are intentional states; undirected forms of anxiety and depression are not. For further discussion see Searle (1979c).",
+      "pages": [
+        13
+      ],
+      "bbox": [
+        31.0,
+        89.16600036621094,
+        590.7459716796875,
+        131.9340057373047
+      ],
+      "confidence": 1,
+      "id": "S087",
+      "zh": "3. 根据定义，意向性是某些心理状态的特征，通过这些心理状态，人们可以针对或关于世界上的物体和事态。因此，信念、欲望和意图都是有意的状态；非定向形式的焦虑和抑郁则不然。进一步的讨论参见 Searle (1979c)。"
+    },
+    {
+      "type": "heading",
+      "en": "References",
+      "pages": [
+        13
+      ],
+      "confidence": 1,
+      "id": "H004",
+      "zh": "参考文献"
+    },
+    {
+      "type": "paragraph",
+      "en": "Anderson, J. (1980) Cognitive units. Paper presented at the Society for Philosophy and Psychology, Ann Arbor, Mich. [RCS]",
+      "pages": [
+        13
+      ],
+      "bbox": [
+        16.0,
+        179.16600036621094,
+        591.8319702148438,
+        208.4340057373047
+      ],
+      "confidence": 1,
+      "id": "S088",
+      "zh": "Anderson, J. (1980) 认知单位。论文在密歇根州安娜堡哲学与心理学学会发表。[RCS]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Block, N. J. (1978) Troubles with functionalism. In: Minnesota studies in the philosophy of science, vol. 9, ed. C. W. Savage, Minneapolis: University of Minnesota Press. [NB, WGL]",
+      "pages": [
+        13
+      ],
+      "bbox": [
+        16.0,
+        218.16600036621094,
+        586.0780029296875,
+        247.4340057373047
+      ],
+      "confidence": 1,
+      "id": "S089",
+      "zh": "Block, N. J. (1978) 功能主义的麻烦。见：明尼苏达科学哲学研究，卷。 9，编辑。 C. W. Savage，明尼阿波利斯：明尼苏达大学出版社。 [注意，WGL]"
+    },
+    {
+      "type": "paragraph",
+      "en": "(forthcoming) Psychologism and behaviorism. Philosophical Review. [NB, WGL]",
+      "pages": [
+        13
+      ],
+      "bbox": [
+        16.0,
+        257.166015625,
+        414.07000732421875,
+        272.9339904785156
+      ],
+      "confidence": 1,
+      "id": "S090",
+      "zh": "（即将出版）心理主义和行为主义。哲学评论。 [注意，WGL]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Bower, G. H.; Black, J. B., & Turner, T. J. (1979) Scripts in text comprehension and memory. Cognition Psychology 11:177-220. [RCS]",
+      "pages": [
+        13
+      ],
+      "bbox": [
+        16.0,
+        282.666015625,
+        584.2540283203125,
+        311.9339904785156
+      ],
+      "confidence": 1,
+      "id": "S091",
+      "zh": "鲍尔，G.H.； Black, J. B., & Turner, T. J. (1979) 文本理解和记忆中的脚本。认知心理学十一：177-220。 [RCS]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Carroll, C. W. (1975) The great chess automaton. New York: Dover. [RP]",
+      "pages": [
+        13
+      ],
+      "bbox": [
+        16.0,
+        321.666015625,
+        375.41802978515625,
+        337.4339904785156
+      ],
+      "confidence": 1,
+      "id": "S092",
+      "zh": "Carroll, C. W. (1975) 伟大的国际象棋自动机。纽约：多佛。 [RP]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Cummins, R. (1977) Programs in the explanation of behavior. Philosophy of Science 44: 269-87. UCM]",
+      "pages": [
+        13
+      ],
+      "bbox": [
+        16.0,
+        347.166015625,
+        522.0819702148438,
+        362.9339904785156
+      ],
+      "confidence": 1,
+      "id": "S093",
+      "zh": "Cummins, R. (1977) 行为解释中的程序。科学哲学 44：269-87。 UCM]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Dennett, D. C. (1969) Content and consciousness. London: Routledge & Kegan Paul. [DD,TN]",
+      "pages": [
+        13
+      ],
+      "bbox": [
+        16.0,
+        372.666015625,
+        477.3160095214844,
+        388.4339904785156
+      ],
+      "confidence": 1,
+      "id": "S094",
+      "zh": "Dennett, D. C. (1969) 内容和意识。伦敦：劳特利奇和基根·保罗。 [DD、田纳西]"
+    },
+    {
+      "type": "paragraph",
+      "en": "______. (1971) Intentional systems Journal of Philosophy 68: 87-106. [TN]",
+      "pages": [
+        13
+      ],
+      "bbox": [
+        16.0,
+        398.166015625,
+        383.4880065917969,
+        413.9339904785156
+      ],
+      "confidence": 1,
+      "id": "S095",
+      "zh": "______。 (1971) 意向系统哲学杂志 68：87-106。 [田纳西]"
+    },
+    {
+      "type": "paragraph",
+      "en": "______. (1972) Reply to Arbib and Gunderson. Paper presented at the Eastern Division meeting of the American Philosophical Association. Boston, Mass. [TN]",
+      "pages": [
+        13
+      ],
+      "bbox": [
+        16.0,
+        423.666015625,
+        565.0659790039062,
+        452.9339904785156
+      ],
+      "confidence": 1,
+      "id": "S096",
+      "zh": "______。 (1972) 回复 Arbib 和 Gunderson。在美国哲学协会东部分部会议上提交的论文。马萨诸塞州波士顿 [TN]"
+    },
+    {
+      "type": "paragraph",
+      "en": "______. (1975) Why the law of effect won't go away. Journal for the Theory of Social Behavior 5:169-87. [NB]",
+      "pages": [
+        13
+      ],
+      "bbox": [
+        16.0,
+        462.666015625,
+        560.4099731445312,
+        478.4339904785156
+      ],
+      "confidence": 1,
+      "id": "S097",
+      "zh": "______。 (1975) 为什么效果定律不会消失。社会行为理论杂志 5：169-87。 [注意]"
+    },
+    {
+      "type": "paragraph",
+      "en": "______. (1978) Brainstorms. Montgomery, Vt,: Bradford Books. [DD, AS]",
+      "pages": [
+        13
+      ],
+      "bbox": [
+        16.0,
+        488.166015625,
+        379.5820007324219,
+        503.9339904785156
+      ],
+      "confidence": 1,
+      "id": "S098",
+      "zh": "______。 (1978) 头脑风暴。佛蒙特州蒙哥马利：布拉德福德图书。 [DD，AS]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Eccles, J. C. (1978) A critical appraisal of brain-mind theories. In: Cerebral correlates of conscious experiences, ed. P. A. Buser and A. Rougeul-Buser, pp. 347 55. Amsterdam: North Holland. [JCE]",
+      "pages": [
+        13
+      ],
+      "bbox": [
+        16.0,
+        513.666015625,
+        591.1719970703125,
+        542.9340209960938
+      ],
+      "confidence": 1,
+      "id": "S099",
+      "zh": "Eccles, J. C. (1978) 对大脑-心智理论的批判性评价。在：意识体验的大脑关联，编辑。 P. A. Buser 和 A. Rougeul-Buser，第 347 页 55。阿姆斯特丹：北荷兰。 [JCE]"
+    },
+    {
+      "type": "paragraph",
+      "en": "______. (1979) The human mystery. Heidelberg: Springer Verlag. UCE]",
+      "pages": [
+        13
+      ],
+      "bbox": [
+        16.0,
+        552.666015625,
+        367.99603271484375,
+        568.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S100",
+      "zh": "______。 (1979) 人类之谜。海德堡：施普林格出版社。欧洲教育学院]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Fodor, J. A. (1968) The appeal to tacit knowledge in psychological explanation. Journal of Philoso phy 65: 627-40. [NB]",
+      "pages": [
+        13
+      ],
+      "bbox": [
+        16.0,
+        578.166015625,
+        576.25,
+        607.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S101",
+      "zh": "Fodor, J. A. (1968) 在心理学解释中诉诸隐性知识。哲学杂志 65：627-40。 [注意]"
+    },
+    {
+      "type": "paragraph",
+      "en": "______. (1980) Methodological solipsism considered as a research strategy in cognitive psychology. The Behavioral and Brain S^ciences 3:1. [NB, WGL, WES]",
+      "pages": [
+        13
+      ],
+      "bbox": [
+        16.0,
+        617.166015625,
+        580.906005859375,
+        646.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S102",
+      "zh": "______。 (1980)方法论唯我论被认为是认知心理学的一种研究策略。行为和脑科学 3:1。 [NB、WGL、WES]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Freud, S. (1895) Project for a scientific psychology. In: The standard edition of the complete psychological works of Sigmund Freud, vol. 1, ed. J. Strachey. London: Hogarth Press, 1966. UCM]",
+      "pages": [
+        13
+      ],
+      "bbox": [
+        16.0,
+        656.166015625,
+        581.7460327148438,
+        685.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S103",
+      "zh": "Freud, S. (1895) 科学心理学项目。见：西格蒙德·弗洛伊德完整心理学著作的标准版，卷。 1，编辑。 J.斯特雷奇。伦敦：霍加斯出版社，1966 年。UCM]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Frey, P. W. (1977) An introduction to computer chess. In: Chess skill in man and machine, ed. P. W. Frey. New York, Heidelberg, Berlin: Springer Verlag. [RP]",
+      "pages": [
+        13
+      ],
+      "bbox": [
+        16.0,
+        695.166015625,
+        593.4099731445312,
+        724.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S104",
+      "zh": "Frey, P. W. (1977) 计算机国际象棋简介。在：人与机器的国际象棋技巧，编辑。 P.W.弗雷.纽约、海德堡、柏林：施普林格出版社。 [RP]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Fryer, D. M. & Marshall, J. C. (1979) The motives of Jacques de Vaucanson. Technology and Culture 20: 257-69.",
+      "pages": [
+        13
+      ],
+      "bbox": [
+        16.0,
+        734.166015625,
+        571.75,
+        749.9340209960938
+      ],
+      "confidence": 1,
+      "id": "S105",
+      "zh": "Fryer, D. M. 和 Marshall, J. C. (1979) 雅克·德·沃康松的动机。技术与文化 20：257-69。"
+    },
+    {
+      "type": "paragraph",
+      "en": "[JCM]",
+      "pages": [
+        14
+      ],
+      "bbox": [
+        16.0,
+        24.666000366210938,
+        47.33200454711914,
+        40.433998107910156
+      ],
+      "confidence": 1,
+      "id": "S106",
+      "zh": "[JCM]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Gibson, J. J. (1976) The senses considered as perceptual systems. Boston: Houghton Mifflin. [TN]",
+      "pages": [
+        14
+      ],
+      "bbox": [
+        16.0,
+        50.16600036621094,
+        493.7380065917969,
+        65.93399810791016
+      ],
+      "confidence": 1,
+      "id": "S107",
+      "zh": "Gibson, J. J. (1976) 感官被视为感知系统。波士顿：霍顿·米夫林。 [田纳西]"
+    },
+    {
+      "type": "paragraph",
+      "en": "______. (1967) New reasons for realism. Synthese 17: 162-72. [TN]",
+      "pages": [
+        14
+      ],
+      "bbox": [
+        16.0,
+        75.66600036621094,
+        347.4880065917969,
+        91.43399810791016
+      ],
+      "confidence": 1,
+      "id": "S108",
+      "zh": "______。 (1967)现实主义的新理由。综合 17：162-72。 [田纳西]"
+    },
+    {
+      "type": "paragraph",
+      "en": "______. (1972) A theory of direct visual perception. In: The psychology of knowing ed. S. R. Royce & W. W. Rozeboom. New York: Gordon & Breach. [TN]",
+      "pages": [
+        14
+      ],
+      "bbox": [
+        16.0,
+        101.16600036621094,
+        551.5780029296875,
+        130.4340057373047
+      ],
+      "confidence": 1,
+      "id": "S109",
+      "zh": "______。 (1972) 直接视觉感知理论。在：认识心理学编辑。 S. R. 罗伊斯和 W. W. 罗兹布姆。纽约：戈登与布雷奇。 [田纳西]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Graesser, A. C.; Gordon, S. E.; & Sawyer, J. D. (1979) Recognition memory for typical and atypical actions in scripted activities: tests for a script pointer and tag hypotheses. Journal of Verbal Learning and Verbal Behavior 1: 319-32. [RCS]",
+      "pages": [
+        14
+      ],
+      "bbox": [
+        16.0,
+        140.16600036621094,
+        595.4920654296875,
+        182.9340057373047
+      ],
+      "confidence": 1,
+      "id": "S110",
+      "zh": "格雷瑟，A.C.；戈登，S.E.； & Sawyer, J. D. (1979) 脚本活动中典型和非典型动作的识别记忆：脚本指针和标签假设的测试。言语学习和言语行为杂志 1：319-32。 [RCS]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Cruendel, J. (1980). Scripts and stories: a study of children's event narratives. Ph.D. dissertation, Yale University. [RCS]",
+      "pages": [
+        14
+      ],
+      "bbox": [
+        16.0,
+        192.66600036621094,
+        568.4140014648438,
+        221.9340057373047
+      ],
+      "confidence": 1,
+      "id": "S111",
+      "zh": "克鲁德尔，J.（1980）。剧本和故事：儿童事件叙事的研究。博士论文，耶鲁大学。 [RCS]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Hanson, N. R. (1969) Perception and discovery. San Francisco: Freeman, Cooper. [DOW]",
+      "pages": [
+        14
+      ],
+      "bbox": [
+        16.0,
+        231.66600036621094,
+        453.1480407714844,
+        247.4340057373047
+      ],
+      "confidence": 1,
+      "id": "S112",
+      "zh": "Hanson, N. R. (1969) 感知与发现。旧金山：弗里曼，库珀。 [陶氏]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Hayes, P. J. (1977) In defence of logic. In: Proceedings of the 5th international joint conference on artificial intelligence, ed. R. Reddy. Cambridge, Mass.: M.l.T. Press. [WES]",
+      "pages": [
+        14
+      ],
+      "bbox": [
+        16.0,
+        257.166015625,
+        538.906005859375,
+        286.4339904785156
+      ],
+      "confidence": 1,
+      "id": "S113",
+      "zh": "Hayes, P. J. (1977) 为逻辑辩护。见：第五届国际人工智能联合会议论文集，编辑。 R·雷迪。马萨诸塞州剑桥：M.l.T.按。 [WES]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Hobbes, T. (1651) Leviathan. London: Willis. UCM]",
+      "pages": [
+        14
+      ],
+      "bbox": [
+        16.0,
+        296.166015625,
+        273.08203125,
+        311.9339904785156
+      ],
+      "confidence": 1,
+      "id": "S114",
+      "zh": "霍布斯，T. (1651) 利维坦。伦敦：威利斯。 UCM]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Hofstadter, D. R. (1979) Goedel, Escher, Bach. New York: Basic Books. [DOW]",
+      "pages": [
+        14
+      ],
+      "bbox": [
+        16.0,
+        321.666015625,
+        409.64801025390625,
+        337.4339904785156
+      ],
+      "confidence": 1,
+      "id": "S115",
+      "zh": "Hofstadter, D. R. (1979) 哥德尔、埃舍尔、巴赫。纽约：基础书籍。 [陶氏]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Householder, F. W. (1962) On the uniqueness of semantic mapping. Word 18: 173-85. UCM]",
+      "pages": [
+        14
+      ],
+      "bbox": [
+        16.0,
+        347.166015625,
+        471.0820007324219,
+        362.9339904785156
+      ],
+      "confidence": 1,
+      "id": "S116",
+      "zh": "Householder, F. W. (1962) 论语义映射的独特性。词 18：173-85。 UCM]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Huxley, T. H. (1874) On the hypothesis that animals are automata and its history. In: Collected Essays, vol. 1. London: Macmillan, 1893. UCM]",
+      "pages": [
+        14
+      ],
+      "bbox": [
+        16.0,
+        372.666015625,
+        594.41796875,
+        401.9339904785156
+      ],
+      "confidence": 1,
+      "id": "S117",
+      "zh": "Huxley, T. H. (1874) 关于动物是自动机的假设及其历史。在：论文集，卷。 1.伦敦：麦克米伦，1893。UCM]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Kolers, P. A. & Smythe, W. E. (1979) Images, symbols, and skills. Canadian Journal of Psychology 33: 158 84. [WES]",
+      "pages": [
+        14
+      ],
+      "bbox": [
+        16.0,
+        411.666015625,
+        559.75,
+        440.9339904785156
+      ],
+      "confidence": 1,
+      "id": "S118",
+      "zh": "Kolers, P. A. 和 Smythe, W. E. (1979) 图像、符号和技能。加拿大心理学杂志 33：158 84。[WES]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Kosslyn, S. M. & Shwartz, S. P. (1977) A simulation of visual imagery. Cognitive Science 1: 265-95. [WES]",
+      "pages": [
+        14
+      ],
+      "bbox": [
+        16.0,
+        450.666015625,
+        546.5739135742188,
+        466.4339904785156
+      ],
+      "confidence": 1,
+      "id": "S119",
+      "zh": "Kosslyn, S. M. 和 Shwartz, S. P. (1977) 视觉图像的模拟。认知科学 1：265-95。 [WES]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Lenneberg, E. H. (1975) A neuropsychological comparison between man, chimpanzee and monkey. Neuropsychologia 13: 125. [JCE]",
+      "pages": [
+        14
+      ],
+      "bbox": [
+        16.0,
+        476.166015625,
+        434.06201171875,
+        491.9339904785156
+      ],
+      "confidence": 1,
+      "id": "S120",
+      "zh": "Lenneberg, E. H. (1975) 人、黑猩猩和猴子之间的神经心理学比较。神经心理学 13：125。[JCE]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Libet, B. (1973) Electrical stimulation of cortex in human subjects and conscious sensory aspects. In: Handbook of sensory physiology, vol. 11, ed. A. Iggo, pp. 74S 90. New York: Springer-Verlag. [BL]",
+      "pages": [
+        14
+      ],
+      "bbox": [
+        16.0,
+        527.166015625,
+        573.4959716796875,
+        556.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S121",
+      "zh": "Libet, B. (1973) 人类受试者皮层的电刺激和有意识的感觉方面。在：感觉生理学手册，卷。 11，编辑。 A. Iggo，第 74S 90 页。纽约：Springer-Verlag。 [BL]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Libet, B., Wright, E. W., Jr., Feinstein, B., and Pearl, D. K. (1979) Subjective referral of the timing for a conscious sensory experience: a functional role for the somatosensory specific projection system in man. Brain 102:191222. [BL]",
+      "pages": [
+        14
+      ],
+      "bbox": [
+        16.0,
+        566.166015625,
+        592.8279418945312,
+        595.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S122",
+      "zh": "Libet, B.、Wright, E. W., Jr.、Feinstein, B. 和 Pearl, D. K. (1979) 意识感官体验时间的主观参考：人类体感特定投射系统的功能作用。大脑 102：191222。 [BL]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Longuet-Higgins, H. C. (1979) The perception of music. Proceedings of the Royal Society of London B 205:307-22. [JCM]",
+      "pages": [
+        14
+      ],
+      "bbox": [
+        16.0,
+        605.166015625,
+        583.75,
+        634.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S123",
+      "zh": "Longuet-Higgins, H. C. (1979) 音乐的感知。伦敦皇家学会会议记录 B 205：307-22。 [JCM]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Lucas, J. R. (1961) Minds, machines, and Godel. Philosophy 36:112127. [DRH]",
+      "pages": [
+        14
+      ],
+      "bbox": [
+        16.0,
+        644.166015625,
+        406.3240051269531,
+        659.9340209960938
+      ],
+      "confidence": 1,
+      "id": "S124",
+      "zh": "Lucas, J. R. (1961) 思想、机器和哥德尔。哲学 36：112127。 [DRH]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Lycan, W. G. (forthcoming) Form, function, and feel. Journal of Philosophy [NB, WGL]",
+      "pages": [
+        14
+      ],
+      "bbox": [
+        16.0,
+        669.666015625,
+        447.82000732421875,
+        685.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S125",
+      "zh": "Lycan, W. G.（即将出版）形式、功能和感觉。哲学杂志 [NB，WGL]"
+    },
+    {
+      "type": "paragraph",
+      "en": "McCarthy, J. (1979) Ascribing mental qualities to machines. In: Philosophical perspectives in artificial intelligence, ed. M. Ringle. Atlantic Highlands, N.J.: Humanities Press. UM, JRS]",
+      "pages": [
+        14
+      ],
+      "bbox": [
+        16.0,
+        695.166015625,
+        595.0780029296875,
+        724.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S126",
+      "zh": "McCarthy, J. (1979) 将心理品质归因于机器。在：人工智能的哲学观点，编辑。 M·林格尔。新泽西州大西洋高地：人文出版社。嗯，JRS]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Marr, D. & Poggio, T. (1979) A computational theory of human stereo vision. Proceedings of the Royal Society of",
+      "pages": [
+        14
+      ],
+      "bbox": [
+        16.0,
+        734.166015625,
+        573.4959716796875,
+        749.9340209960938
+      ],
+      "confidence": 1,
+      "id": "S127",
+      "zh": "Marr, D. 和 Poggio, T. (1979) 人类立体视觉的计算理论。英国皇家学会会刊"
+    },
+    {
+      "type": "paragraph",
+      "en": "London B 204:301-28. UCM]",
+      "pages": [
+        15
+      ],
+      "bbox": [
+        16.0,
+        24.666000366210938,
+        161.33200073242188,
+        40.433998107910156
+      ],
+      "confidence": 1,
+      "id": "S128",
+      "zh": "伦敦 B 204:301-28。 UCM]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Marshall, J. C. (1971) Can humans talk? In: Biological and social factors in psycholinguistics, ed. J. Morton. London: Logos Press. [JCM]",
+      "pages": [
+        15
+      ],
+      "bbox": [
+        16.0,
+        50.16600036621094,
+        588.41796875,
+        79.43399810791016
+      ],
+      "confidence": 1,
+      "id": "S129",
+      "zh": "Marshall, J. C. (1971) 人类能说话吗？在：心理语言学中的生物和社会因素，编辑。 J·莫顿。伦敦：标志出版社。 [JCM]"
+    },
+    {
+      "type": "paragraph",
+      "en": "______. (1977) Minds, machines and metaphors. Social Studies of Science 7:47588. [JCM]",
+      "pages": [
+        15
+      ],
+      "bbox": [
+        16.0,
+        89.16600036621094,
+        459.0820007324219,
+        104.93399810791016
+      ],
+      "confidence": 1,
+      "id": "S130",
+      "zh": "______。 (1977) 思想、机器和隐喻。科学社会研究7：47588。 [JCM]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Maxwell, G. (1976) Scientific results and the mind-brain issue. In: Consciousness and the brain, ed. G. G. Globus, G. Maxwell, & 1. Savodnik. New York: Plenum Press. [GM]",
+      "pages": [
+        15
+      ],
+      "bbox": [
+        16.0,
+        114.66600036621094,
+        586.4140014648438,
+        143.9340057373047
+      ],
+      "confidence": 1,
+      "id": "S131",
+      "zh": "Maxwell, G. (1976) 科学结果和心脑问题。在：意识和大脑，编辑。 G. G. Globus、G. Maxwell 和 1. Savodnik。纽约：全会出版社。 [总经理]"
+    },
+    {
+      "type": "paragraph",
+      "en": "______. (1978) Rigid designators and mind-brain identity. In: Perception and cognition: Issues in the foundations of psychology, Minnesota Studies in the Philosophy of Science, vol. 9, ed. C. W. Savage. Minneapolis: University of Minnesota Press. [GM]",
+      "pages": [
+        15
+      ],
+      "bbox": [
+        16.0,
+        153.66600036621094,
+        579.4959716796875,
+        196.4340057373047
+      ],
+      "confidence": 1,
+      "id": "S132",
+      "zh": "______。 (1978) 刚性指示符和心脑同一性。在：知觉和认知：心理学基础问题，明尼苏达科学哲学研究，卷。 9，编辑。 C.W.萨维奇。明尼阿波利斯：明尼苏达大学出版社。 [总经理]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Mersenne, M. (1636) Harmonie universelle Paris: Le Gras. UCM]",
+      "pages": [
+        15
+      ],
+      "bbox": [
+        16.0,
+        206.16600036621094,
+        336.8320007324219,
+        221.9340057373047
+      ],
+      "confidence": 1,
+      "id": "S133",
+      "zh": "Mersenne, M. (1636) 巴黎世界和谐：Le Gras。 UCM]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Moor, J. H. (1978) Three myths of computer science. British Journal of the Philosophy of Science 29:213-22. UCM]",
+      "pages": [
+        15
+      ],
+      "bbox": [
+        16.0,
+        231.66600036621094,
+        585.0820922851562,
+        247.4340057373047
+      ],
+      "confidence": 1,
+      "id": "S134",
+      "zh": "Moor, J. H. (1978) 计算机科学的三个神话。英国科学哲学杂志 29：213-22。 UCM]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Nagel, T. (1974) What is it like to be a bat? Philosophical Review 83:43550. [GM]",
+      "pages": [
+        15
+      ],
+      "bbox": [
+        16.0,
+        257.166015625,
+        419.82403564453125,
+        272.9339904785156
+      ],
+      "confidence": 1,
+      "id": "S135",
+      "zh": "Nagel, T. (1974) 成为一只蝙蝠是什么感觉？哲学评论83：43550。 [总经理]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Natsoulas, T. (1974) The subjective, experiential element in perception. Psychological Bulletin 81:611-31. [TN]",
+      "pages": [
+        15
+      ],
+      "bbox": [
+        16.0,
+        282.666015625,
+        558.9879150390625,
+        298.4339904785156
+      ],
+      "confidence": 1,
+      "id": "S136",
+      "zh": "Natsoulas, T. (1974) 感知中的主观、经验元素。心理通报81：611-31。 [田纳西]"
+    },
+    {
+      "type": "paragraph",
+      "en": "______. (1977) On perceptual aboutness. Behaviorism 5:75-97. [TN]",
+      "pages": [
+        15
+      ],
+      "bbox": [
+        16.0,
+        308.166015625,
+        351.238037109375,
+        323.9339904785156
+      ],
+      "confidence": 1,
+      "id": "S137",
+      "zh": "______。 (1977)关于知觉的有关性。行为主义 5：75-97。 [田纳西]"
+    },
+    {
+      "type": "paragraph",
+      "en": "______. (1978a) Haugeland's first hurdle. Behavioral and Brain Sciences 1:243. [TN]",
+      "pages": [
+        15
+      ],
+      "bbox": [
+        16.0,
+        333.666015625,
+        429.988037109375,
+        349.4339904785156
+      ],
+      "confidence": 1,
+      "id": "S138",
+      "zh": "______。 (1978a) 豪格兰德的第一个障碍。行为和脑科学 1：243。 [田纳西]"
+    },
+    {
+      "type": "paragraph",
+      "en": "______. (1979b) Residual subjectivity. American Psychologist 33:269-83. [TN]",
+      "pages": [
+        15
+      ],
+      "bbox": [
+        16.0,
+        359.166015625,
+        402.2380065917969,
+        374.9339904785156
+      ],
+      "confidence": 1,
+      "id": "S139",
+      "zh": "______。 (1979b) 残余主观性。美国心理学家33：269-83。 [田纳西]"
+    },
+    {
+      "type": "paragraph",
+      "en": "______. (1980) Dimensions of perceptual awareness. Psychology Department, University of California, Davis. Unpublished manuscript. [TN]",
+      "pages": [
+        15
+      ],
+      "bbox": [
+        16.0,
+        384.666015625,
+        551.74609375,
+        413.9339904785156
+      ],
+      "confidence": 1,
+      "id": "S140",
+      "zh": "______。 (1980)知觉意识的维度。加州大学戴维斯分校心理学系。未发表的手稿。 [田纳西]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Nelson, K. & Gruendel, J. (1978) From person episode to social script: two dimensions in the development of event knowledge. Paper presented at the biennial meeting of the Society for Research in Child Development, San Francisco. [RCS]",
+      "pages": [
+        15
+      ],
+      "bbox": [
+        16.0,
+        423.666015625,
+        589.156005859375,
+        466.4339904785156
+      ],
+      "confidence": 1,
+      "id": "S141",
+      "zh": "Nelson, K. & Gruendel, J. (1978) 从人物情节到社会脚本：事件知识发展的两个维度。在旧金山儿童发展研究协会两年一度的会议上发表的论文。 [RCS]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Newell, A. (1973) Production systems: models of control structures. In: Visual information processing, ed. W. C. Chase. New York: Academic Press. [WES]",
+      "pages": [
+        15
+      ],
+      "bbox": [
+        16.0,
+        476.166015625,
+        567.0040283203125,
+        505.4339904785156
+      ],
+      "confidence": 1,
+      "id": "S142",
+      "zh": "Newell, A. (1973) 生产系统：控制结构模型。在：视觉信息处理，编辑。 W.C.蔡斯.纽约：学术出版社。 [WES]"
+    },
+    {
+      "type": "paragraph",
+      "en": "( 1979) Physical symbol systems. Lecture t the La Jolla Conference on Cognitive Science. URS]",
+      "pages": [
+        15
+      ],
+      "bbox": [
+        16.0,
+        515.166015625,
+        484.33599853515625,
+        530.9340209960938
+      ],
+      "confidence": 1,
+      "id": "S143",
+      "zh": "（1979）物理符号系统。在拉霍亚认知科学会议上的演讲。乌鲁斯]"
+    },
+    {
+      "type": "paragraph",
+      "en": "______. (1980) Harpy, production systems, and human cognition. In: Perception and production of fluent speech, ed. R. Cole. Hillsdale, N.J.: Erlbaum Press. [WES]",
+      "pages": [
+        15
+      ],
+      "bbox": [
+        16.0,
+        540.666015625,
+        583.828125,
+        569.9340209960938
+      ],
+      "confidence": 1,
+      "id": "S144",
+      "zh": "______。 (1980) 哈比、生产系统和人类认知。在：流利言语的感知和产生，编辑。 R.科尔.新泽西州希尔斯代尔：埃尔鲍姆出版社。 [WES]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Newell, A. & Simon, H. A. (1963) GPS, a program that simulates human thought. In: Computers and thought, ed. A. Feigenbaum & V. Feldman, pp. 279-93. New York: McGraw Hill. JRS]",
+      "pages": [
+        15
+      ],
+      "bbox": [
+        16.0,
+        579.666015625,
+        584.1640014648438,
+        608.9340209960938
+      ],
+      "confidence": 1,
+      "id": "S145",
+      "zh": "Newell, A. & Simon, H. A. (1963) GPS，一个模拟人类思维的程序。在：计算机与思想，编辑。 A. Feigenbaum 和 V. Feldman，第 279-93 页。纽约：麦格劳·希尔。 JRS]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Panofsky, E. (1954) Galileo as a critic of the arts. The Hague: Martinus Nijhoff. UCM]",
+      "pages": [
+        15
+      ],
+      "bbox": [
+        16.0,
+        618.666015625,
+        440.3320007324219,
+        634.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S146",
+      "zh": "Panofsky, E. (1954) 作为艺术批评家的伽利略。海牙：马丁努斯·尼霍夫。 UCM]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Popper, K. R. & Eccles, J. C. (1977) The self and its brain. Heidelberg: Springer-Verlag. UCE, GM]",
+      "pages": [
+        15
+      ],
+      "bbox": [
+        16.0,
+        644.166015625,
+        505.0780029296875,
+        659.9340209960938
+      ],
+      "confidence": 1,
+      "id": "S147",
+      "zh": "Popper, K. R. & Eccles, J. C. (1977) 自我及其大脑。海德堡：施普林格出版社。 UCE，总经理]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Putnam, H. (1960) Minds and machines. In Dimensions of mind, ed. S. Hook, pp. 138 64. New York: Collier. [MR, RR]",
+      "pages": [
+        15
+      ],
+      "bbox": [
+        16.0,
+        669.666015625,
+        577.9180297851562,
+        698.9340209960938
+      ],
+      "confidence": 1,
+      "id": "S148",
+      "zh": "Putnam, H. (1960) 思想和机器。在心灵的维度，编辑。 S. Hook，第 138 页 64。纽约：Collier。 [先生，RR]"
+    },
+    {
+      "type": "paragraph",
+      "en": "______. (1975a) The meaning of ''meaning.\" In: Mind, language and reality Cambridge University Press. [NB, WGL]",
+      "pages": [
+        15
+      ],
+      "bbox": [
+        16.0,
+        708.666015625,
+        586.570068359375,
+        724.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S149",
+      "zh": "______。 (1975a)“意义”的含义。见：心灵、语言和现实剑桥大学出版社。[NB，WGL]"
+    },
+    {
+      "type": "paragraph",
+      "en": "______. (1975b) The nature of mental states. In: Mind, language and reality Cambridge: Cambridge University Press.",
+      "pages": [
+        15
+      ],
+      "bbox": [
+        16.0,
+        734.166015625,
+        585.83203125,
+        749.9340209960938
+      ],
+      "confidence": 1,
+      "id": "S150",
+      "zh": "______。 (1975b) 精神状态的本质。见：心灵、语言和现实剑桥：剑桥大学出版社。"
+    },
+    {
+      "type": "paragraph",
+      "en": "[NB]",
+      "pages": [
+        16
+      ],
+      "bbox": [
+        16.0,
+        24.666000366210938,
+        40.65999984741211,
+        40.433998107910156
+      ],
+      "confidence": 1,
+      "id": "S151",
+      "zh": "[注意]"
+    },
+    {
+      "type": "paragraph",
+      "en": "______. (1975c) Philosophy and our mental life In: Mind, language and reality Cambridge: Cambridge University Press. [MM]",
+      "pages": [
+        16
+      ],
+      "bbox": [
+        16.0,
+        50.16600036621094,
+        569.9140014648438,
+        79.43399810791016
+      ],
+      "confidence": 1,
+      "id": "S152",
+      "zh": "______。 (1975c) 哲学和我们的精神生活，载于：心灵、语言和现实剑桥：剑桥大学出版社。 [毫米]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pylyshyn, Z. W. (1980a) Computation and cognition: issues in the foundations of cognitive science. Behavioral and Brain Sciences 3. [JRS, WES]",
+      "pages": [
+        16
+      ],
+      "bbox": [
+        16.0,
+        89.16600036621094,
+        577.8280029296875,
+        118.43399810791016
+      ],
+      "confidence": 1,
+      "id": "S153",
+      "zh": "Pylyshyn, Z. W. (1980a) 计算和认知：认知科学基础中的问题。行为和脑科学 3. [JRS，WES]"
+    },
+    {
+      "type": "paragraph",
+      "en": "______. (1980b) Cognitive representation and the process-architecture distinction. Behavioral and Brain Sciences [ZWP]",
+      "pages": [
+        16
+      ],
+      "bbox": [
+        16.0,
+        128.16600036621094,
+        567.238037109375,
+        157.4340057373047
+      ],
+      "confidence": 1,
+      "id": "S154",
+      "zh": "______。 (1980b) 认知表征和过程架构的区别。行为和脑科学 [ZWP]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Russell, B. (1948) Human knowledge: its scope and limits New York: Simon and Schuster. [GM]",
+      "pages": [
+        16
+      ],
+      "bbox": [
+        16.0,
+        167.16600036621094,
+        491.8240051269531,
+        182.9340057373047
+      ],
+      "confidence": 1,
+      "id": "S155",
+      "zh": "Russell, B. (1948) 人类知识：其范围和限制 纽约：西蒙和舒斯特。 [总经理]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Schank, R. C. & Abelson, R. P. (1977) Scripts, plans, goals, and understanding Hillsdale, N.J.: Lawrence Erlbaum Press. [RCS, JRS]",
+      "pages": [
+        16
+      ],
+      "bbox": [
+        16.0,
+        192.66600036621094,
+        571.0779418945312,
+        221.9340057373047
+      ],
+      "confidence": 1,
+      "id": "S156",
+      "zh": "Schank, R. C. 和 Abelson, R. P. (1977) 脚本、计划、目标和理解新泽西州希尔斯代尔：Lawrence Erlbaum Press。 [RCS、JRS]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Searle, J. R. (1979a) Intentionality and the use of language. In: Meaning and use, ed. A. Margalit. Dordrecht: Reidel. [TN, JRS]",
+      "pages": [
+        16
+      ],
+      "bbox": [
+        16.0,
+        231.66600036621094,
+        584.3319702148438,
+        260.9339904785156
+      ],
+      "confidence": 1,
+      "id": "S157",
+      "zh": "Searle, J. R. (1979a) 意向性和语言的使用。在：含义和用途，编辑。 A·玛格丽特。多德雷赫特：雷德尔。 [TN、JRS]"
+    },
+    {
+      "type": "paragraph",
+      "en": "______. (1979b) The intentionality of intention and action. Inquiry 22:25380. [TN, JRS]",
+      "pages": [
+        16
+      ],
+      "bbox": [
+        16.0,
+        270.666015625,
+        445.0899963378906,
+        286.4339904785156
+      ],
+      "confidence": 1,
+      "id": "S158",
+      "zh": "______。 (1979b)意图和行动的意向性。查询22：25380。 [TN、JRS]"
+    },
+    {
+      "type": "paragraph",
+      "en": "______. (1979c) What is an intentional state? Mind 88:74-92. UH, GM, TN, JRS]",
+      "pages": [
+        16
+      ],
+      "bbox": [
+        16.0,
+        296.166015625,
+        415.09002685546875,
+        311.9339904785156
+      ],
+      "confidence": 1,
+      "id": "S159",
+      "zh": "______。 (1979c) 什么是有意状态？心灵 88:74-92。呃，GM，TN，JRS]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Sherrington, C. S. (1950) Introductory. In: The physical basis of mind, ed. P. Laslett, Oxford: Basil Blackwell. [JCE]",
+      "pages": [
+        16
+      ],
+      "bbox": [
+        16.0,
+        321.666015625,
+        581.7459716796875,
+        337.4339904785156
+      ],
+      "confidence": 1,
+      "id": "S160",
+      "zh": "Sherrington, C. S. (1950) 导言。在：心灵的物理基础，编辑。 P.拉斯莱特，牛津：巴兹尔·布莱克威尔。 [JCE]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Slate, J. S. & Atkin, L. R. (1977) CHESS 4.5 - the Northwestern University chess program. In: Chess skill in man and machine, ed. P. W. Frey. New York, Heidelberg, Berlin: Springer Verlag. Sloman, A. (1978) The computer resolution in phylosophy Harvester Press and Humanities Press. [AS]",
+      "pages": [
+        16
+      ],
+      "bbox": [
+        16.0,
+        347.166015625,
+        589.8280029296875,
+        389.9339904785156
+      ],
+      "confidence": 1,
+      "id": "S161",
+      "zh": "Slate, J. S. & Atkin, L. R. (1977) CHESS 4.5 - 西北大学国际象棋程序。在：人与机器的国际象棋技巧，编辑。 P.W.弗雷.纽约、海德堡、柏林：施普林格出版社。 Sloman, A. (1978) 哲学中的计算机分辨率 Harvester Press 和 Humanities Press。 [作为]"
+    },
+    {
+      "type": "paragraph",
+      "en": "______. (1979) The primacy of non-communicative language. In: The analysis of meaning (informatics s)> ed. M. McCafferty & K. Gray. London: ASLIB and British Computer Society. [AS]",
+      "pages": [
+        16
+      ],
+      "bbox": [
+        16.0,
+        399.666015625,
+        571.9180908203125,
+        428.9339904785156
+      ],
+      "confidence": 1,
+      "id": "S162",
+      "zh": "______。 (1979)非交流语言的首要地位。见：意义分析（信息学）> 编。 M.麦卡弗蒂和K.格雷。伦敦：ASLIB 和英国计算机协会。 [作为]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Smith, E. E.; Adams, N.; & Schorr, D. (1978) Fact retrieval and the paradox of interference. Cognition Psychology 10:438-64. [RCS]",
+      "pages": [
+        16
+      ],
+      "bbox": [
+        16.0,
+        438.666015625,
+        575.2540283203125,
+        467.9339904785156
+      ],
+      "confidence": 1,
+      "id": "S163",
+      "zh": "史密斯，E.E.；亚当斯，N.； & Schorr, D. (1978) 事实检索和干扰悖论。认知心理学十：438-64。 [RCS]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Smythe, W. E. (1979) The analogical/propositional debate about mental rep representation: a Goodmanian analysis Paper presented at the 5th annual meeting of the Society for Philosophy and Psychology, New York City. [WES]",
+      "pages": [
+        16
+      ],
+      "bbox": [
+        16.0,
+        477.666015625,
+        573.6640625,
+        506.9339904785156
+      ],
+      "confidence": 1,
+      "id": "S164",
+      "zh": "Smythe, W. E. (1979) 关于心理表征表征的类比/命题辩论：在纽约市哲学与心理学学会第五届年会上发表的古德曼分析论文。 [WES]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Sperry, R. W. (1969) A modified concept of consciousness. Psychological Review 76:532-36. [TN]",
+      "pages": [
+        16
+      ],
+      "bbox": [
+        16.0,
+        516.666015625,
+        498.9880065917969,
+        532.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S165",
+      "zh": "Sperry, R. W. (1969) 意识的修正概念。心理学评论76：532-36。 [田纳西]"
+    },
+    {
+      "type": "paragraph",
+      "en": "______. (1970) An objective approach to subjective experience: further explanation of a hypothesis. Psychological Review 77:585-90. [TN]",
+      "pages": [
+        16
+      ],
+      "bbox": [
+        16.0,
+        542.166015625,
+        571.58203125,
+        571.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S166",
+      "zh": "______。 (1970)主观经验的客观方法：对假设的进一步解释。心理学评论77：585-90。 [田纳西]"
+    },
+    {
+      "type": "paragraph",
+      "en": "______. (1976) Mental phenomena as causal determinants in brain function. In: Consciousness and the brain, ed. G. G. Globus, G. Maxwell, & 1. Savodnik. New York: Plenum Press. [TN]",
+      "pages": [
+        16
+      ],
+      "bbox": [
+        16.0,
+        581.166015625,
+        593.1640014648438,
+        610.4340209960938
+      ],
+      "confidence": 1,
+      "id": "S167",
+      "zh": "______。 (1976) 心理现象作为大脑功能的因果决定因素。在：意识和大脑，编辑。 G. G. Globus、G. Maxwell 和 1. Savodnik。纽约：全会出版社。 [田纳西]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Stich, S. P. (in preparation) On the ascription of content. In: Entertaining thoughts, ed. A. Woodfield. [WGL]",
+      "pages": [
+        16
+      ],
+      "bbox": [
+        16.0,
+        620.166015625,
+        547.06591796875,
+        635.9340209960938
+      ],
+      "confidence": 1,
+      "id": "S168",
+      "zh": "Stich, S. P.（准备中）关于内容的归属。在：有趣的想法，编辑。 A·伍德菲尔德。 [工作组]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Thorne, J. P. (1968) A computer model for the perception of syntactic structure. Proceedings of the Royal Society of London B 171:37786. UCM]",
+      "pages": [
+        16
+      ],
+      "bbox": [
+        16.0,
+        645.666015625,
+        581.7459716796875,
+        674.9340209960938
+      ],
+      "confidence": 1,
+      "id": "S169",
+      "zh": "Thorne, J. P. (1968) 用于感知句法结构的计算机模型。伦敦皇家学会会议记录 B 171:37786。 UCM]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Turing, A. M. (1964) Computing machinery and intelligence. In: Minds and machines, ed. A. R. Anderson, pp.4-30. Englewood Cliffs, N.J.: Prentice Hall. [MR]",
+      "pages": [
+        16
+      ],
+      "bbox": [
+        16.0,
+        684.666015625,
+        581.5,
+        713.9340209960938
+      ],
+      "confidence": 1,
+      "id": "S170",
+      "zh": "Turing, A. M. (1964) 计算机器和智能。在：思想和机器，编辑。 A. R. 安德森，第 4-30 页。新泽西州恩格尔伍德悬崖：Prentice Hall。 [先生]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Weizenbaum, J. (1965) Eliza - a computer program for the study of natural language communication between man and machine. Communication of the Association for Computing Machinery 9:36 45. [JRS]",
+      "pages": [
+        16
+      ],
+      "bbox": [
+        16.0,
+        723.666015625,
+        593.5780029296875,
+        752.9340209960938
+      ],
+      "confidence": 1,
+      "id": "S171",
+      "zh": "Weizenbaum, J. (1965) Eliza - 用于研究人与机器之间自然语言通信的计算机程序。计算机协会通讯 9:36 45. [JRS]"
+    },
+    {
+      "type": "paragraph",
+      "en": "( 1976) Computer power and human reason San Francisco: W. H. Freeman. URS]",
+      "pages": [
+        17
+      ],
+      "bbox": [
+        16.0,
+        32.91600036621094,
+        413.08599853515625,
+        48.683998107910156
+      ],
+      "confidence": 1,
+      "id": "S172",
+      "zh": "( 1976) 计算机能力和人类理性 旧金山：W. H. Freeman。乌鲁斯]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Winograd, T. (1973) A procedural model of language understanding. In: Computer models of thought and language, ed. R. Schank & K. Colby. San Francisco: W. H. Freeman. [JRS]",
+      "pages": [
+        17
+      ],
+      "bbox": [
+        16.0,
+        58.41600036621094,
+        579.0700073242188,
+        87.68399810791016
+      ],
+      "confidence": 1,
+      "id": "S173",
+      "zh": "Winograd, T. (1973) 语言理解的程序模型。在：思想和语言的计算机模型，编辑。 R.尚克和 K.科尔比。旧金山：W.H.弗里曼。 [JRS]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Winston, P. H. (1977) Artificial intelligence Reading, Mass. Addison- Wesley; JRS]",
+      "pages": [
+        17
+      ],
+      "bbox": [
+        16.0,
+        97.41600036621094,
+        425.5899963378906,
+        113.18399810791016
+      ],
+      "confidence": 1,
+      "id": "S174",
+      "zh": "Winston, P. H. (1977) 人工智能雷丁，马萨诸塞州。Addison-Wesley； JRS]"
+    },
+    {
+      "type": "paragraph",
+      "en": "Woodruff, G. & Premack, D. (1979) Intentional communication in the chimpanzee: the development of deception. Cognition 7:333-62. [JCM]",
+      "pages": [
+        17
+      ],
+      "bbox": [
+        16.0,
+        122.91600036621094,
+        570.406005859375,
+        152.1840057373047
+      ],
+      "confidence": 1,
+      "id": "S175",
+      "zh": "Woodruff, G. & Premack, D. (1979) 黑猩猩的有意交流：欺骗的发展。认知 7：333-62。 [JCM]"
+    }
+  ]
+}

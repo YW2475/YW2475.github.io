@@ -1,0 +1,88 @@
+{
+  "paper": {
+    "id": "darwin",
+    "title": "The Formation of Vegetable Mould, through the Action of Worms, with Observations on their Habits",
+    "zh_title": "蚯蚓的作用与腐殖土的形成及其习性观察",
+    "author": "Charles Darwin",
+    "year": 1881,
+    "category": "自然与演化",
+    "kind": "selection",
+    "folder": "Vegetable Mould and Earthworms 1881",
+    "citation": "London: John Murray, 1881. Chapter VII: Conclusion, pp. 305–313.",
+    "source": "https://darwin-online.org.uk/converted/published/1881_Worms_F1361/1881_Worms_F1361.html",
+    "description": "不起眼的蚯蚓怎样改变地表、埋藏遗迹，并为植物准备土壤？",
+    "note": "本页完整收录第七章“结论”（305–313 页），不是全书。采用 Darwin Online 的 1881 年第五千册修订版转录；合并印刷换页拆开的段落。",
+    "rights": "1881 年公版原著选章。中文为本站译稿。"
+  },
+  "scope": "selection",
+  "translation_method": "assistant-translated and corrected",
+  "glossary": {
+    "vegetable mould": "腐殖土",
+    "castings": "蚓粪",
+    "burrows": "洞穴",
+    "humus": "腐殖质",
+    "denudation": "剥蚀"
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "en": "WORMS have played a more important part in the history of the world than most persons would at first suppose. In almost all humid countries they are extraordinarily numerous, and for their size possess great muscular power. In many parts of England a weight of more than ten tons (10,516 kilogrammes) of dry earth annually passes through their bodies and is brought to the surface on each acre of land; so that the whole superficial bed of vegetable mould passes through their bodies in the course of every few years. From the collapsing of the old burrows the mould is in constant though slow movement, and the particles composing it are thus rubbed together. By these means fresh surfaces are continually exposed to the action of the carbonic acid in the soil, and of the humus-acids which appear to be still more efficient in the decomposition of rocks. The generation of the humus-acids is probably hastened during the digestion of the many half-decayed leaves which worms consume. Thus the particles of earth, forming the superficial mould, are subjected to conditions eminently favourable for their decomposition and disintegration. Moreover, the particles of the softer rocks suffer some amount of mechanical trituration in the muscular gizzards of worms, in which small stones serve as mill-stones.",
+      "id": "S001",
+      "zh": "蚯蚓在世界历史中发挥的作用，比大多数人乍看之下所设想的更重要。在几乎所有湿润地区，它们数量都极为庞大；相对于体型，它们有很强的肌肉力量。在英格兰的许多地方，每英亩土地每年都有十吨以上（10,516 千克）的干土经过它们的身体，并被带到地表。因此，每隔几年，整个表层腐殖土都会通过它们的身体。旧洞穴的坍塌，使腐殖土保持着缓慢而持续的运动，组成土壤的颗粒也因此相互摩擦。这样，新的表面不断暴露于土壤中碳酸的作用，以及腐殖酸的作用；后者在分解岩石方面似乎更有效。蚯蚓吃下大量半腐烂的叶片，在消化过程中，腐殖酸的生成可能加快。因此，组成表层腐殖土的土壤颗粒，处在极有利于分解与崩解的条件下。此外，在蚯蚓富有肌肉的砂囊里，较软的岩石颗粒还受到一定程度的机械研磨，其中的小石子起着磨石的作用。"
+    },
+    {
+      "type": "paragraph",
+      "en": "The finely levigated castings, when brought to the surface in a moist condition, flow during rainy weather down any moderate slope; and the smaller particles are washed far down even a gently inclined surface. Castings when dry often crumble into small pellets and these are apt to roll down any sloping surface. Where the land is quite level and is covered with herbage, and where the climate is humid so that much dust cannot be blown away, it appears at first sight impossible that there should be any appreciable amount of sub-aerial denudation; but worm-castings are blown, especially whilst moist and viscid, in one uniform direction by the prevalent winds which are accompanied by rain. By these several means the superficial mould is prevented from accumulating to a great thickness; and a thick bed of mould checks in many ways the disintegration of the underlying rocks and fragments of rock.",
+      "id": "S002",
+      "zh": "细细研磨过的蚓粪，以湿润状态被带到地表以后，在雨天会沿着任何适度倾斜的坡面流动；较小的颗粒，甚至会被冲到缓坡下方很远的地方。蚓粪干燥时常碎成小颗粒，这些颗粒容易沿倾斜表面滚下。在土地完全平坦、覆有草木，而气候湿润、不会有许多尘土被风吹走的地方，乍看之下，似乎不可能发生可观的大气作用下的剥蚀；然而，伴随降雨的盛行风会把蚓粪，尤其是仍湿黏的蚓粪，沿着一个一致的方向吹移。通过这些方式，表层腐殖土不会积累得极厚；而厚厚的腐殖土层，会以多种方式阻碍下方岩石及岩石碎片的崩解。"
+    },
+    {
+      "type": "paragraph",
+      "en": "The removal of worm-castings by the above means leads to results which are far from insignificant. It has been shown that a layer of earth, .2 of an inch in thickness, is in many places annually brought to the surface per acre; and if a small part of this amount flows, or rolls, or is washed, even for a short distance down every inclined surface, or is repeatedly blown in one direction, a great effect will be produced in the course of ages. It was found by measurements and calculations that on a surface with a mean inclination of 9° 26′, 2.4 cubic inches of earth which had been ejected by worms crossed, in the course of a year, a horizontal line one yard in length; so that 240 cubic inches would cross a line 100 yards in length. This latter amount in a damp state would weigh 11½ pounds. Thus a considerable weight of earth is continually moving down each side of every valley, and will in time reach its bed. Finally this earth will be transported by the streams flowing in the valleys into the ocean, the great receptacle for all matter denuded from the land. It is known from the amount of sediment annually delivered into the sea by the Mississippi, that its enormous drainage-area must on an average be lowered .00263 of an inch each year; and this would suffice in four and half million years to lower the whole drainage-area to the level of the sea-shore. So that, if a small fraction of the layer of fine earth, .2 of an inch in thickness, which is annually brought to the surface by worms, is carried away, a great result cannot fail to be produced within a period which no geologist considers extremely long.",
+      "id": "S003",
+      "zh": "以上这些方式造成的蚓粪迁移，结果绝非微不足道。前文已表明，在许多地方，每英亩土地每年都有厚达 0.2 英寸的一层土被带到地表。如果其中一小部分沿着各个坡面向下流动、滚动或被冲走，即使移动距离很短，或者被反复向一个方向吹移，经过漫长年代，也会产生巨大的作用。测量和计算发现，在平均倾角为 9°26′ 的坡面上，一年之内，由蚯蚓排出的 2.4 立方英寸土壤，会越过一条长一码的水平线；因此，越过一条长一百码的线的土量，会达到 240 立方英寸。这后一土量在潮湿状态下重 11½ 磅。于是，可观重量的土壤持续沿着每条山谷两侧向下移动，最终会到达谷底。随后，这些土壤将被谷中的溪流带往海洋——陆地上一切被剥蚀物质的巨大归宿。根据密西西比河每年向海洋输送的沉积物量，我们知道，它庞大的流域面积平均每年必定降低 0.00263 英寸；这样，四百五十万年就足以使整个流域降到海岸的高度。因此，如果蚯蚓每年带到地表的、厚 0.2 英寸的细土层中，有一小部分被搬走，那么在任何地质学家都不会认为极长的时期内，必然会产生巨大的结果。"
+    },
+    {
+      "type": "paragraph",
+      "en": "Archæologists ought to be grateful to worms, as they protect and preserve for an indefinitely long period every object, not liable to decay, which is dropped on the surface of the land, by burying it beneath their castings. Thus, also, many elegant and curious tesselated pavements and other ancient remains have been preserved; though no doubt the worms have in these cases been largely aided by earth washed and blown from the adjoining land, especially when cultivated. The old tesselated pavements have, however, often suffered by having subsided unequally from being unequally undermined by the worms. Even old massive walls may be undermined and subside; and no building is in this respect safe, unless the foundations lie 6 or 7 feet beneath the surface, at a depth at which worms cannot work. It is probable that many monoliths and some old walls have fallen down from having been undermined by worms.",
+      "id": "S004",
+      "zh": "考古学家应该感谢蚯蚓，因为它们会把掉落在地表、不会腐朽的物品埋在蚓粪下面，使这些物品得到长久、几乎无限期的保护和保存。许多精美而有趣的镶嵌地面，以及其他古代遗迹，也因此得以保存；不过，在这些情形下，从附近土地上冲来、吹来的泥土，无疑也给了蚯蚓很大帮助，尤其是附近土地已经耕种时。然而，古老的镶嵌地面常因蚯蚓在下方挖掘得不均匀，而发生不均匀的沉降，受到损伤。即使古老而厚实的墙体，也可能被掏空并下沉；在这方面，除非地基位于地表以下六七英尺、达到蚯蚓无法工作的深度，否则任何建筑都不安全。许多独石和一些旧墙，很可能就是因蚯蚓掏空了下方而倒塌的。"
+    },
+    {
+      "type": "paragraph",
+      "en": "Worms prepare the ground in an excellent manner for the growth of fibrous-rooted plants and for seedlings of all kinds. They periodically expose the mould to the air, and sift it so that no stones larger than the particles which they can swallow are left in it. They mingle the whole intimately together, like a gardener who prepares fine soil for his choicest plants. In this state it is well fitted to retain moisture and to absorb all soluble substances, as well as for the process of nitrification. The bones of dead animals, the harder parts of insects, the shells of landmolluscs, leaves, twigs, &c., are before long all buried beneath the accumulated castings of worms, and are thus brought in a more or less decayed state within reach of the roots of plants. Worms likewise drag an infinite number of dead leaves and other parts of plants into their burrows, partly for the sake of plugging them up and partly as food.",
+      "id": "S005",
+      "zh": "蚯蚓以极好的方式，为须根植物与各种幼苗的生长准备土壤。它们定期把腐殖土暴露在空气中，并对其加以筛分，使其中不再留下比它们能够吞下的颗粒更大的石子。它们把整层土细致地混合起来，像园丁为最珍爱的植物准备细土一样。这种状态的土壤，非常适于保持水分、吸收各种可溶性物质，也适于硝化过程。死去动物的骨头、昆虫较硬的部分、陆生软体动物的壳、叶片、细枝等，不久都会埋在积累的蚓粪下，因而以不同程度的腐烂状态，进入植物根系能够触及的范围。蚯蚓还把无数枯叶和其他植物部分拖进洞穴，部分是为了堵住洞口，部分是作为食物。"
+    },
+    {
+      "type": "paragraph",
+      "en": "The leaves which are dragged into the burrows as food, after being torn into the finest shreds, partially digested, and saturated with the intestinal and urinary secretions, are commingled with much earth. This earth forms the dark coloured, rich humus which almost everywhere covers the surface of the land with a fairly well-defined layer or mantle. Von Hensen* placed two worms in a vessel 18 inches in diameter, which was filled with sand, on which fallen leaves were strewed; and these were soon dragged into their burrows to a depth of 3 inches. After about 6 weeks an almost uniform layer of sand, a centimeter (.4 inch) in thickness, was converted into humus by having passed through the alimentary canals of these two worms. It is believed by some persons that wormburrows, which often penetrate the ground almost perpendicularly to a depth of 5 or 6 feet, materially aid in its drainage; notwithstanding that the viscid castings piled over the mouths of the burrows prevent or check the rain-water directly entering them. They allow the air to penetrate deeply into the ground. They also greatly facilitate the downward passage of roots of moderate size; and these will be nourished by the humus with which the burrows are lined. Many seeds owe their germination to having been covered by castings; and others buried to a considerable depth beneath accumulated castings lie dormant, until at some future time they are accidentally uncovered and germinate.",
+      "id": "S006",
+      "zh": "被拖进洞穴作为食物的叶片，撕成极细的碎屑，部分消化，并被肠道和排泄分泌物浸透以后，会与大量泥土混合。这些泥土形成颜色深、肥沃的腐殖质，几乎到处以一层边界相当清楚的覆盖层铺在地表。冯·亨森*把两条蚯蚓放入直径 18 英寸、装满沙子的容器中，在沙面撒上落叶；叶片很快就被拖进深达 3 英寸的洞穴。约六周后，几乎均匀的一层厚一厘米（0.4 英寸）的沙子，因经过这两条蚯蚓的消化道而变成了腐殖质。有人认为，蚯蚓洞穴经常近乎垂直地深入地下五六英尺，因此大有助于排水；尽管洞口堆积的黏稠蚓粪会阻止或减缓雨水直接进入。洞穴让空气深入地下，也极大便利了中等粗细的根向下生长；根系会得到洞壁腐殖质的滋养。许多种子由于被蚓粪覆盖而萌发；另一些种子被积累的蚓粪埋到相当深处，便保持休眠，直到未来某时偶然露出，才开始萌发。"
+    },
+    {
+      "type": "paragraph",
+      "en": "Worms are poorly provided with sense-organs, for they cannot be said to see, although they can just distinguish between light and darkness; they are completely deaf, and have only a feeble power of smell; the sense of touch alone is well developed. They can therefore learn little about the outside world, and it is surprising that they should exhibit some skill in lining their burrows with their castings and with leaves, and in the case of some species in piling up their castings into tower-like constructions. But it is far more surprising that they should apparently exhibit some degree of intelligence instead of a mere blind instinctive impulse, in their manner of plugging up the mouths of their burrows. They act in nearly the same manner as would a man, who had to close a cylindrical tube with different kinds of leaves, petioles, triangles of paper, &c., for they commonly seize such objects by their pointed ends. But with thin objects a certain number are drawn in by their broader ends. They do not act in the same unvarying manner in all cases, as do most of the lower animals; for instance, they do not drag in leaves by their foot-stalks, unless the basal part of the blade is as narrow as the apex, or narrower than it.",
+      "id": "S007",
+      "zh": "蚯蚓的感觉器官很不发达。虽然勉强能区分明暗，却不能说它们有视觉；它们完全没有听觉，嗅觉也很弱，只有触觉比较发达。因此，它们对外界能够了解的很少，却能熟练地用蚓粪和叶片衬砌洞穴，有些种类还把蚓粪堆成塔状结构，这已令人惊讶。但更令人惊讶的是，在堵住洞口的方法上，它们似乎表现出某种程度的智能，而不仅是盲目的本能冲动。假如一个人必须用不同种类的叶片、叶柄、三角形纸片等堵住圆柱形管道，他的做法也会与蚯蚓差不多：蚯蚓通常抓住这些物体的尖端。但一些薄物体会被从宽端拖入。它们不像大多数低等动物那样，在所有情况下都以同一种不变的方式行动。例如，除非叶片基部与叶尖一样窄，或者更窄，否则它们不会抓住叶柄把叶子拖进去。"
+    },
+    {
+      "type": "paragraph",
+      "en": "When we behold a wide, turf-covered expanse, we should remember that its smoothness, on which so much of its beauty depends, is mainly due to all the inequalities having been slowly levelled by worms. It is a marvellous reflection that the whole of the superficial mould over any such expanse has passed, and will again pass, every few years through the bodies of worms. The plough is one of the most ancient and most valuable of mans inventions; but long before he existed the land was in fact regularly ploughed, and still continues to be thus ploughed by earth-worms. It may be doubted whether there are many other animals which have played so important a part in the history of the world, as have these lowly organised creatures. Some other animals, however, still more lowly organised, namely corals, have done far more conspicuous work in having constructed innumerable reefs and islands in the great oceans; but these are almost confined to the tropical zones.",
+      "id": "S008",
+      "zh": "当我们望着一片广阔、覆有草皮的土地时，应当记住：那平整的表面——它的美在很大程度上有赖于此——主要是蚯蚓缓慢地整平了一切高低不平之处的结果。想到这样一片土地上的全部表层腐殖土，每隔几年就已经经过、并且还将再次经过蚯蚓的身体，实在令人惊叹。犁是人类最古老、最有价值的发明之一；但在人类出现很久以前，土地实际上就已被定期耕耘，而且至今仍由蚯蚓继续这样耕耘着。我们可以怀疑，是否还有许多其他动物，在世界历史中发挥过这些构造低等的生物那样重要的作用。不过，另一些构造更低等的动物，也就是珊瑚，通过在大洋中建造无数礁体和岛屿，完成了更加显眼的工作；但它们几乎仅限于热带地区。"
+    },
+    {
+      "id": "N001",
+      "type": "heading",
+      "en": "Original note",
+      "zh": "原文注释"
+    },
+    {
+      "id": "N002",
+      "type": "paragraph",
+      "en": "* 'Zeitschrift für wissenschaft. Zoolog. B. xxviii. 1877, p. 360.",
+      "zh": "*《科学动物学杂志》（Zeitschrift für wissenschaftliche Zoologie），第 xxviii 卷，1877 年，第 360 页。"
+    }
+  ]
+}
