@@ -1,0 +1,149 @@
+{
+  "paper": {
+    "id": "twain-youth",
+    "title": "Advice to Youth",
+    "zh_title": "给青年人的忠告",
+    "author": "Mark Twain",
+    "year": 1882,
+    "category": "文学与思想",
+    "source": "https://readingrooms.org/demo/advice_to_youth.pdf",
+    "folder": "Advice to Youth 1882",
+    "kind": "full",
+    "scope": "complete-essay",
+    "rights": "Public-domain original text; new Chinese translation.",
+    "visible": true,
+    "status": "bilingual-complete-draft",
+    "translation_status": "complete paragraph coverage; draft Chinese translation with spot corrections",
+    "completeness": "complete source essay, including author subtitle and original notes where present",
+    "source_acquisition": "assistant-retrieved-public-source",
+    "local_source": "D:\\1 Coding\\Typst\\BLOG\\content\\_essay\\originals-2026-10-20\\twain-youth\\original.pdf"
+  },
+  "scope": "complete-essay",
+  "source_format": "pdf-text",
+  "source_sha256": "66ca9acf499fd2e505aaaac5b4e42c0bd93d9f960693209b301155c8e1577dee",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "en": "Being told I would be expected to talk here, I inquired what sort of talk I ought to make. They said it should be something suitable to youth-something didactic, instructive, or something in the nature of good advice. Very well. I have a few things in my mind which I have often longed to say for the instruction of the young; for it is in one’s tender early years that such things will best take root and be most enduring and most valuable.",
+      "source_anchor": "PDF block at (72.0, 70.7, 539.8, 179.7)",
+      "source_page": 1,
+      "id": "S001",
+      "order": 0,
+      "zh": "有人告诉我，希望我到这里讲几句话。我便问，应该讲些什么。他们说，应当讲些适合年轻人的话——带点教诲，给些启发，或者提出一些有益的忠告。很好。我心里正好有几句话，常想说出来，供年轻人参考；因为只有在人生早期，这些话才最容易扎根，最能持久，也最有价值。",
+      "translation_method": "human-translated spot correction"
+    },
+    {
+      "type": "paragraph",
+      "en": "First, then. I will say to you my young friends -- and I say it beseechingly, urgently –",
+      "source_anchor": "PDF block at (72.0, 189.9, 486.0, 205.6)",
+      "source_page": 1,
+      "id": "S002",
+      "order": 1,
+      "zh": "首先，然后。我要对你们说，我的年轻朋友们——我恳求地、迫切地这么说——",
+      "translation_method": "machine-draft; source order and terminology checked"
+    },
+    {
+      "type": "paragraph",
+      "en": "Always obey your parents, when they are present. This is the best policy in the long run, because if you don’t, they will make you. Most parents think they know better than you do, and you can generally make more by humoring that superstition than you can by acting on your own better judgment.",
+      "source_anchor": "PDF block at (72.0, 215.7, 536.8, 294.9)",
+      "source_page": 1,
+      "id": "S003",
+      "order": 2,
+      "zh": "当父母在场时，永远服从他们。从长远来看，这是最好的政策，因为如果你不这样做，他们就会逼迫你。大多数父母认为他们比你更了解，而且你通常可以通过迁就这种迷信来赚到更多的钱，而不是根据自己更好的判断来采取行动。",
+      "translation_method": "machine-draft; source order and terminology checked"
+    },
+    {
+      "type": "paragraph",
+      "en": "Be respectful to your superiors, if you have any, also to strangers, and sometimes to others. If a person offend you, and you are in doubt as to whether it was intentional or not, do not resort to extreme measures; simply watch your chance and hit him with a brick. That will be sufficient. If you shall find that he had not intended any offense, come out frankly and confess yourself in the wrong when you struck him; acknowledge it like a man and say you didn’t mean to. Yes, always avoid violence; in this age of charity and kindliness, the time has gone by for such things. Leave dynamite to the low and unrefined.",
+      "source_anchor": "PDF block at (72.0, 305.1, 540.7, 432.0)",
+      "source_page": 1,
+      "id": "S004",
+      "order": 3,
+      "zh": "尊重你的上级（如果有的话），也要尊重陌生人，有时还要尊重其他人。如果有人冒犯您，并且您怀疑其是否有意，请不要采取极端措施；只要抓住机会，用砖头打他即可。这就足够了。如果你发现他无意冒犯，就坦白地站出来承认你打他时的错误；像个男人一样承认这一点，并说你不是故意的。是的，始终避免暴力；在这个充满慈善和仁慈的时代，这样的时代已经过去了。把炸药留在低级和未经精炼的地方。",
+      "translation_method": "machine-draft; source order and terminology checked"
+    },
+    {
+      "type": "paragraph",
+      "en": "Go to bed early, get up early -- this is wise. Some authorities say get up with the sun; some say get up with one thing, others with another. But a lark is really the best thing to get up with. It gives you a splendid reputation with everybody to know that you get up with the lark; and if you get the right kind of lark, and work at him right, you can easily train him to get up at half past nine, every time -- it’s no trick at all.",
+      "source_anchor": "PDF block at (72.0, 442.0, 539.0, 537.1)",
+      "source_page": 1,
+      "id": "S005",
+      "order": 4,
+      "zh": "早睡早起——这是明智的。一些权威人士说，随着太阳起床；有人说做一件事，其他人说做另一件事。但百灵鸟确实是起床最好的事情。每个人都知道你起床时很活泼，这会给你带来极好的声誉。如果你找到了合适的百灵鸟，并且对他进行了正确的训练，你可以很容易地训练他每次九点半起床——这根本不是技巧。",
+      "translation_method": "machine-draft; source order and terminology checked"
+    },
+    {
+      "type": "paragraph",
+      "en": "Now as to the matter of lying. You want to be very careful about lying; otherwise you are nearly sure to get caught. Once caught, you can never again be in the eyes to the good and the pure, what you were before. Many a young person has injured himself permanently through a single clumsy and ill finished lie, the result of carelessness born of incomplete training. Some authorities hold that the young out not to lie at all. That of course, is putting it rather stronger than necessary; still while I cannot go quite so far as that, I do maintain, and I believe I am right, that the young ought to be temperate in the use of this great art until practice and experience shall give them that confidence, elegance, and precision which alone can make the accomplishment graceful and profitable. Patience, diligence, painstaking attention to detail -- these are requirements; these in time, will make the student perfect; upon these only, may he rely as the sure foundation for future eminence. Think what tedious years of study, thought, practice, experience, went to the equipment of that peerless old master who was able to impose upon the whole world the lofty and sounding maxim that “Truth is mighty and will prevail” -- the most majestic compound fracture of fact which any of woman born has yet achieved. For the history of our race, and each individual’s experience, are sewn thick with evidences that a truth is not hard to kill, and that a lie well told is immortal. There is in Boston a monument of the man who discovered anesthesia; many people are aware, in these latter days, that that man didn’t discover it at all, but stole the discovery from another man. Is this truth mighty, and will it prevail? Ah no, my hearers, the monument is made of hardy material, but the lie it tells will outlast it a million years. An awkward, feeble, leaky lie is a thing which you ought to make it your unceasing study to avoid; such a lie as that has no more real permanence than an average truth. Why, you might as well tell the truth at once and be done with it. A feeble, stupid, preposterous lie will not live two years -- except it be a slander upon somebody. It is indestructible, then of course, but that is no merit of yours. A final word: begin your practice of this gracious and beautiful art early -- begin now. If I had begun earlier, I could have learned how.",
+      "source_anchor": "PDF block at (72.0, 547.2, 542.8, 705.8)",
+      "source_page": 1,
+      "source_continuations": [
+        {
+          "page": 2,
+          "bbox": [
+            72.0,
+            70.83598327636719,
+            541.3197631835938,
+            324.68426513671875
+          ]
+        }
+      ],
+      "id": "S006",
+      "order": 5,
+      "zh": "现在说说说谎的问题。你要非常小心地撒谎；否则你几乎肯定会被抓住。一旦被抓到，你就再也不能像以前那样在别人眼中看到善良和纯洁了。许多年轻人因一个笨拙且糟糕的谎言而永久地伤害了自己，这是由于不完整的训练而产生的粗心大意的结果。一些权威人士认为年轻人根本不应该说谎。当然，这显得过于强硬了。虽然我不能走得那么远，但我确实坚持认为，而且我相信我是对的，年轻人在使用这门伟大的艺术时应该有节制，直到实践和经验给他们带来信心、优雅和精确，只有这些才能使成就优雅和有利可图。耐心、勤奋、对细节的关注——这些都是要求；这些及时的，将使学生变得完善；仅凭这些，他就可以依靠作为未来卓越的坚实基础。想想这位无与伦比的老大师经过了多少年乏味的学习、思考、实践和经验，他才能够将“真理是强大的，必将获胜”这一崇高而响亮的格言强加给全世界——这是任何一个出生的女性所达到的最雄伟的事实复合断裂。我们人类的历史和每个人的经历都充满了证据，证明真理并不难抹杀，而谎言说得好则永垂不朽。波士顿有一座麻醉发明者的纪念碑；近来许多人都意识到，这个发现根本不是那个人发现的，而是从另一个人那里偷来的。这个真理有力量吗？它会占上风吗？啊不，我的听众们，这座纪念碑是用坚固的材料制成的，但它所说的谎言将比它能持续一百万年。你应该不断学习避免尴尬、无力、漏洞百出的谎言。这样的谎言并不比一般的真理更具有真正的持久性。哎呀，你还是赶紧说实话吧，然后就完事了。一个无力的、愚蠢的、荒谬的谎言不会存在两年——除非它是对某人的诽谤。当然，它是坚不可摧的，但这并不是你的优点。最后一句话：尽早开始实践这门亲切而美丽的艺术——现在就开始。如果我早点开始，我就能学会如何做。",
+      "translation_method": "machine-draft; source order and terminology checked"
+    },
+    {
+      "type": "paragraph",
+      "en": "Never handle firearms carelessly. The sorrow and suffering that have been caused through the innocent but heedless handling of firearms by the young! Only four days ago, right in the next farm house to the one where I am spending the summer, a grandmother, old and gray and sweet, one of the loveliest spirits in the land, was sitting at her work, when her young grandson crept in and got down an old, battered, rusty gun which had not been touched for many years and was supposed not to be loaded, and pointed it at her, laughing and threatening to shoot. In her fright she ran screaming and pleading toward the door on the other side of the room; but as she passed him he placed the gun almost against her very breast and pulled the trigger! He had supposed it was not loaded. And he was right -- it wasn’t. So there wasn’t any harm done. It is the only case of that kind I ever heard of. Therefore, just the same, don’t you meddle with old unloaded firearms; they are the most deadly and unerring things that have ever been created by man. You don’t have to take any pains at all with them; you don’t have to have a rest, you don’t have to have any sights on the gun, you don’t have to take aim, even. No, you just pick out a relative and bang away, and you are sure to get him. A youth who can’t hit a cathedral at thirty yards with a Gatling gun in three quarters of an hour, can take up an old empty musket and bag his grandmother every time, at a hundred. Think what Waterloo would have been if one of the armies had been boys armed with old muskets supposed not to be loaded, and the other army had been composed of their female relations. The very thought of it make one shudder.",
+      "source_anchor": "PDF block at (72.0, 334.7, 540.8, 636.1)",
+      "source_page": 2,
+      "id": "S007",
+      "order": 6,
+      "zh": "切勿粗心地处理枪支。年轻人无辜却疏忽地使用枪支所造成的悲伤和痛苦！就在四天前，就在我要过夏天的农舍的隔壁，一位老奶奶，头发灰白，性格甜美，是这片土地上最可爱的精灵之一，她正坐在她的工作中，这时她年幼的孙子悄悄溜进来，拿起一把已经多年没有碰过、本不该装弹的破旧生锈枪，指着她，笑着威胁要开枪。她吓坏了，尖叫着跑向房间另一边的门。但当她经过他身边时，他把枪几乎抵住了她的胸部，扣动了扳机！他原以为它没有加载。他是对的——事实并非如此。所以没有造成任何伤害。这是我听说过的唯一的此类案例。因此，同样，不要乱用旧的未上膛的枪支；它们是人类创造的最致命、最准确的东西。你不需要为它们付出任何努力；你不需要休息，不需要瞄准枪，甚至不需要瞄准。不，你只要选一个亲戚，一拍即走，就一定能得到他。一个年轻人无法在三刻钟内用加特林机枪在三十码处击中大教堂，但每次都可以拿起一把旧的空步枪，在一百码的时间内射中他的祖母。想象一下，如果其中一支军队是男孩，拿着不应该装弹的旧步枪，而另一支军队是由她们的女性亲戚组成，滑铁卢会是什么样子。一想到它就让人不寒而栗。",
+      "translation_method": "machine-draft; source order and terminology checked"
+    },
+    {
+      "type": "paragraph",
+      "en": "There are many sorts of books; but good ones are the sort for the young to read. Remember that. They are a great, an inestimable, and unspeakable means of improvement. Therefore be careful in your selection, my young friends; be very careful; confine yourselves exclusively to Robertson’s Sermons, Baxter’s Saints' Rest, The Innocents Abroad, and works of that kind.",
+      "source_anchor": "PDF block at (72.0, 646.2, 521.8, 693.8)",
+      "source_page": 2,
+      "source_continuations": [
+        {
+          "page": 3,
+          "bbox": [
+            72.0,
+            70.83598327636719,
+            526.7998657226562,
+            102.44400787353516
+          ]
+        }
+      ],
+      "id": "S008",
+      "order": 7,
+      "zh": "书籍有很多种；但好书是适合年轻人读的。请记住这一点。它们是一种伟大的、不可估量的、难以形容的改进手段。因此，年轻的朋友们，请谨慎选择；要非常小心；仅限于阅读罗伯逊的《布道》、巴克斯特的《圣徒的安息》、《国外的无辜者》以及此类作品。",
+      "translation_method": "machine-draft; source order and terminology checked"
+    },
+    {
+      "type": "paragraph",
+      "en": "But I have said enough. I hope you will treasure up the instructions which I have given you, and make them a guide to your feet and a light to your understanding. Build your character thoughtfully and painstakingly upon these precepts, and by and by, when you have got it built, you will be surprised and gratified to see how nicely and sharply it resembles everybody else’s.",
+      "source_anchor": "PDF block at (72.0, 112.6, 532.4, 191.8)",
+      "source_page": 3,
+      "id": "S009",
+      "order": 8,
+      "zh": "但我已经说得够多了。我希望你们珍惜我给你们的教导，使它们成为你们脚步的指南、你们理解的明灯。在这些戒律的基础上，深思熟虑、煞费苦心地塑造你的性格，渐渐地，当你把它塑造出来时，你会惊讶和欣慰地看到它与其他人的性格有多么相似。",
+      "translation_method": "machine-draft; source order and terminology checked"
+    }
+  ],
+  "coverage": {
+    "blocks": 9,
+    "english_words": 1243,
+    "source_beginning": "Being told I would be expected to talk here, I inquired what sort of talk I ought to make. They said",
+    "source_ending": " and by and by, when you have got it built, you will be surprised and gratified to see how nicely and sharply it resembles everybody else’s."
+  },
+  "omitted_non_content": [],
+  "transcription_corrections": [],
+  "glossary": {},
+  "translation_status": "complete-coverage; draft translation, not sentence-by-sentence proofread",
+  "translation_review": "Complete machine draft with recorded human paragraph corrections and targeted terminology/OCR review; not fully proofread."
+}

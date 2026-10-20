@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-20",
+  "requested": 12,
+  "added_complete": 9,
+  "pending": [
+    {
+      "id": "adams-internet",
+      "title": "How to Stop Worrying and Learn to Love the Internet",
+      "zh_title": "如何停止担忧并学会爱上互联网",
+      "source": "https://www.douglasadams.com/dna/19990901-00-a.html",
+      "status": "awaiting-licensed-or-user-provided-full-source"
+    },
+    {
+      "id": "thomas-cell",
+      "title": "The Lives of a Cell",
+      "zh_title": "细胞的生命",
+      "source": "https://www.nejm.org/doi/abs/10.1056/NEJM197105132841908",
+      "status": "awaiting-licensed-or-user-provided-full-source"
+    },
+    {
+      "id": "borges-exactitude",
+      "title": "On Exactitude in Science",
+      "zh_title": "论科学的精确性",
+      "source": "https://sites.lsa.umich.edu/mqr/2015/12/on-the-unsaid/",
+      "status": "awaiting-licensed-or-user-provided-full-source"
+    }
+  ],
+  "visible_local_entries": 63,
+  "coverage": [
+    {
+      "id": "franklin-whistle",
+      "blocks": 18,
+      "english_words": 842,
+      "source_beginning": "TO MADAME BRILLON",
+      "source_ending": "B. Franklin."
+    },
+    {
+      "id": "twain-youth",
+      "blocks": 9,
+      "english_words": 1243,
+      "source_beginning": "Being told I would be expected to talk here, I inquired what sort of talk I ought to make. They said",
+      "source_ending": " and by and by, when you have got it built, you will be surprised and gratified to see how nicely and sharply it resembles everybody else’s."
+    },
+    {
+      "id": "orwell-tea",
+      "blocks": 17,
+      "english_words": 1010,
+      "source_beginning": "If you look up ‘tea’ in the first cookery book that comes to hand you will probably find that it is ",
+      "source_ending": "ng, so as to make quite sure of wringing out of one’s ration the 20 good, strong cups that two ounces, properly handled, ought to represent."
+    },
+    {
+      "id": "chesterton-bed",
+      "blocks": 6,
+      "english_words": 1295,
+      "source_beginning": "Lying in bed would be an altogether perfect and supreme experience if only one had a colored pencil ",
+      "source_ending": "et up a healthy man. If he does it for some secondary hygienic reason, if he has some scientific explanation, he may get up a hypochondriac."
+    },
+    {
+      "id": "twain-lying",
+      "blocks": 16,
+      "english_words": 2205,
+      "source_beginning": "ESSAY, FOR DISCUSSION, READ AT A MEETING OF THE HISTORICAL AND ANTIQUARIAN CLUB OF HARTFORD, AND OFF",
+      "source_ending": "idently put into the hands of this experienced Club—a ripe body, who may be termed, in this regard, and without undue flattery, Old Masters."
+    },
+    {
+      "id": "medawar-fraud",
+      "blocks": 25,
+      "english_words": 1998,
+      "source_beginning": "I HAVE chosen for my title a question: Is the scientific paper a fraud? I ought to explain that a sc",
+      "source_ending": "s along uncharted by-ways of thought; that they are imaginative and inspirational in character; that they are indeed adventures of the mind."
+    },
+    {
+      "id": "bacon-gardens",
+      "blocks": 10,
+      "english_words": 2290,
+      "source_beginning": "GOD almighty first planted a garden: and indeed it is the purest of human pleasures. It is the great",
+      "source_ending": "their things together; and sometimes add statues, and such things, for state and magnificence, but nothing to the true pleasure of a garden."
+    },
+    {
+      "id": "lamb-roast",
+      "blocks": 25,
+      "english_words": 2691,
+      "source_beginning": "Mankind, says a Chinese manuscript, which my friend M. was obliging enough to read and explain to me",
+      "source_ending": "ntations of the rank and guilty garlic; you cannot poison them, or make them stronger than they are—but consider, he is a weakling—a flower."
+    },
+    {
+      "id": "haldane-rabbit",
+      "blocks": 32,
+      "english_words": 3735,
+      "source_beginning": "THE STORY OF A SKIRMISH IN THE WAR ON DISEASE",
+      "source_ending": "m me in the course of them. It has been the object of this article to suggest that one-four-millionth of the nation’s income was well spent."
+    }
+  ]
+}

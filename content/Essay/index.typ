@@ -11,6 +11,12 @@
 == Nature and Evolution / 自然与演化
 
 #tufted.blog-entry(
+  date: "1625",
+  path: "Of Gardens 1625/",
+  title: "Of Gardens / 论园林",
+)
+
+#tufted.blog-entry(
   date: "1855",
   path: "On the Introduction of New Species 1855/",
   title: "On the Law Which Has Regulated the Introduction of New Species / 论支配新物种出现的规律",
@@ -38,6 +44,12 @@
   date: "1926",
   path: "On Being the Right Size 1926/",
   title: "On Being the Right Size / 论大小适宜",
+)
+
+#tufted.blog-entry(
+  date: "1927",
+  path: "On Being Ones Own Rabbit 1927/",
+  title: "On Being One’s Own Rabbit / 把自己当作实验兔",
 )
 
 #tufted.blog-entry(
@@ -106,6 +118,12 @@
   date: "1939",
   path: "The Usefulness of Useless Knowledge 1939/",
   title: "The Usefulness of Useless Knowledge / 无用知识的用处",
+)
+
+#tufted.blog-entry(
+  date: "1963",
+  path: "Is the Scientific Paper a Fraud 1963/",
+  title: "Is the Scientific Paper a Fraud / 科学论文是骗局吗？",
 )
 
 #tufted.blog-entry(
@@ -291,6 +309,18 @@
 )
 
 #tufted.blog-entry(
+  date: "1779",
+  path: "The Whistle 1779/",
+  title: "The Whistle / 哨子",
+)
+
+#tufted.blog-entry(
+  date: "1822",
+  path: "A Dissertation upon Roast Pig 1822/",
+  title: "A Dissertation upon Roast Pig / 烤猪论",
+)
+
+#tufted.blog-entry(
   date: "1838",
   path: "Notes on Marriage 1838/",
   title: "Notes on Marriage / 结婚札记",
@@ -303,6 +333,18 @@
 )
 
 #tufted.blog-entry(
+  date: "1880",
+  path: "On the Decay of the Art of Lying 1880/",
+  title: "On the Decay of the Art of Lying / 论说谎艺术的衰落",
+)
+
+#tufted.blog-entry(
+  date: "1882",
+  path: "Advice to Youth 1882/",
+  title: "Advice to Youth / 给青年人的忠告",
+)
+
+#tufted.blog-entry(
   date: "1908",
   path: "On Running after Ones Hat 1908/",
   title: "On Running after One’s Hat / 追帽子",
@@ -312,6 +354,12 @@
   date: "1909",
   path: "A Piece of Chalk 1909/",
   title: "A Piece of Chalk / 一块粉笔",
+)
+
+#tufted.blog-entry(
+  date: "1909",
+  path: "On Lying in Bed 1909/",
+  title: "On Lying in Bed / 论赖床",
 )
 
 #tufted.blog-entry(
@@ -343,3 +391,9 @@
   path: "The Death of the Moth 1942/",
   title: "The Death of the Moth / 飞蛾之死",
 )
+#tufted.blog-entry(
+  date: "1946",
+  path: "A Nice Cup of Tea 1946/",
+  title: "A Nice Cup of Tea / 一杯好茶",
+)
+
