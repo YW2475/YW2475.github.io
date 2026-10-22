@@ -91,4 +91,3 @@
 #html.p(id: "en-S022")[#text("As I gazed on the impressive scene, all the so-called ruin of the storm was forgotten, and never before did these noble woods appear so fresh, so joyous, so immortal.")]
 
 #zh(id: "S022")[#text("当我凝视着那令人印象深刻的场景时，所有所谓的风暴毁灭都被遗忘了，这些高贵的树林从未像现在这样新鲜，如此欢乐，如此不朽。")]
-

@@ -211,4 +211,3 @@
 #html.p(id: "en-S051")[#text("Mit all seiner unorganischen Angefügtheit ist der Fremde doch ein organisches Glied der Gruppe, deren einheitliches Leben die besondere Bedingtheit dieses Elementes einschließt; nur dass wir die eigenartige Einheit dieser Stellung nicht anders zu bezeichnen wissen, als dass sie aus gewissen Maßen von Nähe und gewissen von Ferne zusammengesetzt ist, die, in irgendwelchen Quanten jedes Verhältnis charakterisierend, in einer besonderen Proportion und gegenseitigen Spannung das spezifische, formale Verhältnis zum »Fremden« ergeben.")]
 
 #zh(id: "S051")[#text("尽管陌生人具有无机的附着力，但他仍然是群体的有机成员，其统一的生活包括这一元素的特殊条件；只是我们不知道如何描述这种位置的特殊统一性，除了它是由某些亲密程度和某些距离距离组成的，这在表征每种关系的某些量子中，导致与“外国”以特殊比例和相互张力产生特定的、正式的关系。")]
-

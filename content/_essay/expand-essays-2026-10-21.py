@@ -525,7 +525,7 @@ def render():
                 if r['original_language']!='zh':typ += [f'#zh(id: "{b["id"]}")[#text({q(b["zh"])})]','']
             md += [f'<a id="{b["id"]}"></a>','**Source:** '+(str(b.get('source_page')) if b.get('source_page') else str(b.get('source_anchor') or data['source_url'])),
                    '','**Original:** '+b['en'].replace('$',r'\$'),'','**中文:** '+b['zh'].replace('$',r'\$'),'']
-        (public/'index.typ').write_text('\n'.join(typ)+'\n',encoding='utf-8')
+        (public/'index.typ').write_text('\n'.join(typ).rstrip()+'\n',encoding='utf-8')
         (folder/'paper.md').write_text('\n'.join(md)+'\n',encoding='utf-8')
         (folder/'translation_notes.md').write_text('Complete author text with aligned Chinese draft; no summary substitution.\nSource metadata, edition and omissions are in source_map.json.\nMachine translation with limited spot review; not a sentence-by-sentence polished translation.\nNative Chinese essays retain the original once, without artificial duplication.\n',encoding='utf-8')
         data['paper']=r;dump(p,data)

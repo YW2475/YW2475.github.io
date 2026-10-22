@@ -159,4 +159,3 @@
 #html.p(id: "en-S038")[#text("Human and artificial sounds and objects thrust themselves upon us; they are within our sphere, so to speak: but the life of nature we must meet half-way; it is shy, withdrawn, and blends itself with a vast neutral background. We must be initiated; it is an order the secrets of which are well guarded.")]
 
 #zh(id: "S038")[#text("人类和人造的声音和物体强加给我们；可以这么说，它们在我们的范围之内：但是我们必须在中途迎接自然的生命；它害羞、孤僻，并将自己与广阔的中性背景融为一体。我们必须主动；这是一个严格保守秘密的命令。")]
-

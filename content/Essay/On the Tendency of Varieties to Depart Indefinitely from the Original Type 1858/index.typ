@@ -71,4 +71,3 @@
 #html.p(id: "en-S016")[#text("Ternate, February, 1858.")]
 
 #zh(id: "S016")[#text("特尔纳特，1858 年 2 月。")]
-

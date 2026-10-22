@@ -127,4 +127,3 @@
 #html.p(id: "en-S030")[#text("These things I ponder as the kettle sings, and the good oak burns to red coals on white ashes. Those ashes, come spring, I will return to the orchard at the foot of the sandhill. They will come back to me again, perhaps as red apples, or perhaps as a spirit of enterprise in some fat October squirrel, who, for reasons unknown to himself, is bent on planting acorns.")]
 
 #zh(id: "S030")[#text("我在水壶唱歌时思考这些事情，好橡树在白色的灰烬上燃烧成红色的煤。待到春来，我便将那骨灰撒回沙丘脚下的果园。他们终将再次回到我身边，或许化作红彤彤的苹果，或许化作十月里某只肥硕松鼠身上那股创业的劲头——它出于自己也说不清的缘由，执意要埋下一颗颗橡子。")]
-

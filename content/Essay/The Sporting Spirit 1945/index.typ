@@ -43,4 +43,3 @@
 #html.p(id: "en-S009")[#text("I hope, therefore, that we shan’t follow up the visit of the Dynamos by sending a British team to the USSR. If we must do so, then let us send a second-rate team which is sure to be beaten and cannot be claimed to represent Britain as a whole. There are quite enough real causes of trouble already, and we need not add to them by encouraging young men to kick each other on the shins amid the roars of infuriated spectators.")]
 
 #zh(id: "S009")[#text("因此，我希望我们不要继迪纳摩队的访问之后派遣一支英国球队前往苏联。如果一定要这么做，那就派出一支肯定会被打败、不能代表整个英国的二流球队吧。造成麻烦的真正原因已经够多了，我们不需要鼓励年轻人在愤怒的观众的咆哮声中互相踢对方的小腿，从而增加这些原因。")]
-

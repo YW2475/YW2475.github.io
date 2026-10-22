@@ -467,4 +467,3 @@
 #html.p(id: "en-S115")[#text("Indem solche Mächte in die Wurzel wie in die Krone des ganzen geschichtlichen Lebens eingewachsen sind, dem wir in dem flüchtigen Dasein einer Zelle angehören - ist unsere Aufgabe nicht, anzuklagen oder zu verzeihen, sondern allein zu verstehen.*")]
 
 #zh(id: "S115")[#text("由于这种力量已经成长为整个历史生活的根源和冠冕，我们属于一个细胞的短暂存在，我们的任务不是指责或原谅，但单独理解。")]
-

@@ -43,4 +43,3 @@
 #html.p(id: "en-S009")[#text("In Lacedaemon, pedagogues chastised their scholars by biting their thumbs.")]
 
 #zh(id: "S009")[#text("在拉栖代梦，教师们通过咬拇指来惩罚他们的学者。")]
-

@@ -323,4 +323,3 @@
 #html.p(id: "en-S079")[#text("A man delivers a single brutal “Good-by,” and that is the end of it. Not so with the gentle sex—I say it in their praise; they cannot abide abruptness.")]
 
 #zh(id: "S079")[#text("一个男人说了一句残酷的“再见”，事情就结束了。温柔的性却不是这样——我是在赞美她们时这么说的；他们不能忍受唐突。")]
-

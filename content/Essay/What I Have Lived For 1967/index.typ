@@ -27,4 +27,3 @@
 #html.p(id: "en-S005")[#text("This has been my life. I have found it worth living, and would gladly live it again if the chance were offered me.")]
 
 #zh(id: "S005")[#text("这就是我的生活.我发现它值得活下去，如果有机会，我很乐意再活一次。")]
-

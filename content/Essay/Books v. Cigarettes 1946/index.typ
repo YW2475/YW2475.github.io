@@ -55,4 +55,3 @@
 #html.p(id: "en-S011")[#text("These figures are guesswork, and I should be interested if someone would correct them for me. But if my estimate is anywhere near right, it is not a proud record for a country which is nearly 100 per cent literate and where the ordinary man spends more on cigarettes than an Indian peasant has for his whole livelihood. And if our book consumption remains as low as it has been, at least let us admit that it is because reading is a less exciting pastime than going to the dogs, the pictures or the pub, and not because books, whether bought or borrowed, are too expensive.")]
 
 #zh(id: "S011")[#text("这些数字是猜测，我应该感兴趣，如果有人能纠正他们对我。但是，如果我的估计接近正确的话，对于一个识字率接近100% 的国家来说，这不是一个值得骄傲的记录，在这个国家，普通人在香烟上的花费比印度农民的整个生计还多。如果我们的图书消费仍然像以前一样低，至少让我们承认，这是因为阅读是一种比去狗，图片或酒吧更不令人兴奋的消遣，而不是因为书，无论是买的还是借的，太贵了。")]
-

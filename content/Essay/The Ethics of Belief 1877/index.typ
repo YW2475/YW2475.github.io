@@ -283,4 +283,3 @@
 #html.p(id: "en-S069")[#text("It is wrong in all cases to believe on insufficient evidence; and where it is presumption to doubt and to investigate, there it is worse than presumption to believe.")]
 
 #zh(id: "S069")[#text("在任何情况下，根据证据不足而相信都是错误的；怀疑和调查是假定的，而相信则比假定更糟糕。")]
-

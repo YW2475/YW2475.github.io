@@ -167,4 +167,3 @@
 #html.p(id: "en-S040")[#text("What should we do about it? I think, as scientists, we have a special responsibility. I think that we have a responsibility to teach mankind the lessons that we have learned in our struggle with nature. We have a responsibility to point out the value of this freedom, this freedom to doubt, this freedom to question. We have a responsibility to proclaim the value of this freedom; to teach how doubt is not to be feared but welcomed and discussed; and to demand this freedom as our duty to all coming generations.")]
 
 #zh(id: "S040")[#text("对此，我们应当做些什么？我认为，作为科学家，我们负有特殊的责任。我们有责任把自己在与自然的搏斗中学到的教训传授给人类。我们有责任指出这种自由的价值——怀疑的自由，质问的自由。我们有责任宣扬这种自由的价值，教导人们不必惧怕怀疑，而应当欢迎它、讨论它；我们也有责任要求这种自由，把它作为自己对未来所有世代应尽的义务。")]
-

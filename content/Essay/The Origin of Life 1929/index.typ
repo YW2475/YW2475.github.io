@@ -135,4 +135,3 @@
 #html.p(id: "en-S032")[#text("This answer is compatible, for example, with the view that pre-existent mind or spirit can associate itself with certain kinds of matter. If so, we are left with the mystery as to why mind has so marked a preference for a particular type of colloidal organic substances. Personally I regard all attempts to describe the relation of mind to matter as rather clumsy metaphors. The biochemist knows no more, and no less, about this question than anyone else. His ignorance disqualifies him no more than the historian or the geologist from attempting to solve a historical problem.")]
 
 #zh(id: "S032")[#text("例如，这个答案与预先存在的思想或精神可以将其自身与某些种类的物质联系起来的观点是一致的。如果是这样，我们就留下了一个谜：为什么大脑对某种特定类型的胶体有机物质有如此明显的偏好。就我个人而言，我认为所有描述心灵与物质关系的尝试都是相当笨拙的隐喻。生物化学家对这个问题的了解并不比任何人多，也不少。他的无知并没有使他失去尝试解决历史问题的资格，就像历史学家或地质学家一样。")]
-

@@ -195,4 +195,3 @@
 #html.p(id: "en-S047")[#text("Surely they have need of it, for they are and remain in spite of all very hypothetical: the interest of the questions is so great that I do not repent of having submitted them to the reader.")]
 
 #zh(id: "S047")[#text("当然，他们需要它，因为尽管一切都是假设性的，但它们仍然是并且仍然是：这些问题的兴趣是如此之大，以至于我不会后悔将它们提交给读者。")]
-

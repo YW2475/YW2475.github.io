@@ -247,4 +247,3 @@
 #html.p(id: "en-S060")[#text("Aber wie die formlose Unendlichkeit des Seins erst an seiner Fähigkeit der Begrenzung zu einer Gestalt kommt, so findet seine Begrenztheit ihren Sinn und ihre Würde erst an dem, was die Beweglichkeit der Tür versinnlicht: an der Möglichkeit, aus dieser Begrenzung in jedem Augenblick in die Freiheit hinauszutreten.")]
 
 #zh(id: "S060")[#text("但正如存在的无形无限只能通过其限制自身的能力才能形成一样，它的限制也只能通过门的移动性所象征的意义和尊严来找到它的意义和尊严：随时摆脱这种限制进入自由的可能性。")]
-

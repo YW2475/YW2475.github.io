@@ -69,4 +69,3 @@
 #zh(id: "S015")[#text("(昭和十一年九月十七、十八日)")]
 
 #figure(image("assets/F001.png", width: 85%), caption: [#text("「人工雪 ×12.5」のキャプション付きの写真") #zh-caption[#text("带 “人造雪 × 12.5” 标题的照片")]])
-

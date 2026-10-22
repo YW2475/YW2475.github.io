@@ -55,4 +55,3 @@
 #html.p(id: "en-S012")[#text("My chiefest care in choosing my lodgings is always to avoid a thick and stinking air; and those beautiful cities, Venice and Paris, very much lessen the kindness I have for them, the one by the offensive smell of her marshes, and the other of her dirt.")]
 
 #zh(id: "S012")[#text("我在选择住所时最关心的始终是避免空气粘稠而恶臭。那些美丽的城市，威尼斯和巴黎，大大减少了我对他们的善意，一个是沼泽地的难闻气味，另一个是她的泥土。")]
-
