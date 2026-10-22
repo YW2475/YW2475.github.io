@@ -155,11 +155,11 @@ for r in records:
         glossary = {'pathological science': '病态科学', 'Davis-Barnes effect': '戴维斯–巴恩斯效应',
                     'N-rays': 'N射线', 'mitogenetic rays': '有丝分裂辐射',
                     'Allison effect': '阿利森效应', 'extrasensory perception': '超感官知觉'}
-    r.update(status='source-extracted-awaiting-translation', kind='pending', visible=False)
     reader = READERS / ident
     if (reader / 'source_map.json').exists():
         print(f'{ident}: already prepared; preserved existing translations')
         continue
+    r.update(status='source-extracted-awaiting-translation', kind='pending', visible=False)
     for i, b in enumerate(blocks, 1):
         b.update(id=f'S{i:03d}', order=i - 1)
     coverage = dict(blocks=len(blocks), source_characters=sum(len(b['en']) for b in blocks),
