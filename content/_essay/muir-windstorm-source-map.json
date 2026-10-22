@@ -1,0 +1,244 @@
+{
+  "paper": {
+    "id": "muir-windstorm",
+    "candidate_number": 2,
+    "title": "A Wind-Storm in the Forests",
+    "zh_title": "森林中的暴风",
+    "author": "John Muir",
+    "category": "自然与演化",
+    "source": "https://www.gutenberg.org/cache/epub/10012/pg10012-images.html",
+    "visible": true,
+    "status": "bilingual-complete-draft",
+    "kind": "full",
+    "year": 1894,
+    "original_language": "en",
+    "folder": "A Wind-Storm in the Forests 1894",
+    "author_death_year": 1914,
+    "rights_jurisdiction": "mainland China",
+    "rights": "Original literary work beyond the mainland-China life-plus-50 term as of 2026; no assertion of worldwide public-domain status. Only original author text and newly generated Chinese translation are included.",
+    "rights_term_reference": "https://www.ncac.gov.cn/xxfb/flfg/flfg_532/202103/t20210309_50530.html",
+    "scope": "complete-essay",
+    "translation_status": "complete paragraph coverage; machine draft, limited spot review",
+    "source_acquisition": "assistant-retrieved-original",
+    "completeness": "all source body blocks retained; source boundaries and paragraph coverage checked"
+  },
+  "scope": "complete-essay",
+  "original_language": "en",
+  "source_format": "html",
+  "source_sha256": "d46246b5b55ce642637c7e9315539ab935f79bc8411b89081930f5d9b709f898",
+  "source_url": "https://www.gutenberg.org/cache/epub/10012/pg10012-images.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "en": "The mountain winds, like the dew and rain, sunshine and snow, are measured and bestowed with love on the forests to develop their strength and beauty. However restricted the scope of other forest influences, that of the winds is universal. The snow bends and trims the upper forests every winter, the lightning strikes a single tree here and there, while avalanches mow down thousands at a swoop as a gardener trims out a bed of flowers. But the winds go to every tree, fingering every leaf and branch and furrowed bole; not one is forgotten; the Mountain Pine towering with outstretched arms on the rugged buttresses of the icy peaks, the lowliest and most retiring tenant of the dells; they seek and find them all, caressing them tenderly, bending them in lusty exercise, stimulating their growth, plucking off a leaf or limb as required, or removing an entire tree or grove, now whispering and cooing through the branches like a sleepy child, now roaring like the ocean; the winds blessing the forests, the forests the winds, with ineffable beauty and harmony as the sure result.",
+      "source_anchor": null,
+      "id": "S001",
+      "order": 0,
+      "zh": "山风，如露水和雨水，阳光和雪，被测量并赋予对森林的爱，以发展它们的力量和美丽。然而，受其他森林影响的范围限制，风的影响是普遍的。每年冬天，积雪都会弯曲并整理上层森林，闪电会在这里和那里击中一棵树，而当园丁整理花坛时，雪崩一举砍伐了数千棵。但是风吹向每棵树，指着每一片叶子和树枝，还有皱着眉头的伯乐; 没有一个被遗忘; 山松高耸着伸出双臂，耸立在冰冷的山峰上，是戴尔最卑微，最退休的房客; 他们寻找并找到他们，温柔地抚摸他们，弯曲它们进行有力的运动，刺激它们的生长，根据需要摘下叶子或四肢，或者摘下整棵树或树林，现在像一个昏昏欲睡的孩子一样在树枝间窃窃私语和咕咕声，现在像海洋一样咆哮; 风祝福森林，森林是风，以不可言喻的美丽和和谐作为确定的结果。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "figure",
+      "en": "A WIND-STORM IN THE CALIFORNIA FORESTS. (AFTER A SKETCH BY THE AUTHOR.)",
+      "asset": "assets/F001.jpg",
+      "source_image_url": "https://www.gutenberg.org/cache/epub/10012/images/img47.jpg",
+      "id": "S002",
+      "order": 1,
+      "zh": "加州森林中的狂风暴雨。（根据作者的一幅素描。）",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "After one has seen pines six feet in diameter bending like grasses before a mountain gale, and ever and anon some giant falling with a crash that shakes the hills, it seems astonishing that any, save the lowest thickset trees, could ever have found a period sufficiently stormless to establish themselves; or, once established, that they should not, sooner or later, have been blown down. But when the storm is over, and we behold the same forests tranquil again, towering fresh and unscathed in erect majesty, and consider what centuries of storms have fallen upon them since they were first planted,—hail, to break the tender seedlings; lightning, to scorch and shatter; snow, winds, and avalanches, to crush and overwhelm,—while the manifest result of all this wild storm-culture is the glorious perfection we behold; then faith in Nature’s forestry is established, and we cease to deplore the violence of her most destructive gales, or of any other storm-implement whatsoever.",
+      "source_anchor": null,
+      "id": "S003",
+      "order": 2,
+      "zh": "在看到松树在山风前像草一样弯曲6英尺直径之后，并且曾经有一些巨人因撞车而摇晃山丘而坠落，似乎令人惊讶的是，除了最低的茂密树木，任何人都可以找到一个足够无风暴的时期来建立自己; 或者，一旦建立，他们迟早不应该被吹倒。但是当暴风雨结束时，我们看到同样的森林再次平静下来，在直立的威严中高耸而毫发无损，并考虑自从他们第一次种植以来，几个世纪的风暴已经降临到他们身上，冰雹，打破嫩苗; 闪电，烧焦和破碎; 雪，风，雪崩，粉碎和压倒，虽然所有这些狂野的风暴文化的明显结果是我们所看到的光荣的完美; 然后对大自然的森林建立了信心，我们不再为她最具破坏性的狂风或任何其他风暴的暴力而感到遗憾。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "There are two trees in the Sierra forests that are never blown down, so long as they continue in sound health. These are the Juniper and the Dwarf Pine of the summit peaks. Their stiff, crooked roots grip the storm-beaten ledges like eagles’ claws, while their lithe, cord-like branches bend round compliantly, offering but slight holds for winds, however violent. The other alpine conifers—the Needle Pine, Mountain Pine, Two-leaved Pine, and Hemlock Spruce—are never thinned out by this agent to any destructive extent, on account of their admirable toughness and the closeness of their growth. In general the same is true of the giants of the lower zones. The kingly Sugar Pine, towering aloft to a height of more than 200 feet, offers a fine mark to storm-winds; but it is not densely foliaged, and its long, horizontal arms swing round compliantly in the blast, like tresses of green, fluent algae in a brook; while the Silver Firs in most places keep their ranks well together in united strength. The Yellow or Silver Pine is more frequently overturned than any other tree on the Sierra, because its leaves and branches form a larger mass in proportion to its height, while in many places it is planted sparsely, leaving open lanes through which storms may enter with full force. Furthermore, because it is distributed along the lower portion of the range, which was the first to be left bare on the breaking up of the ice-sheet at the close of the glacial winter, the soil it is growing upon has been longer exposed to post-glacial weathering, and consequently is in a more crumbling, decayed condition than the fresher soils farther up the range, and therefore offers a less secure anchorage for the roots.",
+      "source_anchor": null,
+      "id": "S004",
+      "order": 3,
+      "zh": "在塞拉利昂的森林中，有两棵树只要保持健康状态，就永远不会被风吹倒。这些是山顶峰上的杜松和矮松。它们僵硬弯曲的根部像鹰的爪子一样抓住被暴风雨袭击的壁架，而它们轻薄的绳索状树枝顺从地弯曲，为风提供了轻微的支撑，无论多么猛烈。其他高山针叶树——如刺松、山松、二叶松和铁杉——由于其卓越的坚韧性和紧密的生长习性，从未被这种病原体大量致死性地削弱。一般来说，较低区域的巨兽也是如此。高耸的糖松高耸到超过200英尺的高度，为暴风雨提供了良好的标记; 但是它没有茂密的叶子，它的长而水平的手臂在爆炸中顺从地摆动，就像溪流中绿色流利的藻类的发束；虽然大多数地方的银冷杉队在联合实力上保持了良好的排名。黄色或银色的松树比山脉上的任何其他树木都更经常被推翻，因为它的叶子和树枝与它的高度成比例地形成更大的质量，而在许多地方，它被稀疏地种植，留下了开放的车道，风暴可能会全力以赴进入。此外，由于它分布在该范围的下部，这是冰川冬季结束时冰盖破裂时第一个裸露的区域，因此它所生长的土壤更长时间暴露于冰川后的风化作用，因此，在一个更摇摇欲坠，腐朽该地段的土壤条件不如更高处的新鲜土壤，因此为根系提供的固着作用也较弱。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "While exploring the forest zones of Mount Shasta, I discovered the path of a hurricane strewn with thousands of pines of this species. Great and small had been uprooted or wrenched off by sheer force, making a clean gap, like that made by a snow avalanche. But hurricanes capable of doing this class of work are rare in the Sierra, and when we have explored the forests from one extremity of the range to the other, we are compelled to believe that they are the most beautiful on the face of the earth, however we may regard the agents that have made them so.",
+      "source_anchor": null,
+      "id": "S005",
+      "order": 4,
+      "zh": "在探索沙斯塔山的森林地带时，我发现了一条飓风过境后留下的路径，上面散落着成千上万株这种松树。大大小小的树木都被连根拔起或被强大力量生生扯断，留下一道整齐的缺口，宛如雪崩所造成的那般。但是能够完成这类工作的飓风在塞拉利昂很少见，当我们从山脉的一端到另一端探索森林时，我们不得不相信它们是地球上最美丽的，但是，我们可能会考虑使它们成为这样的代理商。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "There is always something deeply exciting, not only in the sounds of winds in the woods, which exert more or less influence over every mind, but in their varied waterlike flow as manifested by the movements of the trees, especially those of the conifers. By no other trees are they rendered so extensively and impressively visible, not even by the lordly tropic palms or tree-ferns responsive to the gentlest breeze. The waving of a forest of the giant Sequoias is indescribably impressive and sublime, but the pines seem to me the best interpreters of winds. They are mighty waving goldenrods, ever in tune, singing and writing wind-music all their long century lives. Little, however, of this noble tree-waving and tree-music will you see or hear in the strictly alpine portion of the forests. The burly Juniper, whose girth sometimes more than equals its height, is about as rigid as the rocks on which it grows. The slender lash-like sprays of the Dwarf Pine stream out in wavering ripples, but the tallest and slenderest are far too unyielding to wave even in the heaviest gales. They only shake in quick, short vibrations. The Hemlock Spruce, however, and the Mountain Pine, and some of the tallest thickets of the Two-leaved species bow in storms with considerable scope and gracefulness. But it is only in the lower and middle zones that the meeting of winds and woods is to be seen in all its grandeur.",
+      "source_anchor": null,
+      "id": "S006",
+      "order": 5,
+      "zh": "总是有一些非常令人兴奋的东西，不仅在树林里的风的声音中，或多或少地影响着每个人的思想，但在它们不同的水流中，表现在树木的运动中，尤其是针叶树的运动。没有其他树木可以使它们如此广泛和令人印象深刻地可见，即使对最柔和的微风做出反应的热带棕榈树或树蕨也没有。巨大的红杉森林的挥舞令人难以形容，令人印象深刻，但在我看来，松树是风的最佳解释者。他们挥舞着巨大的菊科植物，在漫长的世纪生活中，他们一直在调音，唱歌和写管乐。但是，在严格的高山森林中，您几乎看不到或听到这种高贵的挥舞树和音乐。魁梧的杜松，其周长有时等于其高度，与生长的岩石一样坚硬。矮小的松树的细长的睫毛状喷雾在摇摇欲坠的涟漪中流露出来，但是最高和最细的即使在最重的大风中也无法挥舞。它们只在快速、短暂的振动中摇晃。然而，铁杉云杉，山松和两叶物种的一些最高的灌木丛在暴风雨中低头，范围和优美。但是，只有在较低和中间区域，才能看到风和树林的相遇。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "One of the most beautiful and exhilarating storms I ever enjoyed in the Sierra occurred in December, 1874, when I happened to be exploring one of the tributary valleys of the Yuba River. The sky and the ground and the trees had been thoroughly rain-washed and were dry again. The day was intensely pure, one of those incomparable bits of California winter, warm and balmy and full of white sparkling sunshine, redolent of all the purest influences of the spring, and at the same time enlivened with one of the most bracing wind-storms conceivable. Instead of camping out, as I usually do, I then chanced to be stopping at the house of a friend. But when the storm began to sound, I lost no time in pushing out into the woods to enjoy it. For on such occasions Nature has always something rare to show us, and the danger to life and limb is hardly greater than one would experience crouching deprecatingly beneath a roof.",
+      "source_anchor": null,
+      "id": "S007",
+      "order": 6,
+      "zh": "我在塞拉利昂享受过的最美丽、最令人振奋的风暴之一发生在1874年12月，当时我碰巧正在探索尤巴河的一个支流山谷。天空、地面和树木都被雨水彻底冲刷过，再次干涸。这一天非常纯净，是加利福尼亚冬天无与伦比的地方之一，温暖宜人，充满了白色的闪闪发光的阳光，充满了春天最纯净的影响，同时充满了最令人振奋的暴风雨之一。而不是露营，我通常做的，然后我碰巧停在一个朋友的房子。但是当暴风雨开始响起时，我立即赶到树林里享受它。因为在这种情况下，大自然总是向我们展示一些罕见的东西，生命和肢体的危险几乎不会比一个人堕落地蹲在屋顶下经历的更大。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "It was still early morning when I found myself fairly adrift. Delicious sunshine came pouring over the hills, lighting the tops of the pines, and setting free a steam of summery fragrance that contrasted strangely with the wild tones of the storm. The air was mottled with pine-tassels and bright green plumes, that went flashing past in the sunlight like birds pursued. But there was not the slightest dustiness, nothing less pure than leaves, and ripe pollen, and flecks of withered bracken and moss. I heard trees falling for hours at the rate of one every two or three minutes; some uprooted, partly on account of the loose, water-soaked condition of the ground; others broken straight across, where some weakness caused by fire had determined the spot. The gestures of the various trees made a delightful study. Young Sugar Pines, light and feathery as squirrel-tails, were bowing almost to the ground; while the grand old patriarchs, whose massive boles had been tried in a hundred storms, waved solemnly above them, their long, arching branches streaming fluently on the gale, and every needle thrilling and ringing and shedding off keen lances of light like a diamond. The Douglas Spruces, with long sprays drawn out in level tresses, and needles massed in a gray, shimmering glow, presented a most striking appearance as they stood in bold relief along the hilltops. The madroños in the dells, with their red bark and large glossy leaves tilted every way, reflected the sunshine in throbbing spangles like those one so often sees on the rippled surface of a glacier lake. But the Silver Pines were now the most impressively beautiful of all. Colossal spires 200 feet in height waved like supple golden-rods chanting and bowing low as if in worship, while the whole mass of their long, tremulous foliage was kindled into one continuous blaze of white sun-fire. The force of the gale was such that the most steadfast monarch of them all rocked down to its roots with a motion plainly perceptible when one leaned against it. Nature was holding high festival, and every fiber of the most rigid giants thrilled with glad excitement.",
+      "source_anchor": null,
+      "id": "S008",
+      "order": 7,
+      "zh": "那时天还很早，我却已感到有些茫然无措。美味的阳光倾泻在山丘上，照亮了松树的顶部，释放出夏日的香气，与暴风雨的狂野色调形成了奇怪的对比。空气中散布着松树流苏和鲜绿色的羽毛，像鸟儿追逐的那样在阳光下闪烁。但是没有丝毫的尘土，没有比叶子，成熟的花粉以及枯萎的蕨菜和苔藓更纯净的了。我听到树木以每两到三分钟一棵的速度倒下了几个小时; 有些人连根拔起，部分原因是松散的，地面浸水的情况; 其他人则直奔过去，火灾造成的一些弱点已经确定了地点。各种树木的姿态构成了一幅令人愉悦的画卷。年轻的糖松树，轻巧而羽毛如松鼠尾巴，几乎向地面鞠躬; 而宏伟的老族长，他们的大脚在一百次暴风雨中尝试过，庄严地在他们上方挥舞，他们长长的拱形树枝在大风中流畅地流动，每一根针都像钻石一样令人兴奋，响起，脱落出锋利的光矛。道格拉斯云杉，在水平的发束中喷出长长的喷雾，在灰色，闪闪发光的光芒中聚集着针，当它们沿着山顶大胆地站立时，呈现出最引人注目的外观。dells中的madroñ os，其红色的树皮和光滑的大叶子向各个方向倾斜，反射着跳动的阳光，就像在冰川湖的波纹表面上经常看到的那样。但是银色的松树如今已是所有树木中最为令人叹为观止的美景。高度200英尺的巨大尖顶像柔软的金棒一样挥舞着，低低地鞠躬，仿佛在敬拜，而它们长长的颤抖的叶子的整个质量被点燃成一团连续的白色太阳火。大风的力量是如此之大，以至于他们中最坚定的君主都以一种当一个人靠在它身上时可以明显感觉到的运动摇到了它的根源。大自然举行了盛大的节日，最僵硬的巨人的每一根纤维都欣喜若狂。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "I drifted on through the midst of this passionate music and motion, across many a glen, from ridge to ridge; often halting in the lee of a rock for shelter, or to gaze and listen. Even when the grand anthem had swelled to its highest pitch, I could distinctly hear the varying tones of individual trees,—Spruce, and Fir, and Pine, and leafless Oak,—and even the infinitely gentle rustle of the withered grasses at my feet. Each was expressing itself in its own way,—singing its own song, and making its own peculiar gestures,—manifesting a richness of variety to be found in no other forest I have yet seen. The coniferous woods of Canada, and the Carolinas, and Florida, are made up of trees that resemble one another about as nearly as blades of grass, and grow close together in much the same way. Coniferous trees, in general, seldom possess individual character, such as is manifest among Oaks and Elms. But the California forests are made up of a greater number of distinct species than any other in the world. And in them we find, not only a marked differentiation into special groups, but also a marked individuality in almost every tree, giving rise to storm effects indescribably glorious.",
+      "source_anchor": null,
+      "id": "S009",
+      "order": 8,
+      "zh": "我在这充满激情的音乐和运动中漂流，穿过许多小谷，从山脊到山脊; 经常在岩石的背风中停下来避难，或者凝视和倾听。即使伟大的圣歌已经膨胀到最高的音调，我也能清楚地听到个别树木的不同音调，云杉、冷杉、松树和无叶橡树，甚至是我脚下枯萎的草的无限温柔的沙沙声。每个人都以自己的方式表达自己，-- 唱着自己的歌，做出自己独特的手势，-- 在我还没有见过的其他森林里，表现出丰富的多样性。加拿大的针叶林，卡罗莱纳州和佛罗里达州的针叶林由彼此相似的树木组成，几乎与草叶相似，并且以相同的方式紧密生长。通常，针叶树很少具有个性，例如在橡树和榆树中表现出来。但是加利福尼亚的森林是由比世界上任何其他物种更多的不同物种组成的。在它们中，我们发现，不仅显着分化为特殊群体，而且几乎每棵树都具有明显的个性，从而产生了难以形容的光荣的风暴效果。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Toward midday, after a long, tingling scramble through copses of hazel and ceanothus, I gained the summit of the highest ridge in the neighborhood; and then it occurred to me that it would be a fine thing to climb one of the trees to obtain a wider outlook and get my ear close to the Aeolian music of its topmost needles. But under the circumstances the choice of a tree was a serious matter. One whose instep was not very strong seemed in danger of being blown down, or of being struck by others in case they should fall; another was branchless to a considerable height above the ground, and at the same time too large to be grasped with arms and legs in climbing; while others were not favorably situated for clear views. After cautiously casting about, I made choice of the tallest of a group of Douglas Spruces that were growing close together like a tuft of grass, no one of which seemed likely to fall unless all the rest fell with it. Though comparatively young, they were about 100 feet high, and their lithe, brushy tops were rocking and swirling in wild ecstasy. Being accustomed to climb trees in making botanical studies, I experienced no difficulty in reaching the top of this one, and never before did I enjoy so noble an exhilaration of motion. The slender tops fairly flapped and swished in the passionate torrent, bending and swirling backward and forward, round and round, tracing indescribable combinations of vertical and horizontal curves, while I clung with muscles firm braced, like a bobolink on a reed.",
+      "source_anchor": null,
+      "id": "S010",
+      "order": 9,
+      "zh": "到了中午，经过长时间的刺痛，穿过榛树和ceanotus的小林，我爬上了附近最高的山脊。然后我想到，爬上一棵树以获得更广阔的视野，让我的耳朵靠近其最顶端的针的风神音乐，这将是一件好事。但在当时的情况下，选择一棵树可是一件大事。一个脚底不是很结实的人似乎有被吹倒的危险，或者被其他人撞倒的危险; 另一个没有分支，高出地面相当高的地方，同时太大，在攀爬时不能用胳膊和腿抓住；而其他人则不适合清晰的观点。在谨慎地铸造之后，我选择了一群道格拉斯云杉中最高的一棵，它们像一簇草一样紧密地生长在一起，除非其余的都掉下来，否则似乎没有一个会掉下来。尽管相对年轻，但它们的高度约为100英尺，轻嫩，毛茸茸的上衣在狂喜中摇摆和旋转。我习惯于在植物学研究中爬树，因此在达到这一顶峰时没有遇到任何困难，而且我从未像现在这样享受过如此崇高的运动兴奋。细长的上衣在激情的洪流中相当地拍打着，向后和向前弯曲和旋转，一轮又一轮，追踪难以形容的垂直和水平曲线的组合，而我紧紧抓住肌肉，就像芦苇上的bobolink。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "figure",
+      "en": "YELLOW PINE AND LIBOCEDRUS The two inside trees are Libocedrus, the two outside trees, Yellow Pine.",
+      "asset": "assets/F002.jpg",
+      "source_image_url": "https://www.gutenberg.org/cache/epub/10012/images/img48.jpg",
+      "id": "S011",
+      "order": 10,
+      "zh": "黄松和LIBOCEDRUS里面的两棵树是Libocedrus，外面的两棵树是黄松。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "In its widest sweeps my tree-top described an arc of from twenty to thirty degrees, but I felt sure of its elastic temper, having seen others of the same species still more severely tried—bent almost to the ground indeed, in heavy snows—without breaking a fiber. I was therefore safe, and free to take the wind into my pulses and enjoy the excited forest from my superb outlook. The view from here must be extremely beautiful in any weather. Now my eye roved over the piny hills and dales as over fields of waving grain, and felt the light running in ripples and broad swelling undulations across the valleys from ridge to ridge, as the shining foliage was stirred by corresponding waves of air. Oftentimes these waves of reflected light would break up suddenly into a kind of beaten foam, and again, after chasing one another in regular order, they would seem to bend forward in concentric curves, and disappear on some hillside, like sea-waves on a shelving shore. The quantity of light reflected from the bent needles was so great as to make whole groves appear as if covered with snow, while the black shadows beneath the trees greatly enhanced the effect of the silvery splendor.",
+      "source_anchor": null,
+      "id": "S012",
+      "order": 11,
+      "zh": "在它最宽的扫描中，我的树顶描述了一个从二十到三十度的弧度，但我确信它的弹性脾气，看到同一物种的其他人更严重地尝试过 -- 几乎弯曲到地面，在大雪中，没有打破纤维。因此，我很安全，可以自由地将风带入我的脉搏，并从我精湛的视野中享受激动的森林。无论天气如何，从这里看到的景色一定非常美丽。现在，我的眼睛在松树的山丘和山谷上徘徊，就像在挥舞着谷物的田野上一样，感觉到光线在涟漪中奔跑，从山脊到山脊在山谷之间起伏起伏，因为闪闪发光的树叶被相应的空气波搅动。通常，这些反射的光波会突然分解成一种拍打的泡沫，再一次，在按规则的顺序互相追逐之后，它们似乎以同心的曲线向前弯曲，消失在山坡上，就像搁浅的海岸上的海浪。从弯曲的针反射的光量是如此之大，使整个树林看起来好像被雪覆盖，而树下的黑色阴影大大增强了银色辉煌的效果。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Excepting only the shadows there was nothing somber in all this wild sea of pines. On the contrary, notwithstanding this was the winter season, the colors were remarkably beautiful. The shafts of the pine and libocedrus were brown and purple, and most of the foliage was well tinged with yellow; the laurel groves, with the pale undersides of their leaves turned upward, made masses of gray; and then there was many a dash of chocolate color from clumps of manzanita, and jet of vivid crimson from the bark of the madroños, while the ground on the hillsides, appearing here and there through openings between the groves, displayed masses of pale purple and brown.",
+      "source_anchor": null,
+      "id": "S013",
+      "order": 12,
+      "zh": "除了那些树影之外，这片浩瀚的松海中并无一丝阴郁。相反，尽管这是冬季，但颜色非常漂亮。松树和libocedrus的轴是棕色和紫色的，大部分叶子都染上了黄色。月桂树林的叶子苍白的底面朝上，变成了灰色。然后，manzanita的团块中有许多巧克力色，从madro ñ os的树皮中喷出鲜艳的深红色，而山坡上的地面则通过树林之间的开口出现在这里和那里，显示出大量的浅紫色和棕色。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "The sounds of the storm corresponded gloriously with this wild exuberance of light and motion. The profound bass of the naked branches and boles booming like waterfalls; the quick, tense vibrations of the pine-needles, now rising to a shrill, whistling hiss, now falling to a silky murmur; the rustling of laurel groves in the dells, and the keen metallic click of leaf on leaf—all this was heard in easy analysis when the attention was calmly bent.",
+      "source_anchor": null,
+      "id": "S014",
+      "order": 13,
+      "zh": "暴风雨的声响与这狂野而奔放的光与动完美地交融在一起。赤裸的树枝和树桩的深沉低音像瀑布一样蓬勃发展; 松针的快速，紧张的振动，现在上升为刺耳的嘶嘶声，现在下降为柔滑的杂音; 月桂树的沙沙声在戴尔，叶子在叶子上敏锐的金属咔嗒声-当注意力平静地弯曲时，所有这些都是在简单的分析中听到的。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "The varied gestures of the multitude were seen to fine advantage, so that one could recognize the different species at a distance of several miles by this means alone, as well as by their forms and colors, and the way they reflected the light. All seemed strong and comfortable, as if really enjoying the storm, while responding to its most enthusiastic greetings. We hear much nowadays concerning the universal struggle for existence, but no struggle in the common meaning of the word was manifest here; no recognition of danger by any tree; no deprecation; but rather an invincible gladness as remote from exultation as from fear.",
+      "source_anchor": null,
+      "id": "S015",
+      "order": 14,
+      "zh": "群众的各种手势被认为是很好的优势，这样人们就可以通过这种方式在几英里的距离内识别不同的物种，以及它们的形式和颜色，以及它们反射光线的方式。一切似乎都显得坚韧而从容，仿佛真正在享受这场风暴，并以最热烈的姿态回应着它的每一次问候。如今，我们听到很多关于普遍存在的斗争，但在这个词的共同意义上没有斗争在这里表现出来; 没有认识到任何树木的危险; 没有贬低; 而是一种不可战胜的高兴，就像远离狂喜和恐惧一样。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "I kept my lofty perch for hours, frequently closing my eyes to enjoy the music by itself, or to feast quietly on the delicious fragrance that was streaming past. The fragrance of the woods was less marked than that produced during warm rain, when so many balsamic buds and leaves are steeped like tea; but, from the chafing of resiny branches against each other, and the incessant attrition of myriads of needles, the gale was spiced to a very tonic degree. And besides the fragrance from these local sources there were traces of scents brought from afar. For this wind came first from the sea, rubbing against its fresh, briny waves, then distilled through the redwoods, threading rich ferny gulches, and spreading itself in broad undulating currents over many a flower-enameled ridge of the coast mountains, then across the golden plains, up the purple foot-hills, and into these piny woods with the varied incense gathered by the way.",
+      "source_anchor": null,
+      "id": "S016",
+      "order": 15,
+      "zh": "我在那高高的位置上坐了几个小时，时常闭上眼睛，或只聆听音乐本身，或静静地沉醉于那阵阵飘过的馥郁芬芳。树林的香气不如温暖的雨中产生的香气那么明显，当如此多的香脂芽和叶子像茶一样被浸泡时; 但是，由于树枝相互摩擦，以及无数针的不断磨损，大风被调到非常滋补的程度。除了这些本地来源的芬芳之外，还夹杂着从远方飘来的阵阵香气。因为这种风首先来自大海，摩擦着它的新鲜，咸的波浪，然后通过红杉蒸馏，穿行丰富的蕨类植物沟壑，并在宽阔的波浪状水流中散布在沿海山脉的许多花搪瓷山脊上，然后穿过金色的平原，沿着紫色的山脚，进入这些松树林，顺便收集了各种各样的香气。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Winds are advertisements of all they touch, however much or little we may be able to read them; telling their wanderings even by their scents alone. Mariners detect the flowery perfume of land-winds far at sea, and sea-winds carry the fragrance of dulse and tangle far inland, where it is quickly recognized, though mingled with the scents of a thousand land-flowers. As an illustration of this, I may tell here that I breathed sea-air on the Firth of Forth, in Scotland, while a boy; then was taken to Wisconsin, where I remained nineteen years; then, without in all this time having breathed one breath of the sea, I walked quietly, alone, from the middle of the Mississippi Valley to the Gulf of Mexico, on a botanical excursion, and while in Florida, far from the coast, my attention wholly bent on the splendid tropical vegetation about me, I suddenly recognized a sea-breeze, as it came sifting through the palmettos and blooming vine-tangles, which at once awakened and set free a thousand dormant associations, and made me a boy again in Scotland, as if all the intervening years had been annihilated.",
+      "source_anchor": null,
+      "id": "S017",
+      "order": 16,
+      "zh": "风是其所及之处的使者，无论我们能从中读出多少信息；即便仅凭气息，它也在诉说着自己的漂泊之旅。水手们在遥远的海上探测到陆风的花香，海风携带着沉闷和纠结的香味，虽然与一千朵陆花的香味混合在一起，但很快就被认出来了。为了说明这一点，我可以在这里告诉你，我在苏格兰的福斯峡湾呼吸过海风，小时候; 然后被带到威斯康星州，在那里我呆了十九年; 然后，在这段时间里，我没有呼吸过一口气，我静静地走着，独自一人，从密西西比河谷中部到墨西哥湾，在一次植物游览中，在佛罗里达州，远离海岸，我的注意力完全集中在我周围灿烂的热带植被上，我突然意识到海风，当它穿过棕榈树和盛开的藤蔓时，它立刻唤醒并释放了一千个休眠的协会，让我在苏格兰再次成为一个男孩，仿佛所有的岁月都被消灭了。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Most people like to look at mountain rivers, and bear them in mind; but few care to look at the winds, though far more beautiful and sublime, and though they become at times about as visible as flowing water. When the north winds in winter are making upward sweeps over the curving summits of the High Sierra, the fact is sometimes published with flying snow-banners a mile long. Those portions of the winds thus embodied can scarce be wholly invisible, even to the darkest imagination. And when we look around over an agitated forest, we may see something of the wind that stirs it, by its effects upon the trees. Yonder it descends in a rush of water-like ripples, and sweeps over the bending pines from hill to hill. Nearer, we see detached plumes and leaves, now speeding by on level currents, now whirling in eddies, or, escaping over the edges of the whirls, soaring aloft on grand, upswelling domes of air, or tossing on flame-like crests. Smooth, deep currents, cascades, falls, and swirling eddies, sing around every tree and leaf, and over all the varied topography of the region with telling changes of form, like mountain rivers conforming to the features of their channels.",
+      "source_anchor": null,
+      "id": "S018",
+      "order": 17,
+      "zh": "大多数人喜欢看山区河流，并牢记在心; 但很少有人关心看风，虽然更美丽和崇高，虽然他们有时变得像流动的水一样可见。当冬天的北风向上掠过高山山脉弯曲的山顶时，有时会用一英里长的飞雪横幅发布这一事实。那些以风的形式显现的部分，即便在最阴暗的想象中，也几乎不可能完全隐形。当我们环顾一片激动的森林时，我们可能会看到风在搅动它，通过它对树木的影响。在那边，它像水一样泛起涟漪，从山丘到山丘掠过弯曲的松树。更近一点，我们看到分离的羽毛和树叶，现在在水平水流中加速，现在在漩涡中旋转，或者，从漩涡的边缘逃逸，在宏伟的高空翱翔，隆起的穹顶上，或者在火焰般的波峰上抛掷。光滑，深流，瀑布，瀑布和漩涡，在每棵树和树叶周围唱歌，在该地区的所有不同地形上，都有明显的形式变化，就像山区河流符合其河道的特征。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "After tracing the Sierra streams from their fountains to the plains, marking where they bloom white in falls, glide in crystal plumes, surge gray and foam-filled in boulder-choked gorges, and slip through the woods in long, tranquil reaches—after thus learning their language and forms in detail, we may at length hear them chanting all together in one grand anthem, and comprehend them all in clear inner vision, covering the range like lace. But even this spectacle is far less sublime and not a whit more substantial than what we may behold of these storm-streams of air in the mountain woods.",
+      "source_anchor": null,
+      "id": "S019",
+      "order": 18,
+      "zh": "在追踪从喷泉到平原的塞拉溪流之后，标记了它们在瀑布中绽放的白色，在水晶羽状中滑行，在巨石阻塞的峡谷中涌出的灰色和泡沫，并在漫长而宁静的树林中滑过树林，从而详细学习了他们的语言和形式，我们可能会听到他们在一个盛大的国歌中一起高呼，并在清晰的内在视野中理解它们，像花边一样覆盖范围。但是，即使是这种奇观，也远没有我们在山林中看到的这些风暴气流那么崇高，也没有那么重要。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "We all travel the milky way together, trees and men; but it never occurred to me until this storm-day, while swinging in the wind, that trees are travelers, in the ordinary sense. They make many journeys, not extensive ones, it is true; but our own little journeys, away and back again, are only little more than tree-wavings—many of them not so much.",
+      "source_anchor": null,
+      "id": "S020",
+      "order": 19,
+      "zh": "我们都一起旅行银河系，树木和人; 但我从来没有想到，直到这个暴风雨的日子，在风中摇摆，树是旅行者，在普通意义上。他们做了许多旅行，不广泛的，这是真的; 但我们自己的小旅行，又回来了，只是比树波浪多一点，其中许多不是那么多。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "When the storm began to abate, I dismounted and sauntered down through the calming woods. The storm-tones died away, and, turning toward the east, I beheld the countless hosts of the forests hushed and tranquil, towering above one another on the slopes of the hills like a devout audience. The setting sun filled them with amber light, and seemed to say, while they listened, “My peace I give unto you.”",
+      "source_anchor": null,
+      "id": "S021",
+      "order": 20,
+      "zh": "当风暴渐渐平息时，我下马，漫步穿过那片逐渐宁静的树林。暴风雨的色调消失了，转向东方，我看到无数的森林主人安静而宁静，像虔诚的观众一样在山坡上高耸。夕阳将他们笼罩在一片琥珀般的光芒中，仿佛在他们静听时低语道：“我赐给你们我的平安。”",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "As I gazed on the impressive scene, all the so-called ruin of the storm was forgotten, and never before did these noble woods appear so fresh, so joyous, so immortal.",
+      "source_anchor": null,
+      "id": "S022",
+      "order": 21,
+      "zh": "当我凝视着那令人印象深刻的场景时，所有所谓的风暴毁灭都被遗忘了，这些高贵的树林从未像现在这样新鲜，如此欢乐，如此不朽。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    }
+  ],
+  "glossary": {},
+  "coverage": {
+    "blocks": 22,
+    "source_characters": 19375,
+    "source_beginning": "The mountain winds, like the dew and rain, sunshine and snow, are measured and bestowed with love on the forests to develop their strength and beauty.",
+    "source_ending": "As I gazed on the impressive scene, all the so-called ruin of the storm was forgotten, and never before did these noble woods appear so fresh, so joyous, so immortal."
+  },
+  "omitted_non_content": [
+    "Source website navigation, catalogues, later editorial commentary, folios and publisher boilerplate."
+  ],
+  "extraction_status": "complete source boundaries identified; limited spot review",
+  "translation_status": "complete paragraph coverage; machine draft, limited spot review"
+}

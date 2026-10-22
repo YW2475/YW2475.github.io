@@ -1,0 +1,274 @@
+{
+  "requested": 75,
+  "completed": 38,
+  "pending": 37,
+  "visible_local_entries": 101,
+  "coverage": [
+    {
+      "id": "wallace-varieties",
+      "blocks": 16,
+      "source_characters": 25211,
+      "source_beginning": "One of the strongest arguments which have been adduced to prove the original and permanent distinctness of species is, that varieties produced in a st",
+      "source_ending": "Ternate, February, 1858."
+    },
+    {
+      "id": "muir-windstorm",
+      "blocks": 22,
+      "source_characters": 19375,
+      "source_beginning": "The mountain winds, like the dew and rain, sunshine and snow, are measured and bestowed with love on the forests to develop their strength and beauty.",
+      "source_ending": "As I gazed on the impressive scene, all the so-called ruin of the storm was forgotten, and never before did these noble woods appear so fresh, so joyous, so immortal."
+    },
+    {
+      "id": "burroughs-seeing",
+      "blocks": 38,
+      "source_characters": 30907,
+      "source_beginning": "I do not purpose to attempt to tell my reader how to see things, but only to talk about the art of seeing things, as one might talk of any other art. ",
+      "source_ending": "speak: but the life of nature we must meet half-way; it is shy, withdrawn, and blends itself with a vast neutral background. We must be initiated; it is an order the secrets of which are well guarded."
+    },
+    {
+      "id": "leopold-oak",
+      "blocks": 30,
+      "source_characters": 16839,
+      "source_beginning": "There are two spiritual dangers in not owning a farm. One is the danger of supposing that breakfast comes from the grocery, and the other that heat co",
+      "source_ending": "he sandhill. They will come back to me again, perhaps as red apples, or perhaps as a spirit of enterprise in some fat October squirrel, who, for reasons unknown to himself, is bent on planting acorns."
+    },
+    {
+      "id": "carson-wonder",
+      "blocks": 44,
+      "source_characters": 24677,
+      "source_beginning": "One stormy autumn night when my nephew Roger was about twenty months old I wrapped him in a blanket and carried him down to the beach in the rainy dar",
+      "source_ending": "I put down her letter I was warmed by the fires of wonder and amazement that still burned brightly in her youthful mind and spirit, just as they must have done fourscore years ago."
+    },
+    {
+      "id": "haldane-life",
+      "blocks": 32,
+      "source_characters": 20155,
+      "source_beginning": "UNTIL about 150 years ago it was generally believed that living beings were constantly arising out of dead matter.",
+      "source_ending": "e biochemist knows no more, and no less, about this question than anyone else. His ignorance disqualifies him no more than the historian or the geologist from attempting to solve a historical problem."
+    },
+    {
+      "id": "feynman-value",
+      "blocks": 40,
+      "source_characters": 12705,
+      "source_beginning": "From time to time, people suggest to me that scientists ought to give more consideration to social problems—especially that they should be more respon",
+      "source_ending": "on. We have a responsibility to proclaim the value of this freedom; to teach how doubt is not to be feared but welcomed and discussed; and to demand this freedom as our duty to all coming generations."
+    },
+    {
+      "id": "poincare-creation",
+      "blocks": 47,
+      "source_characters": 26949,
+      "source_beginning": "The genesis of mathematical creation is a problem which should intensely interest the psychologist. It is the activity in which the human mind seems t",
+      "source_ending": "Surely they have need of it, for they are and remain in spite of all very hypothetical: the interest of the questions is so great that I do not repent of having submitted them to the reader."
+    },
+    {
+      "id": "simmel-stranger",
+      "blocks": 51,
+      "source_characters": 14777,
+      "source_beginning": "Wenn das Wandern als die Gelöstheit von jedem gegebenen Raumpunkt der begriffliche Gegensatz zu der Fixiertheit an einem solchen ist, so stellt die so",
+      "source_ending": "ammengesetzt ist, die, in irgendwelchen Quanten jedes Verhältnis charakterisierend, in einer besonderen Proportion und gegenseitigen Spannung das spezifische, formale Verhältnis zum »Fremden« ergeben."
+    },
+    {
+      "id": "simmel-bridge",
+      "blocks": 60,
+      "source_characters": 13354,
+      "source_beginning": "Das Bild der äußeren Dinge hat für uns die Zweideutigkeit, dass in der äußeren Natur alles als verbunden, aber auch alles als getrennt gelten kann.",
+      "source_ending": "ndet seine Begrenztheit ihren Sinn und ihre Würde erst an dem, was die Beweglichkeit der Tür versinnlicht: an der Möglichkeit, aus dieser Begrenzung in jedem Augenblick in die Freiheit hinauszutreten."
+    },
+    {
+      "id": "simmel-metropolis",
+      "blocks": 115,
+      "source_characters": 35163,
+      "source_beginning": "Die tiefsten Probleme des modernen Lebens quellen aus dem Anspruch des Individuums, die Selbständigkeit und Eigenart seines Daseins gegen die Übermäch",
+      "source_ending": "rone des ganzen geschichtlichen Lebens eingewachsen sind, dem wir in dem flüchtigen Dasein einer Zelle angehören - ist unsere Aufgabe nicht, anzuklagen oder zu verzeihen, sondern allein zu verstehen.*"
+    },
+    {
+      "id": "russell-lived",
+      "blocks": 5,
+      "source_characters": 1779,
+      "source_beginning": "Three passions, simple but overwhelmingly strong, have governed my life: the longing for love, the search for knowledge, and unbearable pity for the s",
+      "source_ending": "This has been my life. I have found it worth living, and would gladly live it again if the chance were offered me."
+    },
+    {
+      "id": "james-blindness",
+      "blocks": 66,
+      "source_characters": 42740,
+      "source_beginning": "Our judgments concerning the worth of things, big or little, depend on the feelings the things arouse in us. Where we judge a thing to be precious in ",
+      "source_ending": "[12] Op. cit., pp. 210-222 (abridged)."
+    },
+    {
+      "id": "clifford-belief",
+      "blocks": 69,
+      "source_characters": 55721,
+      "source_beginning": "I. The Duty of Inquiry.—A shipowner was about to send to sea an emigrant-ship. He knew that she was old, and not over-well built at the first; that sh",
+      "source_ending": "It is wrong in all cases to believe on insufficient evidence; and where it is presumption to doubt and to investigate, there it is worse than presumption to believe."
+    },
+    {
+      "id": "montaigne-thumbs",
+      "blocks": 9,
+      "source_characters": 2052,
+      "source_beginning": "Tacitus reports, that amongst certain barbarian kings their manner was, when they would make a firm obligation, to join their right hands close to one",
+      "source_ending": "In Lacedaemon, pedagogues chastised their scholars by biting their thumbs."
+    },
+    {
+      "id": "montaigne-smells",
+      "blocks": 12,
+      "source_characters": 4481,
+      "source_beginning": "It has been reported of some, as of Alexander the Great, that their sweat exhaled an odoriferous smell, occasioned by some rare and extraordinary cons",
+      "source_ending": "o avoid a thick and stinking air; and those beautiful cities, Venice and Paris, very much lessen the kindness I have for them, the one by the offensive smell of her marshes, and the other of her dirt."
+    },
+    {
+      "id": "benjamin-library",
+      "blocks": 10,
+      "source_characters": 20336,
+      "source_beginning": "Ich packe meine Bibliothek aus. Ja. Sie steht also noch nicht auf den Regalen, die leise Langeweile der Ordnung umwittert sie noch nicht. Ich kann auc",
+      "source_ending": "in ihm lebendig wären, er selber ist es, der in ihnen wohnt. So habe ich eines seiner Gehäuse, dessen Bausteine Bücher sind, vor Ihnen aufgeführt und nun verschwindet er drinnen, wie recht und billig."
+    },
+    {
+      "id": "chesterton-nonsense",
+      "blocks": 9,
+      "source_characters": 9403,
+      "source_beginning": "There are two equal and eternal ways of looking at this twilight world of ours: we may see it as the twilight of evening or the twilight of morning; w",
+      "source_ending": "ng person who, by merely studying the logical side of things, has decided that 'faith is nonsense,' does not know how truly he speaks; later it may come back to him in the form that nonsense is faith."
+    },
+    {
+      "id": "orwell-bookshop",
+      "blocks": 9,
+      "source_characters": 11289,
+      "source_beginning": "When I worked in a second-hand bookshop — so easily pictured, if you don't work in one, as a kind of paradise where charming old gentlemen browse eter",
+      "source_ending": "I want to read and can't borrow, and I never buy junk. The sweet smell of decaying paper appeals to me no longer. It is too closely associated in my mind with paranoiac customers and dead bluebottles."
+    },
+    {
+      "id": "orwell-books-cigarettes",
+      "blocks": 11,
+      "source_characters": 9257,
+      "source_beginning": "A couple of years ago a friend of mine, a newspaper editor, was fire watching with some factory workers. They fell to talking about his newspaper, whi",
+      "source_ending": "been, at least let us admit that it is because reading is a less exciting pastime than going to the dogs, the pictures or the pub, and not because books, whether bought or borrowed, are too expensive."
+    },
+    {
+      "id": "orwell-sport",
+      "blocks": 9,
+      "source_characters": 8327,
+      "source_beginning": "Now that the brief visit of the Dynamo football team has come to an end, it is possible to say publicly what many thinking people were saying privatel",
+      "source_ending": "Britain as a whole. There are quite enough real causes of trouble already, and we need not add to them by encouraging young men to kick each other on the shins amid the roars of infuriated spectators."
+    },
+    {
+      "id": "orwell-reviewer",
+      "blocks": 8,
+      "source_characters": 8400,
+      "source_beginning": "In a cold but stuffy bed-sitting room littered with cigarette ends and half-empty cups of tea, a man in a moth-eaten dressing-grown sits at a rickety ",
+      "source_ending": "tic, who cannot even do his work at home, but has to attend trade shows at eleven in the morning and, with one or two notable exceptions, is expected to sell his honour for a glass of inferior sherry."
+    },
+    {
+      "id": "lynd-ignorance",
+      "blocks": 7,
+      "source_characters": 8873,
+      "source_beginning": "It is impossible to take a walk in the country with an average townsman—especially, perhaps, in April or May—without being amazed at the vast continen",
+      "source_ending": "d increasing age itself as a school of omniscience. We forget that Socrates was famed for wisdom not because he was omniscient but because he realised at the age of seventy that he still knew nothing."
+    },
+    {
+      "id": "lynd-weeds",
+      "blocks": 3,
+      "source_characters": 11037,
+      "source_beginning": "A weed, says the dictionary, is \"any plant that is useless, troublesome, noxious or grows where it is not wanted.\" The dictionary also adds: \"colloq.,",
+      "source_ending": "er or a vegetable is a plant that the hoe deliberately misses. But, in spite of the hoe, the weeds have it. They survive and multiply like a subject race…. Well, perhaps better a weed than a geranium."
+    },
+    {
+      "id": "lynd-insects",
+      "blocks": 9,
+      "source_characters": 11878,
+      "source_beginning": "It makes all the difference whether you hear an insect in the bedroom or in the garden. In the garden the voice of the insect soothes; in the bedroom ",
+      "source_ending": "g, making an end of the music. The world is no longer a toy dancing round and round. It is a problem, a run-down machine, a stuffy room full of little stabbing creatures that make an irritating noise."
+    },
+    {
+      "id": "stevenson-love",
+      "blocks": 12,
+      "source_characters": 19255,
+      "source_beginning": "“Lord, what fools these mortals be!”",
+      "source_ending": "a fine credulity; and they can only show us a few songs in a bygone taste, a few actions worth remembering, and a few children who have retained some happy stamp from the disposition of their parents."
+    },
+    {
+      "id": "twain-cornpone",
+      "blocks": 18,
+      "source_characters": 10946,
+      "source_beginning": "Fifty years ago, when I was a boy of fifteen and helping to inhabit a Missourian village on the banks of the Mississippi, I had a friend whose society",
+      "source_ending": "Errors deemed most likely to be the printer’s have been corrected, and are noted here. The references are to the page and line in the original."
+    },
+    {
+      "id": "twain-telephone",
+      "blocks": 79,
+      "source_characters": 4446,
+      "source_beginning": "Consider that a conversation by telephone—when you are simply sitting by and not taking any part in that conversation—is one of the solemnest curiosit",
+      "source_ending": "A man delivers a single brutal “Good-by,” and that is the end of it. Not so with the gentle sex—I say it in their praise; they cannot abide abruptness."
+    },
+    {
+      "id": "zhou-vegetables",
+      "blocks": 10,
+      "source_characters": 1142,
+      "source_beginning": "我的故乡不止一个，凡我住过的地方都是故乡。故乡对于我并没有什么特别的情分，只因钓于斯游于斯的关系，朝夕会面，遂成相识，正如乡村里的邻舍一样，虽然不是亲属，别后有时也要想念到他。我在浙东住过十几年，南京东京都住过六年，这都是我的故乡；现在住在北京，于是北京就成了我的家乡了。",
+      "source_ending": "十三年二月"
+    },
+    {
+      "id": "zhou-tea",
+      "blocks": 7,
+      "source_characters": 1583,
+      "source_beginning": "前回徐志摩先生在平民中學講「吃茶」— 並不是胡適之先生所說的「吃講茶」—我沒有工夫去聽，又可惜沒有見到他精心結構的講稿，但我推想他是在講日本的「茶道」（英文譯作Teaism），而且一定說的很好。茶道的意思，用平凡的話來說，可以稱作「忙裏偷閒，苦中作樂」，在不完全的現世享樂一點美與和諧，在剎那間體會永",
+      "source_ending": "十三年十二月"
+    },
+    {
+      "id": "feng-gradual",
+      "blocks": 12,
+      "source_characters": 2096,
+      "source_beginning": "使人生圆滑进行的微妙的要素，莫如“渐”；造物主骗人的手段，也莫如“渐”。在不知不觉之中，天真烂漫的孩子“渐渐”变成野心勃勃的青年；慷慨豪侠的青年“渐渐”变成冷酷的成人；血气旺盛的成人“渐渐”变成顽固的老头子。因为其变更是渐进的，一年一年地、一月一月地、一日一日地、一时一时地、一分一分地、一秒一秒地渐",
+      "source_ending": "然人类中也有几个能胜任百年的或千古的寿命的人。那是“大人格”“大人生”。他们能不为“渐”所迷，不为造物所欺，而收缩无限的时间并空间于方寸的心中。故佛家能纳须弥于芥子。中国古诗人（白居易）说：“蜗牛角上争何事？石火光中寄此身。”（见白居易《对酒》）英国诗人（Blake）也说：“一粒沙里见世界，一朵花里见天国；手掌里盛住无限，一刹那便是永劫。”（见威廉·布莱克《天真的预言》）"
+    },
+    {
+      "id": "feng-children",
+      "blocks": 14,
+      "source_characters": 2067,
+      "source_beginning": "我的孩子们！我憧憬于你们的生活，每天不止一次！我想委曲地说出来，使你们自己晓 得。可惜到你们懂得我的话的意思的时候，你们将不复是可以使我憧憬的人了。这是何等可悲哀的事啊！",
+      "source_ending": "然这真不过象“蜘蛛网落花”，略微保留一点春的痕迹而已。且到你们懂得我这片心情的时候，你们早已不是这样的人，我的画在世间已无可印证了！这是何等可悲哀的事啊！"
+    },
+    {
+      "id": "terada-hotwater",
+      "blocks": 20,
+      "source_characters": 3944,
+      "source_beginning": "ここに茶わんが一つあります。中には熱い湯がいっぱいはいっております。ただそれだけではなんのおもしろみもなく不思議もないようですが、よく気をつけて見ていると、だんだんにいろいろの微細なことが目につき、さまざまの疑問が起こって来るはずです。ただ一ぱいのこの湯でも、自然の現象を観察し研究することの好きな人",
+      "source_ending": "茶わんの湯のお話は、すればまだいくらでもありますが、今度はこれくらいにしておきましょう。"
+    },
+    {
+      "id": "terada-sugar",
+      "blocks": 17,
+      "source_characters": 2589,
+      "source_beginning": "金米糖という菓子は今日ではちょっと普通の菓子屋駄菓子屋には見当たらない。聞いてみるとキャラメルやチョコレートにだんだん圧迫されて、今ではこれを製造するものがきわめてまれになったそうである。もっとも小粒で青黄赤などに着色して小さなガラスびんに入れて売っているのがあるが、あれは少し製法がちがうそうである",
+      "source_ending": "それにしてもこのおもしろい金米糖が千島アイヌかなんぞのように滅びて行くのは惜しい。天然物保存に骨を折る人たちは、ついでにこういうものの保存も考えてもらいたいものである。"
+    },
+    {
+      "id": "terada-scientist",
+      "blocks": 23,
+      "source_characters": 3811,
+      "source_beginning": "私に親しいある老科学者がある日私に次のようなことを語って聞かせた。",
+      "source_ending": "（昭和八年十月、鉄塔）"
+    },
+    {
+      "id": "nakaya-eggs",
+      "blocks": 39,
+      "source_characters": 8440,
+      "source_beginning": "立春の時に卵が立つという話は、近来にない愉快な話であった。",
+      "source_ending": "（昭和二十二年四月一日）"
+    },
+    {
+      "id": "nakaya-snow",
+      "blocks": 16,
+      "source_characters": 2919,
+      "source_beginning": "これは本当に天然に見られるあの美麗繊細極まる雪の結晶を実験室の中で人工で作る話である。零下三十度の低温室の中で、六華の雪の結晶を作って顕微鏡で覗き暮す生活は、残暑の苦熱に悩まされる人々には羨ましく思われることかも知れない。",
+      "source_ending": "「人工雪 ×12.5」のキャプション付きの写真"
+    },
+    {
+      "id": "luxun-pagoda",
+      "blocks": 11,
+      "source_characters": 1163,
+      "source_beginning": "听说，杭州西湖上的雷峰塔倒掉了，听说而已，我没有亲见。但我却见过未倒的雷峰塔，破破烂烂的映掩于湖光山色之间，落山的太阳照著这些四近的地方，就是“雷峰夕照”，西湖十景之一。“雷峰夕照”的真景我也见过，并不见佳，我以为。",
+      "source_ending": "一九二四年十月二十八日。"
+    }
+  ]
+}

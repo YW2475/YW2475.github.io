@@ -24,9 +24,12 @@ biome.json
 _site/
 target/
 
-# Original essay files are local study material, not a publication bundle.
-content/_essay/originals-2026-10-12/
-content/_essay/originals-2026-10-20/
+# Local essay sources, generated readers, caches and backups.
+# Keep bilingual.typ, reusable scripts, catalogues and manual corrections tracked.
+content/_essay/originals-*/
+content/_essay/readers/
+content/_essay/unfinished/
+content/_essay/*translation-cache*.json
 
 # temp files
 *.tmp

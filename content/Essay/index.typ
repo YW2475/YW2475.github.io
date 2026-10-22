@@ -23,6 +23,12 @@
 )
 
 #tufted.blog-entry(
+  date: "1858",
+  path: "On the Tendency of Varieties to Depart Indefinitely from the Original Type 1858/",
+  title: "On the Tendency of Varieties to Depart Indefinitely from the Original Type / 论变种无限偏离原始类型的倾向",
+)
+
+#tufted.blog-entry(
   date: "1862",
   path: "Walking 1862/",
   title: "Walking / 散步",
@@ -41,6 +47,18 @@
 )
 
 #tufted.blog-entry(
+  date: "1894",
+  path: "A Wind-Storm in the Forests 1894/",
+  title: "A Wind-Storm in the Forests / 森林中的暴风",
+)
+
+#tufted.blog-entry(
+  date: "1899",
+  path: "The Art of Seeing Things 1899/",
+  title: "The Art of Seeing Things / 观看事物的艺术",
+)
+
+#tufted.blog-entry(
   date: "1926",
   path: "On Being the Right Size 1926/",
   title: "On Being the Right Size / 论大小适宜",
@@ -50,6 +68,12 @@
   date: "1927",
   path: "On Being Ones Own Rabbit 1927/",
   title: "On Being One’s Own Rabbit / 把自己当作实验兔",
+)
+
+#tufted.blog-entry(
+  date: "1929",
+  path: "The Origin of Life 1929/",
+  title: "The Origin of Life / 生命的起源",
 )
 
 #tufted.blog-entry(
@@ -68,6 +92,18 @@
   date: "1949",
   path: "Thinking Like a Mountain 1949/",
   title: "Thinking Like a Mountain / 像山一样思考",
+)
+
+#tufted.blog-entry(
+  date: "1949",
+  path: "Good Oak 1949/",
+  title: "Good Oak / 好橡树",
+)
+
+#tufted.blog-entry(
+  date: "1956",
+  path: "Help Your Child to Wonder 1956/",
+  title: "Help Your Child to Wonder / 帮助孩子保有惊奇",
 )
 
 #tufted.blog-entry(
@@ -97,6 +133,18 @@
 == Mind and Judgment / 心智与判断
 
 #tufted.blog-entry(
+  date: "1580",
+  path: "Of Thumbs 1580/",
+  title: "Of Thumbs / 论拇指",
+)
+
+#tufted.blog-entry(
+  date: "1580",
+  path: "Of Smells 1580/",
+  title: "Of Smells / 论气味",
+)
+
+#tufted.blog-entry(
   date: "1625",
   path: "Of Studies 1625/",
   title: "Of Studies / 论读书",
@@ -106,6 +154,18 @@
   date: "1625",
   path: "Of Truth 1625/",
   title: "Of Truth / 论真理",
+)
+
+#tufted.blog-entry(
+  date: "1877",
+  path: "The Ethics of Belief 1877/",
+  title: "The Ethics of Belief / 信念的伦理",
+)
+
+#tufted.blog-entry(
+  date: "1899",
+  path: "On a Certain Blindness in Human Beings 1899/",
+  title: "On a Certain Blindness in Human Beings / 论人类的一种盲目",
 )
 
 #tufted.blog-entry(
@@ -124,6 +184,12 @@
   date: "1963",
   path: "Is the Scientific Paper a Fraud 1963/",
   title: "Is the Scientific Paper a Fraud / 科学论文是骗局吗？",
+)
+
+#tufted.blog-entry(
+  date: "1967",
+  path: "What I Have Lived For 1967/",
+  title: "What I Have Lived For / 我为什么而活",
 )
 
 #tufted.blog-entry(
@@ -162,6 +228,48 @@
   date: "1905",
   path: "Inertia and Energy Content 1905/",
   title: "Does the Inertia of a Body Depend upon its Energy-Content? / 物体的惯性是否取决于它的能量含量？",
+)
+
+#tufted.blog-entry(
+  date: "1908",
+  path: "Mathematical Creation 1908/",
+  title: "Mathematical Creation / 数学创造",
+)
+
+#tufted.blog-entry(
+  date: "1922",
+  path: "茶わんの湯 1922/",
+  title: "茶わんの湯 / 茶碗里的热水",
+)
+
+#tufted.blog-entry(
+  date: "1927",
+  path: "金米糖 1927/",
+  title: "金米糖 / 金平糖",
+)
+
+#tufted.blog-entry(
+  date: "1933",
+  path: "科学者とあたま 1933/",
+  title: "科学者とあたま / 科学家与头脑",
+)
+
+#tufted.blog-entry(
+  date: "1938",
+  path: "雪を作る話 1938/",
+  title: "雪を作る話 / 造雪的故事",
+)
+
+#tufted.blog-entry(
+  date: "1947",
+  path: "立春の卵 1947/",
+  title: "立春の卵 / 立春的鸡蛋",
+)
+
+#tufted.blog-entry(
+  date: "1955",
+  path: "The Value of Science 1955/",
+  title: "The Value of Science / 科学的价值",
 )
 
 #tufted.blog-entry(
@@ -238,6 +346,24 @@
   date: "1863",
   path: "Gettysburg Address 1863/",
   title: "Gettysburg Address / 葛底斯堡演说",
+)
+
+#tufted.blog-entry(
+  date: "1903",
+  path: "The Metropolis and Mental Life 1903/",
+  title: "The Metropolis and Mental Life / 大都市与精神生活",
+)
+
+#tufted.blog-entry(
+  date: "1908",
+  path: "The Stranger 1908/",
+  title: "The Stranger / 陌生人",
+)
+
+#tufted.blog-entry(
+  date: "1909",
+  path: "Bridge and Door 1909/",
+  title: "Bridge and Door / 桥与门",
 )
 
 #tufted.blog-entry(
@@ -333,15 +459,33 @@
 )
 
 #tufted.blog-entry(
+  date: "1877",
+  path: "On Falling in Love 1877/",
+  title: "On Falling in Love / 论坠入爱河",
+)
+
+#tufted.blog-entry(
   date: "1880",
   path: "On the Decay of the Art of Lying 1880/",
   title: "On the Decay of the Art of Lying / 论说谎艺术的衰落",
 )
 
 #tufted.blog-entry(
+  date: "1880",
+  path: "A Telephonic Conversation 1880/",
+  title: "A Telephonic Conversation / 一场电话交谈",
+)
+
+#tufted.blog-entry(
   date: "1882",
   path: "Advice to Youth 1882/",
   title: "Advice to Youth / 给青年人的忠告",
+)
+
+#tufted.blog-entry(
+  date: "1901",
+  path: "A Defence of Nonsense 1901/",
+  title: "A Defence of Nonsense / 为胡说八道辩护",
 )
 
 #tufted.blog-entry(
@@ -375,6 +519,66 @@
 )
 
 #tufted.blog-entry(
+  date: "1921",
+  path: "The Pleasures of Ignorance 1921/",
+  title: "The Pleasures of Ignorance / 无知的乐趣",
+)
+
+#tufted.blog-entry(
+  date: "1921",
+  path: "Weeds An Appreciation 1921/",
+  title: "Weeds: An Appreciation / 为杂草说几句话",
+)
+
+#tufted.blog-entry(
+  date: "1921",
+  path: "The Hum of Insects 1921/",
+  title: "The Hum of Insects / 昆虫的嗡鸣",
+)
+
+#tufted.blog-entry(
+  date: "1923",
+  path: "Corn-Pone Opinions 1923/",
+  title: "Corn-Pone Opinions / 玉米饼式的意见",
+)
+
+#tufted.blog-entry(
+  date: "1924",
+  path: "故乡的野菜 1924/",
+  title: "故乡的野菜",
+)
+
+#tufted.blog-entry(
+  date: "1924",
+  path: "喝茶 1924/",
+  title: "喝茶",
+)
+
+#tufted.blog-entry(
+  date: "1924",
+  path: "论雷峰塔的倒掉 1924/",
+  title: "论雷峰塔的倒掉",
+)
+
+#tufted.blog-entry(
+  date: "1926",
+  path: "给我的孩子们 1926/",
+  title: "给我的孩子们",
+)
+
+#tufted.blog-entry(
+  date: "1931",
+  path: "Unpacking My Library 1931/",
+  title: "Unpacking My Library / 打开我的藏书",
+)
+
+#tufted.blog-entry(
+  date: "1931",
+  path: "渐 1931/",
+  title: "渐",
+)
+
+#tufted.blog-entry(
   date: "1933",
   path: "In Praise of Shadows 1933/",
   title: "In Praise of Shadows / 阴翳礼赞",
@@ -387,13 +591,37 @@
 )
 
 #tufted.blog-entry(
+  date: "1936",
+  path: "Bookshop Memories 1936/",
+  title: "Bookshop Memories / 书店回忆",
+)
+
+#tufted.blog-entry(
   date: "1942",
   path: "The Death of the Moth 1942/",
   title: "The Death of the Moth / 飞蛾之死",
 )
 #tufted.blog-entry(
+  date: "1945",
+  path: "The Sporting Spirit 1945/",
+  title: "The Sporting Spirit / 体育精神",
+)
+
+#tufted.blog-entry(
   date: "1946",
   path: "A Nice Cup of Tea 1946/",
   title: "A Nice Cup of Tea / 一杯好茶",
+)
+
+#tufted.blog-entry(
+  date: "1946",
+  path: "Books v. Cigarettes 1946/",
+  title: "Books v. Cigarettes / 书与香烟",
+)
+
+#tufted.blog-entry(
+  date: "1946",
+  path: "Confessions of a Book Reviewer 1946/",
+  title: "Confessions of a Book Reviewer / 一个书评人的自白",
 )
 

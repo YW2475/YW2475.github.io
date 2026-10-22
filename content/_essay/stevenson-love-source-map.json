@@ -1,0 +1,152 @@
+{
+  "paper": {
+    "id": "stevenson-love",
+    "candidate_number": 60,
+    "title": "On Falling in Love",
+    "zh_title": "论坠入爱河",
+    "author": "Robert Louis Stevenson",
+    "category": "文学与思想",
+    "source": "https://www.gutenberg.org/files/30527/30527-h/30527-h.htm",
+    "visible": true,
+    "status": "bilingual-complete-draft",
+    "kind": "full",
+    "year": 1877,
+    "original_language": "en",
+    "folder": "On Falling in Love 1877",
+    "author_death_year": 1894,
+    "rights_jurisdiction": "mainland China",
+    "rights": "Original literary work beyond the mainland-China life-plus-50 term as of 2026; no assertion of worldwide public-domain status. Only original author text and newly generated Chinese translation are included.",
+    "rights_term_reference": "https://www.ncac.gov.cn/xxfb/flfg/flfg_532/202103/t20210309_50530.html",
+    "scope": "complete-essay",
+    "translation_status": "complete paragraph coverage; machine draft, limited spot review",
+    "source_acquisition": "assistant-retrieved-original",
+    "completeness": "all source body blocks retained; source boundaries and paragraph coverage checked"
+  },
+  "scope": "complete-essay",
+  "original_language": "en",
+  "source_format": "html",
+  "source_sha256": "90f92d13683b25076c2ca48f6bcde63d4c11366bb5cdaffe9f34503d51aa0cc8",
+  "source_url": "https://www.gutenberg.org/files/30527/30527-h/30527-h.htm",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "en": "“Lord, what fools these mortals be!”",
+      "source_anchor": null,
+      "id": "S001",
+      "order": 0,
+      "zh": "“主啊，这些凡人是什么傻瓜!”",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "There is only one event in life which really astonishes a man and startles him out of his prepared opinions. Everything else befalls him very much as he expected. Event succeeds to event, with an agreeable variety indeed, but with little that is either startling or intense; they form together no more than a sort of background, or running accompaniment to the man’s own reflections; and he falls naturally into a cool, curious, and smiling habit of mind, and builds himself up in a conception of life which expects to-morrow to be after the pattern of to-day and yesterday. He may be accustomed to the vagaries of his friends and acquaintances under the influence of love. He may sometimes look forward to it for himself with an incomprehensible expectation. But it is a subject which neither intuition nor the behaviour of others will help the philosopher to the truth. There is probably nothing rightly thought or rightly written on this matter of love that is not a piece of the person’s experience. I remember an anecdote of a well-known French theorist, who was debating a point eagerly in his cénacle. It was objected against him that he had never experienced love. Whereupon he arose, left the society, and made it a point not to return to it until he considered that he had supplied the defect. “Now,” he remarked, on entering, “now I am in a position to continue the discussion.” Perhaps he had not penetrated very deeply into the subject after all; but the story indicates right thinking, and may serve as an apologue to readers of this essay.",
+      "source_anchor": null,
+      "id": "S002",
+      "order": 1,
+      "zh": "生活中只有一件事真正使一个人感到惊讶，并使他从他准备的观点中惊呆了。其他一切都像他预期的那样降临到他身上。事件成功了，确实有一个令人愉快的变化，但几乎没有什么令人吃惊的或强烈的; 他们形成的不超过一种背景，或伴随着男人自己的思考; 他自然而然地陷入一种冷静，好奇，微笑的思维习惯，并建立了一种生活观念，这种观念希望明天能按照今天和昨天的模式生活。在爱情的影响下，他可能已经习惯了朋友和熟人的变幻莫测。他有时可能会以一种难以理解的期望来期待它。但这是一个直觉和他人的行为都无法帮助哲学家获得真理的主题。在这个爱的问题上，可能没有任何正确的想法或正确的文字不是一个人的经验。我记得一位著名的法国理论家的轶事，他在他的演讲中热切地辩论着一个观点。有人反对他，说他从未经历过爱情。于是他起来了，离开了社会，并提出了一个观点，直到他认为自己已经提供了缺陷，才不返回社会。“现在，” 他一进门就说，“现在我可以继续讨论了。” 也许他毕竟没有深入到这个话题; 但是这个故事表明了正确的想法，可以作为对这篇文章读者的道歉。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "When at last the scales fall from his eyes, it is not without something of the nature of dismay that the man finds himself in such changed conditions. He has to deal with commanding emotions instead of the easy dislikes and preferences in which he has hitherto passed his days; and he recognises capabilities for pain and pleasure of which he had not yet suspected the existence. Falling in love is the one illogical adventure, the one thing of which we are tempted to think as supernatural, in our trite and reasonable world. The effect is out of all proportion with the cause. Two persons, neither of them it may be, very amiable or very beautiful, meet, speak a little, and look a little into each other’s eyes. That has been done a dozen or so of times in the experience of either with no great result. But on this occasion all is different. They fall at once into that state in which another person becomes to us the very gist and centre-point of God’s creation, and demolishes our laborious theories with a smile; in which our ideas are so bound up with the one master-thought that even the trivial cares of our own person become so many acts of devotion, and the love of life itself is translated into a wish to remain in the same world with so precious and desirable a fellow-creature. And all the while their acquaintances look on in stupor, and ask each other, with almost passionate emphasis, what so-and-so can see in that woman, or such-an-one in that man. I am sure, gentlemen, I cannot tell you. For my part, I cannot think what the women mean. It might be very well, if the Apollo Belvedere should suddenly glow all over into life, and step forward from the pedestal with that godlike air of his. But of the misbegotten changelings who call themselves men, and prate intolerably over dinner-tables, I never saw one who seemed worthy to inspire love—no, nor read of any, except Leonardo da Vinci, and perhaps Goethe in his youth. About women I entertain a somewhat different opinion; but there, I have the misfortune to be a man.",
+      "source_anchor": null,
+      "id": "S003",
+      "order": 2,
+      "zh": "当鳞片最终从他的眼睛上掉下来时，这个人发现自己处于这种变化的条件下，并不是没有沮丧的本质。他必须处理指挥性的情绪，而不是他迄今为止所经历的那种容易的厌恶和偏好; 他认识到痛苦和快乐的能力，而他还没有怀疑这种能力的存在。坠入爱河是一种不合逻辑的冒险，在我们这个过时而合理的世界中，我们被诱惑认为是超自然的一件事。结果与原因极不相称。两个人，他们可能都不是，非常和蔼可待或非常美丽，见面，说话一点，看着对方的眼睛。这已经做了十几次左右的经验，没有很好的结果。但这一次，一切都不同了。他们立刻陷入了这样一种状态，在这种状态下，另一个人对我们来说就是上帝创造的主旨和中心点，并微笑着摧毁了我们艰苦的理论；在这种情况下，我们的思想与一个主人的思想如此紧密地联系在一起，以至于我们自己的琐碎关心也变成了如此多的奉献行为，对生命的热爱本身被转化为一种希望，与如此珍贵和令人向往的同胞生活在同一个世界上。他们的熟人一直在昏昏欲睡地看着，问对方，几乎充满激情的强调，在那个女人身上，或者在那个男人身上，这样的人。先生们，我确信，我也无法告诉你们。就我而言，我无法思考女人的意思。如果阿波罗……Belvedere应该突然焕发出生命，并带着他那神圣的气息从基座上向前迈进。但是在那些自称是男人的错误的变革者中，在餐桌上无法忍受地说着话，我从来没有见过一个似乎值得激发爱的人 -- 不，也没有读过任何东西，除了莱昂纳多·达·芬奇，也许还有年轻时的歌德。关于女人，我有一种不同的看法; 但是在那里，我不幸成为一个男人。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "There are many matters in which you may waylay Destiny, and bid him stand and deliver. Hard work, high thinking, adventurous excitement, and a great deal more that forms a part of this or the other person’s spiritual bill of fare, are within the reach of almost any one who can dare a little and be patient. But it is by no means in the way of every one to fall in love. You know the difficulty Shakespeare was put into when Queen Elizabeth asked him to show Falstaff in love. I do not believe that Henry Fielding was ever in love. Scott, if it were not for a passage or two in “Rob Roy,” would give me very much the same effect. These are great names and (what is more to the purpose) strong, healthy, high-strung, and generous natures, of whom the reverse might have been expected. As for the innumerable army of anæmic and tailorish persons who occupy the face of this planet with so much propriety, it is palpably absurd to imagine them in any such situation as a love-affair. A wet rag goes safely by the fire; and if a man is blind, he cannot expect to be much impressed by romantic scenery. Apart from all this, many lovable people miss each other in the world, or meet under some unfavourable star. There is the nice and critical moment of declaration to be got over. From timidity or lack of opportunity a good half of possible love cases never get so far, and at least another quarter do there cease and determine. A very adroit person, to be sure, manages to prepare the way and out with his declaration in the nick of time. And then there is a fine solid sort of man, who goes on from snub to snub; and if he has to declare forty times, will continue imperturbably declaring, amid the astonished consideration of men and angels, until he has a favourable answer. I daresay, if one were a woman, one would like to marry a man who was capable of doing this, but not quite one who had done so. It is just a little bit abject, and somehow just a little bit gross; and marriages in which one of the parties has been thus battered into consent scarcely form agreeable subjects for meditation. Love should run out to meet love with open arms. Indeed, the ideal story is that of two people who go into love step for step, with a fluttered consciousness, like a pair of children venturing together into a dark room. From the first moment when they see each other, with a pang of curiosity, through stage after stage of growing pleasure and embarrassment, they can read the expression of their own trouble in each other’s eyes. There is here no declaration, properly so called; the feeling is so plainly shared, that as soon as the man knows what it is in his own heart, he is sure of what it is in the woman’s.",
+      "source_anchor": null,
+      "id": "S004",
+      "order": 3,
+      "zh": "在许多事情上，你可以拦住命运，让他站起来交付。努力工作，高思想，冒险的兴奋，还有更多的东西构成了这个或另一个人的精神账单的一部分，几乎任何一个敢于一点和耐心的人都可以做到。但这绝不妨碍每个人坠入爱河。您知道莎士比亚在伊丽莎白女王要求他向福斯达夫表示爱意时遇到的困难。我不相信亨利·菲尔丁曾经恋爱过。斯科特，如果不是 “罗伯·罗伊” 中的一两段话，会给我带来同样的效果。这些都是伟大的名字和 (更重要的是目的) 强壮，健康，高度紧张，慷慨的本性，他们可能会期望相反。至于无数的军队和裁缝的人占据这个星球的脸这么多的礼节，显然是荒谬的想象他们在任何这样的情况下作为一个爱情。一块湿抹布在炉火旁安全地走; 如果一个人是盲人，他就不能指望被浪漫的风景打动。除此之外，世界上许多可爱的人彼此想念，或者在某个不利的明星下相遇。有一个美好而关键的宣布时刻要结束。由于胆怯或缺乏机会，可能的爱情案件中有一半永远不会到目前为止，至少还有四分之一的人会停止并确定。可以肯定的是，一个非常巧妙的人设法在他的声明中准备了出路。然后有一个很好的坚实的人，他从冷落冷落; 如果他不得不宣布四十次，将继续平静地宣布，在男人和天使的惊讶考虑中，直到他有一个有利的答案。我敢说，如果一个人是女人，他想嫁给一个有能力做到这一点的人，但不是一个这样做的人。这只是有点卑鄙，不知何故只是有点粗俗; 婚姻中的一方因此被殴打同意，几乎没有形成令人愉快的冥想主题。爱应该张开双臂迎接爱。事实上，理想的故事是两个人一步一步地进入爱情，带着飘动的意识，就像一对孩子一起冒险进入一个黑暗的房间。从他们见面的第一刻起，就带着一阵好奇，通过一个又一个阶段的成长愉悦和尴尬，他们可以在对方的眼中读出自己烦恼的表情。这里没有宣言，适当地所谓; 这种感觉是如此明显地分享，一旦男人知道自己的内心是什么，他就会确定女人的内心是什么。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "This simple accident of falling in love is as beneficial as it is astonishing. It arrests the petrifying influence of years, disproves cold-blooded and cynical conclusions, and awakens dormant sensibilities. Hitherto the man had found it a good policy to disbelieve the existence of any enjoyment which was out of his reach; and thus he turned his back upon the strong sunny parts of nature, and accustomed himself to look exclusively on what was common and dull. He accepted a prose ideal, let himself go blind of many sympathies by disuse; and if he were young and witty, or beautiful, wilfully forwent these advantages. He joined himself to the following of what, in the old mythology of love, was prettily called nonchaloir; and in an odd mixture of feelings, a fling of self-respect, a preference for selfish liberty, and a great dash of that fear with which honest people regard serious interests, kept himself back from the straightforward course of life among certain selected activities. And now, all of a sudden, he is unhorsed, like St. Paul, from his infidel affectation. His heart, which has been ticking accurate seconds for the last year, gives a bound and begins to beat high and irregularly in his breast. It seems as if he had never heard or felt or seen until that moment; and by the report of his memory, he must have lived his past life between sleep and waking, or with the pre-occupied attention of a brown study. He is practically incommoded by the generosity of his feelings, smiles much when he is alone, and develops a habit of looking rather blankly upon the moon and stars. But it is not at all within the province of a prose essayist to give a picture of this hyperbolical frame of mind; and the thing has been done already, and that to admiration. In “Adelaïde,” in Tennyson’s “Maud,” and in some of Heine’s songs, you get the absolute expression of this midsummer spirit. Romeo and Juliet were very much in love; although they tell me some German critics are of a different opinion, probably the same who would have us think Mercutio a dull fellow. Poor Antony was in love, and no mistake. That lay figure, Marius, in “Les Misérables,” is also a genuine case in his own way, and worth observation. A good many of George Sand’s people are thoroughly in love; and so are a good many of George Meredith’s. Altogether, there is plenty to read on the subject. If the root of the matter be in him, and if he has the requisite chords to set in vibration, a young man may occasionally enter, with the key of art, into that land of Beulah which is upon the borders of Heaven, and within sight of the City of Love. There let him sit awhile to hatch delightful hopes and perilous illusions.",
+      "source_anchor": null,
+      "id": "S005",
+      "order": 4,
+      "zh": "这种坠入爱河的简单事故既有益又令人惊讶。它逮捕了多年的石化影响，反驳了冷血和愤世嫉俗的结论，并唤醒了休眠的情感。到目前为止，这个人发现这是一个好政策，不相信任何他无法企及的享受的存在; 因此，他背对大自然强烈的阳光部分，习惯于只看普通和乏味的东西。他接受了散文的理想，让自己去盲目的许多同情的废止; 如果他年轻机智，或美丽，故意放弃这些优势。他加入了以下内容: 在古老的爱情神话中，被称为nonchaloir; 在一种奇怪的混合情绪中，一种自尊的冲动，对自私自由的偏爱，以及诚实的人对严肃利益的恐惧，在某些选定的活动中，使自己脱离了简单的生活过程。现在，突然之间，他像圣保罗一样，摆脱了异教徒的影响。他的心脏在过去的一年中一直在滴答作响，但受到了束缚，并开始在他的乳房中不规则地跳动。好像他从来没有听到或感觉或看到，直到那一刻; 和他的记忆的报告，他一定是过去的生活睡眠和醒来之间，或与布朗研究的专注。他几乎被自己的慷慨所困扰，独自一人时会微笑很多，并养成了在月球上茫然地看的习惯。星星。但是，对这种夸张的心态进行描绘根本不在散文散文家的能力范围之内。这件事已经完成了，令人钦佩。在 “adela ï de” 中，在Tennyson的 “Maud” 中，以及在Heine的一些歌曲中，您将获得这种仲夏精神的绝对表达。罗密欧和朱丽叶非常相爱; 虽然他们告诉我一些德国批评家有不同的看法，可能是同样的人会让我们认为马库西奥是一个无聊的人。可怜的安东尼恋爱了，没有错。马吕斯在《悲惨世界》中的外行人物，也是他自己的真实案例，值得观察。乔治·桑的许多人都深爱着; 乔治·梅雷迪思的许多人也是如此。总之，有很多关于这个主题的阅读。如果问题的根源在他身上，如果他有必要的和弦来振动，一个年轻人可能会偶尔进入，用艺术的钥匙，进入比乌拉的土地，在天堂的边界，在爱之城的视线范围内。让他坐一会儿，孵化令人愉快的希望和危险的幻想。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "One thing that accompanies the passion in its first blush is certainly difficult to explain. It comes (I do not quite see how) that from having a very supreme sense of pleasure in all parts of life—in lying down to sleep, in waking, in motion, in breathing, in continuing to be—the lover begins to regard his happiness as beneficial for the rest of the world and highly meritorious in himself. Our race has never been able contentedly to suppose that the noise of its wars, conducted by a few young gentlemen in a corner of an inconsiderable star, does not re-echo among the courts of Heaven with quite a formidable effect. In much the same taste, when people find a great to-do in their own breasts, they imagine it must have some influence in their neighbourhood. The presence of the two lovers is so enchanting to each other that it seems as if it must be the best thing possible for everybody else. They are half inclined to fancy it is because of them and their love that the sky is blue and the sun shines. And certainly the weather is usually fine while people are courting.... In point of fact, although the happy man feels very kindly towards others of his own sex, there is apt to be something too much of the magnifico in his demeanour. If people grow presuming and self-important over such matters as a dukedom or the Holy See, they will scarcely support the dizziest elevation in life without some suspicion of a strut; and the dizziest elevation is to love and be loved in return. Consequently, accepted lovers are a trifle condescending in their address to other men. An overweening sense of the passion and importance of life hardly conduces to simplicity of manner. To women they feel very nobly, very purely, and very generously, as if they were so many Joan-of-Arcs; but this does not come out in their behaviour; and they treat them to Grandisonian airs marked with a suspicion of fatuity. I am not quite certain that women do not like this sort of thing; but really, after having bemused myself over “Daniel Deronda,” I have given up trying to understand what they like.",
+      "source_anchor": null,
+      "id": "S006",
+      "order": 5,
+      "zh": "伴随着第一次脸红的激情的一件事当然很难解释。它来自 (我不太明白如何) 在生活的各个方面都有一种非常最高的愉悦感-躺下睡觉，醒来，运动，呼吸，在继续成为-情人开始认为他的幸福对世界其他地方有益，并且对自己非常有价值。我们的种族从来没有能够满足地假设它的战争的噪音，由几个年轻的绅士在一个不起眼的星星的角落里进行，不会在天堂的宫廷中回响，产生相当强大的影响。同样的味道，当人们在自己的乳房中找到一个伟大的事情时，他们认为这一定会对他们的邻居产生一些影响。两个恋人的存在是如此迷人，似乎这对其他人来说是最好的事情。他们一半倾向于幻想，因为他们和他们的爱，天空是蓝色的，阳光普照。而且在人们谈恋爱的时候，天气通常都很晴朗……事实上，尽管幸福之人对自己的同性怀有极大的善意，但其举止中往往不免流露出几分傲慢之态。如果人们在诸如公爵领地或罗马教廷之类的事情上变得自以为是和自以为是，他们几乎不会支持生活中最令人眼花elevation乱的高度，而没有对支撑的怀疑; 最令人眼花elevation乱的高度是爱和被爱的回报。因此，被接受的恋人对其他男人的称呼是一种屈尊俯就。一种超越对生活的激情和重要性的感觉几乎无助于举止的简单。对女人来说，她们感到非常高尚，非常纯粹，非常慷慨，好像他们是那么多的圣女约; 但这并没有在他们的行为中表现出来; 他们把他们当作带有肥胖嫌疑的格兰迪逊式的空气。我不太确定女人不喜欢这种事情; 但真的，在对 “丹尼尔·德隆达” 感到困惑之后，我已经放弃了试图理解他们喜欢什么。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "If it did nothing else, this sublime and ridiculous superstition, that the pleasure of the pair is somehow blessed to others, and everybody is made happier in their happiness, would serve at least to keep love generous and greathearted. Nor is it quite a baseless superstition after all. Other lovers are hugely interested. They strike the nicest balance between pity and approval, when they see people aping the greatness of their own sentiments. It is an understood thing in the play, that while the young gentlefolk are courting on the terrace, a rough flirtation is being carried on, and a light, trivial sort of love is growing up, between the footman and the singing chambermaid. As people are generally cast for the leading parts in their own imaginations, the reader can apply the parallel to real life without much chance of going wrong. In short, they are quite sure this other love-affair is not so deep-seated as their own, but they like dearly to see it going forward. And love, considered as a spectacle, must have attractions for many who are not of the confraternity. The sentimental old maid is a commonplace of the novelists; and he must be rather a poor sort of human being, to be sure, who can look on at this pretty madness without indulgence and sympathy. For nature commends itself to people with a most insinuating art; the busiest is now and again arrested by a great sunset; and you may be as pacific or as coldblooded as you will, but you cannot help some emotion when you read of well-disputed battles, or meet a pair of lovers in the lane.",
+      "source_anchor": null,
+      "id": "S007",
+      "order": 6,
+      "zh": "如果它什么也不做，这种崇高而荒谬的迷信，这对夫妇的快乐在某种程度上被祝福给了别人，每个人都在他们的幸福中更快乐，至少有助于保持爱的慷慨和热情。毕竟，这也不是毫无根据的迷信。其他爱人都非常感兴趣。当人们模仿自身高尚情感的风采时，他们恰到好处地在怜悯与赞许之间取得了最完美的平衡。剧中的一件事是可以理解的，当年轻的绅士在露台上求爱时，正在进行一场粗暴的调情，在男仆和唱歌的女服务员之间，一种淡淡的，琐碎的爱情正在成长。由于人们通常会在自己的想象中占据主导地位，因此读者可以将平行应用到现实生活中，而不会出错。简而言之，他们很确定这另一段恋情并不像他们自己的那样根深蒂固，但他们非常希望看到它向前发展。而爱情，作为一种景观来看待，必定会吸引许多并非其中一员的人。多愁善感的老处女是小说家的司空见惯; 他一定是个可怜的人，可以肯定的是，谁能在没有放纵和同情的情况下看着这个漂亮的疯狂。因为大自然以最具影射性的艺术向人们推荐自己; 最繁忙的时刻不时被伟大的日落所吸引; 你可能会像太平洋或冷血一样，但是当你读到有争议的战斗时，你会情不自禁地有些情绪，或者在巷子里遇见一对恋人。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Certainly, whatever it may be with regard to the world at large, this idea of beneficent pleasure is true as between the sweethearts. To do good and communicate is the lover’s grand intention. It is the happiness of the other that makes his own most intense gratification. It is not possible to disentangle the different emotions, the pride, humility, pity, and passion, which are excited by a look of happy love or an unexpected caress. To make one’s self beautiful, to dress the hair, to excel in talk, to do anything and all things that puff out the character and attributes and make them imposing in the eyes of others, is not only to magnify oneself, but to offer the most delicate homage at the same time. And it is in this latter intention that they are done by lovers; for the essence of love is kindness: and indeed it may be best defined as passionate kindness: kindness, so to speak, run mad and become importunate and violent. Vanity in a merely personal sense exists no longer. The lover takes a perilous pleasure in privately displaying his weak points and having them, one after another, accepted and condoned. He wishes to be assured that he is not loved for this or that good quality, but for himself, or something as like himself as he can contrive to set forward. For, although it may have been a very difficult thing to paint the marriage of Cana, or write the fourth act of Antony and Cleopatra, there is a more difficult piece of art before every one in this world who cares to set about explaining his own character to others. Words and acts are easily wrenched from their true significance; and they are all the language we have to come and go upon. A pitiful job we make of it, as a rule. For better or worse, people mistake our meaning and take our emotions at a wrong valuation. And generally we rest pretty content with our failures; we are content to be misapprehended by crackling flirts; but when once a man is moonstruck with this affection of love, he makes it a point of honour to clear such dubieties away. He cannot have the Best of her Sex misled upon a point of this importance; and his pride revolts at being loved in a mistake.",
+      "source_anchor": null,
+      "id": "S008",
+      "order": 7,
+      "zh": "当然，无论对整个世界来说是什么，这种仁慈快乐的想法在爱人之间是正确的。行善并传播，乃爱之宏愿。正是他人的幸福，使他自己获得了最为强烈的满足感。不可能解开不同的情感，骄傲，谦卑，怜悯和激情，这些都是由幸福的爱或意外的爱抚所激发的。使自己变得美丽，打扮头发，在谈话中表现出色，做任何事情和所有事情，使性格和属性发扬光大，并使它们在别人眼中变得强加于人，不仅是放大自己，而且是同时提供最精致的敬意。正是在后一种意图中，它们是由恋人完成的; 因为爱的本质是仁慈: 的确，最好将其定义为热情的仁慈: 仁慈，可以这么说，发疯了，变得强求和暴力。纯粹个人意义上的虚荣已不复存在。情人在私下展示自己的弱点并让他们一个接一个地接受和宽恕时，会感到危险。他希望得到保证，他不是因为这个或那个好的品质而被爱，而是因为他自己，或者像他自己一样可以努力前进的东西。因为，虽然它可能是一件非常困难的事情画的婚姻，或写安东尼和克利奥帕特拉的第四幕，有一个更困难的艺术作品之前，每个人在这个世界上谁愿意开始解释自己的性格给别人。言语和行为很容易被从其真正的意义；而它们正是我们来去所依凭的全部语言。我们通常把这件事做得一塌糊涂。无论好坏，人们都误解了我们的意思，并以错误的估值来对待我们的情绪。一般来说，我们对失败感到非常满意; 我们满足于被噼啪作响的调情所误解; 但是当一个人被这种爱的感情迷住时，他把清除这种怀疑作为一种荣誉。他不能把她最好的性误导在这个重要的一点上; 他的骄傲反抗在一个错误中被爱。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "He discovers a great reluctance to return on former periods of his life. To all that has not been shared with her, rights and duties, bygone fortunes and dispositions, he can look back only by a difficult and repugnant effort of the will. That he should have wasted some years in ignorance of what alone was really important, that he may have entertained the thought of other women with any show of complacency, is a burthen almost too heavy for his self-respect. But it is the thought of another past that rankles in his spirit like a poisoned wound. That he himself made a fashion of being alive in the bald, beggarly days before a certain meeting, is deplorable enough in all good conscience. But that She should have permitted herself the same liberty seems inconsistent with a Divine providence.",
+      "source_anchor": null,
+      "id": "S009",
+      "order": 8,
+      "zh": "他发现自己对重返人生过往的某些阶段怀有强烈的抗拒。对于所有没有与她分享的权利和义务，过去的财富和性格，他只能通过意志的艰难和令人反感的努力来回顾。他本应该浪费几年时间，不知道什么才是真正重要的，他可能会以任何自满的表现来娱乐其他女人的思想，对他的自尊来说，这是一个沉重的负担。但这是另一个过去的思想，在他的精神像一个中毒的伤口。他本人在一次会议前的秃顶，乞讨的日子里活着，这在所有良心上都是令人遗憾的。但她应该允许自己同样的自由似乎与神圣的天意不一致。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "A great many people run down jealousy, on the score that it is an artificial feeling, as well as practically inconvenient. This is scarcely fair; for the feeling on which it merely attends, like an ill-humoured courtier, is itself artificial in exactly the same sense and to the same degree. I suppose what is meant by that objection is that jealousy has not always been a character of man; formed no part of that very modest kit of sentiments with which he is supposed to have begun the world; but waited to make its appearance in better days and among richer natures. And this is equally true of love, and friendship, and love of country, and delight in what they call the beauties of nature, and most other things worth having. Love, in particular, will not endure any historical scrutiny: to all who have fallen across it, it is one of the most incontestable facts in the world; but if you begin to ask what it was in other periods and countries, in Greece, for instance, the strangest doubts begin to spring up, and everything seems so vague and changing that a dream is logical in comparison. Jealousy, at any rate, is one of the consequences of love; you may like it or not, at pleasure; but there it is.",
+      "source_anchor": null,
+      "id": "S010",
+      "order": 9,
+      "zh": "许多人贬低嫉妒，认为它既是一种人为的情感，又在实际生活中颇为不便。这几乎是不公平的; 因为它仅仅关注的感觉，就像一个坏心情的朝臣，本身就是在完全相同的意义和相同的程度上做作的。我想这个反对的意思是，嫉妒并不总是人的性格; 没有形成他应该开始世界的那种非常谦虚的情绪的一部分; 但等待它出现在更好的日子和更丰富的性质中。这同样适用于爱情，友谊，对国家的热爱，以及对他们所谓的自然之美以及其他大多数值得拥有的事物的喜悦。特别是爱情，不会经受任何历史的审视: 对所有经历过它的人来说，它是世界上最无可争辩的事实之一; 但是如果你开始问它在其他时期和国家是什么，例如在希腊，最奇怪的怀疑开始涌现，一切似乎都如此模糊和变化，相比之下，梦想是合乎逻辑的。嫉妒，无论如何，是爱的后果之一; 你可能喜欢或不喜欢，高兴; 但它就在那里。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "It is not exactly jealousy, however, that we feel when we reflect on the past of those we love. A bundle of letters found after years of happy union creates no sense of insecurity in the present; and yet it will pain a man sharply. The two people entertain no vulgar doubt of each other: but this pre-existence of both occurs to the mind as something indelicate. To be altogether right, they should have had twin birth together, at the same moment with the feeling that unites them. Then indeed it would be simple and perfect and without reserve or afterthought. Then they would understand each other with a fulness impossible otherwise. There would be no barrier between them of associations that cannot be imparted. They would be led into none of those comparisons that send the blood back to the heart. And they would know that there had been no time lost, and they had been together as much as was possible. For besides terror for the separation that must follow some time or other in the future, men feel anger, and something like remorse, when they think of that other separation which endured until they met. Some one has written that love makes people believe in immortality, because there seems not to be room enough in life for so great a tenderness, and it is inconceivable that the most masterful of our emotions should have no more than the spare moments of a few years. Indeed, it seems strange; but if we call to mind analogies, we can hardly regard it as impossible.",
+      "source_anchor": null,
+      "id": "S011",
+      "order": 10,
+      "zh": "然而，当我们回想起所爱之人的过往时，我们所感受到的并不完全是嫉妒。经过多年的幸福结合后发现的一堆信件在目前没有任何不安全感; 然而，它会让一个人痛苦。这两个人彼此之间没有庸俗的怀疑: 但是两者的这种预先存在在头脑中都是一种微妙的东西。完全正确，他们应该有双胞胎出生在一起，在同一时刻，他们团结起来的感觉。那么，它确实会是简单而完美的，毫无保留，也无需再作思量。那样，他们就能以一种在其他情况下绝无可能的方式彼此理解。他们之间将不再有任何无法传递的观念隔阂。他们将不会被引入那些令人心潮澎湃的比较之中。他们也会明白，时间并未流逝，他们已经尽可能地相伴在一起。除了恐怖的分离，必须遵循一段时间或其他未来，男人感到愤怒，像悔恨，当他们想到另一个分离，直到他们遇到。有人写道，爱使人们相信不朽，因为生活中似乎没有足够的空间来承受如此巨大的温柔，而且不可思议的是，我们最精明的情感应该只有几年的空闲时间。的确，这似乎有些奇怪；但如果我们回想一些类比，就很难将其视为不可能。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "“The blind bow-boy,” who smiles upon us from the end of terraces in old Dutch gardens, laughingly hails his bird-bolts among a fleeting generation. But for as fast as ever he shoots, the game dissolves and disappears into eternity from under his falling arrows; this one is gone ere he is struck; the other has but time to make one gesture and give one passionate cry; and they are all the things of a moment. When the generation is gone, when the play is over, when the thirty years’ panorama has been withdrawn in tatters from the stage of the world, we may ask what has become of these great, weighty, and undying loves, and the sweethearts who despised mortal conditions in a fine credulity; and they can only show us a few songs in a bygone taste, a few actions worth remembering, and a few children who have retained some happy stamp from the disposition of their parents.",
+      "source_anchor": null,
+      "id": "S012",
+      "order": 11,
+      "zh": "“盲目的弓箭男孩，” 他从古老的荷兰花园的露台尽头向我们微笑，在短暂的一代中笑着欢呼他的鸟栓。但是他的射击速度一如既往地快，游戏从他落下的箭中消失并消失在永恒中; 这个人在他被击中之前就消失了; 另一个只有时间做一个手势，发出一个热情的哭泣; 他们都是一瞬间的事情。当一代人走了，当戏剧结束了，当三十年的全景从世界舞台上支离破碎时，我们可能会问，这些伟大的、八十岁的、不朽的爱，以及那些轻信凡人的情人，变成了什么样子；他们只能向我们展示一些过去的歌曲，一些值得记住的动作，以及一些从父母的性格中保留了一些快乐印记的孩子。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    }
+  ],
+  "glossary": {},
+  "coverage": {
+    "blocks": 12,
+    "source_characters": 19255,
+    "source_beginning": "“Lord, what fools these mortals be!”",
+    "source_ending": "a fine credulity; and they can only show us a few songs in a bygone taste, a few actions worth remembering, and a few children who have retained some happy stamp from the disposition of their parents."
+  },
+  "omitted_non_content": [
+    "Source website navigation, catalogues, later editorial commentary, folios and publisher boilerplate."
+  ],
+  "extraction_status": "complete source boundaries identified; limited spot review",
+  "translation_status": "complete paragraph coverage; machine draft, limited spot review"
+}

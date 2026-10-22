@@ -1,0 +1,107 @@
+{
+  "paper": {
+    "id": "lynd-ignorance",
+    "candidate_number": 55,
+    "title": "The Pleasures of Ignorance",
+    "zh_title": "无知的乐趣",
+    "author": "Robert Lynd",
+    "category": "文学与思想",
+    "source": "https://www.gutenberg.org/cache/epub/13448/pg13448-images.html",
+    "visible": true,
+    "status": "bilingual-complete-draft",
+    "kind": "full",
+    "year": 1921,
+    "original_language": "en",
+    "folder": "The Pleasures of Ignorance 1921",
+    "author_death_year": 1949,
+    "rights_jurisdiction": "mainland China",
+    "rights": "Original literary work beyond the mainland-China life-plus-50 term as of 2026; no assertion of worldwide public-domain status. Only original author text and newly generated Chinese translation are included.",
+    "rights_term_reference": "https://www.ncac.gov.cn/xxfb/flfg/flfg_532/202103/t20210309_50530.html",
+    "scope": "complete-essay",
+    "translation_status": "complete paragraph coverage; machine draft, limited spot review",
+    "source_acquisition": "assistant-retrieved-original",
+    "completeness": "all source body blocks retained; source boundaries and paragraph coverage checked"
+  },
+  "scope": "complete-essay",
+  "original_language": "en",
+  "source_format": "html",
+  "source_sha256": "26f3976ebbac996f5a69a49410c16dc72f62e4d463fc0d93bd809340b62904e2",
+  "source_url": "https://www.gutenberg.org/cache/epub/13448/pg13448-images.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "en": "It is impossible to take a walk in the country with an average townsman—especially, perhaps, in April or May—without being amazed at the vast continent of his ignorance. It is impossible to take a walk in the country oneself without being amazed at the vast continent of one's own ignorance. Thousands of men and women live and die without knowing the difference between a beech and an elm, between the song of a thrush and the song of a blackbird. Probably in a modern city the man who can distinguish between a thrush's and a blackbird's song is the exception. It is not that we have not seen the birds. It is simply that we have not noticed them. We have been surrounded by birds all our lives, yet so feeble is our observation that many of us could not tell whether or not the chaffinch sings, or the colour of the cuckoo. We argue like small boys as to whether the cuckoo always sings as he flies or sometimes in the branches of a tree—whether Chapman drew on his fancy or his knowledge of nature in the lines:",
+      "source_anchor": "id00039",
+      "id": "S001",
+      "order": 0,
+      "zh": "和一个普通的城镇居民一起在乡间散步——尤其是在四月或五月——不可能不惊叹于他对这片广阔大陆的无知。自己在乡下散步时，不可能不对自己无知的广阔大陆感到惊讶。成千上万的男人和女人在生和死时都不知道山毛榉和榆树、画眉鸟和黑鸟的歌声之间的区别。也许在现代城市里，能区分画眉鸟和黑鸟鸣叫的人是个例外。我们并不是没有见过鸟。只是我们没有注意到它们。我们一生都被鸟类包围着，但我们的观察力是如此微弱，以至于我们中的许多人无法分辨苍头燕雀是否在唱歌，或者杜鹃的颜色。我们像小男孩一样争论布谷鸟是否总是在飞翔时唱歌，或者有时在树枝上唱歌——查普曼是否在诗句中借鉴了他的想象力或他对自然的了解：",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "When in the oak's green arms the cuckoo sings, And first delights men in the lovely springs.",
+      "source_anchor": "id00040",
+      "id": "S002",
+      "order": 1,
+      "zh": "当杜鹃在橡树的绿色怀抱中歌唱时，首先使人们在可爱的泉水中感到高兴。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "This ignorance, however, is not altogether miserable. Out of it we get the constant pleasure of discovery. Every fact of nature comes to us each spring, if only we are sufficiently ignorant, with the dew still on it. If we have lived half a lifetime without having ever even seen a cuckoo, and know it only as a wandering voice, we are all the more delighted at the spectacle of its runaway flight as it hurries from wood to wood conscious of its crimes, and at the way in which it halts hawk-like in the wind, its long tail quivering, before it dares descend on a hill-side of fir-trees where avenging presences may lurk. It would be absurd to pretend that the naturalist does not also find pleasure in observing the life of the birds, but his is a steady pleasure, almost a sober and plodding occupation, compared to the morning enthusiasm of the man who sees a cuckoo for the first time, and, behold, the world is made new.",
+      "source_anchor": "id00041",
+      "id": "S003",
+      "order": 2,
+      "zh": "然而，这种无知并不完全是悲惨的。我们从中不断获得发现的乐趣。每年春天，大自然的每一个事实都会降临到我们身上，只要我们足够无知，露珠还留在上面。如果我们半辈子都没有见过杜鹃，只知道它是一种徘徊的声音，那么当它意识到自己的罪行，从一个树林匆匆忙忙地从一个树林赶到另一个树林时，我们会更加高兴地看到它逃跑的景象，以及它在敢于降落在可能潜伏着复仇者的山坡上之前，像鹰一样在风中停下来，长长的尾巴颤抖着。假装博物学家在观察鸟类的生活中找不到乐趣是荒谬的，但他的乐趣是一种稳定的乐趣，几乎是一种清醒而乏味的职业，与第一次看到杜鹃的人早上的热情相比，看哪，世界已焕然一新。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "And, as to that, the happiness even of the naturalist depends in some measure upon his ignorance, which still leaves him new worlds of this kind to conquer. He may have reached the very Z of knowledge in the books, but he still feels half ignorant until he has confirmed each bright particular with his eyes. He wishes with his own eyes to see the female cuckoo—rare spectacle!—as she lays her egg on the ground and takes it in her bill to the nest in which it is destined to breed infanticide. He would sit day after day with a field-glass against his eyes in order personally to endorse or refute the evidence suggesting that the cuckoo does lay on the ground and not in a nest. And, if he is so far fortunate as to discover this most secretive of birds in the very act of laying, there still remain for him other fields to conquer in a multitude of such disputed questions as whether the cuckoo's egg is always of the same colour as the other eggs in the nest in which she abandons it. Assuredly the men of science have no reason as yet to weep over their lost ignorance. If they seem to know everything, it is only because you and I know almost nothing. There will always be a fortune of ignorance waiting for them under every fact they turn up. They will never know what song the Sirens sang to Ulysses any more than Sir Thomas Browne did.",
+      "source_anchor": "id00042",
+      "id": "S004",
+      "order": 3,
+      "zh": "就这一点而言，即使是博物学家的幸福在某种程度上也取决于他的无知，这仍然给他留下了这样的新世界需要征服。他或许已经达到了书本上知识的最高点，但在用眼睛确认每一个亮点之前，他仍然感觉自己一无所知。他希望亲眼目睹雌性杜鹃——罕见的奇观！——当她把蛋产在地上，并用嘴把它带到巢中时，它注定会在巢中滋生杀婴行为。他日复一日地坐着，用望远镜抵住眼睛，以便亲自认可或反驳表明杜鹃确实躺在地上而不是在巢中的证据。而且，如果他有幸在产蛋过程中发现了这种最神秘的鸟类，那么在许多有争议的问题上，他仍然还有其他领域需要征服，例如布谷鸟的蛋是否总是与她遗弃的巢中的其他蛋颜色相同。毫无疑问，科学家们还没有理由为他们失去的无知而哭泣。如果他们看起来无所不知，那只是因为你我几乎一无所知。在他们发现的每一个事实下，总会有大量的无知在等待着他们。他们永远不会像托马斯·布朗爵士那样知道塞壬给尤利西斯唱的是什么歌。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "If I have called in the cuckoo to illustrate the ordinary man's ignorance, it is not because I can speak with authority on that bird. It is simply because, passing the spring in a parish that seemed to have been invaded by all the cuckoos of Africa, I realised how exceedingly little I, or anybody else I met, knew about them. But your and my ignorance is not confined to cuckoos. It dabbles in all created things, from the sun and moon down to the names of the flowers. I once heard a clever lady asking whether the new moon always appears on the same day of the week. She added that perhaps it is better not to know, because, if one does not know when or in what part of the sky to expect it, its appearance is always a pleasant surprise. I fancy, however, the new moon always comes as a surprise even to those who are familiar with her time-tables. And it is the same with the coming in of spring and the waves of the flowers. We are not the less delighted to find an early primrose because we are sufficiently learned in the services of the year to look for it in March or April rather than in October. We know, again, that the blossom precedes and not succeeds the fruit of the apple-tree, but this does not lessen our amazement at the beautiful holiday of a May orchard.",
+      "source_anchor": "id00043",
+      "id": "S005",
+      "order": 4,
+      "zh": "如果我叫来杜鹃是为了说明普通人的无知，那并不是因为我可以权威地谈论那只鸟。这只是因为，在一个似乎被非洲所有杜鹃入侵的教区经过春天时，我意识到我或我遇到的其他人对它们的了解是多么的少。但你我的无知并不仅限于杜鹃。它涉及一切受造之物，从太阳和月亮到花的名字。我曾经听到一位聪明的女士问新月是否总是出现在一周的同一天。她补充说，也许最好不要知道，因为如果人们不知道何时或在天空的哪个部分期待它，它的出现总是令人惊喜。然而，我想，即使对于那些熟悉她的时间表的人来说，新月也总是让人感到惊讶。春天来了，花团锦簇也是如此。我们对发现早报春花同样感到高兴，因为我们对一年中的服务有足够的了解，可以在三月或四月而不是十月寻找它。我们再次知道，苹果树的花朵先于而不是随后结出果实，但这并没有减少我们对五月果园的美丽假期的惊叹。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "At the same time there is, perhaps, a special pleasure in re-learning the names of many of the flowers every spring. It is like re-reading a book that one has almost forgotten. Montaigne tells us that he had so bad a memory that he could always read an old book as though he had never read it before. I have myself a capricious and leaking memory. I can read Hamlet itself and The Pickwick Papers as though they were the work of new authors and had come wet from the press, so much of them fades between one reading and another. There are occasions on which a memory of this kind is an affliction, especially if one has a passion for accuracy. But this is only when life has an object beyond entertainment. In respect of mere luxury, it may be doubted whether there is not as much to be said for a bad memory as for a good one. With a bad memory one can go on reading Plutarch and The Arabian Nights all one's life. Little shreds and tags, it is probable, will stick even in the worst memory, just as a succession of sheep cannot leap through a gap in a hedge without leaving a few wisps of wool on the thorns. But the sheep themselves escape, and the great authors leap in the same way out of an idle memory and leave little enough behind.",
+      "source_anchor": "id00044",
+      "id": "S006",
+      "order": 5,
+      "zh": "与此同时，每年春天重新学习许多花的名字也许会带来一种特别的乐趣。这就像重读一本几乎已经忘记的书。蒙田告诉我们，他的记忆力很差，以至于他总是能读一本旧书，就好像他以前从未读过一样。我自己的记忆力反复无常且容易泄露。我可以阅读《哈姆雷特》本身和《匹克威克外传》，就好像它们是新作者的作品，并且是从媒体上湿透的，所以它们中的很多在一次阅读和另一次阅读之间消失了。有时，这种记忆是一种痛苦，特别是当一个人对准确性充满热情时。但这只是当生活有一个超越娱乐的目标时。就纯粹的奢侈而言，人们可能会怀疑，坏记忆是否不如好记忆那么值得说。记性不好的人可以读一辈子《普鲁塔克》和《天方夜谭》。即使在最糟糕的记忆中，小碎片和标签也很可能会留下来，就像一群羊无法跳过树篱的缝隙而不在荆棘上留下几缕羊毛一样。但羊自己却逃脱了，伟大的作家也以同样的方式从闲置的记忆中跳出来，留下的东西也很少。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "And, if we can forget books, it is as easy to forget the months and what they showed us, when once they are gone. Just for the moment I tell myself that I know May like the multiplication table and could pass an examination on its flowers, their appearance and their order. To-day I can affirm confidently that the buttercup has five petals. (Or is it six? I knew for certain last week.) But next year I shall probably have forgotten my arithmetic, and may have to learn once more not to confuse the buttercup with the celandine. Once more I shall see the world as a garden through the eyes of a stranger, my breath taken away with surprise by the painted fields. I shall find myself wondering whether it is science or ignorance which affirms that the swift (that black exaggeration of the swallow and yet a kinsman of the humming-bird) never settles even on a nest, but disappears at night into the heights of the air. I shall learn with fresh astonishment that it is the male, and not the female, cuckoo that sings. I may have to learn again not to call the campion a wild geranium, and to rediscover whether the ash comes early or late in the etiquette of the trees. A contemporary English novelist was once asked by a foreigner what was the most important crop in England. He answered without a moment's hesitation: \"Rye.\" Ignorance so complete as this seems to me to be touched with magnificence; but the ignorance even of illiterate persons is enormous. The average man who uses a telephone could not explain how a telephone works. He takes for granted the telephone, the railway train, the linotype, the aeroplane, as our grandfathers took for granted the miracles of the gospels. He neither questions nor understands them. It is as though each of us investigated and made his own only a tiny circle of facts. Knowledge outside the day's work is regarded by most men as a gewgaw. Still we are constantly in reaction against our ignorance. We rouse ourselves at intervals and speculate. We revel in speculations about anything at all—about life after death or about such questions as that which is said to have puzzled Aristotle, \"why sneezing from noon to midnight was good, but from night to noon unlucky.\" One of the greatest joys known to man is to take such a flight into ignorance in search of knowledge. The great pleasure of ignorance is, after all, the pleasure of asking questions. The man who has lost this pleasure or exchanged it for the pleasure of dogma, which is the pleasure of answering, is already beginning to stiffen. One envies so inquisitive a man as Jowett, who sat down to the study of physiology in his sixties. Most of us have lost the sense of our ignorance long before that age. We even become vain of our squirrel's hoard of knowledge and regard increasing age itself as a school of omniscience. We forget that Socrates was famed for wisdom not because he was omniscient but because he realised at the age of seventy that he still knew nothing.",
+      "source_anchor": "id00045",
+      "id": "S007",
+      "order": 6,
+      "zh": "而且，如果我们能忘记书籍，那么当它们消失后，我们也很容易忘记那些月份和它们向我们展示的内容。就在那一刻，我告诉自己，我知道梅喜欢乘法口诀表，并且可以通过对它的花朵、它们的外观和它们的顺序的检查。今天我可以自信地肯定毛茛有五片花瓣。 （或者是六？我上周就确定了。）但是明年我可能会忘记我的算术，并且可能必须再次学习不要将毛茛与白屈菜混淆。我将再次通过陌生人的眼睛看到世界就像一座花园，我的呼吸因彩绘田野而惊讶。我会发现自己在想，到底是科学还是无知，证实了雨燕（燕子的黑色夸张，但却是蜂鸟的近亲）甚至从未在巢上定居，而是在夜间消失在空中的高处。我将惊讶地发现，唱歌的是雄杜鹃，而不是雌杜鹃。我可能必须再次学习不要将坎皮恩称为野生天竺葵，并重新发现灰烬在树木礼仪中是早来还是晚来。一位当代英国小说家曾经被一个外国人问英国最重要的农作物是什么。他毫不犹豫地回答：“黑麦。”在我看来，如此彻底的无知是令人惊叹的。但即使是文盲，其无知也是巨大的。使用电话的普通人无法解释电话的工作原理。他认为电话、火车、火车是理所当然的。排字机，飞机，我们的祖父认为福音书的奇迹是理所当然的。他既不提问也不理解它们。就好像我们每个人都调查并创造了自己的一小部分事实。大多数人认为日常工作之外的知识是无稽之谈。但我们仍然不断地对自己的无知做出反应。我们时不时地唤醒自己并进行推测。我们沉迷于对任何事情的猜测——关于死后的生命，或者关于据说让亚里士多德困惑的问题，“为什么从中午打喷嚏到午夜是好的，但从晚上到中午打喷嚏是不吉利的。”人类最大的乐趣之一就是飞向无知去寻求知识。毕竟，无知的巨大乐趣就是提出问题的乐趣。失去这种快乐或者用教条的快乐（即回答的快乐）来换取这种快乐的人，已经开始变得僵硬了。人们羡慕像乔伊特这样好奇的人，他在六十多岁的时候就坐下来研究生理学。早在那个时代之前，我们大多数人就已经失去了自己的无知感。我们甚至对我们的松鼠知识宝库感到自负，并认为年龄的增长本身就是一所无所不知的学校。我们忘记了苏格拉底以智慧闻名，并不是因为他无所不知，而是因为他在七十岁时意识到自己仍然一无所知。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    }
+  ],
+  "glossary": {},
+  "coverage": {
+    "blocks": 7,
+    "source_characters": 8873,
+    "source_beginning": "It is impossible to take a walk in the country with an average townsman—especially, perhaps, in April or May—without being amazed at the vast continen",
+    "source_ending": "d increasing age itself as a school of omniscience. We forget that Socrates was famed for wisdom not because he was omniscient but because he realised at the age of seventy that he still knew nothing."
+  },
+  "omitted_non_content": [
+    "Source website navigation, catalogues, later editorial commentary, folios and publisher boilerplate."
+  ],
+  "extraction_status": "complete source boundaries identified; limited spot review",
+  "translation_status": "complete paragraph coverage; machine draft, limited spot review"
+}

@@ -1,0 +1,755 @@
+{
+  "paper": {
+    "id": "twain-telephone",
+    "candidate_number": 62,
+    "title": "A Telephonic Conversation",
+    "zh_title": "一场电话交谈",
+    "author": "Mark Twain",
+    "category": "文学与思想",
+    "source": "https://www.gutenberg.org/cache/epub/142/pg142-images.html",
+    "visible": true,
+    "status": "bilingual-complete-draft",
+    "kind": "full",
+    "year": 1880,
+    "original_language": "en",
+    "folder": "A Telephonic Conversation 1880",
+    "author_death_year": 1910,
+    "rights_jurisdiction": "mainland China",
+    "rights": "Original literary work beyond the mainland-China life-plus-50 term as of 2026; no assertion of worldwide public-domain status. Only original author text and newly generated Chinese translation are included.",
+    "rights_term_reference": "https://www.ncac.gov.cn/xxfb/flfg/flfg_532/202103/t20210309_50530.html",
+    "scope": "complete-essay",
+    "translation_status": "complete paragraph coverage; machine draft, limited spot review",
+    "source_acquisition": "assistant-retrieved-original",
+    "completeness": "all source body blocks retained; source boundaries and paragraph coverage checked"
+  },
+  "scope": "complete-essay",
+  "original_language": "en",
+  "source_format": "html",
+  "source_sha256": "cfa000ba48d79da42b8b4df01b70bb35e208a32210c8f010d13c390a68ce4d90",
+  "source_url": "https://www.gutenberg.org/cache/epub/142/pg142-images.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "en": "Consider that a conversation by telephone—when you are simply sitting by and not taking any part in that conversation—is one of the solemnest curiosities of modern life. Yesterday I was writing a deep article on a sublime philosophical subject while such a conversation was going on in the room. I notice that one can always write best when somebody is talking through a telephone close by. Well, the thing began in this way. A member of our household came in and asked me to have our house put into communication with Mr. Bagley's downtown. I have observed, in many cities, that the sex always shrink from calling up the central office themselves. I don't know why, but they do. So I touched the bell, and this talk ensued:",
+      "source_anchor": null,
+      "id": "S001",
+      "order": 0,
+      "zh": "想象一下，电话交谈——当你只是坐在旁边，不参与任何谈话——是现代生活中最庄严的好奇心之一。昨天，当我在房间里进行这样的对话时，我正在写一篇关于崇高哲学主题的深入文章。我注意到，当有人在附近打电话时，一个人总是能写得最好。嗯，事情就这样开始了。我们家里的一位成员进来要求我让我们的房子与巴格利先生的市中心保持联系。我观察到，在许多城市，男性总是不敢亲自给中央办公室打电话。我不知道为什么，但他们就是这么做的。于是我按响了门铃，接下来就是这样的谈话：",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Central Office. (Gruffly.) Hello!",
+      "source_anchor": null,
+      "id": "S002",
+      "order": 1,
+      "zh": "中央办公厅。 （粗声粗气）喂！",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "I. Is it the Central Office?",
+      "source_anchor": null,
+      "id": "S003",
+      "order": 2,
+      "zh": "一、是中央办公厅吗？",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "C. O. Of course it is. What do you want?",
+      "source_anchor": null,
+      "id": "S004",
+      "order": 3,
+      "zh": "C.O.当然是这样。你想要什么？",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "I. Will you switch me on to the Bagleys, please?",
+      "source_anchor": null,
+      "id": "S005",
+      "order": 4,
+      "zh": "I. 请帮我转接巴格利一家好吗？",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "C. O. All right. Just keep your ear to the telephone.",
+      "source_anchor": null,
+      "id": "S006",
+      "order": 5,
+      "zh": "C.O. 好吧。只要专心听电话即可。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Then I heard k-look, k-look, k'look—klook-klook-klook-look-look! then a horrible “gritting” of teeth, and finally a piping female voice: Y-e-s? (Rising inflection.) Did you wish to speak to me?",
+      "source_anchor": null,
+      "id": "S007",
+      "order": 6,
+      "zh": "然后我听到k-look，k-look，k'look——klook-klook-klook-look-look！然后是可怕的“咬牙切齿”声，最后是尖锐的女声：是-是-是吗？ （语调上升）你想和我说话吗？",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Without answering, I handed the telephone to the applicant, and sat down. Then followed that queerest of all the queer things in this world—a conversation with only one end to it. You hear questions asked; you don't hear the answer. You hear invitations given; you hear no thanks in return. You have listening pauses of dead silence, followed by apparently irrelevant and unjustifiable exclamations of glad surprise or sorrow or dismay. You can't make head or tail of the talk, because you never hear anything that the person at the other end of the wire says. Well, I heard the following remarkable series of observations, all from the one tongue, and all shouted—for you can't ever persuade the sex to speak gently into a telephone:",
+      "source_anchor": null,
+      "id": "S008",
+      "order": 7,
+      "zh": "我没有回答，就把电话递给了应聘者，然后坐下来。接下来是这个世界上最奇怪的事情——一场只有一个结局的对话。你会听到有人提出问题；你听不到答案。你听到发出的邀请；你没有听到任何感谢的回报。你会听到死一般寂静的停顿，然后是明显不相干、毫无道理的惊呼、惊喜、悲伤或沮丧。你无法弄清楚谈话的要点，因为你永远听不到电话另一端的人说的任何话。好吧，我听到了以下一系列引人注目的观察结果，全部来自同一个舌头，而且全部都是喊叫的——因为你永远无法说服性别对着电话温柔地说：",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Yes? Why, how did that happen?",
+      "source_anchor": null,
+      "id": "S009",
+      "order": 8,
+      "zh": "是吗？为什么，这是怎么发生的？",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S010",
+      "order": 9,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "What did you say?",
+      "source_anchor": null,
+      "id": "S011",
+      "order": 10,
+      "zh": "你说什么？",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S012",
+      "order": 11,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Oh no, I don't think it was.",
+      "source_anchor": null,
+      "id": "S013",
+      "order": 12,
+      "zh": "哦，不，我不认为是这样。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S014",
+      "order": 13,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "No! Oh no, I didn't mean that. I meant, put it in while it is still boiling—or just before it comes to a boil.",
+      "source_anchor": null,
+      "id": "S015",
+      "order": 14,
+      "zh": "不！哦不，我不是那个意思。我的意思是，在它还在沸腾的时候——或者在它即将沸腾之前——把它放进去。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S016",
+      "order": 15,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "What?",
+      "source_anchor": null,
+      "id": "S017",
+      "order": 16,
+      "zh": "什么？",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S018",
+      "order": 17,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "I turned it over with a backstitch on the selvage edge.",
+      "source_anchor": null,
+      "id": "S019",
+      "order": 18,
+      "zh": "我把它翻过来，在布边边缘缝了一道倒缝。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S020",
+      "order": 19,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Yes, I like that way, too; but I think it's better to baste it on with Valenciennes or bombazine, or something of that sort. It gives it such an air—and attracts so much noise.",
+      "source_anchor": null,
+      "id": "S021",
+      "order": 20,
+      "zh": "是的，我也喜欢这样；但我认为最好涂上瓦朗谢纳或棉纱或类似的东西。它赋予它如此的空气，并吸引如此多的噪音。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S022",
+      "order": 21,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "It's forty-ninth Deuteronomy, sixty-forth to ninety-seventh inclusive. I think we ought all to read it often.",
+      "source_anchor": null,
+      "id": "S023",
+      "order": 22,
+      "zh": "这是申命记第四十九章，六十四到九十七章（含）。我认为我们都应该经常阅读它。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S024",
+      "order": 23,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Perhaps so; I generally use a hair pin.",
+      "source_anchor": null,
+      "id": "S025",
+      "order": 24,
+      "zh": "也许是这样；我一般用发夹。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S026",
+      "order": 25,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "What did you say? (_Aside_.) Children, do be quiet!",
+      "source_anchor": null,
+      "id": "S027",
+      "order": 26,
+      "zh": "你说什么？ （_旁白_。） 孩子们，请安静！",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause",
+      "source_anchor": null,
+      "id": "S028",
+      "order": 27,
+      "zh": "暂停",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Oh! B flat! Dear me, I thought you said it was the cat!",
+      "source_anchor": null,
+      "id": "S029",
+      "order": 28,
+      "zh": "哦！降B！天哪，我以为你说那是猫！",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S030",
+      "order": 29,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Since when?",
+      "source_anchor": null,
+      "id": "S031",
+      "order": 30,
+      "zh": "从什么时候开始？",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S032",
+      "order": 31,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Why, I never heard of it.",
+      "source_anchor": null,
+      "id": "S033",
+      "order": 32,
+      "zh": "为什么，我从来没有听说过。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S034",
+      "order": 33,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "You astound me! It seems utterly impossible!",
+      "source_anchor": null,
+      "id": "S035",
+      "order": 34,
+      "zh": "你让我惊讶！看来根本不可能啊！",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S036",
+      "order": 35,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Who did?",
+      "source_anchor": null,
+      "id": "S037",
+      "order": 36,
+      "zh": "谁干的？",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S038",
+      "order": 37,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Good-ness gracious!",
+      "source_anchor": null,
+      "id": "S039",
+      "order": 38,
+      "zh": "天哪！",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S040",
+      "order": 39,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Well, what is this world coming to? Was it right in church?",
+      "source_anchor": null,
+      "id": "S041",
+      "order": 40,
+      "zh": "那么，这个世界将会变成什么样子呢？是在教堂里吗？",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S042",
+      "order": 41,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "And was her mother there?",
+      "source_anchor": null,
+      "id": "S043",
+      "order": 42,
+      "zh": "她妈妈在吗？",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S044",
+      "order": 43,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Why, Mrs. Bagley, I should have died of humiliation! What did they do?",
+      "source_anchor": null,
+      "id": "S045",
+      "order": 44,
+      "zh": "为什么，巴格利夫人，我应该羞辱而死！他们做了什么？",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Long pause.",
+      "source_anchor": null,
+      "id": "S046",
+      "order": 45,
+      "zh": "长时间的停顿。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "I can't be perfectly sure, because I haven't the notes by me; but I think it goes something like this: te-rolly-loll-loll, loll lolly-loll-loll, O tolly-loll-loll-lee-ly-li-i-do! And then repeat, you know.",
+      "source_anchor": null,
+      "id": "S047",
+      "order": 46,
+      "zh": "我不能完全确定，因为我手边没有笔记；但我认为它是这样的：te-rolly-loll-loll，loll lolly-loll-loll，O tolly-loll-loll-lee-ly-li-i-do！然后重复一遍，你知道的。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S048",
+      "order": 47,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Yes, I think it is very sweet—and very solemn and impressive, if you get the andantino and the pianissimo right.",
+      "source_anchor": null,
+      "id": "S049",
+      "order": 48,
+      "zh": "是的，我认为它非常甜蜜，而且非常庄严和令人印象深刻，如果你正确地掌握了行板和弱音的话。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S050",
+      "order": 49,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Oh, gum-drops, gum-drops! But I never allow them to eat striped candy. And of course they can't, till they get their teeth, anyway.",
+      "source_anchor": null,
+      "id": "S051",
+      "order": 50,
+      "zh": "哦，口香糖，口香糖！但我从来不让他们吃条纹糖。当然，无论如何，他们不能，直到他们长出牙齿为止。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S052",
+      "order": 51,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "What?",
+      "source_anchor": null,
+      "id": "S053",
+      "order": 52,
+      "zh": "什么？",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S054",
+      "order": 53,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Oh, not in the least—go right on. He's here writing—it doesn't bother him.",
+      "source_anchor": null,
+      "id": "S055",
+      "order": 54,
+      "zh": "哦，一点也不——继续吧。他在这里写作——这并不困扰他。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S056",
+      "order": 55,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Very well, I'll come if I can. (Aside.) Dear me, how it does tire a person's arm to hold this thing up so long! I wish she'd—",
+      "source_anchor": null,
+      "id": "S057",
+      "order": 56,
+      "zh": "很好，如果可以的话我就来。 （旁白）天哪，一个人的手臂举起这个东西这么久是多么累啊！我希望她——",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S058",
+      "order": 57,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Oh no, not at all; I like to talk—but I'm afraid I'm keeping you from your affairs.",
+      "source_anchor": null,
+      "id": "S059",
+      "order": 58,
+      "zh": "噢，不，一点也不；我喜欢说话——但恐怕我不让你插手你的事务。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S060",
+      "order": 59,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Visitors?",
+      "source_anchor": null,
+      "id": "S061",
+      "order": 60,
+      "zh": "访客？",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S062",
+      "order": 61,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "No, we never use butter on them.",
+      "source_anchor": null,
+      "id": "S063",
+      "order": 62,
+      "zh": "不，我们从不在上面使用黄油。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S064",
+      "order": 63,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Yes, that is a very good way; but all the cook-books say they are very unhealthy when they are out of season. And he doesn't like them, anyway—especially canned.",
+      "source_anchor": null,
+      "id": "S065",
+      "order": 64,
+      "zh": "是的，这是一个很好的方法；但所有的烹饪书都说反季节的食物非常不健康。无论如何，他不喜欢它们——尤其是罐装的。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S066",
+      "order": 65,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Oh, I think that is too high for them; we have never paid over fifty cents a bunch.",
+      "source_anchor": null,
+      "id": "S067",
+      "order": 66,
+      "zh": "哦，我认为这对他们来说太高了；我们从来没有付过超过五十美分的钱。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S068",
+      "order": 67,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Must you go? Well, good-by.",
+      "source_anchor": null,
+      "id": "S069",
+      "order": 68,
+      "zh": "你必须走吗？嗯，再见。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S070",
+      "order": 69,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Yes, I think so. good-by.",
+      "source_anchor": null,
+      "id": "S071",
+      "order": 70,
+      "zh": "是的，我想是的。再见。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S072",
+      "order": 71,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Four o'clock, then—I'll be ready. good-by.",
+      "source_anchor": null,
+      "id": "S073",
+      "order": 72,
+      "zh": "那么四点钟——我就准备好了。再见。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S074",
+      "order": 73,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Thank you ever so much. good-by.",
+      "source_anchor": null,
+      "id": "S075",
+      "order": 74,
+      "zh": "非常感谢你。再见。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Pause.",
+      "source_anchor": null,
+      "id": "S076",
+      "order": 75,
+      "zh": "暂停。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Oh, not at all!—just as fresh—which? Oh, I'm glad to hear you say that. Good-by.",
+      "source_anchor": null,
+      "id": "S077",
+      "order": 76,
+      "zh": "哦，一点也不！——同样新鲜——哪个？哦，我很高兴听到你这么说。再见。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "(Hangs up the telephone and says, “Oh, it does tire a person's arm so!”)",
+      "source_anchor": null,
+      "id": "S078",
+      "order": 77,
+      "zh": "（挂断电话并说道：“哦，这确实很累人的手臂！”）",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "A man delivers a single brutal “Good-by,” and that is the end of it. Not so with the gentle sex—I say it in their praise; they cannot abide abruptness.",
+      "source_anchor": null,
+      "id": "S079",
+      "order": 78,
+      "zh": "一个男人说了一句残酷的“再见”，事情就结束了。温柔的性却不是这样——我是在赞美她们时这么说的；他们不能忍受唐突。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    }
+  ],
+  "glossary": {},
+  "coverage": {
+    "blocks": 79,
+    "source_characters": 4446,
+    "source_beginning": "Consider that a conversation by telephone—when you are simply sitting by and not taking any part in that conversation—is one of the solemnest curiosit",
+    "source_ending": "A man delivers a single brutal “Good-by,” and that is the end of it. Not so with the gentle sex—I say it in their praise; they cannot abide abruptness."
+  },
+  "omitted_non_content": [
+    "Source website navigation, catalogues, later editorial commentary, folios and publisher boilerplate."
+  ],
+  "extraction_status": "complete source boundaries identified; limited spot review",
+  "translation_status": "complete paragraph coverage; machine draft, limited spot review"
+}

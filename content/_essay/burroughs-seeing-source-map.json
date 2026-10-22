@@ -1,0 +1,386 @@
+{
+  "paper": {
+    "id": "burroughs-seeing",
+    "candidate_number": 3,
+    "title": "The Art of Seeing Things",
+    "zh_title": "观看事物的艺术",
+    "author": "John Burroughs",
+    "category": "自然与演化",
+    "source": "https://wehd.com/373/245.html",
+    "visible": true,
+    "status": "bilingual-complete-draft",
+    "kind": "full",
+    "year": 1899,
+    "original_language": "en",
+    "folder": "The Art of Seeing Things 1899",
+    "author_death_year": 1921,
+    "rights_jurisdiction": "mainland China",
+    "rights": "Original literary work beyond the mainland-China life-plus-50 term as of 2026; no assertion of worldwide public-domain status. Only original author text and newly generated Chinese translation are included.",
+    "rights_term_reference": "https://www.ncac.gov.cn/xxfb/flfg/flfg_532/202103/t20210309_50530.html",
+    "scope": "complete-essay",
+    "translation_status": "complete paragraph coverage; machine draft, limited spot review",
+    "source_acquisition": "assistant-retrieved-original",
+    "completeness": "all source body blocks retained; source boundaries and paragraph coverage checked"
+  },
+  "scope": "complete-essay",
+  "original_language": "en",
+  "source_format": "html",
+  "source_sha256": "7f7fd741575c0ef5079a4b3405dd11a51df697c372285610e66b00f1f95674fc",
+  "source_url": "https://wehd.com/373/245.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "en": "I do not purpose to attempt to tell my reader how to see things, but only to talk about the art of seeing things, as one might talk of any other art. One might discourse about the art of poetry, or of painting, or of oratory, without any hope of making his readers or hearers poets or orators.",
+      "source_anchor": null,
+      "id": "S001",
+      "order": 0,
+      "zh": "我无意告诉我的读者如何看待事物，而只是谈论看待事物的艺术，就像人们谈论任何其他艺术一样。一个人可能会谈论诗歌、绘画或演讲的艺术，但没有希望让他的读者或听众成为诗人或演说家。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "The science of anything may be taught or acquired by study; the art of it comes by practice or inspiration. The art of seeing things is something that may be conveyed in rules and precepts; it is a matter vital in the eye and ear, yea, in the mind and soul, of which these are the organs. I have as little hope of being able to tell the reader how to see things as I would have in trying to tell him how to fall in love or to enjoy his dinner. Either he does or he does not, and that is about all there is of it. Some people seem born with eyes in their heads, and others with buttons or painted marbles, and no amount of science can make the one equal to the other in the art of seeing things. The great mass of mankind are, in this respect, like the rank and file of an army: they fire vaguely in the direction of the enemy, and if he is hit it is more a matter of chance than of accurate aim. But here and there is the keen-eyed observer; he is the sharpshooter, his eye selects and discriminates, and his purpose goes to the mark.",
+      "source_anchor": null,
+      "id": "S002",
+      "order": 1,
+      "zh": "任何事物的科学都可以通过学习来教授或获得；它的艺术来自于实践或灵感。看待事物的艺术可以通过规则和戒律来传达；这对眼睛和耳朵来说是至关重要的，是的，对思想和灵魂来说也是至关重要的，而这些是它们的器官。我不太希望能够告诉读者如何看待事物，就像我试图告诉他如何坠入爱河或享受晚餐一样。他要么做，要么不做，仅此而已。有些人似乎生来脑子里就有眼睛，而另一些人则长着纽扣或彩绘弹珠，再多的科学也无法使两者在观察事物的艺术上等同。在这方面，广大人类就像一支军队的普通士兵：他们向敌人的方向模糊地开火，如果敌人被击中，那更多的是偶然性而不是准确的瞄准。但到处都有敏锐的观察者；他是神枪手，他的眼睛进行选择和辨别，他的目的一击即中。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Even the successful angler seems born, and not made; he appears to know instinctively the ways of trout. The secret is, no doubt, love of the sport. He puts something on his hook that attracts stronger than essence or oil, namely, his heart. Love sharpens the eye, the ear, the touch; it quickens the feet, it steadies the hand, it arms against the wet and the cold. What we love to do, that we do well. To know is not all; it is only half. To love is the other half. Wordsworth’s poet was contented if he might enjoy the things which others understood. This is generally the attitude of the young and of the poetic nature. The man of science, on the other hand, is contented if he may understand the things that others enjoy: that is his enjoyment. Contemplation and absorption for the one; investigation and classification for the other. We probably all have, in varying degrees, one or the other of these ways of enjoying nature; either the sympathetic and emotional enjoyment of her which the young and the artistic and the poetic temperament have, or the enjoyment through our knowing faculties afforded by natural science, or it may be the two combined, as they certainly were in such a man as Tyndall.",
+      "source_anchor": null,
+      "id": "S003",
+      "order": 2,
+      "zh": "即使是成功的钓鱼者也似乎是天生的，而不是后天养成的。他似乎本能地了解鳟鱼的生活方式。毫无疑问，秘诀就是对这项运动的热爱。他在钩子上放了某种比香精或油更具吸引力的东西，那就是他的心。爱使眼睛、耳朵、触觉变得敏锐；它使脚加快，使手稳定，使手臂抵御潮湿和寒冷。我们喜欢做的事情，我们就会做得很好。知道并不是全部；这只是一半。爱是另一半。华兹华斯的诗人如果能享受别人理解的事物就心满意足了。这通常是年轻人和诗性人的态度。另一方面，科学家如果能够理解别人享受的事物，他就会感到满足：那就是他的享受。为一的沉思和专注；对方的调查和分类。我们可能都在不同程度上拥有其中一种享受自然的方式；要么是年轻人对她的同情和情感享受，有艺术和诗意的气质，要么是我们通过自然科学所提供的认知能力获得的享受，或者可能是两者的结合，就像廷德尔这样的人身上肯定有的那样。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "But nothing can take the place of love. Love is the measure of life: only so far as we love do we really live. The variety of our interests, the width of our sympathies, the susceptibilities of our hearts—if these do not measure our lives, what does? As the years go by, we are all of us more or less subject to two dangers, the danger of petrifaction and the danger of putrefaction; either that we will become hard and callous, crusted over with customs and conventions till no new ray of light or of joy can reach us, or that we will become lax and disorganized, losing our grip upon the real and vital sources of happiness and power. Now, there is no preservative and antiseptic, nothing that keeps one’s heart young, like love, like sympathy, like giving one’s self with enthusiasm to some worthy thing or cause.",
+      "source_anchor": null,
+      "id": "S004",
+      "order": 3,
+      "zh": "但没有什么可以取代爱。爱是生命的尺度：只有爱，我们才真正活着。我们兴趣的多样性、同情心的广度、内心的敏感性——如果这些都不能衡量我们的生活，那什么才能衡量我们的生活呢？随着岁月的流逝，我们所有人都或多或少地面临着两种危险：石化的危险和腐烂的危险；要么我们会变得冷酷无情，被习俗和习俗所覆盖，直到没有新的光芒或欢乐能够到达我们身上，要么我们会变得松懈和混乱，失去对幸福和力量的真正而重要的源泉的把握。现在，没有防腐剂和防腐剂，没有什么可以让一个人的心保持年轻，比如爱，比如同情，比如把自己热情地奉献给一些有价值的事情或事业。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "If I were to name the three most precious resources of life I should say books, friends, and nature; and the greatest of these, at least the most constant and always at hand, is nature. Nature we have always with us, an inexhaustible storehouse of that which moves the heart, appeals to the mind, and fires the imagination,—health to the body and joy to the soul. To the scientist nature is a storehouse of facts, laws, processes; to the artist she is a storehouse of pictures; to the poet she is a storehouse of images, fancies, a source of inspiration; to the moralist she is a storehouse of precepts and parables; to all she may be a source of knowledge and joy.",
+      "source_anchor": null,
+      "id": "S005",
+      "order": 4,
+      "zh": "如果要我说出生命中最宝贵的三种资源，我会说书籍、朋友和大自然；其中最伟大的，至少是最恒定的和始终存在的，就是自然。大自然始终与我们同在，它是一个取之不尽、用之不竭的宝库，蕴藏着感动人心、吸引心灵、激发想象力的东西——给身体带来健康，给灵魂带来欢乐。对于科学家来说，大自然是事实、规律、过程的宝库。对于艺术家来说，她是一座图画的宝库；对于诗人来说，她是意象、幻想的宝库，是灵感的源泉。对于道德家来说，她是一座戒律和寓言的宝库；对于所有人来说，她可能是知识和欢乐的源泉。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "There is nothing in which people differ more than in their powers of observation. Some are only half alive to what is going on without them and beside them. Others, again, are keenly alive; their intelligence, their powers of recognition, are in full force in eye and ear at all times. They see and hear everything, whether it directly concerns them or not. They never pass unseen a familiar face on the street; they are never oblivious of any interesting feature or sound or object in the earth or sky about them. Their power of attention is always on the alert, not by conscious effort, but by natural habit and disposition. Their perceptive faculties may be said to be always on duty. They turn to the outward world a more highly sensitivized mind than other people. The things that pass before them are caught and individualized instantly. If they visit new countries they see the characteristic features of the people and scenery at once. The impression is never blurred or confused. Their powers of observation suggest the sight and scent of wild animals; only, whereas it is fear that sharpens the one, it is love and curiosity that sharpens the other. The mother turkey with her brood sees the hawk when it is a mere speck against the sky; she is, in her solicitude for her young, thinking of hawks, and is on her guard against them. Fear makes keen her eye. The hunter does not see the hawk till his attention is thus called to it by the turkey, because his interests are not endangered; but he outsees the wild creatures of the plain and mountain,—the elk, the antelope, and the mountain sheep,—he makes it his business to look for them, and his eye carries further than do theirs.",
+      "source_anchor": null,
+      "id": "S006",
+      "order": 5,
+      "zh": "人们的差异最大的莫过于观察力的差异。有些人对没有他们和在他们身边发生的事情半知半解。其他人则同样充满活力。他们的智慧，他们的识别能力，在任何时候都在眼睛和耳朵中充分发挥作用。他们看到并听到一切，无论是否与他们直接相关。他们在街上从来不会忽视熟悉的面孔；他们永远不会忘记周围地球或天空中任何有趣的特征、声音或物体。他们的注意力总是处于警觉状态，这不是通过有意识的努力，而是通过自然的习惯和性格。他们的感知能力可以说是时刻待命的。他们对外部世界的敏感度比其他人更高。在他们面前经过的事物会立即被捕捉并个性化。如果他们访问新的国家，他们会立即看到那里的人民和风景的特色。印象永远不会模糊或混乱。他们的观察能力暗示着野生动物的视觉和气味；只是，恐惧使一方变得更加尖锐，而爱和好奇心则使另一方更加尖锐。火鸡妈妈和她的孩子看到鹰时，它只是天空中的一个小斑点；她在关心自己的孩子时，想到了鹰，并对它们保持警惕。恐惧使她的眼睛变得敏锐。直到火鸡引起猎人的注意时，猎人才会看到鹰，因为他的利益并没有受到威胁；但他看不到平原和山区的野生动物——麋鹿、羚羊和山地羊——他以寻找它们为己任，他的目光比他们的目光走得更远。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "We may see coarsely and vaguely, as most people do, noting only masses and unusual appearances, or we may see finely and discriminatingly, taking in the minute and the specific. In a collection of stuffed birds, the other day, I observed that a wood thrush was mounted as in the act of song, its open beak pointing straight to the zenith. The taxidermist had not seen truly. The thrush sings with its beak but slightly elevated. Who has not seen a red squirrel or a gray squirrel running up and down the trunk of a tree? But probably very few have noticed that the position of the hind feet is the reverse in the one case from what it is in the other. In descending they are extended to the rear, the toe nails hooking to the bark, checking and controlling the fall. In most pictures the feet are shown well drawn up under the body in both cases.",
+      "source_anchor": null,
+      "id": "S007",
+      "order": 6,
+      "zh": "我们可能会像大多数人那样粗略而模糊地观察，只注意到大量和不寻常的外观，或者我们可能会精细而有辨别力地观察，考虑到分钟和具体情况。前几天，我在一组鸟类标本中观察到，一只画眉鸟被架在空中，就像在唱歌一样，它张开的喙直指天顶。标本剥制师并没有真正看到。画眉鸟用喙歌唱，但喙稍稍抬起。谁没见过红松鼠或灰松鼠在树干上跑来跑去？但可能很少有人注意到后脚的位置在一种情况下与在另一种情况下是相反的。在下降时，它们会向后延伸，脚趾甲钩在树皮上，以阻止和控制坠落。在大多数图片中，在这两种情况下，脚都被很好地画在身体下方。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "People who discourse pleasantly and accurately about birds and flowers and external nature generally are not therefore good observers. In their walks do they see anything they did not come out to see? Is there any spontaneous or unpremeditated seeing? Do they make discoveries? Any bird or creature may be hunted down, any nest discovered if you lay siege to it; but to find what you are not looking for, to catch the shy winks and gestures on every side, to see all the by-play going on around you, missing no significant note or movement, penetrating every screen with your eye-beams—that is to be an observer; that is to have “an eye practiced like a blind man’s touch,”—a touch that can distinguish a white horse from a black,—a detective eye that reads the faintest signs. When Thoreau was at Cape Cod he noticed that the horses there had a certain muscle in their hips inordinately developed by reason of the insecure footing in the ever-yielding sand. Thoreau’s vision at times fitted things closely. During some great fête in Paris, the Empress Eugenie and Queen Victoria were both present. A reporter noticed that when the royal personages came to sit down Eugenie looked behind her before doing so, to see that the chair was really there, but Victoria seated herself without the backward glance, knowing there must be a seat ready for her: there always had been and there always would be. The correspondent inferred that the incident showed the difference between born royalty and hastily made royalty. I wonder how many persons in that vast assembly made this observation; probably very few. It denoted a gift for seeing things.",
+      "source_anchor": null,
+      "id": "S008",
+      "order": 7,
+      "zh": "因此，那些愉快而准确地谈论鸟花和外部自然的人通常都不是好的观察者。在散步的过程中，他们是否看到了一些他们没有出来看到的东西？是否有任何自发或无意识的看见？他们有什么发现吗？任何鸟类或生物都可能被追捕，任何巢穴如果你围攻它都可能被发现；但要找到你不想要的东西，捕捉周围害羞的眨眼和手势，观察周围发生的所有小插曲，不遗漏任何重要的音符或动作，用你的目光穿透每一个屏幕——这就是成为一个观察者；那就是拥有“一双像盲人触觉一样练习的眼睛”——一种能够区分白马和黑马的触觉——一双能够解读最微弱迹象的侦探之眼。当梭罗在科德角时，他注意到那里的马由于在不断松软的沙地上立足不稳，臀部的某种肌肉异常发达。梭罗的愿景有时与事物非常吻合。在巴黎的一些盛大的节日期间，尤金妮皇后和维多利亚女王都出席了。一位记者注意到，当王室人士前来坐下时，尤金妮先看了一眼身后，发现椅子确实在那儿，但维多利亚却头也不回地坐了下来，她知道一定有一个座位为她准备好了：过去有，将来也会有。记者推断，这起事件体现了天生的皇室成员和仓促获得的皇室成员的区别。我想知道在这庞大的集会上有多少人做出了这样的观察？可能非常很少。它表示观察事物的天赋。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "If our powers of observation were quick and sure enough, no doubt we should see through most of the tricks of the sleight-of-hand man. He fools us because his hand is more dexterous than our eye. He captures our attention, and then commands us to see only what he wishes us to see.",
+      "source_anchor": null,
+      "id": "S009",
+      "order": 8,
+      "zh": "如果我们的观察力够快够准的话，毫无疑问我们应该识破魔术师的大部分伎俩。他愚弄了我们，因为他的手比我们的眼睛更灵巧。他吸引了我们的注意力，然后命令我们只看到他希望我们看到的东西。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "In the field of natural history things escape us because the actors are small and the stage is very large and more or less veiled and obstructed. The movement is quick across a background that tends to conceal rather than expose it. In the printed page the white paper plays quite as important a part as the type and the ink; but the book of nature is on a different plan: the page rarely presents a contrast of black and white, or even black and brown, but only of similar tints, gray upon gray, green upon green, or drab upon brown.",
+      "source_anchor": null,
+      "id": "S010",
+      "order": 9,
+      "zh": "在自然历史领域，一些事情我们无法察觉，因为演员很小，舞台很大，而且或多或少被遮蔽和阻碍。背景的移动速度很快，往往会隐藏而不是暴露它。在印刷页面中，白纸与字体和油墨起着同样重要的作用。但自然之书却有不同的计划：页面很少呈现黑色和白色的对比，甚至黑色和棕色的对比，而只是相似的色调，灰色对灰色，绿色对绿色，或单调对棕色。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "By a close observer I do not mean a minute, cold-blooded specialist,— “… a fingering slave, One that would peep and botanize Upon his mother’s grave,”— but a man who looks closely and steadily at nature, and notes the individual features of tree, and rock, and field, and allows no subtle flavor of the night or day, of the place and season, to escape him. His senses are so delicate that in his evening walk he feels the warm and the cool streaks in the air, his nose detects the most fugitive odors, his ears the most furtive sounds. As he stands musing in the April twilight he hears that fine, elusive stir and rustle made by the angleworms reaching out from their holes for leaves and grasses; he hears the whistling wings of the woodcock as she goes swiftly by him in the dusk; he hears the call of the killdee come down out of the March sky; he hears far above him in the early morning the squeaking cackle of the arriving blackbirds pushing north; he hears the soft, prolonged, lulling call of the little owl in the cedars in the early spring twilight; he hears at night the roar of the distant waterfall, and the rumble of the train miles across the country when the air is “hollow”; before a storm he notes how distant objects stand out and are brought near on those brilliant days that we call “weather breeders.” When the mercury is at zero or lower, he notes how the passing trains hiss and simmer as if the rails or wheels were red-hot. He reads the subtle signs of the weather. The stars at night forecast the coming day to him; the clouds at evening and at morning are a sign. He knows there is the wet-weather diathesis and the dry-weather diathesis, or, as Goethe said, water affirmative and water negative, and he interprets the symptoms accordingly. He is keenly alive to all outward impressions. When he descends from the hill in the autumn twilight, he notes the cooler air of the valley like a lake about him; he notes how, at other seasons, the cooler air at times settles down between the mountains like a vast body of water, as shown by the level line of the fog or the frost upon the trees.",
+      "source_anchor": null,
+      "id": "S011",
+      "order": 10,
+      "zh": "我所说的仔细观察者并不是指一位细心、冷血的专家——“……一个指法奴隶，一个会在他母亲的坟墓上窥视和植物学的人”——而是一个仔细而稳定地观察自然的人，注意到树木、岩石和田野的个体特征，不让任何夜晚或白天、地点和季节的微妙味道逃脱他的视线。他的感官非常敏锐，晚上散步时，他能感觉到空气中的温暖和凉爽，他的鼻子能察觉到最易逝的气味，他的耳朵能听到最隐秘的声音。当他在四月的暮色中站着沉思时，他听到了蚯蚓从洞里伸手去抓树叶和草时发出的微妙的、难以捉摸的骚动和沙沙声；他听见山鹬在黄昏中飞快地从他身边飞过，他翅膀发出呼啸声。他听见杀戮者的叫声从三月的天空中降临；清晨，他听到头顶上空传来乌鸫向北飞来的嘎嘎声。他听到早春暮色中雪松​​林中小猫头鹰轻柔、悠长、平静的叫声；晚上，当空气“空洞”时，他听到远处瀑布的轰鸣声，以及横跨全国数英里的火车的隆隆声。在暴风雨来临之前，他注意到远处的物体是如何在那些我们称之为“天气培育者”的灿烂日子里脱颖而出并被拉近的。当水银温度为零或更低时，他注意到经过的火车如何发出嘶嘶声，就像铁轨或车轮被烧红一样。他能读出天气的微妙迹象。夜晚的星星为他预示着即将到来的一天；傍晚和早晨的云是一个征兆。他知道有潮湿天气素质和干燥天气素质，或者正如歌德所说，水肯定和水阴性，他相应地解释了症状。他对所有外在印象都非常敏感。当他在秋日的暮色中从山上下来时，他注意到山谷里凉爽的空气就像他周围的一个湖；他指出，在其他季节，凉爽的空气有时会像大片水域一样沉降在山间，如雾气或树上霜的水平线所示。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "The modern man looks at nature with an eye of sympathy and love where the earlier man looked with an eye of fear and superstition. Hence he sees more closely and accurately; science has made his eye steady and clear. To a hasty traveler through the land the farms and country homes all seem much alike, but to the people born and reared there, what a difference! They have read the fine print that escapes the hurried eye and that is so full of meaning. Every horizon line, every curve in hill or valley, every tree and rock and spring run, every turn in the road and vista in the landscape, has its special features and makes its own impression.",
+      "source_anchor": null,
+      "id": "S012",
+      "order": 11,
+      "zh": "现代人以同情和爱的眼光看待自然，而早期的人以恐惧和迷信的眼光看待自然。因此他看得更仔细、更准确；科学使他的眼睛变得稳定而清晰。对于匆忙穿越这片土地的旅行者来说，农场和乡村住宅看起来都很相似，但对于在那里出生和长大的人们来说，这是多么不同啊！他们已经读到了那些匆匆忙忙看不到的精美印刷品，而这些印刷品却充满了意义。每一条地平线、每一个山丘或山谷的曲线、每一棵树、每一块岩石、每一条泉水、每一条道路的转弯和景观中的景色，都有其独特的特征，给人留下深刻的印象。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Scott wrote in his journal: “Nothing is so tiresome as walking through some beautiful scene with a minute philosopher, a botanist, or pebble gatherer, who is eternally calling your attention from the grand features of the natural picture to look at grasses and chuckie-stanes.” No doubt Scott’s large, generous way of looking at things kindles the imagination and touches the sentiments more than does this minute way of the specialist. The nature that Scott gives us is like the air and the water that all may absorb, while what the specialist gives us is more like some particular element or substance that only the few can appropriate. But Scott had his specialties too, the specialties of the sportsman; he was the first to see the hare’s eyes as she sat in her form, and he knew the ways of grouse, and pheasants, and trout. The ideal observer turns the enthusiasm of the sportsman into the channels of natural history, and brings home a finer game than ever fell to shot or bullet. He too has an eye for the fox and the rabbit and the migrating waterfowl, but he sees them with loving and not with murderous eyes.",
+      "source_anchor": null,
+      "id": "S013",
+      "order": 12,
+      "zh": "斯科特在他的日记中写道：“没有什么比和一位细心的哲学家、植物学家或卵石采集者一起走过一些美丽的风景更令人厌烦的了，他们总是把你的注意力从自然图景的宏伟特征上吸引到草丛和矮树丛中。”毫无疑问，斯科特以大方、慷慨的方式看待事物，比专家这种细致的方式更能激发想象力，更能触动情感。斯科特给予我们的自然就像所有人都可以吸收的空气和水，而专家给予我们的更像是只有少数人才能享用的某种特定元素或物质。但斯科特也有他的专长，运动员的专长。当野兔以原形坐下时，他是第一个看到她眼睛的人，他知道松鸡、雉鸡和鳟鱼的习性。理想的观察者将运动员的热情转化为自然历史的渠道，并带来比射击或子弹更精彩的比赛。他对狐狸、兔子和迁徙的水鸟也有一双慧眼，但他用爱的眼光而不是用凶残的眼光来看待它们。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "So far as seeing things is an art, it is the art of keeping your eyes and ears open. The art of nature is all in the direction of concealment. The birds, the animals, all the wild creatures, for the most part try to elude your observation. The art of the bird is to hide her nest; the art of the game you are in quest of is to make itself invisible. The flower seeks to attract the bee and the moth by its color and perfume, because they are of service to it; but I presume it would hide from the excursionists and the picnickers if it could, because they extirpate it. Power of attention and a mind sensitive to outward objects, in these lies the secret of seeing things. Can you bring all your faculties to the front, like a house with many faces at the doors and windows; or do you live retired within yourself, shut up in your own meditations? The thinker puts all the powers of his mind in reflection: the observer puts all the powers of his mind in perception; every faculty is directed outward; the whole mind sees through the eye and hears through the ear. He has an objective turn of mind as opposed to a subjective. A person with the latter turn of mind sees little. If you are occupied with your own thoughts you may go through a museum of curiosities and observe nothing.",
+      "source_anchor": null,
+      "id": "S014",
+      "order": 13,
+      "zh": "就观察事物是一门艺术而言，它是保持眼睛和耳朵睁开的艺术。自然的艺术全都朝着隐蔽的方向发展。鸟类、动物、所有野生动物，大部分都试图逃避你的观察。鸟儿的艺术在于隐藏它的巢穴；你所追求的游戏艺术就是让自己隐形。花试图用它的颜色和香味来吸引蜜蜂和飞蛾，因为它们为它服务。但我认为如果可以的话，它会躲避远足者和野餐者，因为他们消灭了它。注意力的力量和对外部物体敏感的头脑，这些就是观察事物的秘密。你能否把你所有的才能都带到前面，就像一座房子的门窗上有许多面孔一样；或者你是否过着隐居的生活，封闭在自己的冥想中？思考者将他心灵的所有力量投入反思；观察者将他心灵的所有力量投入感知；观察者将他心灵的所有力量投入感知；每一种能力都是向外的；整个心灵通过眼睛看到，通过耳朵听到。他有客观的思维倾向，而不是主观的思维倾向。具有后一种心态的人看不到什么。如果你沉浸在自己的想法中，你可能会浏览一座充满好奇心的博物馆，却什么也观察不到。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Of course one’s power of observation may be cultivated as well as anything else. The sense of seeing and hearing may be quickened and trained as well as the sense of touch. Blind persons come to be marvelously acute in their powers of touch. Their feet find the path and keep it. They come to know the lay of the land through this sense, and recognize the roads and surfaces they have once traveled over. Helen Keller reads your speech by putting her hand upon your lips, and is also thrilled by the music of an instrument by means of her touch. The perceptions of school children should be trained as well as their powers of reflection and memory. A teacher in Connecticut, Miss Aiken,—whose work on mind training I commend to all teachers,—has hit upon a simple and ingenious method of doing this. She has a revolving blackboard upon which she writes various figures, numbers, words, sentences, which she exposes to the view of the class for one or two or three seconds as the case may be, and then asks them to copy or repeat what was written. In time they become astonishingly quick, especially the girls, and can take in a multitude of things at a glance. Detectives, I am told, are trained after a similar method; a man is led quickly by a show window, for instance, and asked to name and describe the objects he saw there. Life itself is of course more or less a school of this kind, but the power of concentrated attention in most persons needs stimulating. Here comes in the benefit of manual training schools. To do a thing, to make something, the powers of the mind must be focused. A boy in building a boat will get something that all the books in the world cannot give him. The concrete, the definite, the discipline of real things, the educational values that lie here, are not enough appreciated.",
+      "source_anchor": null,
+      "id": "S015",
+      "order": 14,
+      "zh": "当然，一个人的观察力和其他任何东西一样都是可以培养的。视觉、听觉以及触觉都可以得到加速和训练。盲人的触觉能力变得异常敏锐。他们的脚找到了道路并坚持下去。他们通过这种感觉来了解土地的情况，并认识到他们曾经走过的道路和表面。海伦·凯勒通过将手放在你的嘴唇上来阅读你的演讲，并且通过她的触摸而对乐器的音乐感到兴奋。培养小学生的感知力、反思力、记忆力。康涅狄格州的一位老师艾肯小姐——我向所有老师赞扬她在思维训练方面的工作——想到了一种简单而巧妙的方法来做到这一点。她有一块旋转黑板，在上面写下各种图形、数字、单词、句子，视情况将其在全班同学面前展示一秒、两秒或三秒，然后要求他们抄写或重复所写的内容。随着时间的推移，她们的反应速度快得惊人，尤其是女孩子，一眼就能看懂很多东西。据我所知，侦探也是按照类似的方法接受训练的。例如，一名男子被快速引导到橱窗前，并被要求说出并描述他在那里看到的物体。当然，生活本身或多或少就是一所这样的学校，但大多数人集中注意力的能力需要激发。这就是手工培训学校的好处。要做一件事、做出某事，就必须集中思想的力量。一个男孩建造一艘船会得到世界上所有书籍都无法给他的东西。现实事物的具体、明确、规律以及其中的教育价值还没有得到足够的重视。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "The book of nature is like a page written over or printed upon with different sized characters and in many different languages, interlined and cross-lined, and with a great variety of marginal notes and references. There is coarse print and fine print; there are obscure signs and hieroglyphics. We all read the large type more or less appreciatively, but only the students and lovers of nature read the fine lines and the footnotes. It is a book which he reads best who goes most slowly or even tarries long by the way. He who runs may read some things. We may take in the general features of the sky, plain, and river from the express train, but only the pedestrian, the saunterer, with eyes in his head and love in his heart, turns every leaf and peruses every line. One man sees only the migrating waterfowls and the larger birds of the air; another sees the passing kinglets and hurrying warblers as well. For my part, my delight is to linger long over each page of this marvelous record, and to dwell fondly upon its most obscure text.",
+      "source_anchor": null,
+      "id": "S016",
+      "order": 15,
+      "zh": "自然之书就像一页用不同大小的字符和多种不同的语言书写或印刷的页面，行间和交叉，并有各种各样的旁注和参考文献。有粗字和细字之分；有晦涩的标志和象形文字。我们都或多或少地欣赏着大字，但只有学生和热爱大自然的人才会阅读细线和脚注。谁读得最慢，甚至停留时间最长，谁就读得最好。跑步的人可能会读到一些东西。我们可以在特快列车上看到天空、平原、河流的大致面貌，但只有行人、漫步者，头脑里有眼睛，心里有爱，翻动每一片叶子，细读每一行。一个人只能看到迁徙的水鸟和空中较大的鸟类；一个人只能看到迁徙的水鸟和空中较大的鸟类。另一个也看到了飞过的小鸟和匆忙的莺。就我而言，我的乐趣在于长时间地停留在这部精彩记录的每一页上，并深情地细想其中最晦涩难懂的文字。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "I take pleasure in noting the minute things about me. I am interested even in the ways of the wild bees and in all the little dramas and tragedies that occur in field and wood. One June day, in my walk, as I crossed a rather dry, high-lying field, my attention was attracted by small mounds of fresh earth all over the ground, scarcely more than a handful in each. On looking closely I saw that in the middle of each mound there was a hole not quite so large as a lead pencil. Now, I had never observed these mounds before, and my curiosity was aroused. “Here is some fine print,” I said, “that I have overlooked.” So I set to work to try to read it; I waited for a sign of life. Presently I saw here and there a bee hovering about over the mounds. It looked like the honeybee, only less pronounced in color and manner. One of them alighted on one of the mounds near me, and was about to disappear in the hole in the centre when I caught it in my hand. Though it stung me, I retained it and looked it over, and in the process was stung several times; but the pain was slight. I saw it was one of our native wild bees, cousin to the leaf rollers, that build their nests under stones and in decayed fence-rails. (In Packard I found it described under the name of Andrena.) Then I inserted a small weed-stalk into one of the holes, and, with a trowel I carried, proceeded to dig out the nest. The hole was about a foot deep; at the bottom of it I found a little semi-transparent, membranous sac or cell, a little larger than that of the honeybee; in this sac was a little pellet of yellow pollen—a loaf of bread for the young grub when the egg should have hatched. I explored other nests and found them all the same. This discovery was not a great addition to my sum of natural knowledge, but it was something. Now when I see the signs in a field I know what they mean; they indicate the tiny earthen cradles of Andrena.",
+      "source_anchor": null,
+      "id": "S017",
+      "order": 16,
+      "zh": "我很高兴注意到关于我的微小事情。我什至对野蜂的生活方式以及田野和树林中发生的所有小戏剧和悲剧也感兴趣。六月的一天，我步行穿过一片相当干燥、地势较高的田野时，我的注意力被地面上遍布的小土堆所吸引，每个土堆几乎不超过一把。仔细一看，发现每个土堆的中间都有一个没有铅笔那么大的洞。现在，我以前从未观察过这些土丘，我的好奇心被激发了。 “这里有一些细则，”我说，“我忽略了。”于是我开始努力阅读它；我等待着生命的迹象。不久我看见到处都有一只蜜蜂在土丘上空盘旋。它看起来像蜜蜂，只是颜色和行为不太明显。其中一只落在我附近的一个土丘上，正要消失在中间的洞里，我把它抓在手里。虽然它蜇了我，但我还是把它保留下来查看，过程中被蜇了好几次；但疼痛很轻微。我看到这是我们本土的一种野生蜜蜂，是卷叶蜂的近亲，它们在石头下和腐烂的栅栏上筑巢。 （在《帕卡德》中，我发现它以安德琳娜的名字进行了描述。）然后我将一根小杂草茎插入其中一个洞中，并用我随身携带的抹子开始挖出巢穴。这个洞大约一英尺深；在它的底部我发现了一个半透明的膜囊或细胞，比蜜蜂的大一点；这个囊里有一小粒黄色花粉——一条面包当卵应该孵化时，给幼虫吃面包。我探索了其他巢穴，发现它们都一样。这个发现并不是对我的自然知识总和的重大补充，但它确实很重要。现在，当我看到田野里的标志时，我知道它们的意思；它们代表了安德烈娜的小土制摇篮。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Near by I chanced to spy a large hole in the turf, with no mound of soil about it. I could put the end of my little finger into it. I peered down, and saw the gleam of two small, beadlike eyes. I knew it to be the den of the wolf spider. Was she waiting for some blundering insect to tumble in? I say she, because the real ogre among the spiders is the female. The male is small and of little consequence. A few days later I paused by this den again and saw the members of the ogress scattered about her own door. Had some insect Jack the Giant-killer been there, or had a still more formidable ogress, the sand hornet, dragged her forth and carried away her limbless body to her den in the bank? What the wolf spider does with the earth it excavates in making its den is a mystery. There is no sign of it anywhere about. Does it force its way down by pushing the soil to one side and packing it there firmly? The entrance to the hole usually has a slight rim or hem to keep the edge from crumbling in.",
+      "source_anchor": null,
+      "id": "S018",
+      "order": 17,
+      "zh": "我偶然发现附近的草皮上有一个大洞，周围没有土堆。我可以把我的小指末端放进去。我低头一看，看到了两只珠子般的小眼睛在闪闪发光。我知道那是狼蛛的巢穴。她是在等待一只笨手笨脚的昆虫掉进去吗？我说她，是因为蜘蛛中真正的食人魔是雌性。雄性体型较小，影响不大。几天后，我再次在这个巢穴前停下来，看到食人魔的成员分散在她自己的门口。是否有什么昆虫巨人杀手杰克在那里，或者有一个更可怕的食人魔，沙黄蜂，把她拖了出去，把她没有四肢的身体带到了河岸上的巢穴？狼蛛如何利用它挖出的土来建造巢穴是一个谜。到处都没有它的迹象。它是否会通过将土壤推到一侧并将其牢固地压实来强行向下移动？孔的入口通常有一个轻微的边缘或折边，以防止边缘碎裂。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "As it happened, I chanced upon another interesting footnote that very day. I was on my way to a muck swamp in the woods to see if the showy lady’s slipper was in bloom. Just on the margin of the swamp, in the deep shade of the hemlocks, my eye took note of some small, unshapely creature crawling hurriedly over the ground. I stooped down, and saw it was a large species of the moth just out of its case, and in a great hurry to find a suitable place in which to hang itself up and give its wings a chance to unfold before the air dried them. I thrust a small twig in its way, which it instantly seized upon. I lifted it gently, carried it to drier ground, and fixed the stick in the fork of a tree, so that the moth hung free a few feet from the ground. Its body was distended nearly to the size of one’s little finger, surmounted by wings that were so crumpled and stubby that they seemed quite rudimentary. The creature evidently knew what it wanted, and knew the importance of haste. Instantly these rude, stubby wings began to grow. It was a slow process, but one could see the change from minute to minute. As the wings expanded the body contracted. By some kind of pumping arrangement air was being forced from a reservoir in the one into the tubes of the other. The wings were not really growing, as they at first seemed to be, but they were unfolding and expanding under this pneumatic pressure from the body. In the course of about half an hour the process was completed, and the winged creature hung there in all its full-fledged beauty. Its color was checked black and white like a loon’s back, but its name I know not. My chief interest in it, aside from the interest we feel in any new form of life, arose from the creature’s extreme anxiety to reach a perch where it could unfold its wings. A little delay would doubtless have been fatal to it. I wonder how many human geniuses are hatched whose wings are blighted by some accident or untoward circumstance? Or do the wings of genius always unfold, no matter what the environment may be?",
+      "source_anchor": null,
+      "id": "S019",
+      "order": 18,
+      "zh": "碰巧的是，那天我偶然发现了另一个有趣的脚注。我正要去树林里的一片淤泥沼泽，看看这位艳丽女士的拖鞋是否开花了。就在沼泽的边缘，在铁杉的浓荫下，我的眼睛注意到一些小而丑陋的生物正在地上匆匆爬行。我弯下腰，看到那是一种刚从盒子里拿出来的大蛾子，我急忙找到一个合适的地方把自己挂起来，让翅膀在空气风干之前有机会展开。我把一根小树枝插在它的路上，它立即抓住了它。我轻轻地把它举起来，带到干燥的地面上，把木棍固定在树杈上，这样飞蛾就自由地悬挂在离地面几英尺的地方。它的身体膨胀到几乎有小指那么大，上面的翅膀又皱又短，看起来相当简陋。这个生物显然知道自己想要什么，也知道行动的重要性。立刻，这些粗鲁、粗短的翅膀开始生长。这是一个缓慢的过程，但人们可以看到每一分钟的变化。当翅膀展开时，身体收缩。通过某种泵送装置，空气被从一个容器中的容器压入另一个容器的管子中。翅膀并没有像最初看起来那样真正生长，但在来自身体的气动压力下它们正在展开和扩张。大约半小时后，整个过程就完成了，这只带翅膀的生物以其完全的美丽挂在那里。它的颜色像黑白一样被检查潜鸟回来了，但我不知道它的名字。除了我们对任何新生命形式的兴趣之外，我对它的主要兴趣还源于这种生物对到达可以展开翅膀的栖息地的极度焦虑。一点点的拖延无疑会对它造成致命的影响。不知道有多少人类天才的诞生，却因某种意外或不幸而折断了翅膀？或者说，无论环境如何，天才的翅膀总是展开？",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "One seldom takes a walk without encountering some of this fine print on nature’s page. Now it is a little yellowish-white moth that spreads itself upon the middle of a leaf and imitates the droppings of birds; or it is the young cicadas working up out of the ground, and in the damp, cool places building little chimneys or tubes above the surface to get more warmth and hasten their development; or it is a wood newt gorging a tree cricket, or a little snake gorging the newt, or a bird song with some striking peculiarity,—a strange defect or a rare excellence. Now it is a shrike impaling his victim, or blue jays mocking and teasing a little hawk and dropping quickly into the branches to avoid his angry blows, or a robin hustling a cuckoo out of the tree where her nest is, or a vireo driving away a cowbird, or the partridge blustering about your feet till her young are hidden. One October morning I was walking along the road on the edge of the woods, when I came into a gentle shower of butternuts; one of them struck my hat brim. I paused and looked about me; here one fell, there another, yonder a third. There was no wind blowing, and I wondered what was loosening the butternuts. Turning my attention to the top of the tree I soon saw the explanation: a red squirrel was at work gathering his harvest. He would seize a nut, give it a little twist, when down it would come; then he would dart to another and another. Further along I found where he had covered the ground with chestnut burs; he could not wait for the frost and the winds; he knew the burs would dry and open upon the ground, and he knew the bitter covering of the butternuts would soon fall away from the nuts.",
+      "source_anchor": null,
+      "id": "S020",
+      "order": 19,
+      "zh": "人们在散步时很少会遇到大自然页面上的这些精美印刷品。现在它是一只黄白色的小飞蛾，把自己铺在叶子中间，模仿鸟的粪便；或者是幼小的蝉从地里爬出来，在潮湿、凉爽的地方在地表上方建造小烟囱或管道，以获得更多的温暖并加速它们的发育；或者是一条木蝾螈正在吃树蟋蟀，或者是一条小蛇在吃蝾螈，或者是一种具有某种惊人特性的鸟鸣——一种奇怪的缺陷或一种罕见的优点。现在是伯劳鸟刺穿受害者，蓝鸟嘲笑一只小鹰，然后迅速落入树枝以避免它愤怒的攻击，或知更鸟将布谷鸟从树上的巢穴中赶走，或绿鹃赶走一只牛鹂，或鹧鸪在你的脚边咆哮，直到它的幼崽被隐藏起来。十月的一个早晨，我正沿着树林边缘的小路散步，突然遇到了一场轻轻的胡桃雨。其中一颗击中了我的帽檐。我停下来环顾四周。这里掉了一个，那里又掉了一个，那边又掉了第三个。没有风吹，我想知道是什么让胡桃松动了。我把注意力转向树顶，很快就看到了解释：一只红松鼠正在收获收获。他会抓住一颗坚果，稍微扭转一下，当它落下时；然后他会冲向另一个又另一个。再往前走，我发现他在地上铺满了栗子刺。他等不及霜冻和风；他知道车针会干燥并在他知道胡桃上的苦味很快就会从坚果上脱落。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "There are three things that doubtless happen near me each season that I have never yet seen,—the toad casting its skin, the snake swallowing its young, and the larvæ of the moth and butterfly constructing their abodes. It is a moot question whether or not the snake does swallow its young, but if there is no other good reason for it, may they not retreat into their mother’s stomach to feed? How else are they to be nourished? That the moth larvæ can weave its own cocoon and attach it to a twig seems more incredible. Yesterday in my walk I found a firm, silver-gray cocoon, about two inches long and shaped like an Egyptian mummy (probably Cynthia), suspended from a branch of a bush by a narrow, stout ribbon twice as long as itself. The fastening was woven around the limb, upon which it turned as if it grew there. I would have given something to have seen the creature perform this feat, and then incase itself so snugly in the silken shroud at the end of this tether. By swinging free its firm, compact case was in no danger from woodpeckers, as it might have been if resting directly upon a branch or tree trunk. Near by was the cocoon of another species (Cecropia) that was fastened directly to the limb; but this was vague, loose, and much more involved and net-like. I have seen the downy woodpecker assaulting one of these cocoons, but its yielding surface and webby interior seemed to puzzle and baffle him. I am interested even in the way each climbing plant or vine goes up the pole, whether from right to left, or from left to right,—that is, with the hands of a clock or against them,—whether it is under the law of the great cyclonic storms of the northern hemisphere, which all move against the hands of a clock, or from west to east, or in the contrary direction, like the cyclones in the southern hemisphere. I take pleasure in noting every little dancing whirlwind of a summer day that catches up the dust or the leaves before me, and every little funnel-shaped whirlpool in the swollen stream or river, whether or not they spin from right to left or the reverse. If I were in the southern hemisphere I am sure I should note whether these things were under the law of its cyclones in this respect or under the law of ours. As a rule, our twining plants and toy whirlwinds copy our revolving storms and go against the hands of the clock. But there are exceptions. While the bean, the bittersweet, the morning glory, and others go up from left to right, the hop, the wild buckwheat, and some others go up from right to left. Most of our forest trees show a tendency to wind one way or the other, the hard woods going in one direction, and the hemlocks and pines and cedars and butternuts in another. In different localities, or on different geological formations, I find these directions reversed. I recall one instance in the case of a hemlock six or seven inches in diameter, where this tendency to twist had come out of the grain, as it were, and shaped the outward form of the tree, causing it to make, in an ascent of about thirty feet, one complete revolution about a larger tree close to which it grew. On a smaller scale I have seen the same thing in a pine.",
+      "source_anchor": null,
+      "id": "S021",
+      "order": 20,
+      "zh": "毫无疑问，每个季节我身边都会发生三件事，但我从未见过：蟾蜍蜕皮、蛇吞下幼崽、飞蛾和蝴蝶的幼虫正在建造它们的住所。蛇是否会吞掉幼蛇，这是一个没有实际意义的问题，但如果没有其他充分的理由，它们是否可以退回到母亲的肚子里进食呢？不然他们还能怎样得到滋养呢？飞蛾幼虫可以编织自己的茧并将其附着在树枝上，这似乎更令人难以置信。昨天在散步时，我发现了一个坚固的银灰色茧，大约两英寸长，形状像埃及木乃伊（可能是辛西娅），用一条两倍长的窄而粗的丝带悬挂在灌木丛的树枝上。扣件编织在肢体周围，在肢体上转动，就好像它生长在那里一样。我愿意付出一些代价来观看这个生物完成这一壮举，然后将自己紧紧地包裹在绳索末端的丝绸裹尸布中。通过自由摆动，其坚固、紧凑的盒子不会受到啄木鸟的威胁，就像直接放在树枝或树干上一样。附近是另一种物种（天蚕）的茧，直接固定在肢体上；但这是模糊的、松散的，而且更加复杂和网络化。我曾见过毛茸茸的啄木鸟攻击其中一个茧，但它柔软的表面和网状的内部似乎让他感到困惑和困惑。我什至对每种攀缘植物或藤蔓爬上杆子的方式感兴趣，无论是从右到左，还是从左到右，也就是说，是用时钟的指针还是逆着它们——无论是在北半球的巨大气旋风暴的法则下，它们都与时钟的指针相反，或者从西向东移动，或者像南半球的气旋那样以相反的方向移动。我很高兴地注意到夏日里每一场舞动的小旋风，卷起我面前的灰尘或树叶，以及汹涌的溪流或河流中的每一个漏斗形漩涡，无论它们是从右向左旋转还是反向旋转。如果我在南半球，我确信我应该注意这些东西是受其旋风的法律管辖还是受我们的法律管辖。通常，我们的缠绕植物和玩具旋风会复制我们的旋转风暴，并与时钟的指针相反。但也有例外。豆子、苦乐参半、牵牛花等从左到右上升，而啤酒花、野荞麦等从右到左上升。我们的大多数森林树木都表现出向一侧或另一侧蜿蜒的倾向，硬木向一个方向延伸，而铁杉、松树、雪松和胡桃则向另一个方向延伸。在不同的地方，或者在不同的地质构造上，我发现这些方向是相反的。我记得一个例子，直径为六七英寸的铁杉，这种扭曲的倾向可以说是从谷物中产生的，并塑造了树的外部形状，导致它在大约三十英尺的上升过程中，绕着它生长的一棵更大的树完成了一次完整的旋转。在较小的范围内，我在松树上也看到了同样的情况。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Persons lost in the woods or on the plains, or traveling at night, tend, I believe, toward the left. The movements of men and women, it is said, differ in this respect, one sex turning to the right and the other to the left.",
+      "source_anchor": null,
+      "id": "S022",
+      "order": 21,
+      "zh": "我相信，在树林里或平原上迷路的人，或者在夜间旅行的人，都倾向于向左走。据说，男性和女性的动作在这方面有所不同，一种性别转向右侧，另一种性别转向左侧。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "I had lived in the world more than fifty years before I noticed a peculiarity about the rays of light one often sees diverging from an opening, or a series of openings, in the clouds, namely, that they are like spokes in a wheel, the hub or centre of which appears to be just there in the vapory masses, instead of being, as is really the case, nearly ninety-three millions of miles beyond. The beams of light that come through cracks or chinks in a wall do not converge in this way, but to the eye run parallel to one another. There is another fact: this fan-shaped display of converging rays is always immediately in front of the observer; that is, exactly between him and the sun, so that the central spoke or shaft in his front is always perpendicular. You cannot see this fan to the right or left of the sun, but only between you and it. Hence, as in the case of the rainbow, no two persons see exactly the same rays.",
+      "source_anchor": null,
+      "id": "S023",
+      "order": 22,
+      "zh": "我在这个世界上生活了五十多年，才注意到人们经常看到的从云层中的一个或一系列开口发出的光线的一个奇特之处，即它们就像轮子上的辐条，其轮毂或中心似乎就在云团中，而不是像实际情况那样，在近九千三百万英里之外。穿过墙壁裂缝或缝隙的光束不会以这种方式会聚，而是在眼睛看来彼此平行。还有另一个事实：这种会聚光线的扇形显示总是紧邻观察者的前方；也就是说，正好在他和太阳之间，因此他前面的中心辐条或轴始终是垂直的。你无法在太阳的右侧或左侧看到这个风扇，而只能在你和它之间看到。因此，就像彩虹一样，没有两个人会看到完全相同的光线。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "The eye sees what it has the means of seeing, and its means of seeing are in proportion to the love and desire behind it. The eye is informed and sharpened by the thought. My boy sees ducks on the river where and when I cannot, because at certain seasons he thinks ducks and dreams ducks. One season my neighbor asked me if the bees had injured my grapes. I said, “No; the bees never injure my grapes.”",
+      "source_anchor": null,
+      "id": "S024",
+      "order": 23,
+      "zh": "眼睛看到它所拥有的东西，而它所看到的方式与它背后的爱和欲望成正比。眼睛因思想而变得敏锐。我的儿子在我看不到的地方和时间看到了河上的鸭子，因为在某些季节他会想到鸭子并梦见鸭子。有一个季节，我的邻居问我蜜蜂是否伤害了我的葡萄。我说：“不，蜜蜂从来不伤害我的葡萄。”",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "“They do mine,” he replied; “they puncture the skin for the juice, and at times the clusters are covered with them.”",
+      "source_anchor": null,
+      "id": "S025",
+      "order": 24,
+      "zh": "“他们做我的，”他回答道。 “它们刺穿皮肤获取汁液，有时这些簇会被它们覆盖。”",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "“No,” I said, “it is not the bees that puncture the skin; it is the birds.”",
+      "source_anchor": null,
+      "id": "S026",
+      "order": 25,
+      "zh": "“不，”我说，“刺穿皮肤的不是蜜蜂；而是鸟儿。”",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "“What birds?”",
+      "source_anchor": null,
+      "id": "S027",
+      "order": 26,
+      "zh": "“什么鸟？”",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "“The orioles.”",
+      "source_anchor": null,
+      "id": "S028",
+      "order": 27,
+      "zh": "“黄莺。”",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "“But I haven’t seen any orioles,” he rejoined.",
+      "source_anchor": null,
+      "id": "S029",
+      "order": 28,
+      "zh": "“但我没有看到黄莺，”他回答道。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "“We have,” I continued, “because at this season we think orioles; we have learned by experience how destructive these birds are in the vineyard, and we are on the lookout for them; our eyes and ears are ready for them.”",
+      "source_anchor": null,
+      "id": "S030",
+      "order": 29,
+      "zh": "“我们有，”我继续说，“因为在这个季节我们想到黄莺；我们通过经验了解到这些鸟在葡萄园里有多么破坏性，我们正在寻找它们；我们的眼睛和耳朵已经准备好迎接它们。”",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "If we think birds, we shall see birds wherever we go; if we think arrowheads, as Thoreau did, we shall pick up arrowheads in every field. Some people have an eye for four-leaved clovers; they see them as they walk hastily over the turf, for they already have them in their eyes. I once took a walk with the late Professor Eaton of Yale. He was just then specially interested in the mosses, and he found them, all kinds, everywhere. I can see him yet, every few minutes upon his knees, adjusting his eyeglasses before some rare specimen. The beauty he found in them, and pointed out to me, kindled my enthusiasm also. I once spent a summer day at the mountain home of a well-known literary woman and editor. She lamented the absence of birds about her house. I named a half-dozen or more I had heard or seen in her trees within an hour,—the indigo bird, the purple finch, the yellowbird, the veery thrush, the red-eyed vireo, the song sparrow, etc.",
+      "source_anchor": null,
+      "id": "S031",
+      "order": 30,
+      "zh": "如果我们想到鸟，那么无论我们走到哪里，我们都会看到鸟；如果我们像梭罗那样思考箭头，我们就会在各个领域找到箭头。有些人的眼睛是四叶草，有些人的眼睛是四叶草。当他们匆匆走过草地时，他们就看到了他们，因为他们已经把他们放在眼里了。我曾经和已故的耶鲁大学伊顿教授一起散步。那时他对苔藓特别感兴趣，他发现了它们，各种各样，到处都是。我还能看到他每隔几分钟就跪下来，在一些稀有标本前调整眼镜。他在它们身上发现的美丽并向我指出，也点燃了我的热情。我曾经在一位著名文学女性和编辑的山家里度过了一个夏日。她为她的房子里没有鸟儿感到遗憾。我在一小时之内说出了我在她的树上听到或看到的六种或更多鸟类的名字——靛蓝鸟、紫雀、黄鸟、画眉鸟、红眼绿鹃、歌麻雀等。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "“Do you mean to say you have seen or heard all these birds while sitting here on my porch?” she inquired.",
+      "source_anchor": null,
+      "id": "S032",
+      "order": 31,
+      "zh": "“你的意思是说，当你坐在我的门廊上时，你看到或听到过所有这些鸟儿吗？”她询问道。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "“I really have,” I said.",
+      "source_anchor": null,
+      "id": "S033",
+      "order": 32,
+      "zh": "“我真的有，”我说。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "“I do not see them or hear them,” she replied, “and yet I want to very much.”",
+      "source_anchor": null,
+      "id": "S034",
+      "order": 33,
+      "zh": "“我没有看到它们，也没有听到它们，”她回答道，“但我非常想看到它们。”",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "“No,” said I; “you only want to want to see and hear them.”",
+      "source_anchor": null,
+      "id": "S035",
+      "order": 34,
+      "zh": "“不，”我说。 “你只想看到和听到他们。”",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "You must have the bird in your heart before you can find it in the bush.",
+      "source_anchor": null,
+      "id": "S036",
+      "order": 35,
+      "zh": "你必须先把那只鸟放在心里，然后才能在灌木丛中找到它。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "I was sitting in front of a farmhouse one day, in company with the local Nimrod. In a maple tree in front of us I saw the great-crested flycatcher. I called the hunter’s attention to it, and asked him if he had ever seen the bird before. No, he had not; it was a new bird to him. But he had probably seen it scores of times—seen it without regarding it. It was not the game he was in quest of, and his eye heeded it not.",
+      "source_anchor": null,
+      "id": "S037",
+      "order": 36,
+      "zh": "有一天，我和当地的尼姆罗德一起坐在一座农舍前。在我们面前的一棵枫树上，我看到了大凤鹟。我引起了猎人的注意，并问他以前是否见过这只鸟。不，他没有；他没有。这对他来说是一只新鸟。但他可能已经看过它几十次了——看到它却没有理会它。这不是他想要的游戏，他的眼睛也没有注意到。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Human and artificial sounds and objects thrust themselves upon us; they are within our sphere, so to speak: but the life of nature we must meet half-way; it is shy, withdrawn, and blends itself with a vast neutral background. We must be initiated; it is an order the secrets of which are well guarded.",
+      "source_anchor": null,
+      "id": "S038",
+      "order": 37,
+      "zh": "人类和人造的声音和物体强加给我们；可以这么说，它们在我们的范围之内：但是我们必须在中途迎接自然的生命；它害羞、孤僻，并将自己与广阔的中性背景融为一体。我们必须主动；这是一个严格保守秘密的命令。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    }
+  ],
+  "glossary": {},
+  "coverage": {
+    "blocks": 38,
+    "source_characters": 30907,
+    "source_beginning": "I do not purpose to attempt to tell my reader how to see things, but only to talk about the art of seeing things, as one might talk of any other art. ",
+    "source_ending": "speak: but the life of nature we must meet half-way; it is shy, withdrawn, and blends itself with a vast neutral background. We must be initiated; it is an order the secrets of which are well guarded."
+  },
+  "omitted_non_content": [
+    "Source website navigation, catalogues, later editorial commentary, folios and publisher boilerplate."
+  ],
+  "extraction_status": "complete source boundaries identified; limited spot review",
+  "translation_status": "complete paragraph coverage; machine draft, limited spot review"
+}

@@ -1,0 +1,125 @@
+{
+  "paper": {
+    "id": "orwell-bookshop",
+    "candidate_number": 51,
+    "title": "Bookshop Memories",
+    "zh_title": "书店回忆",
+    "author": "George Orwell",
+    "category": "文学与思想",
+    "source": "https://www.orwell.ru/library/articles/bookshop/english/e_shop",
+    "visible": true,
+    "status": "bilingual-complete-draft",
+    "kind": "full",
+    "year": 1936,
+    "original_language": "en",
+    "folder": "Bookshop Memories 1936",
+    "author_death_year": 1950,
+    "rights_jurisdiction": "mainland China",
+    "rights": "Original literary work beyond the mainland-China life-plus-50 term as of 2026; no assertion of worldwide public-domain status. Only original author text and newly generated Chinese translation are included.",
+    "rights_term_reference": "https://www.ncac.gov.cn/xxfb/flfg/flfg_532/202103/t20210309_50530.html",
+    "scope": "complete-essay",
+    "translation_status": "complete paragraph coverage; machine draft, limited spot review",
+    "source_acquisition": "assistant-retrieved-original",
+    "completeness": "all source body blocks retained; source boundaries and paragraph coverage checked"
+  },
+  "scope": "complete-essay",
+  "original_language": "en",
+  "source_format": "html",
+  "source_sha256": "775edf253b26f89b83d35900e4e35f9d245fc5a903c0059c21eb1a4beac29cb7",
+  "source_url": "https://www.orwell.ru/library/articles/bookshop/english/e_shop",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "en": "When I worked in a second-hand bookshop — so easily pictured, if you don't work in one, as a kind of paradise where charming old gentlemen browse eternally among calf-bound folios — the thing that chiefly struck me was the rarity of really bookish people. Our shop had an exceptionally interesting stock, yet I doubt whether ten per cent of our customers knew a good book from a bad one. First edition snobs were much commoner than lovers of literature, but oriental students haggling over cheap textbooks were commoner still, and vague-minded women looking for birthday presents for their nephews were commonest of all.",
+      "source_anchor": null,
+      "id": "S001",
+      "order": 0,
+      "zh": "当我在一家二手书店工作时——如果你不在二手书店工作的话，很容易想象这是一个天堂，迷人的老绅士们永远在小牛皮装订的对开本中浏览——最让我震惊的是真正爱读书的人很少见。我们店里有一种特别有趣的库存，但我怀疑我们的顾客是否能分出百分之十的好书和坏书。第一版势利小人比文学爱好者更常见，但东方学生为便宜的教科书讨价还价的情况更常见，而头脑模糊的妇女为侄子寻找生日礼物的情况最为常见。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Many of the people who came to us were of the kind who would be a nuisance anywhere but have special opportunities in a bookshop. For example, the dear old lady who ‘wants a book for an invalid' (a very common demand, that), and the other dear old lady who read such a nice book in 1897 and wonders whether you can find her a copy. Unfortunately she doesn't remember the title or the author's name or what the book was about, but she does remember that it had a red cover. But apart from these there are two well-known types of pest by whom every second-hand bookshop is haunted. One is the decayed person smelling of old breadcrusts who comes every day, sometimes several times a day, and tries to sell you worthless books. The other is the person who orders large quantities of books for which he has not the smallest intention of paying. In our shop we sold nothing on credit, but we would put books aside, or order them if necessary, for people who arranged to fetch them away later. Scarcely half the people who ordered books from us ever came back. It used to puzzle me at first. What made them do it? They would come in and demand some rare and expensive book, would make us promise over and over again to keep it for them, and then would vanish never to return. But many of them, of course, were unmistakable paranoiacs. They used to talk in a grandiose manner about themselves and tell the most ingenious stories to explain how they had happened to come out of doors without any money — stories which, in many cases, I am sure they themselves believed. In a town like London there are always plenty of not quite certifiable lunatics walking the streets, and they tend to gravitate towards bookshops, because a bookshop is one of the few places where you can hang about for a long time without spending any money. In the end one gets to know these people almost at a glance. For all their big talk there is something moth-eaten and aimless about them. Very often, when we were dealing with an obvious paranoiac, we would put aside the books he asked for and then put them back on the shelves the moment he had gone. None of them, I noticed, ever attempted to take books away without paying for them; merely to order them was enough — it gave them, I suppose, the illusion that they were spending real money.",
+      "source_anchor": null,
+      "id": "S002",
+      "order": 1,
+      "zh": "许多来找我们的人都是那种在任何地方都会令人讨厌的人，但在书店却有特殊的机会。例如，一位亲爱的老太太“想要一本给病人的书”（这是一个很常见的需求），而另一位亲爱的老太太在 1897 年读了一本如此好的书，想知道你是否能为她找到一本。不幸的是，她不记得书名、作者名字或这本书的内容，但她记得它的封面是红色的。但除此之外，还有两种众所周知的害虫，每家二手书店都受到它们的困扰。一种是散发着旧面包皮气味的腐烂的人，他每天都会来，有时一天好几次，并试图向你推销毫无价值的书。另一种是订购大量书籍的人，但他根本没有支付的意愿。在我们的店里，我们不赊销任何东西，但我们会把书放在一边，或者在必要时订购它们，以供稍后安排取走的人使用。从我们这里订购书籍的人中几乎没有一半会回来。起初这让我很困惑。是什么让他们这么做的？他们会进来索取一些稀有而昂贵的书，让我们一遍又一遍地承诺为他们保留这本书，然后就消失得一去不复返了。但当然，他们中的许多人都是明显的偏执狂。他们常常以夸张的方式谈论自己，并讲述最巧妙的故事来解释他们是如何碰巧身无分文地走出家门的——我相信在很多情况下，他们自己都相信这些故事。在伦敦这样的城镇里有街上总是有很多不太靠谱的疯子，他们往往会被书店吸引，因为书店是少数几个可以不花一分钱就能闲逛很长时间的地方之一。最后，人们几乎一眼就认识了这些人。尽管他们大谈特谈，但他们却有些陈旧和漫无目的。很多时候，当我们面对一个明显的偏执狂时，我们会把他要的书放在一边，等他走后就把它们放回书架上。我注意到，他们中没有一个人曾试图不付钱就拿走书。仅仅订购就足够了——我想，这给了他们一种错觉，以为他们花了真钱。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Like most second-hand bookshops we had various sidelines. We sold second-hand typewriters, for instance, and also stamps — used stamps, I mean. Stamp-collectors are a strange, silent, fish-like breed, of all ages, but only of the male sex; women, apparently, fail to see the peculiar charm of gumming bits of coloured paper into albums. We also sold sixpenny horoscopes compiled by somebody who claimed to have foretold the Japanese earthquake. They were in sealed envelopes and I never opened one of them myself, but the people who bought them often came back and told us how ‘true’ their horoscopes had been. (Doubtless any horoscope seems ‘true’ if it tells you that you are highly attractive to the opposite sex and your worst fault is generosity.) We did a good deal of business in children's books, chiefly ‘remainders’. Modern books for children are rather horrible things, especially when you see them in the mass. Personally I would sooner give a child a copy of Petrenius Arbiter than Peter Pan, but even Barrie seems manly and wholesome compared with some of his later imitators. At Christmas time we spent a feverish ten days struggling with Christmas cards and calendars, which are tiresome things to sell but good business while the season lasts. It used to interest me to see the brutal cynicism with which Christian sentiment is exploited. The touts from the Christmas card firms used to come round with their catalogues as early as June. A phrase from one of their invoices sticks in my memory. It was: ‘2 doz. Infant Jesus with rabbits’.",
+      "source_anchor": null,
+      "id": "S003",
+      "order": 2,
+      "zh": "像大多数二手书店一样，我们有各种副业。例如，我们出售二手打字机，也出售邮票——我的意思是二手邮票。集邮者是一种奇怪、沉默、像鱼一样的群体，各个年龄段都有，但仅限于男性。显然，女人们看不到将彩色纸片粘进相册的独特魅力。我们还出售了由声称预言了日本地震的人编撰的六便士占星术。它们装在密封的信封里，我自己从来没有打开过其中一个，但购买它们的人经常回来告诉我们他们的星座运势是多么“真实”。 （毫无疑问，如果任何星座运势告诉你，你对异性非常有吸引力，而你最大的缺点是慷慨，那么它似乎是“真实的”。）我们在儿童读物方面做了很多生意，主要是“余数”。现代儿童读物是相当可怕的东西，尤其是当你大量看到它们时。就我个人而言，我更愿意给孩子一本《彼得潘的仲裁者》，而不是《彼得潘》，但与他后来的一些模仿者相比，即使是巴里也显得很有男子气概和健康。圣诞节期间，我们花了十天的时间忙着处理圣诞贺卡和日历，这些东西卖起来很烦人，但在圣诞节期间生意很好。我曾经很感兴趣地看到基督教情感被利用的残酷犬儒主义。圣诞贺卡公司的推销员早在六月就带着他们的产品目录过来了。他们的一张发票上的一句话一直留在我的记忆中。它是：‘2 doz。圣婴耶稣与兔子。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "But our principal sideline was a lending library — the usual ‘twopenny no-deposit’ library of five or six hundred volumes, all fiction. How the book thieves must love those libraries! It is the easiest crime in the world to borrow a book at one shop for twopence, remove the label and sell it at another shop for a shilling. Nevertheless booksellers generally find that it pays them better to have a certain number of books stolen (we used to lose about a dozen a month) than to frighten customers away by demanding a deposit.",
+      "source_anchor": null,
+      "id": "S004",
+      "order": 3,
+      "zh": "但我们的主要副业是借阅图书馆——通常的“两便士无押金”图书馆，藏有五六百册，全是小说。偷书贼一定很喜欢那些图书馆吧！在一家商店花两便士借一本书，撕掉标签，然后在另一家商店花一先令出售，这是世界上最简单的犯罪行为。尽管如此，书商普遍发现，让一定数量的图书被盗（我们过去每月大约丢失十几本）比通过要求押金吓跑顾客更划算。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Our shop stood exactly on the frontier between Hampstead and Camden Town, and we were frequented by all types from baronets to bus-conductors. Probably our library subscribers were a fair cross-section of London's reading public. It is therefore worth noting that of all the authors in our library the one who ‘went out’ the best was — Priestley? Hemingway? Walpole? Wodehouse? No, Ethel M. Dell, with Warwick Deeping a good second and Jeffrey Farnol, I should say, third. Dell's novels, of course, are read solely by women, but by women of all kinds and ages and not, as one might expect, merely by wistful spinsters and the fat wives of tobacconists. It is not true that men don't read novels, but it is true that there are whole branches of fiction that they avoid. Roughly speaking, what one might call the average novel — the ordinary, good-bad, Galsworthy-and-water stuff which is the norm of the English novel — seems to exist only for women. Men read either the novels it is possible to respect, or detective stories. But their consumption of detective stories is terrific. One of our subscribers to my knowledge read four or five detective stories every week for over a year, besides others which he got from another library. What chiefly surprised me was that he never read the same book twice. Apparently the whole of that frightful torrent of trash (the pages read every year would, I calculated, cover nearly three quarters of an acre) was stored for ever in his memory. He took no notice of titles or author's names, but he could tell by merely glancing into a book whether be had ‘had it already’.",
+      "source_anchor": null,
+      "id": "S005",
+      "order": 4,
+      "zh": "我们的商店正好位于汉普斯特德和卡姆登镇之间的边界上，从男爵到公共汽车售票员等各种类型的人经常光顾我们。也许我们图书馆的订阅者是伦敦读者群体中的相当一部分。因此值得注意的是，在我们图书馆的所有作者中，“走出去”最好的一位是——普里斯特利？海明威？沃波尔？沃德豪斯？不，埃塞尔·M·戴尔，沃里克·迪平位居第二，杰弗里·法诺尔，我应该说，位居第三。当然，戴尔的小说只适合女性阅读，而且是各种类型和年龄的女性阅读的，而不是像人们想象的那样，仅仅是渴望的老处女和烟草商的肥胖妻子。男人不读小说并不是事实，但他们确实回避小说的整个分支。粗略地说，人们所谓的普通小说——普通的、好坏的、高尔斯华绥和水的东西，这是英国小说的常态——似乎只为女性而存在。男人要么读值得尊重的小说，要么读侦探小说。但他们对侦探小说的消费却是惊人的。据我所知，我们的一位订阅者在一年多的时间里每周都会阅读四到五个侦探故事，此外还有他从另一个图书馆获得的其他故事。最让我惊讶的是他从来没有读过同一本书两次。显然，这股可怕的垃圾洪流（据我计算，每年阅读的书页将覆盖近四分之三英亩的面积）已经永远存储在他的记忆中了。他没有注意到书名或作者的名字，但只要看一眼一本书，他就能知道他是否“有过”。已经是了’。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "In a lending library you see people's real tastes, not their pretended ones, and one thing that strikes you is how completely the ‘classical’ English novelists have dropped out of favour. It is simply useless to put Dickens, Thackeray, Jane Austen, Trollope, etc. into the ordinary lending library; nobody takes them out. At the mere sight of a nineteenth-century novel people say, ‘Oh, but that's old!’ and shy away immediately. Yet it is always fairly easy to sell Dickens, just as it is always easy to sell Shakespeare. Dickens is one of those authors whom people are ‘always meaning to’ read, and, like the Bible, he is widely known at second hand. People know by hearsay that Bill Sikes was a burglar and that Mr Micawber had a bald head, just as they know by hearsay that Moses was found in a basket of bulrushes and saw the ‘back parts’ of the Lord. Another thing that is very noticeable is the growing unpopularity of American books. And another — the publishers get into a stew about this every two or three years — is the unpopularity of short stories. The kind of person who asks the librarian to choose a book for him nearly always starts by saying ‘I don't want short stories’, or ‘I do not desire little stories’, as a German customer of ours used to put it. If you ask them why, they sometimes explain that it is too much fag to get used to a new set of characters with every story; they like to ‘get into’ a novel which demands no further thought after the first chapter. I believe, though, that the writers are more to blame here than the readers. Most modern short stories, English and American, are utterly lifeless and worthless, far more so than most novels. The short stories which are stories are popular enough, vide D. H. Lawrence, whose short stories are as popular as his novels.",
+      "source_anchor": null,
+      "id": "S006",
+      "order": 5,
+      "zh": "在借阅图书馆里，你看到人们的真实品味，而不是他们假装的品味，让你震惊的一件事是“古典”英国小说家已经完全失宠了。把狄更斯、萨克雷、简·奥斯丁、特罗洛普等放入普通借阅图书馆根本没有用；没有人把它们拿出来。只要看到一本十九世纪的小说，人们就会说：“哦，那很老了！”然后立即回避。然而，推销狄更斯总是相当容易，就像推销莎士比亚总是很容易一样。狄更斯是人们“总是想”阅读的作家之一，而且，就像《圣经》一样，他通过二手书而广为人知。人们通过传闻得知比尔·赛克斯是一名窃贼，米考伯先生有一个秃头，就像人们通过传闻得知摩西在一篮子芦苇中被发现并看到了主的“背部”一样。另一件非常引人注目的事情是美国书籍越来越不受欢迎。另一个问题是短篇小说不受欢迎，出版商每两三年就会为此争论一次。那种要求图书管理员为他选择一本书的人几乎总是以“我不想要短篇小说”开始，或者“我不想要小故事”，正如我们的一位德国客户过去常说的那样。如果你问他们为什么，他们有时会解释说，习惯每个故事都有一组新角色实在是太愚蠢了。他们喜欢“进入”一本读完第一章就不需要进一步思考的小说。不过，我认为，作家比读者更应该受到指责。大多数现代短篇小说，英语和美国小说相比，它们完全毫无生气、毫无价值，远比大多数小说更严重。短篇小说本身就很受欢迎，例如D.H.劳伦斯，他的短篇小说和他的长篇小说一样受欢迎。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Would I like to be a bookseller de métier? On the whole — in spite of my employer's kindness to me, and some happy days I spent in the shop — no.",
+      "source_anchor": null,
+      "id": "S007",
+      "order": 6,
+      "zh": "我想成为专业书商吗？总的来说——尽管我的雇主对我很好，而且我在店里度过了一些快乐的日子——没有。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Given a good pitch and the right amount of capital, any educated person ought to be able to make a small secure living out of a bookshop. Unless one goes in for ‘rare’ books it is not a difficult trade to learn, and you start at a great advantage if you know anything about the insides of books. (Most booksellers don't. You can get their measure by having a look at the trade papers where they advertise their wants. If you don't see an ad. for Boswell's Decline and Fall you are pretty sure to see one for The Mill on the Floss by T. S. Eliot.) Also it is a humane trade which is not capable of being vulgarized beyond a certain point. The combines can never squeeze the small independent bookseller out of existence as they have squeezed the grocer and the milkman. But the hours of work are very long — I was only a part-time employee, but my employer put in a seventy-hour week, apart from constant expeditions out of hours to buy books — and it is an unhealthy life. As a rule a bookshop is horribly cold in winter, because if it is too warm the windows get misted over, and a bookseller lives on his windows. And books give off more and nastier dust than any other class of objects yet invented, and the top of a book is the place where every bluebottle prefers to die.",
+      "source_anchor": null,
+      "id": "S008",
+      "order": 7,
+      "zh": "只要有良好的宣传和适量的资金，任何受过教育的人都应该能够在书店里过上小安稳的生活。除非你喜欢“稀有”书籍，否则学习起来并不困难，如果你对书籍的内部有所了解，那么你一开始就有很大的优势。 （大多数书商不这样做。你可以通过查看他们在广告上宣传自己的需求的商业报纸来了解他们的衡量标准。如果你没有看到博斯韦尔的《衰亡》的广告，那么你很肯定会看到T.S.艾略特的《弗洛斯河上的磨坊》的广告。）此外，这是一种人道的贸易，在一定程度上不能被庸俗化。联合收割机永远无法像挤压杂货店和送牛奶商那样挤压小型独立书商的存在。但工作时间很长——我只是一名兼职员工，但我的雇主每周工作七十个小时，除了经常在下班时间外出买书——这是一种不健康的生活。一般来说，书店在冬天会非常冷，因为如果天气太热，窗户就会起雾，而书商就靠窗户生活。书籍比任何其他已发明的物体散发出更多、更肮脏的灰尘，而书的顶部是每只蓝蝇都宁愿死的地方。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "But the real reason why I should not like to be in the book trade for life is that while I was in it I lost my love of books. A bookseller has to tell lies about books, and that gives him a distaste for them; still worse is the fact that he is constantly dusting them and hauling them to and fro. There was a time when I really did love books — loved the sight and smell and feel of them, I mean, at least if they were fifty or more years old. Nothing pleased me quite so much as to buy a job lot of them for a shilling at a country auction. There is a peculiar flavour about the battered unexpected books you pick up in that kind of collection: minor eighteenth-century poets, out-of-date gazeteers, odd volumes of forgotten novels, bound numbers of ladies’ magazines of the sixties. For casual reading — in your bath, for instance, or late at night when you are too tired to go to bed, or in the odd quarter of an hour before lunch — there is nothing to touch a back number of the Girl's Own Paper. But as soon as I went to work in the bookshop I stopped buying books. Seen in the mass, five or ten thousand at a time, books were boring and even slightly sickening. Nowadays I do buy one occasionally, but only if it is a book that I want to read and can't borrow, and I never buy junk. The sweet smell of decaying paper appeals to me no longer. It is too closely associated in my mind with paranoiac customers and dead bluebottles.",
+      "source_anchor": null,
+      "id": "S009",
+      "order": 8,
+      "zh": "但我一生不愿意从事图书行业的真正原因是，当我从事图书行业时，我失去了对书籍的热爱。书商必须对书籍撒谎，这让他厌恶书籍；更糟糕的是，他不断地给它们除尘并来回拖着它们。曾经有一段时间，我真的很喜欢书——喜欢它们的视觉、气味和感觉，我的意思是，至少如果它们有五十岁或以上的话。没有什么比在乡村拍卖会上用一先令买下一批这样的作品更让我高兴的了。你在这类藏书中捡到的那些破旧的、意想不到的书籍有一种奇特的味道：十八世纪的小诗人、过时的地名词典、被遗忘的奇特小说、六十年代的女士杂志装订本。对于休闲阅读来说——例如，在洗澡时，或者在深夜当你太累而无法上床睡觉时，或者在午餐前的奇怪一刻钟时——没有什么可以碰过过期的《女孩自己的报纸》的。但自从我去书店工作后，我就不再买书了。一次看五本或一万本书的书很无聊，甚至有点令人作呕。现在我偶尔也会买一本，但前提是这是一本我想看又借不到的书，我从不买垃圾书。腐烂的纸的甜味不再吸引我了。在我看来，它与偏执的顾客和死去的蓝蝇联系得太紧密了。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    }
+  ],
+  "glossary": {},
+  "coverage": {
+    "blocks": 9,
+    "source_characters": 11289,
+    "source_beginning": "When I worked in a second-hand bookshop — so easily pictured, if you don't work in one, as a kind of paradise where charming old gentlemen browse eter",
+    "source_ending": "I want to read and can't borrow, and I never buy junk. The sweet smell of decaying paper appeals to me no longer. It is too closely associated in my mind with paranoiac customers and dead bluebottles."
+  },
+  "omitted_non_content": [
+    "Source website navigation, catalogues, later editorial commentary, folios and publisher boilerplate."
+  ],
+  "extraction_status": "complete source boundaries identified; limited spot review",
+  "translation_status": "complete paragraph coverage; machine draft, limited spot review"
+}

@@ -1,0 +1,125 @@
+{
+  "paper": {
+    "id": "orwell-sport",
+    "candidate_number": 53,
+    "title": "The Sporting Spirit",
+    "zh_title": "体育精神",
+    "author": "George Orwell",
+    "category": "文学与思想",
+    "source": "https://orwellfoundation.com/george-orwell/by-orwell/essays/the-sporting-spirit/",
+    "visible": true,
+    "status": "bilingual-complete-draft",
+    "kind": "full",
+    "year": 1945,
+    "original_language": "en",
+    "folder": "The Sporting Spirit 1945",
+    "author_death_year": 1950,
+    "rights_jurisdiction": "mainland China",
+    "rights": "Original literary work beyond the mainland-China life-plus-50 term as of 2026; no assertion of worldwide public-domain status. Only original author text and newly generated Chinese translation are included.",
+    "rights_term_reference": "https://www.ncac.gov.cn/xxfb/flfg/flfg_532/202103/t20210309_50530.html",
+    "scope": "complete-essay",
+    "translation_status": "complete paragraph coverage; machine draft, limited spot review",
+    "source_acquisition": "assistant-retrieved-original",
+    "completeness": "all source body blocks retained; source boundaries and paragraph coverage checked"
+  },
+  "scope": "complete-essay",
+  "original_language": "en",
+  "source_format": "html",
+  "source_sha256": "360beffe5d6ce072d4f968efeb2d5a0fdb333a5f8b6978a6b84a405e6a49f5a0",
+  "source_url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/the-sporting-spirit/",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "en": "Now that the brief visit of the Dynamo football team has come to an end, it is possible to say publicly what many thinking people were saying privately before the Dynamos ever arrived. That is, that sport is an unfailing cause of ill-will, and that if such a visit as this had any effect at all on Anglo-Soviet relations, it could only be to make them slightly worse than before.",
+      "source_anchor": null,
+      "id": "S001",
+      "order": 0,
+      "zh": "现在迪纳摩足球队的短暂访问已经结束，我们可以公开说出在迪纳摩队到来之前许多有思想的人私下里所说的话。也就是说，这项运动必然会引起敌意，如果这样的访问对英苏关系有任何影响的话，也只能是使它们比以前稍微恶化一些。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Even the newspapers have been unable to conceal the fact that at least two of the four matches played led to much bad feeling. At the Arsenal match, I am told by someone who was there, a British and a Russian player came to blows and the crowd booed the referee. The Glasgow match, someone else informs me, was simply a free-for-all from the start. And then there was the controversy, typical of our nationalistic age, about the composition of the Arsenal team. Was it really an all-England team, as claimed by the Russians, or merely a league team, as claimed by the British? And did the Dynamos end their tour abruptly in order to avoid playing an all-England team? As usual, everyone answers these questions according to his political predilections. Not quite everyone, however. I noted with interest, as an instance of the vicious passions that football provokes, that the sporting correspondent of the russophile News Chronicle took the anti-Russian line and maintained that Arsenal was not an all-England team. No doubt the controversy will continue to echo for years in the footnotes of history books. Meanwhile the result of the Dynamos’ tour, in so far as it has had any result, will have been to create fresh animosity on both sides.",
+      "source_anchor": null,
+      "id": "S002",
+      "order": 1,
+      "zh": "即使是报纸也无法掩盖这样一个事实：四场比赛中至少有两场引起了很大的不良情绪。据当时在场的人告诉我，在阿森纳的比赛中，一名英国球员和一名俄罗斯球员发生了冲突，观众向裁判发出了嘘声。有人告诉我，格拉斯哥的比赛从一开始就是一场混战。然后是关于阿森纳球队组成的争议，这是我们民族主义时代典型的争议。这真的是俄罗斯人声称的全英格兰球队，还是英国人声称的仅仅是一支联赛球队？迪纳摩队是否突然结束了他们的巡回赛，以避免对阵全英格兰球队？和往常一样，每个人都根据自己的政治偏好回答这些问题。然而，并非所有人都是如此。我饶有兴趣地注意到，亲俄《新闻纪事报》的体育记者采取了反俄路线，并坚称阿森纳不是一支全英格兰球队，这是足球激起恶性激情的一个例子。毫无疑问，这场争论将在历史书的脚注中继续回响多年。与此同时，迪纳摩队的巡回赛的结果，就其产生的任何结果而言，将是在双方之间制造新的敌意。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "And how could it be otherwise? I am always amazed when I hear people saying that sport creates goodwill between the nations, and that if only the common peoples of the world could meet one another at football or cricket, they would have no inclination to meet on the battlefield. Even if one didn’t know from concrete examples (the 1936 Olympic Games, for instance) that international sporting contests lead to orgies of hatred, one could deduce it from general principles.",
+      "source_anchor": null,
+      "id": "S003",
+      "order": 2,
+      "zh": "否则怎么可能呢？当我听到人们说体育可以在国家之间建立友谊，如果世界上的普通民众能够在足球或板球比赛中相遇，他们就不会愿意在战场上相遇，我总是感到惊讶。即使人们无法从具体例子（例如 1936 年奥运会）中了解到国际体育竞赛会导致仇恨狂欢，人们也可以从一般原则中推断出这一点。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Nearly all the sports practised nowadays are competitive. You play to win, and the game has little meaning unless you do your utmost to win. On the village green, where you pick up sides and no feeling of local patriotism is involved, it is possible to play simply for the fun and exercise: but as soon as the question of prestige arises, as soon as you feel that you and some larger unit will be disgraced if you lose, the most savage combative instincts are aroused. Anyone who has played even in a school football match knows this. At the international level sport is frankly mimic warfare. But the significant thing is not the behaviour of the players but the attitude of the spectators: and, behind the spectators, of the nations who work themselves into furies over these absurd contests, and seriously believe – at any rate for short periods – that running, jumping and kicking a ball are tests of national virtue.",
+      "source_anchor": null,
+      "id": "S004",
+      "order": 3,
+      "zh": "当今几乎所有的运动都是竞技性的。你玩游戏就是为了赢，除非你竭尽全力去赢，否则游戏就没有意义。在乡村绿地里，你站在一边，不涉及当地的爱国主义感情，你可以纯粹为了乐趣和锻炼而打球：但一旦出现声望问题，一旦你觉得如果输了，你和一些更大的单位就会蒙羞，最野蛮的好斗本能就会被唤起。任何参加过学校足球比赛的人都知道这一点。在国际层面上，体育运动坦白说就是模仿战争。但重要的不是球员的行为，而是观众的态度：以及在观众背后，那些对这些荒谬的比赛感到愤怒的国家，他们认真地相信——至少在短时间内——跑、跳和踢球是对民族美德的考验。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Even a leisurely game like cricket, demanding grace rather than strength, can cause much ill-will, as we saw in the controversy over body-line bowling and over the rough tactics of the Australian team that visited England in 1921. Football, a game in which everyone gets hurt and every nation has its own style of play which seems unfair to foreigners, is far worse. Worst of all is boxing. One of the most horrible sights in the world is a fight between white and coloured boxers before a mixed audience. But a boxing audience is always disgusting, and the behaviour of the women, in particular, is such that the army, I believe, does not allow them to attend its contests. At any rate, two or three years ago, when Home Guards and regular troops were holding a boxing tournament, I was placed on guard at the door of the hall, with orders to keep the women out.",
+      "source_anchor": null,
+      "id": "S005",
+      "order": 4,
+      "zh": "即使是像板球这样的休闲运动，要求优雅而不是力量，也会引起很多恶意，正如我们在关于身体线保龄球的争议和1921年访问英格兰的澳大利亚队的粗暴战术的争议中看到的那样。足球，这项每个人都会受伤的运动，每个国家都有自己的比赛风格，对外国人来说似乎不公平，情况更糟。最糟糕的是拳击。世界上最可怕的景象之一是白人和有色人种拳击手在混杂的观众面前打斗。但拳击观众总是令人厌恶，尤其是女性的行为，我相信军队不允许她们参加比赛。无论如何，两三年前，当家庭卫队和正规部队举行拳击比赛时，我被安排在大厅门口站岗，并命令禁止妇女进入。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "In England, the obsession with sport is bad enough, but even fiercer passions are aroused in young countries where games playing and nationalism are both recent developments. In countries like India or Burma, it is necessary at football matches to have strong cordons of police to keep the crowd from invading the field. In Burma, I have seen the supporters of one side break through the police and disable the goalkeeper of the opposing side at a critical moment. The first big football match that was played in Spain about fifteen years ago led to an uncontrollable riot. As soon as strong feelings of rivalry are aroused, the notion of playing the game according to the rules always vanishes. People want to see one side on top and the other side humiliated, and they forget that victory gained through cheating or through the intervention of the crowd is meaningless. Even when the spectators don’t intervene physically they try to influence the game by cheering their own side and ‘rattling’ opposing players with boos and insults. Serious sport has nothing to do with fair play. It is bound up with hatred, jealousy, boastfulness, disregard of all rules and sadistic pleasure in witnessing violence: in other words it is war minus the shooting.",
+      "source_anchor": null,
+      "id": "S006",
+      "order": 5,
+      "zh": "在英国，对体育的痴迷已经够糟糕的了，但在比赛和民族主义都是最近发展的年轻国家，人们对体育的热情甚至更加强烈。在印度或缅甸等国家，足球比赛时必须有强有力的警戒线，以防止人群侵入球场。在缅甸，我曾看到一方的支持者在关键时刻冲破警察，打断对方的门将。大约十五年前，西班牙举行的第一场大型足球比赛引发了一场无法控制的骚乱。一旦产生强烈的竞争感，按规则玩游戏的想法就永远消失了。人们希望看到一方领先，另一方受辱，而忘记了通过作弊或群众干预获得的胜利是没有意义的。即使观众没有进行身体干预，他们也会试图通过为自己的球队加油并用嘘声和侮辱来“震慑”对方球员来影响比赛。严肃的运动与公平竞争无关。它与仇恨、嫉妒、自吹自擂、无视所有规则以及目睹暴力时的虐待狂快乐紧密相连：换句话说，这是减去枪击的战争。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Instead of blah-blahing about the clean, healthy rivalry of the football field and the great part played by the Olympic Games in bringing the nations together, it is more useful to inquire how and why this modern cult of sport arose. Most of the games we now play are of ancient origin, but sport does not seem to have been taken very seriously between Roman times and the nineteenth century. Even in the English public schools the games cult did not start till the later part of the last century. Dr Arnold, generally regarded as the founder of the modern public school, looked on games as simply a waste of time. Then, chiefly in England and the United States, games were built up into a heavily-financed activity, capable of attracting vast crowds and rousing savage passions, and the infection spread from country to country. It is the most violently combative sports, football and boxing, that have spread the widest. There cannot be much doubt that the whole thing is bound up with the rise of nationalism – that is, with the lunatic modern habit of identifying oneself with large power units and seeing everything in terms of competitive prestige. Also, organised games are more likely to flourish in urban communities where the average human being lives a sedentary or at least a confined life, and does not get much opportunity for creative labour. In a rustic community a boy or young man works off a good deal of his surplus energy by walking, swimming, snowballing, climbing trees, riding horses, and by various sports involving cruelty to animals, such as fishing, cock-fighting and ferreting for rats. In a big town one must indulge in group activities if one wants an outlet for one’s physical strength or for one’s sadistic impulses. Games are taken seriously in London and New York, and they were taken seriously in Rome and Byzantium: in the Middle Ages they were played, and probably played with much physical brutality, but they were not mixed up with politics nor a cause of group hatreds.",
+      "source_anchor": null,
+      "id": "S007",
+      "order": 6,
+      "zh": "与其喋喋不休地谈论足球场上干净、健康的竞争以及奥运会在将各国团结在一起方面所发挥的巨大作用，更有用的是探究这种现代体育崇拜是如何以及为何产生的。我们现在玩的大多数游戏都起源于古代，但从罗马时代到十九世纪，体育运动似乎并没有受到非常严肃的对待。即使在英国公立学校，游戏崇拜也是上世纪下叶才开始的。阿诺德博士被普遍认为是现代公立学校的创始人，他认为游戏纯粹是浪费时间。然后，主要在英国和美国，运动会被发展成为一项资金雄厚的活动，能够吸引大量人群并激发野蛮的激情，并且感染从一个国家传播到另一个国家。足球和拳击是最具暴力对抗性的运动，传播范围也最广。毫无疑问，整个事情与民族主义的兴起密切相关 — — 也就是说，与现代人疯狂的习惯有关，即认同大型权力单位并以竞争声望来看待一切。此外，有组织的游戏更有可能在城市社区蓬勃发展，因为城市社区中的普通人都过着久坐或至少是封闭的生活，没有太多创造性劳动的机会。在乡村社区，男孩或年轻人通过步行、游泳、打雪仗、爬树、骑马以及各种涉及虐待动物的运动（例如钓鱼、斗鸡和搜寻老鼠。在大城市里，如果一个人想要发泄体力或施虐冲动，就必须沉迷于集体活动。游戏在伦敦和纽约受到认真对待，在罗马和拜占庭也受到认真对待：在中世纪，人们玩游戏，而且玩起来可能会带有很多身体上的残酷，但它们不会与政治混在一起，也不会成为群体仇恨的原因。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "If you wanted to add to the vast fund of ill-will existing in the world at this moment, you could hardly do it better than by a series of football matches between Jews and Arabs, Germans and Czechs, Indians and British, Russians and Poles, and Italians and Jugoslavs, each match to be watched by a mixed audience of 100,000 spectators. I do not, of course, suggest that sport is one of the main causes of international rivalry; big-scale sport is itself, I think, merely another effect of the causes that have produced nationalism. Still, you do make things worse by sending forth a team of eleven men, labelled as national champions, to do battle against some rival team, and allowing it to be felt on all sides that whichever nation is defeated will ‘lose face’.",
+      "source_anchor": null,
+      "id": "S008",
+      "order": 7,
+      "zh": "如果你想让世界上此刻存在的巨大的恶意更加雪上加霜，那么犹太人和阿拉伯人、德国人和捷克人、印度人和英国人、俄罗斯人和波兰人、意大利人和南斯拉夫人之间的一系列足球比赛是最好的选择，每场比赛都有 10 万观众观看。当然，我并不是说体育是国际竞争的主要原因之一。我认为，大型体育运动本身只是产生民族主义的原因的另一个结果。尽管如此，你派出一支十一人的队伍，贴上国家冠军的标签，去与一些竞争对手的队伍作战，让各方都感到，无论哪个国家被击败，都会“丢面子”，这确实会让事情变得更糟。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "I hope, therefore, that we shan’t follow up the visit of the Dynamos by sending a British team to the USSR. If we must do so, then let us send a second-rate team which is sure to be beaten and cannot be claimed to represent Britain as a whole. There are quite enough real causes of trouble already, and we need not add to them by encouraging young men to kick each other on the shins amid the roars of infuriated spectators.",
+      "source_anchor": null,
+      "id": "S009",
+      "order": 8,
+      "zh": "因此，我希望我们不要继迪纳摩队的访问之后派遣一支英国球队前往苏联。如果一定要这么做，那就派出一支肯定会被打败、不能代表整个英国的二流球队吧。造成麻烦的真正原因已经够多了，我们不需要鼓励年轻人在愤怒的观众的咆哮声中互相踢对方的小腿，从而增加这些原因。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    }
+  ],
+  "glossary": {},
+  "coverage": {
+    "blocks": 9,
+    "source_characters": 8327,
+    "source_beginning": "Now that the brief visit of the Dynamo football team has come to an end, it is possible to say publicly what many thinking people were saying privatel",
+    "source_ending": "Britain as a whole. There are quite enough real causes of trouble already, and we need not add to them by encouraging young men to kick each other on the shins amid the roars of infuriated spectators."
+  },
+  "omitted_non_content": [
+    "Source website navigation, catalogues, later editorial commentary, folios and publisher boilerplate."
+  ],
+  "extraction_status": "complete source boundaries identified; limited spot review",
+  "translation_status": "complete paragraph coverage; machine draft, limited spot review"
+}

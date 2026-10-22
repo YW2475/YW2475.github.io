@@ -1,0 +1,116 @@
+{
+  "paper": {
+    "id": "orwell-reviewer",
+    "candidate_number": 54,
+    "title": "Confessions of a Book Reviewer",
+    "zh_title": "一个书评人的自白",
+    "author": "George Orwell",
+    "category": "文学与思想",
+    "source": "https://orwellfoundation.com/george-orwell/by-orwell/essays-and-other-works/confessions-of-a-book-reviewer/",
+    "visible": true,
+    "status": "bilingual-complete-draft",
+    "kind": "full",
+    "year": 1946,
+    "original_language": "en",
+    "folder": "Confessions of a Book Reviewer 1946",
+    "author_death_year": 1950,
+    "rights_jurisdiction": "mainland China",
+    "rights": "Original literary work beyond the mainland-China life-plus-50 term as of 2026; no assertion of worldwide public-domain status. Only original author text and newly generated Chinese translation are included.",
+    "rights_term_reference": "https://www.ncac.gov.cn/xxfb/flfg/flfg_532/202103/t20210309_50530.html",
+    "scope": "complete-essay",
+    "translation_status": "complete paragraph coverage; machine draft, limited spot review",
+    "source_acquisition": "assistant-retrieved-original",
+    "completeness": "all source body blocks retained; source boundaries and paragraph coverage checked"
+  },
+  "scope": "complete-essay",
+  "original_language": "en",
+  "source_format": "html",
+  "source_sha256": "08c8844c35eaf55e5a28c15db488822b438d3f70bb83ab59a96480b3752df0ac",
+  "source_url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/confessions-of-a-book-reviewer/",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "en": "In a cold but stuffy bed-sitting room littered with cigarette ends and half-empty cups of tea, a man in a moth-eaten dressing-grown sits at a rickety table, trying to find room for his typewriter among the piles of dusty papers that surround it. He cannot throw the papers away because the wastepaper basket is already overflowing, and besides, somewhere among the unanswered letters and unpaid bills it is possible that there is a cheque for two guineas which he is nearly certain he forgot to pay into the bank. There are also letters with addresses which ought to be entered in his address book. He has lost this address book, and the thought of looking for it, or indeed of looking for anything, afflicts him with acute suicidal impulses.",
+      "source_anchor": null,
+      "id": "S001",
+      "order": 0,
+      "zh": "在一间寒冷而闷热的起居室里，散落着烟头和半空的茶杯，一个穿着被虫蛀的敷料的男人坐在一张摇摇晃晃的桌子旁，试图在周围成堆的灰尘纸堆中为他的打字机找到地方。他不能把这些文件扔掉，因为废纸篓已经满了，而且，在那些未回复的信件和未付的账单中，可能有一张两几尼的支票，他几乎可以肯定他忘了存入银行。还有一些带有地址的信件应该输入他的地址簿中。他丢失了这本通讯录，一想到要寻找它，或者说寻找任何东西，他就有强烈的自杀冲动。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "He is a man of 35, but looks 50. He is bald, has varicose veins and wears spectacles, or would wear them if his only pair were not chronically lost. If things are normal with him he will be suffering from malnutrition, but if he has recently had a lucky streak he will be suffering from a hangover. At present it is half past eleven in the morning, and according to his schedule he should have started work two hours ago; but even if he had made any serious effort to start he would have been frustrated by the almost continuous ringing of the telephone bell, the yells of the baby, the rattle of an electric drill out in the street, and the heavy boots of his creditors clumping up and down the stairs. The most recent interruption was the arrival of the second post, which brought him two circulars and an income-tax demand printed in red.",
+      "source_anchor": null,
+      "id": "S002",
+      "order": 1,
+      "zh": "他是一个 35 岁的男人，但看起来 50 岁。他秃顶，患有静脉曲张，戴着眼镜，如果他唯一的一副眼镜不是长期丢失的话，他会戴上眼镜。如果他一切正常，他就会营养不良，但如果他最近运气好，他就会宿醉。现在是上午十一点半，按照他的日程安排，他应该在两个小时前就开始工作了；但即使他认真地努力开始，他也会因为电话铃几乎连续不断的铃声、婴儿的叫声、街上电钻的嘎嘎声、以及债权人沉重的靴子在楼梯上走来走去而感到沮丧。最近的一次中断是第二封邮件的到来，给他带来了两份通知和一份用红色印刷的所得税要求。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Needless to say this person is a writer. He might be a poet, a novelist, or a writer of film scripts or radio features, for all literary people are very much alike, but let us say that he is a book reviewer. Half hidden among the pile of papers is a bulky parcel containing five volumes which his editor has sent with a note suggesting that they “ought to go well together”. They arrived four days ago, but for 48 hours the reviewer was prevented by moral paralysis from opening the parcel. Yesterday in a resolute moment he ripped the string off it and found the five volumes to be Palestine at the Cross Roads, Scientific Dairy Farming, A Short History of European Democracy (this one 680 pages and weighs four pounds), Tribal Customs in Portuguese East Africa, and a novel, It’s Nicer Lying Down, probably included by mistake. His review — 800 words, say — has got to be ‘in’ by midday tomorrow.",
+      "source_anchor": null,
+      "id": "S003",
+      "order": 2,
+      "zh": "不用说，这个人是一位作家。他可能是一位诗人、小说家，或者是电影剧本或广播故事的作家，因为所有文学人都非常相似，但我们可以说他是一位书评家。半藏在一堆文件中的是一个大包裹，里面有五卷，他的编辑寄来了一张纸条，暗示它们“应该很好地结合在一起”。他们四天前到达，但在 48 小时内，审阅者因道德瘫痪而无法打开包裹。昨天，他毅然决然地扯下绳子，发现这五卷是《十字路口的巴勒斯坦》、《科学奶牛养殖》、《欧洲民主简史》（这本书有 680 页，重 4 磅）、《葡属东非部落习俗》，以及一本小说《躺着更好》，可能是误入的。他的评论——比如 800 字——必须在明天中午之前发布。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Three of these books deal with subjects of which he is so ignorant that he will have to read at least fifty pages if he is to avoid making some howler which will betray him not merely to the author (who of course knows all about the habits of book reviewers), but even to the general reader. By four in the afternoon he will have taken the books out of their wrapping paper but will still be suffering from a nervous inability to open them. The prospect of having to read them, and even the smell of the paper, affects him like the prospect of eating cold ground-rice pudding flavoured with castor oil. And yet curiously enough his copy will get to the office in time. Somehow it always does get there in time. At about nine p.m. his mind will grow relatively clear, and until the small hours he will sit in a room which grows colder and colder, while the cigarette smoke grows thicker and thicker, skipping expertly through one book after another and laying each down with a final comment, ‘God, what tripe!’ In the morning, blear-eyed, surly and unshaven, he will gaze for an hour or two at a blank sheet of paper until the menacing finger of the clock frightens him into action. Then suddenly he will snap into it. All the stale old phrases – “a book that no one should miss,” “something memorable on every page,” “of special value are the chapters dealing with, etc., etc.” – will jump into their places like iron filings obeying the magnet, and the review will end up at exactly the right length and with just about three minutes to go. Meanwhile another wad of ill-assorted, unappetising books will have arrived by post. So it goes on. And yet with what high hopes this down-trodden, nerve-racked creature started his career, only a few years ago.",
+      "source_anchor": null,
+      "id": "S004",
+      "order": 3,
+      "zh": "其中三本书所涉及的主题他是如此无知，如果他想避免发出一些咆哮，他就必须阅读至少五十页，这不仅会向作者（当然，作者当然了解书评家的习惯），而且还会向普通读者出卖他。到下午四点，他就会把书从包装纸中取出，但仍会因为紧张而无法打开它们。必须阅读它们的前景，甚至报纸的气味，都对他产生影响，就像吃蓖麻油调味的冷米布丁一样。但奇怪的是，他的副本会及时送到办公室。不知怎的，它总是能及时到达那里。晚上九点左右。他的头脑会变得相对清晰，直到凌晨时分，他会坐在一个越来越冷的房间里，香烟的烟雾越来越浓，熟练地翻阅一本又一本，放下每一本书，最后评论道：“天哪，真是胡说八道！”早上，他目光呆滞，脾气暴躁，胡子拉碴，盯着一张白纸一两个小时，直到时钟的威胁指针吓到他采取行动。然后突然他就会陷入其中。所有陈旧的短语——“一本任何人都不应错过的书”，“每一页都有令人难忘的东西”，“特别有价值的是涉及的章节，等等。” – 将像铁屑服从磁铁一样跳到它们的位置，并且评论将以完全正确的长度结束，并且只剩下大约三分钟。与此同时，另一堆种类繁多、令人倒胃口的书将会通过邮寄到达。就这样继续下去。然而，仅仅几年前，这个饱受蹂躏、神经紧张的生物就被寄予厚望，开始了他的职业生涯。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Do I seem to exaggerate? I ask any regular reviewer – anyone who reviews, say, a minimum of a hundred books a year – whether he can deny in honesty that his habits and character are such as I have described. Every writer, in any case, is rather that kind of person, but the prolonged, indiscriminate reviewing of books is a quite exceptionally thankless, irritating and exhausting job. It not only involves praising trash – though it does involve that, as I will show in a moment – but constantly inventing reactions towards books about which one has no spontaneous feelings whatever. The reviewer, jaded though he may be, is professionally interested in books, and out of the thousands that appear annually, there are probably fifty or a hundred that he would enjoy writing about. If he is a top-notcher in his profession he may get hold of ten or twenty of them: more probably he gets hold of two or three. The rest of his work, however conscientious he may be in praising or damning, is in essence humbug. He is pouring his immortal spirit down the drain, half a pint at a time.",
+      "source_anchor": null,
+      "id": "S005",
+      "order": 4,
+      "zh": "我似乎有点夸张吗？我问任何一个经常评论的人——任何每年至少评论一百本书的人——他是否可以诚实地否认他的习惯和性格就像我所描述的那样。无论如何，每个作家都是这样的人，但长时间、不分青红皂白地审书是一件非常吃力不讨好、令人恼火和疲惫的工作。它不仅涉及赞扬垃圾——尽管它确实涉及到这一点，正如我稍后将展示的那样——而且还不断地发明对人们没有任何自发感觉的书籍的反应。尽管评论家可能已经厌倦了，但他对书籍很感兴趣，在每年出版的数千本书籍中，可能有五十或一百本他喜欢写。如果他是所在行业的顶尖人才，他可能会掌握十到二十个：更可能的是，他会掌握两到三个。他的其余作品，无论他在赞扬或谴责方面多么认真，本质上都是骗人的。他正在把他不朽的灵魂倒进下水道，一次半品脱。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "The great majority of reviews give an inadequate or misleading account of the book that is dealt with. Since the war publishers have been less able than before to twist the tails of literary editors and evoke a paean of praise for every book that they produce, but on the other hand the standard of reviewing has gone down owing to lack of space and other inconveniences. Seeing the results, people sometimes suggest that the solution lies in getting book reviewing out of the hands of hacks. Books on specialized subjects ought to be dealt with by experts, and on the other hand a good deal of reviewing, especially of novels, might well be done by amateurs. Nearly every book is capable of arousing passionate feeling, if it is only a passionate dislike, in some or other reader, whose ideas about it would surely be worth more than those of a bored professional. But, unfortunately, as every editor knows, that kind of thing is very difficult to organize. In practice the editor always finds himself reverting to his team of hacks – his “regulars”, as he calls them.",
+      "source_anchor": null,
+      "id": "S006",
+      "order": 5,
+      "zh": "绝大多数评论对所涉及的书的描述不充分或具有误导性。自战后以来，出版商已经不像以前那样能够扭转文学编辑的尾巴并为他们出版的每一本书引起赞誉，但另一方面，由于缺乏空间和其他不便，评论的标准也下降了。看到结果后，人们有时会认为解决方案在于让书评摆脱黑客的控制。专门学科的书籍应该由专家来处理，而另一方面，大量的评论，尤其是小说的评论，很可能由业余爱好者来完成。几乎每一本书都能够激起某些读者的强烈厌恶，即使它只是一种强烈的厌恶，他们对这本书的想法肯定比无聊的专业人士的想法更有价值。但不幸的是，正如每个编辑都知道的那样，这种事情很难组织。在实践中，编辑总是发现自己回到了他的黑客团队——他称之为“常客”。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "None of this is remediable so long as it is taken for granted that every book deserves to be reviewed. It is almost impossible to mention books in bulk without grossly over-praising the great majority of them. Until one has some kind of professional relationship with books one does not discover how bad the majority of them are. In much more than nine cases out of ten the only objectively truthful criticism would be “This book is worthless”, while the truth about the reviewer’s own reaction would probably be “This book does not interest me in any way, and I would not write about it unless I were paid to.” But the public will not pay to read that kind of thing. Why should they? They want some kind of guide to the books they are asked to read, and they want some kind of evaluation. But as soon as values are mentioned, standards collapse. For if one says – and nearly every reviewer says this kind of thing at least once a week – that King Lear is a good play and The Four Just Men is a good thriller, what meaning is there in the word “good”?",
+      "source_anchor": null,
+      "id": "S007",
+      "order": 6,
+      "zh": "只要人们理所当然地认为每本书都值得评论，那么这一切都无法补救。大量提及书籍几乎不可能不过度赞扬其中的绝大多数。除非人们与书籍建立了某种职业关系，否则人们不会发现大多数书籍有多糟糕。在十分之九的情况下，唯一客观真实的批评将是“这本书毫无价值”，而关于评论者自己的反应的真相可能是“这本书我对任何方面都不感兴趣，除非有人付钱给我，否则我不会写它。”但公众不会付费阅读这类内容。他们为什么要这么做？他们想要某种关于他们被要求阅读的书籍的指南，并且他们想要某种评估。但一旦提到价值观，标准就崩溃了。因为如果有人说——几乎每个评论家每周至少都会说一次这样的话——《李尔王》是一部好戏剧，《四个正义者》是一部好惊悚片，那么“好”这个词有什么意义呢？",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "The best practice, it has always seemed to me, would be simply to ignore the great majority of books and to give very long reviews – 1,000 words is a bare minimum – to the few that seem to matter. Short notes of a line or two on forthcoming books can be useful, but the usual middle-length review of about 600 words is bound to be worthless even if the reviewer genuinely wants to write it. Normally he doesn’t want to write it, and the week-in, week-out production of snippets soon reduces him to the crushed figure in a dressing grown whom I described at the beginning of this article. However, everyone in this world has someone else whom he can look down on, and I must say, from experience of both trades, that the book reviewer is better off than the film critic, who cannot even do his work at home, but has to attend trade shows at eleven in the morning and, with one or two notable exceptions, is expected to sell his honour for a glass of inferior sherry.",
+      "source_anchor": null,
+      "id": "S008",
+      "order": 7,
+      "zh": "在我看来，最好的做法就是忽略绝大多数书籍，而对少数似乎重要的书籍进行很长的评论（至少 1000 字）。对即将出版的书做一两行简短的注释可能很有用，但通常的 600 字左右的中等长度的评论注定毫无价值，即使评论者真的想写它。通常他不想写它，而一周又一周地制作片段很快使他变成了我在本文开头所描述的那种穿着调料的破碎身材。然而，这个世界上每个人都有他可以瞧不起的人，我必须说，从这两个行业的经验来看，书评家比电影评论家过得更好，电影评论家甚至不能在家做他的工作，但必须在早上十一点参加商业展览，除了一两个明显的例外，预计会为了一杯劣质雪利酒而出卖自己的荣誉。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    }
+  ],
+  "glossary": {},
+  "coverage": {
+    "blocks": 8,
+    "source_characters": 8400,
+    "source_beginning": "In a cold but stuffy bed-sitting room littered with cigarette ends and half-empty cups of tea, a man in a moth-eaten dressing-grown sits at a rickety ",
+    "source_ending": "tic, who cannot even do his work at home, but has to attend trade shows at eleven in the morning and, with one or two notable exceptions, is expected to sell his honour for a glass of inferior sherry."
+  },
+  "omitted_non_content": [
+    "Source website navigation, catalogues, later editorial commentary, folios and publisher boilerplate."
+  ],
+  "extraction_status": "complete source boundaries identified; limited spot review",
+  "translation_status": "complete paragraph coverage; machine draft, limited spot review"
+}

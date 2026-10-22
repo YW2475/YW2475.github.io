@@ -1,0 +1,638 @@
+{
+  "paper": {
+    "id": "james-blindness",
+    "candidate_number": 38,
+    "title": "On a Certain Blindness in Human Beings",
+    "zh_title": "论人类的一种盲目",
+    "author": "William James",
+    "category": "心智与判断",
+    "source": "https://monadnock.net/james/blindness.html",
+    "visible": true,
+    "status": "bilingual-complete-draft",
+    "kind": "full",
+    "year": 1899,
+    "original_language": "en",
+    "folder": "On a Certain Blindness in Human Beings 1899",
+    "author_death_year": 1910,
+    "rights_jurisdiction": "mainland China",
+    "rights": "Original literary work beyond the mainland-China life-plus-50 term as of 2026; no assertion of worldwide public-domain status. Only original author text and newly generated Chinese translation are included.",
+    "rights_term_reference": "https://www.ncac.gov.cn/xxfb/flfg/flfg_532/202103/t20210309_50530.html",
+    "scope": "complete-essay",
+    "translation_status": "complete paragraph coverage; machine draft, limited spot review",
+    "source_acquisition": "assistant-retrieved-original",
+    "completeness": "all source body blocks retained; source boundaries and paragraph coverage checked"
+  },
+  "scope": "complete-essay",
+  "original_language": "en",
+  "source_format": "html",
+  "source_sha256": "678319215e87e3c10d0c6a704c9e3862af54481ee7dcd92fe87bb57f79477675",
+  "source_url": "https://monadnock.net/james/blindness.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "en": "Our judgments concerning the worth of things, big or little, depend on the feelings the things arouse in us. Where we judge a thing to be precious in consequence of the idea we frame of it, this is only because the idea is itself associated already with a feeling. If we were radically feelingless, and if ideas were the only things our mind could entertain, we should lose all our likes and dislikes at a stroke, and be unable to point to any one situation or experience in life more valuable or significant than any other.",
+      "source_anchor": null,
+      "id": "S001",
+      "order": 0,
+      "zh": "我们对事物价值的判断，无论大小，取决于事物在我们心中引起的感受。当我们根据我们所构建的想法来判断一件事物是否珍贵时，这只是因为该想法本身已经与一种感觉相关联。如果我们完全没有感情，如果思想是我们头脑中唯一能接受的东西，我们就会一下子失去所有的好恶，并且无法指出生活中的任何一种情况或经历比其他任何情况或经历更有价值或更重要。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Now the blindness in human beings, of which this discourse will treat, is the blindness with which we all are afflicted in regard to the feelings of creatures and people different from ourselves.",
+      "source_anchor": null,
+      "id": "S002",
+      "order": 1,
+      "zh": "本书要讨论的人类的盲目性，就是我们对于与我们不同的生物和人的感受所遭受的盲目性。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "We are practical beings, each of us with limited functions and duties to perform. Each is bound to feel intensely the importance of his own duties and the significance of the situations that call these forth. But this feeling is in each of us a vital secret, for sympathy with which we vainly look to others. The others are too much absorbed in their own vital secrets to take an interest in ours. Hence the stupidity and injustice of our opinions, so far as they deal with the significance of alien lives. Hence the falsity of our judgments, so far as they presume to decide in an absolute way on the value of other persons' conditions or ideals.",
+      "source_anchor": null,
+      "id": "S003",
+      "order": 2,
+      "zh": "我们都是务实的人，每个人要履行的职能和职责都是有限的。每个人都一定会强烈地感受到自己职责的重要性以及引发这些职责的情况的重要性。但这种感觉是我们每个人内心的一个重要秘密，因为我们徒劳地向别人寻求同情。其他人太专注于自己的重要秘密，对我们的秘密不感兴趣。因此，就外星生命的意义而言，我们的观点是愚蠢和不公正的。因此，我们的判断是错误的，因为我们的判断假定以绝对的方式决定他人的条件或理想的价值。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Take our dogs and ourselves, connected as we are by a tie more intimate than most ties in this world; and yet, outside of that tie of friendly fondness, how insensible, each of us, to all that makes life significant for the other! — we to the rapture of bones under hedges, or smells of trees and lamp-posts, they to the delights of literature and art. As you sit reading the most moving romance you ever fell upon, what sort of a judge is your fox-terrier of your behavior? With all his good will toward you, the nature of your conduct is absolutely excluded from his comprehension. To sit there like a senseless statue, when you might be taking him to walk and throwing sticks for him to catch! What queer disease is this that comes over you every day, of holding things and staring at them like that for hours together, paralyzed of motion and vacant of all conscious life? The African savages came nearer the truth; but they, too, missed it, when they gathered wonderingly round one of our American travellers who, in the interior, had just come into possession of a stray copy of the New York Commercial Advertiser, and was devouring it column by column. When he got through, they offered him a high price for the mysterious object; and, being asked for what they wanted it, they said: \"For an eye medicine,\" — that being the only reason they could conceive of for the protracted bath which he had given his eyes upon its surface.",
+      "source_anchor": null,
+      "id": "S004",
+      "order": 3,
+      "zh": "以我们的狗和我们自己为例，我们之间的联系比世界上大多数纽带都更加亲密；然而，除了这种友好的喜爱关系之外，我们每个人对于所有使彼此的生活变得有意义的事情是多么麻木不仁啊！ ——我们对树篱下的骨头的狂喜，或树木和灯柱的气味，他们对文学和艺术的喜悦。当你坐下来阅读你读过的最感人的浪漫故事时，你的猎狐犬对你的行为有什么样的评判？尽管他对你充满善意，但他完全无法理解你的行为本质。当你带他去散步并扔棍子让他接住时，却像一尊毫无知觉的雕像一样坐在那里！你每天都这样拿着东西，盯着它们看几个小时，行动瘫痪，所有意识都空虚，这是一种什么奇怪的疾病？非洲的野蛮人更接近真相。但当他们惊奇地聚集在我们的一位美国旅行者周围时，他们也错过了这一点，这位旅行者在内陆地区刚刚获得一份《纽约商业广告报》的零散副本，并正在一栏一栏地阅读它。当他接通后，他们为这个神秘物品开出了高价。当被问及他们想要什么时，他们说：“作为一种眼药。”——这是他们能想到的唯一原因，他让他的眼睛在它的表面上进行长时间的沐浴。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "The spectator's judgment is sure to miss the root of the matter, and to possess no truth. The subject judged knows a part of the world of reality which the judging spectator fails to see, knows more while the spectator knows less; and, wherever there is conflict of opinion and difference of vision, we are bound to believe that the truer side is the side that feels the more, and not the side that feels the less.",
+      "source_anchor": null,
+      "id": "S005",
+      "order": 4,
+      "zh": "旁观者的判断肯定会错过事情的根源，并且没有真相。被评判的主体知道现实世界的一部分，而评判的观众却看不到，他们知道的更多，而旁观者知道的更少；而且，只要存在意见冲突和愿景差异，我们就一定会相信，感受较多的一方才是更真实的一方，而不是感受较少的一方。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Let me take a personal example of the kind that befalls each one of us daily: —",
+      "source_anchor": null,
+      "id": "S006",
+      "order": 5,
+      "zh": "让我举一个我们每个人每天都会遇到的例子：——",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Some years ago, while journeying in the mountains of North Carolina, I passed by a large number of 'coves,' as they call them there, or heads of small valleys between the hills, which had been newly cleared and planted. The impression on my mind was one of unmitigated squalor. The settler had in every case cut down the more manageable trees, and left their charred stumps standing. The larger trees he had girdled and killed, in order that their foliage should not cast a shade. He had then built a log cabin, plastering its chinks with clay, and had set up a tall zigzag rail fence around the scene of his havoc, to keep the pigs and cattle out. Finally, he had irregularly planted the intervals between the stumps and trees with Indian corn, which grew among the chips; and there he dwelt with his wife and babes — an axe, a gun, a few utensils, and some pigs and chickens feeding in the woods, being the sum total of his possessions.",
+      "source_anchor": null,
+      "id": "S007",
+      "order": 6,
+      "zh": "几年前，当我在北卡罗来纳州的山区旅行时，我经过了大量的“海湾”，他们称之为那里的“海湾”，或者是山间小山谷的顶端，这些山谷是新近清理和种植的。我的印象是极其肮脏。定居者在每种情况下都砍倒了更容易管理的树木，并留下烧焦的树桩。他把较大的树木都环抱起来并杀死了，以免它们的叶子留下阴影。然后，他建造了一间小木屋，在缝隙中抹上粘土，并在破坏现场周围竖起了高高的锯齿形围栏，以防止猪和牛进入。最后，他在树桩和树木之间不规则地种植了印度玉米，这些玉米生长在木片之间。他和他的妻子和孩子们住在那里——一把斧子、一把枪、一些器皿，还有一些在树林里喂食的猪和鸡，这是他所有的财产。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "The forest had been destroyed; and what had 'improved' it out of existence was hideous, a sort of ulcer, without a single element of artificial grace to make up for the loss of Nature's beauty. Ugly, indeed, seemed the life of the squatter, scudding, as the sailors say, under bare poles, beginning again away back where our first ancestors started, and by hardly a single item the better off for all the achievements of the intervening generations.",
+      "source_anchor": null,
+      "id": "S008",
+      "order": 7,
+      "zh": "森林被毁；而“改善”它的存在是可怕的，是一种溃疡，没有任何人为的优雅元素来弥补自然之美的损失。的确，占屋者的生活看起来很丑陋，正如水手们所说，在光秃秃的电线杆下，重新开始，回到我们最初祖先开始的地方，对于后来几代人所取得的所有成就来说，几乎没有任何一件事情比这更好。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Talk about going back to nature! I said to myself, oppressed by the dreariness, as I drove by. Talk of a country life for one's old age and for one's children! Never thus, with nothing but the bare ground and one's bare hands to fight the battle! Never, without the best spoils of culture woven in! The beauties and commodities gained by the centuries are sacred. They are our heritage and birthright. No modern person ought to be willing to live a day in such a state of rudimentariness and denudation.",
+      "source_anchor": null,
+      "id": "S009",
+      "order": 8,
+      "zh": "谈论回归自然！当我开车经过时，我对自己说，被沉闷的气氛所压抑。为自己的晚年和孩子谈论乡村生活！从来没有这样，只有光秃秃的土地和赤手空拳去战斗！如果没有最好的文化成果，就永远不会！几个世纪以来获得的美丽和商品是神圣的。它们是我们的遗产和与生俱来的权利。任何一个现代人都不应该愿意在这样简陋和剥削的状态下生活一天。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Then I said to the mountaineer who was driving me, \"What sort of people are they who have to make these new clearings?\" \"All of us,\" he replied. \"Why, we ain't happy here, unless we are getting one of these coves under cultivation.\" I instantly felt that I had been losing the whole inward significance of the situation. Because to me the clearings spoke of naught but denudation, I thought that to those whose sturdy arms and obedient axes had made them they could tell no other story. But, when they looked on the hideous stumps, what they thought of was personal victory. The chips, the girdled trees, and the vile split rails spoke of honest sweat, persistent toil and final reward. The cabin was a warrant of safety for self and wife and babes. In short, the clearing, which to me was a mere ugly picture on the retina, was to them a symbol redolent with moral memories and sang a very pæan of duty, struggle, and success.",
+      "source_anchor": null,
+      "id": "S010",
+      "order": 9,
+      "zh": "然后我对开车送我的登山者说：“他们是一群什么样的人，必须开辟这些新的空地？” “我们所有人，”他回答道。 “哎呀，我们在这里过得不开心，除非我们能开垦其中一处海湾。”我立刻感到我已经失去了这种情况的全部内在意义。因为对我来说，这片空地除了剥削之外什么也没有，我想，对于那些拥有坚固的手臂和顺从的斧头的人来说，他们无法讲述其他故事。但是，当他们看到那些丑陋的树桩时，他们想到的是个人的胜利。碎石、环抱的树木和肮脏的裂开的铁轨都诉说着诚实的汗水、坚持不懈的辛劳和最终的回报。小屋是自己、妻子和婴儿的安全保证。简而言之，这片空地对我来说只是视网膜上的一幅丑陋的图画，但对他们来说却是一个充满道德记忆的象征，唱着一首关于责任、斗争和成功的赞歌。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "I had been as blind to the peculiar ideality of their conditions as they certainly would also have been to the ideality of mine, had they had a peep at my strange indoor academic ways of life at Cambridge.",
+      "source_anchor": null,
+      "id": "S011",
+      "order": 10,
+      "zh": "我对他们独特的理想状况视而不见，就像他们对我的理想状况视而不见一样，如果他们看到了我在剑桥奇怪的室内学术生活方式的话。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Wherever a process of life communicates an eagerness to him who lives it, there the life becomes genuinely significant. Sometimes the eagerness is more knit up with the motor activities, sometimes with the perceptions, sometimes with the imagination, sometimes with reflective thought. But, wherever it is found, there is the zest, the tingle, the excitement of reality; and there is 'importance' in the only real and positive sense in which importance ever anywhere can be.",
+      "source_anchor": null,
+      "id": "S012",
+      "order": 11,
+      "zh": "每当生命的过程向生活在其中的人传达一种渴望时，生命就变得真正有意义。有时，渴望更多地与运动活动、有时与感知、有时与想象力、有时与反思性思维联系在一起。但是，无论它出现在哪里，都会有现实的热情、刺痛和兴奋； “重要性”是在唯一真实和积极的意义上存在的，任何地方的重要性都是如此。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Robert Louis Stevenson has illustrated this by a case, drawn from the sphere of the imagination, in an essay which I really think deserves to become immortal, both for the truth of its matter and the excellence of its form.",
+      "source_anchor": null,
+      "id": "S013",
+      "order": 12,
+      "zh": "罗伯特·路易斯·史蒂文森（Robert Louis Stevenson）在一篇文章中用一个取自想象领域的案例说明了这一点，我认为这篇文章值得不朽，无论是因为其内容的真实性还是其形式的卓越性。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "\"Toward the end of September,\" Stevenson writes, \"when school-time was drawing near, and the nights were already black, we would begin to sally from our respective villas, each equipped with a tin bull's-eye lantern. The thing was so well known that it had worn a rut in the commerce of Great Britain; and the grocers, about the due time, began to garnish their windows with our particular brand of luminary. We wore them buckled to the waist upon a cricket belt, and over them, such was the rigor of the game, a buttoned top-coat. They smelled noisomely of blistered tin. They never burned aright, though they would always burn our fingers. Their use was naught, the pleasure of them merely fanciful, and yet a boy with a bull's-eye under his top-coat asked for nothing more. The fishermen used lanterns about their boats, and it was from them, I suppose, that we had got the hint; but theirs were not bull's-eyes, nor did we ever play at being fishermen. The police carried them at their belts, and we had plainly copied them in that; yet we did not pretend to be policemen. Burglars, indeed, we may have had some haunting thought of; and we had certainly an eye to past ages when lanterns were more common, and to certain story-books in which we had found them to figure very largely. But take it for all in all, the pleasure of the thing was substantive; and to be a boy with a bull's-eye under his top-coat was good enough for us.",
+      "source_anchor": null,
+      "id": "S014",
+      "order": 13,
+      "zh": "“九月底，”史蒂文森写道，“当开学时间临近，夜色已然漆黑时，我们会开始从各自的别墅出发，每间别墅都配有一盏锡制靶心灯笼。这东西如此出名，以至于它在英国的商业中已经司空见惯；杂货店在适当的时候，开始用我们特有品牌的灯具来装饰他们的窗户。我们把它们扣在腰上，戴在肩上。”板球腰带，在他们身上，这是一种严格的游戏，他们永远不会烧伤我们的手指，他们的乐趣只是幻想，但渔夫们在他们的船上使用了灯笼，我想，这是从他们那里得到的提示；他们不是靶心，我们也没有扮演过渔夫的角色，而且我们也没有假装是窃贼，事实上，我们可能有一些令人难以忘怀的想法；而且我们当然注意到了灯笼在其中非常常见的某些故事书，但总而言之，这件事的乐趣在于。实质上；并且成为一个在他的大衣下有靶心的男孩对我们来说已经足够了。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "\"When two of these asses met, there would be an anxious 'Have you got your lantern?' and a gratified 'Yes!' That was the shibboleth, and very needful, too; for, as it was the rule to keep our glory contained, none could recognize a lantern-bearer unless (like the polecat) by the smell. Four or five would sometimes climb into the belly of a ten-man lugger, with nothing but the thwarts above them, — for the cabin was usually locked, — or chose out some hollow of the links where the wind might whistle overhead. Then the coats would be unbuttoned, and the bull's-eyes discovered; and in the chequering glimmer, under the huge, windy hall of the night, and cheered by a rich steam of toasting tinware, these fortunate young gentlemen would crouch together in the cold sand of the links, or on the scaly bilges of the fishing-boat, and delight them with inappropriate talk. Woe is me that I cannot give some specimens!... But the talk was but a condiment, and these gatherings themselves only accidents in the career of the lantern-bearer. The essence of this bliss was to walk by yourself in the black night, the slide shut, the top-coat buttoned, not a ray escaping, whether to conduct your footsteps or to make your glory public, — a mere pillar of darkness in the dark; and all the while, deep down in the privacy of your fool's heart, to know you had a bull's-eye at your belt, and to exult and sing over the knowledge.",
+      "source_anchor": null,
+      "id": "S015",
+      "order": 14,
+      "zh": "“当这两头驴相遇时，人们会焦急地问‘你带灯笼了吗？’和满意的“是的！”这就是口号，也是非常必要的。因为，正如保持我们荣耀的规则一样，没有人能认出提灯笼的人，除非（像鸡貂一样）通过气味。有时，四五个人会爬进一艘十人小帆船的腹部，除了上面的横座之外什么都没有——因为船舱通常是锁着的——或者选择一些空心的地方，风可能会在头顶上呼啸而过。然后外套的扣子就会被解开，靶心就会被发现。在格子般的微光中，在巨大的、有风的夜晚大厅下，在烤锡器的浓郁蒸汽的欢呼声中，这些幸运的年轻绅士们会一起蹲在林克斯冰冷的沙子里，或者在渔船的鳞状舱底上，用不恰当的谈话来取悦他们。可惜我不能提供一些标本！……但谈话只是一种调味品，这些聚会本身只是提灯人职业生涯中的意外事件。这种幸福的本质就是在黑夜里独自行走，拉上滑门，扣上大衣，没有一丝光线逃逸，无论是引导你的脚步，还是公开你的荣耀，都只是黑暗中的一根黑柱；自始至终，在你愚人内心深处，知道你的腰带上有一个靶心，并为这一知识而欢呼雀跃。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "\"It is said that a poet has died young in the breast of the most stolid. It may be contended rather that a (somewhat minor) bard in almost every case survives, and is the spice of life to his possessor. Justice is not done to the versatility and the unplumbed childishness of man's imagination. His life from without may seem but a rude mound of mud: there will be some golden chamber at the heart of it, in which he dwells delighted; and for as dark as his pathway seems to the observer, he will have some kind of bull's-eye at his belt.",
+      "source_anchor": null,
+      "id": "S016",
+      "order": 15,
+      "zh": "“据说，一位诗人在最冷漠的人心中英年早逝。可以说，几乎在所有情况下，一个（有点次要的）吟游诗人都幸存下来，并且是他的拥有者的生活调味品。对人类想象力的多才多艺和未经探索的幼稚性没有公正对待。他的生活从外部看可能只是一堆粗糙的泥巴：在它的中心会有一些金色的房间，他在里面快乐地居住；并且就像黑暗一样在观察者看来，他的道路似乎有某种靶心。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "...\"There is one fable that touches very near the quick of life, — the fable of the monk who passed into the woods, heard a bird break into song, hearkened for a trill or two, and found himself at his return a stranger at his convent gates; for he had been absent fifty years, and of all his comrades there survived but one to recognize him. It is not only in the woods that this enchanter carols, though perhaps he is native there. He sings in the most doleful places. The miser hears him and chuckles, and his days are moments. With no more apparatus than an evil-smelling lantern, I have evoked him on the naked links. All life that is not merely mechanical is spun out of two strands, — seeking for that bird and hearing him. And it is just this that makes life so hard to value, and the delight of each so incommunicable. And it is just a knowledge of this, and a remembrance of those fortunate hours in which the bird has sung to us, that fills us with such wonder when we turn to the pages of the realist. There, to be sure, we find a picture of life in so far as it consists of mud and of old iron, cheap desires and cheap fears, that which we are ashamed to remember and that which we are careless whether we forget; but of the note of that time-devouring nightingale we hear no news.",
+      "source_anchor": null,
+      "id": "S017",
+      "order": 16,
+      "zh": "......“有一个寓言非常接近生命的核心，寓言中的修道士走进树林，听到一只鸟儿突然鸣叫，聆听一两声颤音，回来时发现自己在修道院门口变成了一个陌生人；因为他已经离开了五十年，他所有的战友都幸存下来，只有一个人认出了他。这位魔法师不仅在树林里唱颂歌，尽管他也许是那里的本地人。他在最悲伤的地方唱歌。守财奴听了他的话，咯咯地笑起来，他的日子就这样过去了。我只用一盏散发着恶臭的灯笼的器具，就在裸露的链接上唤起了他。所有不仅仅是机械的生命都是由两根线纺成的——寻找那只鸟并聆听他的声音。正是这一点，让生命变得如此难以珍惜，让彼此的快乐变得如此难以言表。正是了解了这一点，并记住了鸟儿向我们歌唱的那些幸运时光，当我们翻到现实主义者的书页时，我们才充满了惊奇。可以肯定的是，我们在那里找到了一幅生活的图景，因为它由泥土和旧铁、廉价的欲望和廉价的恐惧组成，我们羞于记住它们，而我们不在乎是否忘记它们；但我们却没有听到那只吞噬时间的夜莺的声音。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "...\"Say that we came [in such a realistic romance] on some such business as that of my lantern-bearers on the links, and described the boys as very cold, spat upon by flurries of rain, and drearily surrounded, all of which they were; and their talk as silly and indecent, which it certainly was. To the eye of the observer they are wet and cold and drearily surrounded; but ask themselves, and they are in the heaven of a recondite pleasure, the ground of which is an ill-smelling lantern.",
+      "source_anchor": null,
+      "id": "S018",
+      "order": 17,
+      "zh": "……“说我们（在如此现实的浪漫中）遇到了一些事情，就像我在球场上提灯笼的事情一样，并描述男孩们非常寒冷，被阵阵雨吐口水，周围阴郁，所有这些都是如此；他们的谈话愚蠢和不雅，这确实是。在观察者眼中，他们又湿又冷，周围阴郁；但问问自己，他们正处于一种隐秘的快乐的天堂里，他们的基础是是一盏难闻的灯笼。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "\"For, to repeat, the ground of a man's joy is often hard to hit. It may hinge at times upon a mere accessory, like the lantern; it may reside in the mysterious inwards of psychology.... It has so little bond with externals ... that it may even touch them not, and the man's true life, for which he consents to live, lie together in the field of fancy.... In such a case the poetry runs underground. The observer (poor soul, with his documents!) is all abroad. For to look at the man is but to court deception. We shall see the trunk from which he draws his nourishment; but he himself is above and abroad in the green dome of foliage, hummed through by winds and nested in by nightingales. And the true realism were that of the poets, to climb after him like a squirrel, and catch some glimpse of the heaven in which he lives. And the true realism, always and everywhere, is that of the poets: to find out where joy resides, and give it a voice far beyond singing.",
+      "source_anchor": null,
+      "id": "S019",
+      "order": 18,
+      "zh": "“重复一遍，一个人的快乐的基础往往很难触及。它有时可能取决于一个单纯的配件，比如灯笼；它可能驻留在心理学的神秘内部……它与外部的联系如此之少……以至于它甚至可能无法触及它们，而他同意为之而活的真实生活，一起躺在幻想的领域……在这种情况下，诗歌在地下流动。观察者（可怜的灵魂，带着他的文件！）都在国外。看看这个人，我们会看到他从中汲取营养的树干；但他本人却在绿叶的穹顶之上，被风吹过，被夜莺筑巢，真正的现实主义是诗人的，像松鼠一样攀爬在他身后，瞥见他生活的天堂，而真正的现实主义，无论何时何地，都是诗人的现实主义：找出快乐所在，并赋予它超越歌唱的声音。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "\"For to miss the joy is to miss all. In the joy of the actors lies the sense of any action. That is the explanation, that the excuse. To one who has not the secret of the lanterns the scene upon the links is meaningless. And hence the haunting and truly spectral unreality of realistic books.... In each we miss the personal poetry, the enchanted atmosphere, that rainbow work of fancy that clothes what is naked and seems to ennoble what is base; in each, life falls dead like dough, instead of soaring away like a balloon into the colors of the sunset; each is true, each inconceivable; for no man lives in the external truth among salts and acids, but in the warm, phantasmagoric chamber of his brain, with the painted windows and the storied wall.\" [1]",
+      "source_anchor": null,
+      "id": "S020",
+      "order": 19,
+      "zh": "“因为错过快乐就等于错过一切。演员的快乐在于任何动作的意义。这就是解释，就是借口。对于不知道灯笼秘密的人来说，链接上的场景毫无意义。因此，现实主义书籍中令人难以忘怀的、真正幽灵般的不真实……在每一本书中，我们怀念个人的诗歌、迷人的气氛、彩虹般的幻想作品，它给赤裸的东西穿上衣服，似乎使卑鄙的东西变得高贵;在每一个故事中，生命都像面团一样死去，而不是像气球一样飞向夕阳的色彩；每一个都是真实的，每一个都是不可思议的；因为没有人生活在盐和酸之间的外在真理中，而是生活在他大脑温暖、梦幻般的房间里，那里有彩绘的窗户和层层叠叠的墙壁。”[1]",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "These paragraphs are the best thing I know in all Stevenson. \"To miss the joy is to miss all.\" Indeed, it is. Yet we are but finite, and each one of us has some single specialized vocation of his own. And it seems as if energy in the service of its particular duties might be got only by hardening the heart toward everything unlike them. Our deadness toward all but one particular kind of joy would thus be the price we inevitably have to pay for being practical creatures. Only in some pitiful dreamer, some philosopher, poet, or romancer, or when the common practical man becomes a lover, does the hard externality give way, and a gleam of insight into the ejective world, as Clifford called it, the vast world of inner life beyond us, so different from that of outer seeming, illuminate our mind. Then the whole scheme of our customary values gets confounded, then our self is riven and its narrow interests fly to pieces, then a new centre and a new perspective must be found.",
+      "source_anchor": null,
+      "id": "S021",
+      "order": 20,
+      "zh": "这些段落是我在史蒂文森的著作中所知道的最好的东西。 “错过快乐就等于错过一切。”确实如此。然而我们是有限的，我们每个人都有自己的某种特殊职业。似乎只有通过对一切与它们不同的事物冷酷无情，才能获得为其特定职责服务的能量。因此，我们对除了一种特定类型的快乐以外的所有快乐都漠不关心，这将是我们成为务实的生物不可避免地要付出的代价。只有在一些可怜的梦想家、哲学家、诗人或浪漫主义者身上，或者当普通的务实之人成为情人时，坚硬的外在性才会消失，而对喷射世界的洞察之光，正如克利福德所说，超越我们的内心生活的广阔世界，与外在的表面如此不同，照亮了我们的心灵。然后，我们的习惯价值观的整个体系就会变得混乱，然后我们的自我就会四分五裂，狭隘的利益也会四分五裂，然后就必须找到一个新的中心和一个新的视角。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "The change is well described by my colleague, Josiah Royce: —",
+      "source_anchor": null,
+      "id": "S022",
+      "order": 21,
+      "zh": "我的同事乔赛亚·罗伊斯 (Josiah Royce) 很好地描述了这一变化：",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "\"What, then, is our neighbor? Thou hast regarded his thought, his feeling, as somehow different from thine. Thou hast said, 'A pain in him is not like a pain in me, but something far easier to bear.' He seems to thee a little less living than thou; his life is dim, it is cold, it is a pale fire beside thy own burning desires.... So, dimly and by instinct hast thou lived with thy neighbor, and hast known him not, being blind. Thou hast made [of him] a thing, no Self at all. Have done with this illusion, and simply try to learn the truth. Pain is pain, joy is joy, everywhere, even as in thee. In all the songs of the forest birds; in all the cries of the wounded and dying, struggling in the captor's power; in the boundless sea where the myriads of water-creatures strive and die; amid all the countless hordes of savage men; in all sickness and sorrow; in all exultation and hope, everywhere, from the lowest to the noblest, the same conscious, burning, wilful life is found, endlessly manifold as the forms of the living creatures, unquenchable as the fires of the sun, real as these impulses that even now throb in thine own little selfish heart. Lift up thy eyes, behold that life, and then turn away, and forget it as thou canst; but, if thou hast known that, thou hast begun to know thy duty.\"[2]",
+      "source_anchor": null,
+      "id": "S023",
+      "order": 22,
+      "zh": "“那么，我们的邻居是什么？你认为他的思想、他的感觉与你的有些不同。你说过，‘他身上的痛苦不像我身上的痛苦，而是更容易忍受的东西。’在你看来，他比你更有活力；他的生活是暗淡的、冰冷的，是你自己燃烧的欲望旁边的一团苍白的火焰……所以，你凭着本能，模糊地和你的邻居生活在一起，却盲目地不认识他。你使[他]成为一个东西，根本没有自我。摆脱这种幻想，并尝试了解真相。痛苦就是痛苦，快乐就是快乐，无处不在，即使在你身上也是如此。在森林鸟儿的所有歌声中；在所有伤者和垂死者的呼喊声中，他们在俘虏的权力下挣扎；无边无际的大海里，无数的水生生物挣扎着死去；在无数的野蛮人之中；在一切疾病和悲伤中；在所有的狂喜和希望中，无论在哪里，从最低级的到最高贵的，都可以找到同样有意识的、燃烧的、任性的生命，它像生物的形式一样无穷无尽，像太阳的火焰一样不灭，像现在在你自私的小心里搏动的冲动一样真实。举起你的眼睛，看看那生活，然后转身，尽你所能地忘记它；但是，如果你知道了这一点，你就已经开始知道你的责任了。”[2]",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "This higher vision of an inner significance in what, until then, we had realized only in the dead external way, often comes over a person suddenly; and, when it does so, it makes an epoch in his history. As Emerson says, there is a depth in those moments that constrains us to ascribe more reality to them than to all other experiences. The passion of love will shake one like an explosion, or some act will awaken a remorseful compunction that hangs like a cloud over all one's later day.",
+      "source_anchor": null,
+      "id": "S024",
+      "order": 23,
+      "zh": "在此之前，我们只能通过死气沉沉的外在方式认识到这种内在意义的更高远见，常常会突然降临在一个人身上。当它这样做时，就在他的历史上创造了一个新纪元。正如爱默生所说，那些时刻的深度迫使我们将它们赋予比所有其他经历更多的现实性。爱情的激情会像爆炸一样震撼一个人，或者某些行为会唤醒一种悔恨的内疚，这种内疚像乌云一样笼罩在一个人的后半天。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "This mystic sense of hidden meaning starts upon us often from non-human natural things. I take this passage from 'Obermann,' a French novel that had some vogue in its day: \"Paris, March 7. — It was dark and rather cold. I was gloomy, and walked because I had nothing to do. I passed by some flowers placed breast-high upon a wall. A jonquil in bloom was there. It is the strongest expression of desire: it was the first perfume of the year. I felt all the happiness destined for man. This unutterable harmony of souls, the phantom of the ideal world, arose in me complete. I never felt anything so great or so instantaneous. I know not what shape, what analogy, what secret of relation it was that made me see in this flower a limitless beauty.... I shall never enclose in a conception this power, this immensity that nothing will express; this form that nothing will contain; this ideal of a better world which one feels, but which it would seem that nature has not made.\" [3]",
+      "source_anchor": null,
+      "id": "S025",
+      "order": 24,
+      "zh": "这种隐藏意义的神秘感常常始于非人类的自然事物。我摘自当时颇为流行的法国小说《奥伯曼》中的一段话：“巴黎，3月7日。天黑了，天气也冷了。我心情郁闷，无事可做，就这样走着。路过墙上齐胸高的花，那里有一朵盛开的黄水仙。这是欲望最强烈的表达：这是一年中的第一瓶香水。我感受到了人类注定的所有幸福。这种无法言喻的灵魂和谐，我从来没有感受到任何如此伟大或如此瞬间的东西，让我在这朵花中看到了无限的美丽……我永远不会将这种力量，这种巨大的形式包含在内，这种形式是人们所感受到的，但似乎不是大自然创造的。” [3]",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Wordsworth and Shelley are similarly full of this sense of a limitless significance in natural things. In Wordsworth it was a somewhat austere and moral significance, — a 'lonely cheer.'",
+      "source_anchor": null,
+      "id": "S026",
+      "order": 25,
+      "zh": "华兹华斯和雪莱同样充满了这种自然事物具有无限意义的感觉。在华兹华斯那里，这是一种有点严肃和道德的意义——一种“孤独的欢呼”。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "\"To every natural form, rock, fruit, or flower, Even the loose stones that cover the highway, I gave a moral life: I saw them feel Or linked them to some feeling: the great mass Lay bedded in some quickening soul, and all That I beheld respired with inward meaning.\" [4]",
+      "source_anchor": null,
+      "id": "S027",
+      "order": 26,
+      "zh": "“对于每一种自然形态，岩石，水果或花朵，甚至是覆盖高速公路的松散的石头，我都赋予了道德生命：我看到它们感觉到或将它们与某种感觉联系起来：巨大的质量躺在一些活跃的灵魂中，我所看到的一切都具有内在的意义。” [4]",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "\"Authentic tidings of invisible things!\" Just what this hidden presence in nature was, which Wordsworth so rapturously felt, and in the light of which he lived, tramping the hills for days together, the poet never could explain logically or in articulate conceptions. Yet to the reader who may himself have had gleaming moments of a similar sort the verses in which Wordsworth simply proclaims the fact of them come with a heart-satisfying authority: —",
+      "source_anchor": null,
+      "id": "S028",
+      "order": 27,
+      "zh": "“看不见的东西的真实消息！”华兹华斯如此欣喜若狂地感受到了大自然中隐藏的存在，并在他的照料下生活，一起徒步了几天的山，诗人永远无法用逻辑或清晰的概念来解释。然而，对于那些自己也曾经历过类似闪光时刻的读者来说，华兹华斯在其中简单地宣告了这些闪光时刻的诗句具有令人心满意足的权威：——",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "\"Magnificent The morning rose, in memorable pomp, Glorious as ere I had beheld. In front The sea lay laughing at a distance; near The solid mountains shone, bright as the clouds, Grain-tinctured, drenched in empyrean light; And in the meadows and the lower grounds Was all the sweetness of a common dawn, — Dews, vapors, and the melody of birds, And laborers going forth to till the fields.\"",
+      "source_anchor": null,
+      "id": "S029",
+      "order": 28,
+      "zh": "“壮丽的早晨升起，在令人难忘的盛况中，光荣如我所见。前面，大海在远处微笑；近处，坚固的山脉闪闪发光，明亮如云，谷物酊，浸透在高天的光芒中；在草地和低地，有一个普通黎明的所有甜蜜，——露水，蒸汽和鸟儿的旋律，还有出去耕种田地的劳动者。”",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "\"Ah! need I say, dear Friend, that to the brim My heart was full; I made no vows, but vows Were then made for me; bond unknown to me Was given, that I should be, else sinning greatly, A dedicated Spirit. On I walked, In thankful blessedness, which yet survives.\" [5]",
+      "source_anchor": null,
+      "id": "S030",
+      "order": 29,
+      "zh": "“啊！亲爱的朋友，我需要说的是，我的心已经充满了；我没有发誓，但后来为我立了誓言；我不知道的束缚被给予了，否则我应该成为一个奉献的精神，否则我将犯下大罪。我继续前进，在感恩的祝福中，这仍然存在。” [5]",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "As Wordsworth walked, filled with his strange inner joy, responsive thus to the secret life of nature round about him, his rural neighbors, tightly and narrowly intent upon their own affairs, their crops and lambs and fences, must have thought him a very insignificant and foolish personage. It surely never occurred to any one of them to wonder what was going on inside of him or what it might be worth. And yet that inner life of his carried the burden of a significance that has fed the souls of others, and fills them to this day with inner joy.",
+      "source_anchor": null,
+      "id": "S031",
+      "order": 30,
+      "zh": "当华兹华斯行走时，内心充满了奇异的喜悦，对周围大自然的秘密生活产生了反应，他的乡村邻居们紧紧地、狭隘地专注于自己的事务、庄稼、羊羔和栅栏，一定认为他是一个非常微不足道和愚蠢的人物。他们中的任何一个人肯定从来没有想过他的内心正在发生什么或者它可能有什么价值。然而，他的内心生活所承载的意义已经滋养了其他人的灵魂，并使他们至今充满内心的喜悦。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Richard Jefferies has written a remarkable autobiographic document entitled The Story of my Heart. It tells, in many pages, of the rapture with which in youth the sense of the life of nature filled him. On a certain hill-top he says: —",
+      "source_anchor": null,
+      "id": "S032",
+      "order": 31,
+      "zh": "理查德·杰弗里斯（Richard Jefferies）写了一篇出色的自传体文档，题为《我内心的故事》。它用很多篇幅讲述了他年轻时对自然生命的感觉所充满的狂喜。在某个山顶上他说道：",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "\"I was utterly alone with the sun and the earth. Lying down on the grass, I spoke in my soul to the earth, the sun, the air, and the distant sea, far beyond sight.... With all the intensity of feeling which exalted me, all the intense communion I held with the earth, the sun and sky, the stars hidden by the light, with the ocean, — in no manner can the thrilling depth of these feelings be written, — with these I prayed as if they were the keys of an instrument.... The great sun, burning with light, the strong earth, — dear earth, — the warm sky, the pure air, the thought of ocean, the inexpressible beauty of all filled me with a rapture, an ecstasy, an inflatus. With this inflatus, too, I prayed.... The prayer, this soul-emotion, was in itself, not for an object: it was a passion. I hid my face in the grass. I was wholly prostrated, I lost myself in the wrestle, I was rapt and carried away.... Had any shepherd accidentally seen me lying on the turf, he would only have thought I was resting a few minutes. I made no outward show. Who could have imagined the whirlwind of passion that was going on in me as I reclined there!\" [6]",
+      "source_anchor": null,
+      "id": "S033",
+      "order": 32,
+      "zh": "“我完全孤独地与太阳和大地在一起。躺在草地上，我在灵魂中对着大地、太阳、空气和远处的海洋说话，远远超出了视线……用所有使我升华的强烈感觉，我与大地、太阳和天空、被光隐藏的星星、海洋进行的所有强烈的交流——这些情感的激动人心的深度是无法写出来的——我用这些祈祷，就好像它们是乐器的琴键一样……燃烧着光芒的伟大太阳、坚强的大地、温暖的天空、纯净的空气、对海洋的思念，这一切都让我充满了狂喜、狂喜、膨胀，我也祈祷着……祈祷，这种灵魂的情感，本身就是一种激情，我把脸埋在草丛中，我在摔跤中迷失了自己。我全神贯注、忘乎所以……如果哪个牧羊人无意中看到我躺在草地上，他只会以为我只是休息了几分钟，谁能想象我躺在那里时内心会掀起怎样的激情呢！” [6]",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Surely, a worthless hour of life, when measured by the usual standards of commercial value. Yet in what other kind of value can the preciousness of any hour, made precious by any standard, consist, if it consist not in feelings of excited significance like these, engendered in some one, by what the hour contains?",
+      "source_anchor": null,
+      "id": "S034",
+      "order": 33,
+      "zh": "如果按照通常的商业价值标准来衡量，这无疑是生命中毫无价值的一个小时。然而，如果任何时间的珍贵性不在于像这样的激动人心的意义感，而这些情感是由某个人在某个时间所包含的内容而产生的，那么，任何时间的珍贵，无论以任何标准来衡量，它还能存在什么其他价值呢？",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Yet so blind and dead does the clamor of our own practical interests make us to all other things, that it seems almost as if it were necessary to become worthless as a practical being, if one is to hope to attain to any breadth of insight into the impersonal world of worths as such, to have any perception of life's meaning on a large objective scale. Only your mystic, your dreamer, or your insolvent tramp or loafer, can afford so sympathetic an occupation, an occupation which will change the usual standards of human value in the twinkling of an eye, giving to foolishness a place ahead of power, and laying low in a minute the distinctions which it takes a hard-working conventional man a lifetime to build up. You may be a prophet, at this rate; but you cannot be a worldly success.",
+      "source_anchor": null,
+      "id": "S035",
+      "order": 34,
+      "zh": "然而，我们自己的实际利益的喧嚣使我们对所有其他事情如此盲目和死气沉沉，以至于如果一个人希望对非个人的价值世界获得任何广度的洞察力，希望在一个大的客观尺度上对生命的意义有任何认识，那么似乎就必须成为一个实践者，变得毫无价值。只有你的神秘主义者，你的梦想家，或者你无力偿债的流浪汉或游手好闲者，才能承担起如此令人同情的职业，这种职业将在眨眼之间改变人类价值的通常标准，让愚蠢领先于权力，并在一分钟内消除一个勤奋的传统人需要一生才能建立起来的区别。按照这个速度，你可能是一位先知；但你不可能取得世俗的成功。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Walt Whitman, for instance, is accounted by many of us a contemporary prophet. He abolishes the usual human distinctions, brings all conventionalisms into solution, and loves and celebrates hardly any human attributes save those elementary ones common to all members of the race. For this he becomes a sort of ideal tramp, a rider on omnibus-tops and ferry-boats, and, considered either practically or academically, a worthless, unproductive being. His verses are but ejaculations — things mostly without subject or verb, a succession of interjections on an immense scale. He felt the human crowd as rapturously as Wordsworth felt the mountains, felt it as an overpoweringly significant presence, simply to absorb one's mind in which should be business sufficient and worthy to fill the days of a serious man. As he crosses Brooklyn ferry, this is what he feels: —",
+      "source_anchor": null,
+      "id": "S036",
+      "order": 35,
+      "zh": "例如，沃尔特·惠特曼被我们许多人视为当代先知。他废除了通常的人类区别，解决了所有传统主义，并且除了所有种族成员共有的基本属性之外，几乎不热爱和庆祝任何人类属性。为此，他成为了一种理想的流浪者，一个乘坐公共汽车和渡船的骑手，并且无论在实践上还是在学术上都被认为是一个毫无价值、没有生产力的人。他的诗句只不过是感叹词——大多没有主语或动词，是一系列规模巨大的感叹词。他欣喜若狂地感受着人群，就像华兹华斯感受着群山一样，感觉它是一种极其重要的存在，只是为了让一个人全神贯注地思考，这些事情应该足以满足一个严肃的人的日子。当他穿过布鲁克林渡轮时，他有这样的感受：——",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Flood-tide below me! I watch you, face to face; Clouds of the west! sun there half an hour high! I see you also face to face. Crowds of men and women attired in the usual costumes! how curious you are to me! On the ferry-boats, the hundreds and hundreds that cross, returning home, are more curious to me than you suppose; And you that shall cross from shore to shore years hence, are more to me, and more in my meditations, than you might suppose. Others will enter the gates of the ferry, and cross from shore to shore; Others will watch the run of the flood-tide; Others will see the shipping of Manhattan north and west, and the heights of Brooklyn to the south and east; Others will see the islands large and small; Fifty years hence, others will see them as they cross, the sun half an hour high. A hundred years hence, or ever so many hundred years hence, others will see them, Will enjoy the sunset, the pouring in of the flood-tide, the falling back to the sea of the ebb-tide. It avails not, neither time or place — distance avails not. Just as you feel when you look on the river and sky, so I felt; Just as any of you is one of a living crowd, I was one of a crowd; Just as you are refresh'd by the gladness of the river and the bright flow, I was refresh'd; Just as you stand and lean on the rail, yet hurry with the swift current, I stood, yet was hurried; Just as you look on the numberless masts of ships, and the thick-stemmed pipes of steamboats, I looked. I too many and many a time cross'd the river, the sun half an hour high; I watched the Twelfth-month sea-gulls — I saw them high in the air, with motionless wings, oscillating their bodies, I saw how the glistening yellow lit up parts of their bodies, and left the rest in strong shadow, I saw the slow-wheeling circles, and the gradual edging toward the south. Saw the white sails of schooners and sloops, saw the ships at anchor, The sailors at work in the rigging, or out astride the spars; The scallop-edged waves in the twilight, the ladled cups, the frolicsome crests and glistening; The stretch afar growing dimmer and dimmer, the gray walls of the granite store-houses by the docks; On the neighboring shores, the fires from the foundry chimneys burning high ... into the night, Casting their flicker of black ... into the clefts of streets. These, and all else, were to me the same as they are to you. [7]",
+      "source_anchor": null,
+      "id": "S037",
+      "order": 36,
+      "zh": "洪水在我脚下！我面对面看着你；西边的云彩！那里的太阳高了半个小时！我也面对面地看到你。一群群穿着平常服装的男女！你对我多么好奇啊！在渡船上，成百上千的过境回家的人对我来说比你想象的更加好奇；多年后，你们将从一个海岸横渡到另一个海岸，对我来说比你们想象的更重要，在我的沉思中也更重要。其他人则进入渡口，从一个岸渡到另一个岸；其他人会观看洪水的涨潮；其他人将看到曼哈顿北部和西部的航运，以及布鲁克林南部和东部的高地；其他人会看到大大小小的岛屿；五十年后，其他人会在他们穿越时看到他们，太阳半小时高。一百年后，或者几百年后，别人会看到他们，会欣赏日落，潮水涌入，退潮落回大海。无论是时间还是地点，都没有用——距离也没有用。就像你看着河流和天空时的感觉一样，我也有这样的感觉；正如你们中的任何一个人都是活着的人群中的一员一样，我也是人群中的一员；正如你因河流的欢乐和明亮的水流而感到精神焕发一样，我也感到精神焕发；正如你站着，靠在栏杆上，却在湍急的水流中匆忙，我站着，却又匆匆；就像你看着无数的船桅和汽船的粗管一样，我也看着。我无数次渡过河流，太阳高高在上半小时；我观察了十二个月的海鸥——我看到了它们高高的空中，它们的翅膀一动不动，摆动着身体，我看到闪闪发光的黄色照亮了它们身体的一部分，而其余部分则处于强烈的阴影中，我看到缓慢旋转的圆圈，逐渐向南移动。看到纵帆船和单桅帆船的白帆，看到停泊的船只， 水手们在索具上工作，或者跨在桅杆上；暮色中扇贝边的波浪，舀着的杯子，嬉戏的波峰，闪闪发光；远处的景色越来越暗淡，码头边花岗岩仓库的灰色墙壁；在邻近的海岸上，铸造厂烟囱里的火焰高高燃烧……一直燃烧到夜色中，将闪烁的黑色……投射到街道的裂缝中。这些以及其他一切对我来说和对你来说都是一样的。 [7]",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "And so on, through the rest of a divinely beautiful poem. And, if you wish to see what this hoary loafer considered the most worthy way of profiting by life's heaven-sent opportunities, read the delicious volume of his letters to a young car-conductor who had become his friend: —",
+      "source_anchor": null,
+      "id": "S038",
+      "order": 37,
+      "zh": "等等，直到一首神圣美丽的诗的其余部分。而且，如果你想了解这个白发苍苍的游手好闲者认为什么是从生命中天赐良机中获利的最有价值的方式，请阅读他写给一位已成为他的朋友的年轻汽车售票员的精彩信件：",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "\"NEW YORK, Oct. 9, 1868.",
+      "source_anchor": null,
+      "id": "S039",
+      "order": 38,
+      "zh": "“纽约，1868 年 10 月 9 日。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "\"Dear Pete, — It is splendid here this forenoon — bright and cool. I was out early taking a short walk by the river only two squares from where I live.... Shall I tell you about [my life] just to fill up? I generally spend the forenoon in my room writing, etc., then take a bath fix up and go out about twelve and loafe somewhere or call on someone down town or on business, or perhaps if it is very pleasant and I feel like it ride a trip with some driver friend on Broadway from 23rd Street to Bowling Green, three miles each way. (Every day I find I have plenty to do, every hour is occupied with something.) You know it is a never ending amusement and study and recreation for me to ride a couple of hours on a pleasant afternoon on a Broadway stage in this way. You see everything as you pass, a sort of living, endless panorama — shops and splendid buildings and great windows: on the broad sidewalks crowds of women richly dressed continually passing, altogether different, superior in style and looks from any to be seen anywhere else — in fact a perfect stream of people — men too dressed in high style, and plenty of foreigners — and then in the streets the thick crowd of carriages, stages, carts, hotel and private coaches, and in fact all sorts of vehicles and many first class teams, mile after mile, and the splendor of such a great street and so many tall, ornamental, noble buildings many of them of white marble, and the gayety and motion on every side: you will not wonder how much attraction all this is on a fine day, to a great loafer like me, who enjoys so much seeing the busy world move by him, and exhibiting itself for his amusement, while he takes it easy and just looks on and observes.\" [8]",
+      "source_anchor": null,
+      "id": "S040",
+      "order": 39,
+      "zh": "“亲爱的皮特，——今天上午这里非常棒——明亮而凉爽。我很早就出去了，在距离我住的地方只有两个广场的河边散步......我可以告诉你[我的生活]只是为了填饱肚子吗？我通常会花上午的时间在房间里写东西，等等，然后洗个澡，大约十二点出去，去某个地方闲逛，或者拜访市中心的某人或出差，或者如果这是非常愉快的，我感觉就像和一些司机朋友一起在百老汇上旅行，从 23 街到鲍灵格林，单程三英里。 （每天我都发现自己有很多事情要做，每个小时都在忙着一些事情。） 你知道，这样在一个愉快的下午在百老汇舞台上骑上几个小时，对我来说是一种永无休止的娱乐、学习和消遣。当你经过时，你会看到一切，一种生机勃勃的、无尽的全景——商店、华丽的建筑和大窗户：在宽阔的人行道上，一群群衣着华丽的妇女不断经过，她们完全不同，风格和外表与其他任何地方都不同——实际上是完美的人流——男人也穿着高档，还有很多外国人——然后街道上密密麻麻的人群是马车、舞台、手推车、酒店和私人马车，事实上还有各种各样的车辆和许多一流的车队，一英里又一英里，如此伟大的街道和如此多高耸的、装饰性的、高贵的建筑，其中许多是白色大理石的，还有四面八方的欢乐和动感：你不会想知道这一切对于像我这样一个伟大的游手好闲者来说有多大的吸引力，因为他喜欢看到忙碌的世界在他身边移动，并展示自己以供他娱乐，而他却很轻松，只是旁观和观察。”[8]",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Truly a futile way of passing the time, some of you may say, and not altogether creditable to a grown-up man. And yet, from the deepest point of view, who knows the more of truth, and who knows the less, — Whitman on his omnibus-top, full of the inner joy with which the spectacle inspires him, or you, full of the disdain which the futility of his occupation excites?",
+      "source_anchor": null,
+      "id": "S041",
+      "order": 40,
+      "zh": "你们中的一些人可能会说，这确实是一种徒劳的打发时间的方式，而且对成年人来说也不完全值得称赞。然而，从最深的角度来看，谁对真理了解得更多，谁对真理了解得更少——惠特曼坐在他的公共汽车顶上，充满了这一景象激发他的内心喜悦，还是你，充满了他的职业徒劳所激起的蔑视？",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "When your ordinary Brooklynite or New Yorker, leading a life replete with too much luxury, or tired and careworn about his personal affairs, crosses the ferry or goes up Broadway, his fancy does not thus 'soar away into the colors of the sunset' as did Whitman's, nor does he inwardly realize at all the indisputable fact that this world never did anywhere or at any time contain more of essential divinity, or of eternal meaning, than is embodied in the fields of vision over which his eyes so carelessly pass. There is life; and there, a step away, is death. There is the only kind of beauty there ever was. There is the old human struggle and its fruits together. There is the text and the sermon, the real and the ideal in one. But to the jaded and unquickened eye it is all dead and common, pure vulgarism, flatness, and disgust. \"Hech! it is a sad sight!\" says Carlyle, walking at night with some one who appeals to him to note the splendor of the stars. And that very repetition of the scene to new generations of men in secula seculorum, that eternal recurrence of the common order, which so fills a Whitman with mystic satisfaction, is to a Schopenhauer, with the emotional anæsthesia, the feeling of 'awful inner emptiness' from out of which he views it all, the chief ingredient of the tedium it instils. What is life on the largest scale, he asks, but the same recurrent inanities, the same dog barking, the same fly buzzing, forevermore? Yet of the kind of fibre of which such inanities consist is the material woven of all the excitements, joys, and meanings that ever were, or ever shall be, in this world.",
+      "source_anchor": null,
+      "id": "S042",
+      "order": 41,
+      "zh": "当你的普通布鲁克林人或纽约人过着过于奢侈的生活，或者对自己的个人事务感到疲倦和忧虑，穿过渡轮或走上百老汇时，他的想象力不会像惠特曼那样“翱翔在日落的色彩中”，他内心也不会意识到一个无可争议的事实，即这个世界从来没有在任何地方或任何时间包含比视野中所体现的更多的本质神性或永恒意义。他的目光漫不经心地扫过。有生命；距离那里一步之遥，就是死亡。这是有史以来唯一的一种美。这里有人类古老的斗争及其成果。文本与讲道、真实与理想合二为一。但对于疲惫不堪、麻木不仁的人来说，这一切都是死气沉沉、平淡无奇、纯粹粗俗、平淡和令人厌恶的。 “哎呀！真是悲伤的景象啊！”卡莱尔在夜间与某人散步时说道，有人呼吁他注意星星的光辉。对于世俗世俗的新一代人来说，这一场景的重复，即共同秩序的永恒重现，让惠特曼充满了神秘的满足，而对于叔本华来说，却充满了情感麻木，一种“可怕的内心空虚”的感觉，他从中看到了一切，这是它所灌输的单调乏味的主要成分。他问道，最大规模的生活是什么，除了永远重复的同样的愚蠢行为、同样的狗叫声、同样的苍蝇嗡嗡声之外？然而，构成这些空洞的纤维是由过去或现在所有的兴奋、欢乐和意义编织而成的。应该是，在这个世界上。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "To be rapt with satisfied attention, like Whitman, to the mere spectacle of the world's presence, is one way, and the most fundamental way, of confessing one's sense of its unfathomable significance and importance. But how can one attain to the feeling of the vital significance of an experience, if one have it not to begin with? There is no receipt which one can follow. Being a secret and a mystery, it often comes in mysteriously unexpected ways. It blossoms sometimes from out of the very grave wherein we imagined that our happiness was buried. Benvenuto Cellini, after a life all in the outer sunshine, made of adventures and artistic excitements, suddenly finds himself cast into a dungeon in the Castle of San Angelo. The place is horrible. Rats and wet and mould possess it. His leg is broken and his teeth fall out, apparently with scurvy. But his thoughts turn to God as they have never turned before. He gets a Bible, which he reads during the one hour in the twenty-four in which a wandering ray of daylight penetrates his cavern. He has religious visions. He sings psalms to himself, and composes hymns. And thinking, on the last day of July, of the festivities customary on the morrow in Rome, he says to himself: \"All these past years I celebrated this holiday with the vanities of the world: from this year henceforward I will do it with the divinity of God. And then I said to myself, 'Oh, how much more happy I am for this present life of mine than for all those things remembered!'\" [9]",
+      "source_anchor": null,
+      "id": "S043",
+      "order": 42,
+      "zh": "像惠特曼一样，全神贯注于世界存在的奇观，是承认自己对其深不可测的意义和重要性的一种方式，也是最基本的方式。但是，如果一个人一开始就没有某种经历，那么他如何能够感受到它的重要意义呢？没有任何可以跟踪的收据。作为一个秘密和一个谜，它常常以神秘的、意想不到的方式出现。有时它会从坟墓中绽放，我们想象我们的幸福被埋葬在其中。本韦努托·切利尼（Benvenuto Cellini）在经历了充满阳光、充满冒险和艺术兴奋的生活后，突然发现自己被扔进了圣安吉洛城堡的地牢里。这个地方太可怕了。老鼠、潮湿和霉菌拥有它。他的腿断了，牙齿掉了，显然是得了坏血病。但他的思绪转向了上帝，这是以前从未有过的。他得到了一本《圣经》，在二十四小时的一个小时里，一缕阳光射入他的洞穴时，他阅读了这本书。他有宗教愿景。他为自己唱诗篇，并创作赞美诗。在七月的最后一天，想到明天在罗马举行的庆祝活动，他对自己说：“在过去的这些年里，我用世界的虚荣来庆祝这个节日：从今年起，我将用上帝的神性来庆祝这个节日。然后我对自己说，‘哦，我现在的生活比记住的所有这些事情要幸福得多！’”[9]",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "But the great understander of these mysterious ebbs and flows is Tolstoï. They throb all through his novels. In his 'War and Peace,' the hero, Peter, is supposed to be the richest man in the Russian empire. During the French invasion he is taken prisoner, and dragged through much of the retreat. Cold, vermin, hunger, and every form of misery assail him, the result being a revelation to him of the real scale of life's values. \"Here only, and for the first time, he appreciated, because he was deprived of it, the happiness of eating when he was hungry, of drinking when he was thirsty, of sleeping when he was sleepy, and of talking when he felt the desire to exchange some words.... Later in life he always recurred with joy to this month of captivity, and never failed to speak with enthusiasm of the powerful and ineffaceable sensations, and especially of the moral calm which he had experienced at this epoch. When at daybreak, on the morrow of his imprisonment, he saw [I abridge here Tolstoï's description] the mountains with their wooded slopes disappearing in the grayish mist; when he felt the cool breeze caress him; when he saw the light drive away the vapors, and the sun rise majestically behind the clouds and cupolas, and the crosses, the dew, the distance, the river, sparkle in the splendid, cheerful rays, — his heart overflowed with emotion. This emotion kept continually with him, and increased a hundred-fold as the difficulties of his situation grew graver.... He learnt that man is meant for happiness, and that this happiness is in him, in the satisfaction of the daily needs of existence, and that unhappiness is the fatal result, not of our need, but of our abundance.... When calm reigned in the camp, and the embers paled, and little by little went out, the full moon had reached the zenith. The woods and the fields roundabout lay clearly visible; and, beyond the inundation of light which filled them, the view plunged into the limitless horizon. Then Peter cast his eyes upon the firmament, filled at that hour with myriads of stars. 'All that is mine,' he thought. 'All that is in me, is me! And that is what they think they have taken prisoner! That is what they have shut up in a cabin!' So he smiled, and turned in to sleep among his comrades.\" [10]",
+      "source_anchor": null,
+      "id": "S044",
+      "order": 43,
+      "zh": "但对这些神秘的潮起潮落的伟大理解者是托尔斯泰。它们在他的小说中随处可见。在他的《战争与和平》中，主人公彼得被认为是俄罗斯帝国最富有的人。在法国入侵期间，他被俘虏，并在大部分撤退过程中被拖着走。寒冷、害虫、饥饿和各种形式的痛苦向他袭来，结果却让他明白了生命价值的真正规模。 “只有在这里，他第一次体会到饥饿时吃饭、口渴时喝水、困倦时睡觉、想要交谈时说话的幸福感，因为他被剥夺了……后来的生活中，他总是满怀喜悦地回忆这一个月的被囚禁，并且总是充满热情地谈论那些强大而不可磨灭的感觉，尤其是他在这个时代所经历的道德平静。入狱的第二天，黎明时分，他看到（我这里省略了托尔斯泰的描述）山坡上的树木消失在灰色的薄雾中；当他感到凉爽的微风拂过他的时候；当他看到阳光驱散了蒸汽，太阳在云层和圆顶后面庄严地升起，十字架、露水、远方、河流在灿烂而欢快的光芒中闪闪发光时，他的心中充满了这种情感。他不断地陪伴着他，随着他处境的困难变得更加严重，这种幸福感增加了一百倍……他了解到，人注定要幸福，而这种幸福就在他身上，存在于对日常生活的满足中。生存的需要，而不幸是致命的结果，不是我们的需要，而是我们的丰富……当营地里一片平静，余烬渐渐变淡，渐渐熄灭时，满月已经达到了最高点。周围的树林和田野清晰可见。超越了充满它们的光的淹没，视野陷入了无边无际的地平线。然后彼得将目光投向天空，此时天空布满了无数的星星。 “这一切都是我的，”他想。 ‘我体内的一切，就是我！这就是他们认为自己俘获的东西！这就是他们关在小屋里的东西！于是他微笑着，转身和战友们一起睡着了。”[10]",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "The occasion and the experience, then, are nothing. It all depends on the capacity of the soul to be grasped, to have its life-currents absorbed by what is given. \"Crossing a bare common,\" says Emerson, \"in snow puddles, at twilight, under a clouded sky, without having in my thoughts any occurrence of special good fortune, I have enjoyed a perfect exhilaration. I am glad to the brink of fear.\"",
+      "source_anchor": null,
+      "id": "S045",
+      "order": 44,
+      "zh": "那么，场合和经历就不算什么了。这一切都取决于灵魂被掌握的能力，以及被给予的东西吸收其生命流的能力。爱默生说：“穿过一片光秃秃的公地，在雪坑里，在黄昏时分，在阴云密布的天空下，我没有想到任何特殊的好运，我享受到了一种完美的兴奋。我高兴到了恐惧的边缘。”",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "Life is always worth living, if one have such responsive sensibilities. But we of the highly educated classes (so called) have most of us got far, far away from Nature. We are trained to seek the choice, the rare, the exquisite exclusively, and to overlook the common. We are stuffed with abstract conceptions, and glib with verbalities and verbosities; and in the culture of these higher functions the peculiar sources of joy connected with our simpler functions often dry up, and we grow stone-blind and insensible to life's more elementary and general goods and joys.",
+      "source_anchor": null,
+      "id": "S046",
+      "order": 45,
+      "zh": "如果一个人有这种敏感的感觉，那么生活总是值得过的。但我们这些受过高等教育的阶层（所谓的）大多数人都远离自然。我们被训练去寻找精选、稀有、精致的东西，而忽视普通的东西。我们充满了抽象的概念，油腔滑调的语言和冗长的内容；在这些高级功能的文化中，与我们的简单功能相关的特殊快乐源泉常常枯竭，我们对生活中更基本和普遍的美好和快乐变得盲目和麻木不仁。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "The remedy under such conditions is to descend to a more profound and primitive level. To be imprisoned or shipwrecked or forced into the army would permanently show the good of life to many an over-educated pessimist. Living in the open air and on the ground, the lop-sided beam of the balance slowly rises to the level line; and the over-sensibilities and insensibilities even themselves out. The good of all the artificial schemes and fevers fades and pales; and that of seeing, smelling, tasting, sleeping, and daring and doing with one's body, grows and grows. The savages and children of nature, to whom we deem ourselves so much superior, certainly are alive where we are often dead, along these lines; and, could they write as glibly as we do, they would read us impressive lectures on our impatience for improvement and on our blindness to the fundamental static goods of life. \"Ah! my brother,\" said a chieftain to his white guest, \"thou wilt never know the happiness of both thinking of nothing and doing nothing. This, next to sleep, is the most enchanting of all things. Thus we were before our birth, and thus we shall be after death. Thy people,... when they have finished reaping one field, they begin to plough another; and, if the day were not enough, I have seen them plough by moonlight. What is their life to ours, — the life that is as naught to them? Blind that they are, they lose it all! But we live in the present.\" [11]",
+      "source_anchor": null,
+      "id": "S047",
+      "order": 46,
+      "zh": "在这种情况下的补救办法就是下降到更深刻和原始的水平。对于许多受过过度教育的悲观主义者来说，被监禁、遭遇海难或被迫入伍将永远展现出生活的美好。生活在露天和地面上，天平的倾斜梁慢慢上升到水平线；过度敏感和麻木不仁甚至会自行消失。所有人为计划和狂热的好处都会褪色和苍白；看到、闻到、尝到、睡觉、敢于用自己的身体做事的能力不断增长。我们自认为比他们优越得多的野蛮人和自然之子，在我们经常死去的地方当然还活着，沿着这些思路；而且，如果他们能像我们一样流利地写作，他们就会给我们读令人印象深刻的讲座，讲述我们对进步的不耐烦以及我们对生活中基本的静态美好事物的盲目性。 “啊！我的兄弟，”一位酋长对他的白人客人说，“你永远不会知道什么都不想、什么也不做的幸福。这是仅次于睡眠的最迷人的事情。我们在出生前就是这样，死后也将如此。你的人民……当他们收割完一块田后，他们就开始耕种另一块田；如果白天不够，我还看到他们在月光下犁地。他们的生命对我们来说算什么，——生活对他们来说毫无意义，他们失去了一切！” [11]",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "The intense interest that life can assume when brought down to the non-thinking level, the level of pure sensorial perception, has been beautifully described by a man who can write, — Mr. W.H. Hudson, in his volume, \"Idle Days in Patagonia.\"",
+      "source_anchor": null,
+      "id": "S048",
+      "order": 47,
+      "zh": "一位会写作的人已经完美地描述了生活在非思考层面、纯粹感官知觉层面上所表现出的强烈兴趣，——W.H.哈德森在他的著作《巴塔哥尼亚的闲暇时光》中。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "\"I spent the greater part of one winter,\" says this admirable author, \"at a point on the Rio Negro, seventy or eighty miles from the sea.",
+      "source_anchor": null,
+      "id": "S049",
+      "order": 48,
+      "zh": "“我度过了一个冬天的大部分时间，”这位令人钦佩的作家说道，“在内格罗河上的某个地方，距离大海七十或八十英里。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "...\"It was my custom to go out every morning on horseback with my gun, and, followed by one dog, to ride away from the valley; and no sooner would I climb the terrace, and plunge into the gray, universal thicket, than I would find myself as completely alone as if five hundred instead of only five miles separated me from the valley and river. So wild and solitary and remote seemed that gray waste, stretching away into infinitude, a waste untrodden by man, and where the wild animals are so few that they have made no discoverable path in the wilderness of thorns.... Not once nor twice nor thrice, but day after day I returned to this solitude, going to it in the morning as if to attend a festival, and leaving it only when hunger and thirst and the westering sun compelled me. And yet I had no object in going, — no motive which could be put into words; for, although I carried a gun, there was nothing to shoot, — the shooting was all left behind in the valley.... Sometimes I would pass a whole day without seeing one mammal, and perhaps not more than a dozen birds of any size. The weather at that time was cheerless, generally with a gray film of cloud spread over the sky, and a bleak wind, often cold enough to make my bridle-hand quite numb.... At a slow pace, which would have seemed intolerable under other circumstances, I would ride about for hours together at a stretch. On arriving at a hill, I would slowly ride to its summit, and stand there to survey the prospect. On every side it stretched away in great undulations, wild and irregular. How gray it all was! Hardly less so near at hand than on the haze-wrapped horizon where the hills were dim and the outline obscured by distance. Descending from my outlook, I would take up my aimless wanderings again, and visit other elevations to gaze on the same landscape from another point; and so on for hours. And at noon I would dismount, and sit or lie on my folded poncho for an hour or longer. One day in these rambles I discovered a small grove composed of twenty or thirty trees, growing at a convenient distance apart, that had evidently been resorted to by a herd of deer or other wild animals. This grove was on a hill differing in shape from other hills in its neighborhood; and, after a time, I made a point of finding and using it as a resting-place every day at noon. I did not ask myself why I made choice of that one spot, sometimes going out of my way to sit there, instead of sitting down under any one of the millions of trees and bushes on any other hillside. I thought nothing about it, but acted unconsciously. Only afterward it seemed to me that, after having rested there once, each time I wished to rest again, the wish came associated with the image of that particular clump of trees, with polished stems and clean bed of sand beneath; and in a short time I formed a habit of returning, animal like, to repose at that same spot.",
+      "source_anchor": null,
+      "id": "S050",
+      "order": 49,
+      "zh": "……“我的习惯是每天早上带着枪骑马出去，后面跟着一只狗，离开山谷；我一爬上露台，一头扎进灰色的、普遍的灌木丛，我就会发现自己完全孤独，仿佛我与山谷和河流相隔五百英里，而不是只有五英里。那片灰色的荒野似乎如此狂野、孤独和偏远，一直延伸到无限远，这是一片未被人类踏足的荒野，那里的野生动物如此稀少，以至于它们无法生存。在荆棘的荒野中找不到可寻的道路……不是一次、两次、三次，而是日复一日地回到这种孤独，早上去那里，就像参加一个节日一样，只有当饥饿和口渴和西斜的太阳迫使我离开时，我没有任何动机去表达，因为，虽然我带着枪，但没有什么可射击的，射击都留在山谷里……有时。我会一整天都看不到一只哺乳动物，也许不超过十几只大小不等的鸟。当时的天气很阴沉，天空中笼罩着一层灰色的云层，寒风凛冽，常常让我的缰绳手变得麻木……我会以缓慢的速度，在其他情况下似乎无法忍受，到达一座小山后，我会慢慢地骑到山顶，站在那里观察风景。它的侧面呈巨大的起伏，狂野而不规则，一切都是多么灰色！近在眼前，而不是在薄雾笼罩的地平线上，那里的山峦昏暗，轮廓因距离而模糊。从我的视野下降，我又开始漫无目的的徘徊，去到其他的高度，从另一个地方凝视同样的风景；等等几个小时。中午我会下马，坐在或躺在折叠好的斗篷上一个小时或更长时间。有一天，在这些漫步中，我发现了一片由二十或三十棵树组成的小树林，它们之间的距离很近，显然是一群鹿或其他野生动物的栖息地。这片树林位于一座山上，形状与附近的其他山不同。过了一段时间，我就特意每天中午都找到这里作为休息的地方。我没有问自己为什么选择那个地方，有时会特意坐在那里，而不是坐在任何其他山坡上数百万棵树木和灌木丛中的任何一棵下。我没有多想，只是无意识地行动了。只是后来我才觉得，在那里休息过一次之后，每次我想再次休息时，这个愿望都会与那丛特定的树的形象联系在一起，那里有光滑的茎和下面干净的沙床；不久之后，我就养成了一种习惯，像动物一样，回到原来的地方休息。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "\"It was, perhaps, a mistake to say that I would sit down and rest, since I was never tired; and yet, without being tired, that noon-day pause, during which I sat for an hour without moving, was strangely grateful. All day there would be no sound, not even the rustling of a leaf. One day, while listening to the silence, it occurred to my mind to wonder what the effect would be if I were to shout aloud. This seemed at the time a horrible suggestion, which almost made me shudder. But during those solitary days it was a rare thing for any thought to cross my mind. In the state of mind I was in, thought had become impossible. My state was one of suspense and watchfulness; yet I had no expectation of meeting an adventure, and felt as free from apprehension as I feel now while sitting in a room in London. The state seemed familiar rather than strange, and accompanied by a strong feeling of elation; and I did not know that something had come between me and my intellect until I returned to my former self, — to thinking, and the old insipid existence [again].",
+      "source_anchor": null,
+      "id": "S051",
+      "order": 50,
+      "zh": "“也许，说我会坐下来休息是一个错误，因为我从不疲倦；然而，在不累的情况下，中午的休息，我坐了一个小时，一动不动，奇怪的是，我很感激。一整天都没有声音，甚至连树叶的沙沙声都没有。有一天，当我听着寂静时，我的脑海里突然想到，如果我大声喊叫，会产生什么效果。这在当时看来是一个可怕的建议，几乎让我震惊但在那些孤独的日子里，我的心境中很少有任何想法，我的状态是一种悬念和警惕；但我并没有像现在坐在伦敦的一个房间里那样感到恐惧，并且伴随着一种强烈的兴奋感，直到我回来。回到我以前的自己，——思考，以及旧的平淡的存在[再次]。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "\"I had undoubtedly gone back; and that state of intense watchfulness or alertness, rather, with suspension of the higher intellectual faculties, represented the mental state of the pure savage. He thinks little, reasons little, having a surer guide in his [mere sensory perceptions]. He is in perfect harmony with nature, and is nearly on a level, mentally, with the wild animals he preys on, and which in their turn sometimes prey on him.\" [12]",
+      "source_anchor": null,
+      "id": "S052",
+      "order": 51,
+      "zh": "“毫无疑问，我已经回去了；这种高度警觉或警觉的状态，更确切地说，是高级智力能力的暂停，代表了纯粹野蛮人的精神状态。他思考很少，推理很少，在他的[纯粹的感官知觉]中有更可靠的指导。他与自然完美和谐，在精神上几乎与他所捕食的野生动物处于同一水平，而野生动物有时也会捕食他。”[12]",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "For the spectator, such hours as Mr. Hudson writes of form a mere tale of emptiness, in which nothing happens, nothing is gained, and there is nothing to describe. They are meaningless and vacant tracts of time. To him who feels their inner secret, they tingle with an importance that unutterably vouches for itself. I am sorry for the boy or girl, or man or woman, who has never been touched by the spell of this mysterious sensorial life, with its irrationality, if so you like to call it, but its vigilance and its supreme felicity. The holidays of life are its most vitally significant portions, because they are, or at least should be, covered with just this kind of magically irresponsible spell.",
+      "source_anchor": null,
+      "id": "S053",
+      "order": 52,
+      "zh": "对于旁观者来说，哈德森先生所写的这些时间只不过是一个空虚的故事，其中什么也没有发生，什么也没有得到，也没有什么可描述的。它们是毫无意义且空荡荡的时间。对于那些感受到他们内心秘密的人来说，他们会因为一种无法言喻的重要性而感到兴奋。我为男孩或女孩、男人或女人感到遗憾，他们从未被这种神秘的感官生活的魅力所感动，虽然它的非理性（如果你喜欢这样称呼它），但它的警惕性和最高的幸福感。生命中的假期是其最重要的部分，因为它们被，或者至少应该被这种神奇的、不负责任的咒语所覆盖。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "And now what is the result of all these considerations and quotations? It is negative in one sense, but positive in another. It absolutely forbids us to be forward in pronouncing on the meaninglessness of forms of existence other than our own; and it commands us to tolerate, respect, and indulge those whom we see harmlessly interested and happy in their own ways, however unintelligible these may be to us. Hands off: neither the whole of truth nor the whole of good is revealed to any single observer, although each observer gains a partial superiority of insight from the peculiar position in which he stands. Even prisons and sick-rooms have their special revelations. It is enough to ask of each of us that he should be faithful to his own opportunities and make the most of his own blessings, without presuming to regulate the rest of the vast field.",
+      "source_anchor": null,
+      "id": "S054",
+      "order": 53,
+      "zh": "现在所有这些考虑和引用的结果是什么？它在某种意义上是消极的，但在另一种意义上是积极的。它绝对禁止我们公开宣称除我们自己之外的存在形式毫无意义。它要求我们容忍、尊重和纵容那些我们认为对自己的方式感兴趣和快乐的人，无论这些对我们来说是多么难以理解。放手：尽管每个观察者从他所处的特殊位置中获得了部分洞察力的优势，但全部真理和全部善都不会向任何单个观察者揭示。甚至监狱和病房也有其特殊的启示。要求我们每个人忠于自己的机会并充分利用自己的祝福就足够了，而不是妄想去监管广阔领域的其余部分。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "[1] 'The Lantern-bearers,' in the volume entitled 'Across the Plains.' Abridged in the quotation.",
+      "source_anchor": null,
+      "id": "S055",
+      "order": 54,
+      "zh": "[1] 《提灯人》，载于题为《穿越平原》的卷中。引文中有删节。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "[2] The Religious Aspect of Philosophy, pp. 157-162 (abridged).",
+      "source_anchor": null,
+      "id": "S056",
+      "order": 55,
+      "zh": "[2] 哲学的宗教方面，第 157-162 页（删节）。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "[3] De Sénancour: Obermann, Lettre XXX.",
+      "source_anchor": null,
+      "id": "S057",
+      "order": 56,
+      "zh": "[3] De Sénancour：奥伯曼，Lettre XXX。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "[4] The Prelude, Book III.",
+      "source_anchor": null,
+      "id": "S058",
+      "order": 57,
+      "zh": "[4] 前奏，第三册。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "[5] The Prelude, Book IV.",
+      "source_anchor": null,
+      "id": "S059",
+      "order": 58,
+      "zh": "[5] 前奏，第四册。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "[6] Op. cit., Boston, Roberts, 1883, pp. 5, 6.",
+      "source_anchor": null,
+      "id": "S060",
+      "order": 59,
+      "zh": "[6] 作品。引文，波士顿，罗伯茨，1883 年，第 5、6 页。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "[7] 'Crossing Brooklyn Ferry' (abridged).",
+      "source_anchor": null,
+      "id": "S061",
+      "order": 60,
+      "zh": "[7]“穿越布鲁克林渡轮”（删节）。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "[8] Calamus, Boston, 1897, pp. 41, 42.",
+      "source_anchor": null,
+      "id": "S062",
+      "order": 61,
+      "zh": "[8] Calamus，波士顿，1897 年，第 41、42 页。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "[9] Vita, lib. 2, chap. iv.",
+      "source_anchor": null,
+      "id": "S063",
+      "order": 62,
+      "zh": "[9] 维塔，lib。 2，第 1 章。四.",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "[10] La Guerre et la Paix, Paris, 1884, vol. iii. pp. 268, 275, 316.",
+      "source_anchor": null,
+      "id": "S064",
+      "order": 63,
+      "zh": "[10] 《战争与和平》，巴黎，1884 年，卷。三.第 268、275、316 页。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "[11] Quoted by Lotze, Microcosmus, English translation, vol. ii. p. 240.",
+      "source_anchor": null,
+      "id": "S065",
+      "order": 64,
+      "zh": "[11] 引自Lotze，Microcosmus，英文翻译，卷。二. p。 240.",
+      "translation_method": "machine draft with validated paragraph alignment"
+    },
+    {
+      "type": "paragraph",
+      "en": "[12] Op. cit., pp. 210-222 (abridged).",
+      "source_anchor": null,
+      "id": "S066",
+      "order": 65,
+      "zh": "[12] 作品。前引，第 210-222 页（已删节）。",
+      "translation_method": "machine draft with validated paragraph alignment"
+    }
+  ],
+  "glossary": {},
+  "coverage": {
+    "blocks": 66,
+    "source_characters": 42740,
+    "source_beginning": "Our judgments concerning the worth of things, big or little, depend on the feelings the things arouse in us. Where we judge a thing to be precious in ",
+    "source_ending": "[12] Op. cit., pp. 210-222 (abridged)."
+  },
+  "omitted_non_content": [
+    "Source website navigation, catalogues, later editorial commentary, folios and publisher boilerplate."
+  ],
+  "extraction_status": "complete source boundaries identified; limited spot review",
+  "translation_status": "complete paragraph coverage; machine draft, limited spot review"
+}

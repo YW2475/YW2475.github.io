@@ -1,0 +1,130 @@
+#import "../index.typ": template, tufted
+#import "../../_essay/bilingual.typ": zh, zh-caption
+#show: template.with(
+  title: "Good Oak",
+  author: "Aldo Leopold", date: "1949", lang: "en",
+  css: ("/assets/custom.css", "/assets/essay.css"),
+)
+
+= #text("Good Oak / 好橡树")
+
+#html.p(id: "en-S001")[#text("There are two spiritual dangers in not owning a farm. One is the danger of supposing that breakfast comes from the grocery, and the other that heat comes from a furnace.")]
+
+#zh(id: "S001")[#text("不拥有农场会有两种精神上的危险。其一在于误以为早餐来自杂货店，其二在于误以为暖气来自炉子。")]
+
+#html.p(id: "en-S002")[#text("To avoid the first danger, one should plant a garden, preferably where there is no grocer to confuse the issue.")]
+
+#zh(id: "S002")[#text("为避免第一种危险，人们应当开辟一块菜园，最好选在附近没有杂货店、不会让人混淆的地方。")]
+
+#html.p(id: "en-S003")[#text("To avoid the second, he should lay a split of good oak on the andirons, preferably where there is no furnace, and let it warm his shins while a February blizzard tosses the trees outside. If one has cut, split, hauled, and piled his own good oak, and let his mind work the while, he will remember much about where the heat comes from, and with a wealth of detail denied to those who spend the weekend in town astride a radiator.")]
+
+#zh(id: "S003")[#text("为了避免第二种情况，他应当在壁炉架上搁一块上好的橡木劈柴，最好选在没有火炉的地方，让那木柴暖着他的小腿，而屋外的二月暴风雪正摇撼着树木。如果一个人切割，分裂，拖拉，堆放自己的好橡树，同时让他的思想工作，他会记得很多关于热量来自哪里的事情，并且有很多细节被那些在镇上度过周末的人拒绝了。")]
+
+#html.p(id: "en-S004")[#text("The particular oak now aglow on my andirons grew on the bank of the old emigrant road where it climbs on the sandhill. The stump, which I measured upon felling the tree, has a diameter of 30 inches. It shows 80 growth rings, hence the seedling from which it originated must have laid its first ring of wood in 1865, at the end of the Civil War. But I know from the history of present seedlings that no oak grows above the reach of rabbits without a decade or more of getting girdled each winter, and re-sprouting during the following summer. Indeed, it is all too clear that every surviving oak is the product either of rabbit negligence or of rabbit scarcity. Some day some patient botanist will draw a frequency curve of oak birth years, and show that the curve humps every ten years, each hump originating from a low in the ten year rabbit cycle. (A fauna and flora, by this very process of perpetual battle within and among species, achieve collective immortality.)")]
+
+#zh(id: "S004")[#text("现在在我的andiron上泛滥的特殊橡树生长在古老的移民道路的岸边，在那里它爬上了沙丘。树桩的直径为30英寸，这是我在伐倒树木时测量的。它显示出80个年轮，因此这株幼苗在其诞生之初——即美国内战结束后的1865年——便已形成了第一个年轮。但根据我对现有幼苗的观察，没有一棵橡树能在兔害之下存活十年以上——每年冬天树干都被啃食一圈，次年夏天又重新发芽。的确，显而易见，每一株幸存的橡树要么是兔子疏忽的结果，要么是兔子数量稀少的产物。总有一天，某位耐心的植物学家会绘制出橡树出生年份的频率曲线，并证明该曲线每十年就会出现一个峰值，而每一个峰值都对应于十年一轮的兔群数量低谷期。（正是通过物种内部及物种之间这种持续不断的斗争，动植物群落才得以实现集体的不朽。）")]
+
+#html.p(id: "en-S005")[#text("It is likely, then, that a low in rabbits occurred in the middle „sixties, when my oak began to lay on annual rings, but that the acorn that produced it fell during the preceding decade, when the covered wagons were still passing over my road into the Great Northwest. It may have been the wash and wear of the emigrant traffic that bared this road bank, and thus enabled this particular acorn to spread its first leaves to the sun. Only one acorn in a thousand ever grew large enough to fight rabbits, the rest were drowned at birth in the prairie sea.")]
+
+#zh(id: "S005")[#text("很可能，然后，兔子的低点发生在六十年代中期，当我的橡树开始躺在年轮上时，但是在过去的十年中，产生它的橡子掉了下来，当被覆盖的货车还在经过我进入大西北的道路时。可能是移民交通的冲刷和磨损使这条路堤裸露，从而使这种特殊的橡子能够将其第一片叶子传播到阳光下。在成千上万颗橡子中，只有一颗能长到足以与兔子抗衡的大小，其余的都在草原的汪洋中夭折了。")]
+
+#html.p(id: "en-S006")[#text("It is the warming thought that this one wasn‟t, and thus lived to garner eighty years of June sun. It is this sunlight that is now being released, through the intervention of my axe, and saw, to warm my shack and my spirit through eighty gusts of blizzard. And with each gust a wisp of smoke from my chimney bears witness to whomever it may concern, that the sun did not shine in vain.")]
+
+#zh(id: "S006")[#text("令人欣慰的是，这一株并非如此，因而得以沐浴六月的阳光，安然度过了八十个春秋。正是这缕阳光，如今正经由我斧头与锯子的介入而得以释放，为我的小屋与我的心灵，在八十场暴风雪中带来温暖。每当一阵风吹过，我烟囱里飘出的一缕轻烟便向所有关心此事的人作证：那日的阳光并未白白洒下。")]
+
+#html.p(id: "en-S007")[#text("My dog does not care where heat comes from, but he cared ardently that it come and soon. Indeed he considers by ability to make it come as something magical, for when I rise in the cold black pre-dawn and kneel shivering by the hearth making a fire, he pushes himself blandly between me and the kindling splits I have laid on the ashes, and I must touch a match to them by poking it between his legs. Such faith, I suppose, is the kind that moves mountains.")]
+
+#zh(id: "S007")[#text("我的狗才不在乎热源来自哪里，但他迫切地盼着热快点来。的确，他竟把这种本事视若神迹：每当我于寒夜未曙、天色漆黑之际起身，战栗着跪在炉边生火时，他总是懒洋洋地挤到我与那堆搁在灰烬上的引火柴之间，我只得将火柴从他两腿间伸过去，点燃那些木片。我想，这样的信念正是那种能移山的力量。")]
+
+#html.p(id: "en-S008")[#text("It was a bolt of lightning that put an end to the woodmaking of this particular oak. We were all awakened one night in July, by the thunderous crash; we realized that the bolt must have hit near by, but, since it had not hit us, we all went back to sleep. Man brings all things to the test of himself, and this is notably true of lightning. Next morning, as we strolled oven the sandhill rejoicing with the cone-flowers and the prairie clovers over their fresh accession of rain, we came upon a great slab of bark freshly torn from the trunk of the roadside oak. The trunk showed a long spiral scar of barkless sapwood, a foot wide and not yet yellowed by the sun. By the next day the leaves had wilted and we knew that the lightning had bequeathed to us three cords of prospective fuel wood. We mourned the loss of the old tree, but knew that a dozen of its progeny standing straight and stalwart on the sands had already taken over its job of woodmaking. We let the dead veteran season for a year in the sun it could no longer use, and then on a crisp winter‟s day we laid a newly filed saw to its bastioned base. Fragrant little chips of history spewed from the saw cut and accumulated on the snow before each kneeling sawyer. We sensed that these two piles of sawdust were something more than wood; that they were the integrated transect of a century; that our saw was biting its way, stroke by stroke, decade by decade, into the chronology of a lifetime, written in concentric annual rings of good oak.")]
+
+#zh(id: "S008")[#text("正是那道闪电，终结了这棵橡树的生长历程。我们都在7月的一个晚上醒来，雷鸣般的崩溃; 我们意识到螺栓必须击中附近，但是，因为它没有击中我们，我们都回去睡觉了。人会将一切事物拿来与自己对照测试一下，这一点在雷电上尤为明显。翌晨，我们漫步在沙丘上，与那盛开的圆锥花和草原三叶草一同欢欣于昨夜的新雨，忽然发现路边那棵橡树的树干上，有一大片树皮被新近撕裂下来。树干上有一道长长的螺旋状伤痕，裸露的边材宽约一英尺，尚未被阳光晒黄。到了第二天，树叶已经枯萎，我们这才明白，那场雷击为我们留下了三捆可供使用的薪柴。我们为那棵老树的逝去而哀悼，但也深知，在沙滩上挺拔屹立的十几株它的后代，早已接过了它制木的重任。我们让这位已逝的退伍老兵在那片他再也无法沐浴的阳光下，整整晒了一年；随后，在一个清冽的冬日，我们用一把刚刚磨好的锯子，对准它那饱经风霜的根基，缓缓切入。一截截散发着木香的历史碎片从锯口喷涌而出，在每一位跪着拉锯的锯木工身前的雪地上堆积起来。我们隐约感到，这两堆木屑绝不仅仅是木材；它们仿佛是一段百年时光的完整横截面；我们的锯子正一锯一锯、一十年又一十年地切入那棵上等橡树年轮所书写的、环环相扣的一生史。")]
+
+#html.p(id: "en-S009")[#text("It took only a dozen pulls of the saw to transect the few years of our ownership, during which we had learned to love and cherish this farm. Abruptly we began to cut the years of our predecessor, the bootlegger, who hated this farm, skimmed it of its residual fertility, burned its farmhouse, threw it back into the lap of the County ( with delinquent taxes to boot), and then disappeared among the landless anonymities of the Great Depression. Yet the oak had laid down good wood for him; his sawdust was as fragrant, as sound, and as pink as out own. An oak is no respecter of persons.")]
+
+#zh(id: "S009")[#text("只用了十几把锯子就把我们拥有的几年横切了，在这几年里，我们学会了爱和珍惜这个农场。突然间，我们开始清算那位前任——那个私酒贩子的所作所为：他痛恨这片农场，榨取了它仅存的肥力，烧毁了农舍，又将它连同拖欠的税款一并丢回县里，随后便在大萧条时期那些无地的芸芸众生中销声匿迹。然而，那棵橡树为他长出了上好的木材；他的锯末既芬芳、质地坚实，又带着与我们一样的粉红色。橡树对人一视同仁。")]
+
+#html.p(id: "en-S010")[#text("The reign of the bootlegger ended sometime during the dust-bowl droughts of 1936, 1934, 1933, and 1930. Oak smoke from his still and peat from burning marshlands must have clouded the sun in those years, and alphabetical conservation was abroad in the land, but the sawdust shows no change.")]
+
+#zh(id: "S010")[#text("私酒贩子的统治在1936年、1934年、1933年和1930年的沙尘暴干旱期间的某个时候宣告结束。那些年，他蒸馏器里飘出的橡木烟雾与沼泽燃烧产生的泥煤气息想必遮蔽了阳光，而文字的保存之风也遍及四方，但锯末却未曾改变。")]
+
+#html.p(id: "en-S011")[#text("Rest! cries the chief sawyer, and we pause for breath. Now our saw bites into the 1920‟s the Babbittian decade when everything grew bigger and better in heedlessness and arrogance-until1929, when stock markets crumpled. It the oak heard them fall, its wood gives no sigh. Nr did it heed the Legislatures several protestations of love for tree; a National Forest and a forest-crop law in 1927, a great refuge on the Upper Mississippi bottomlands in 1924, and a new forest policy in 1921. Neither did it notice the demise of the state‟s last marten in 1925, nor the arrival of its first starling in 1923. In March 1922, the „Big Sleet‟ tore the neighboring elms limb from limb, but there is no sign of damage to our tree. What is a ton or ice, more or less, to a good oak? Rest! cries the chief sawyer, and we pause for breath.")]
+
+#zh(id: "S011")[#text("休息！首席伐木工喊道，我们停下来喘口气。现在，我们的锯子进入了1920巴比提安的十年，当股票市场崩溃时，一切都在轻视和arrogance-until1929中变得更大更好。倘若橡树听闻它们坠落，其木质却未曾发出一丝叹息。然而，它并未理会各州立法机关多次表达的对森林的关切：1927年的国家森林法和森林采伐法、1924年在密西西比河上游低地设立的大规模自然保护区，以及1921年出台的新森林政策。它既未注意到该州最后一枚貂于1925年灭绝，也未注意到第一只八哥于1923年首次出现。1922 3月，“大雪橇” 从肢体上撕下了邻近的榆树肢体，但没有迹象表明我们的树受损。对一棵好橡树来说，一吨冰又算得了什么？休息！首席伐木工喊道，我们停下来喘口气。")]
+
+#html.p(id: "en-S012")[#text("Now the saw bites into 1910-1920, the decade of the drainage dream, when steam shovels sucked dry the marshes of central Wisconsin to make farms, and made ash-heaps instead. Our marsh escaped, not because of any caution or forbearance among engineers, but because the river floods it each April, and did so with a vengeance-perhaps a defensive vengeance-in the years 1913-16. The oak laid on wood just the same, even in 1915, when the Supreme Court abolished the state forests and Governor Phillip pontificated that „state forestry is not a good business proposition.‟ (It did not occur to the Governor that there might be more than one definition of what is good, and even of what is business. It did not occur to him that while the courts were writing one definition of goodness in the law books, fires were writing quite another one on the face of the land. Perhaps, to be a governor, one must be free from doubt on such matters.)")]
+
+#zh(id: "S012")[#text("现在，锯子咬住了1910-1920，这是排水梦的十年，当时蒸汽铲将威斯康星州中部的沼泽地吸干了，以建立农场，取而代之的是灰堆。我们的沼泽得以幸免，并非出于工程师们的谨慎或克制，而是因为每逢四月，河流都会将其淹没，而在1913年至1916年间，这种洪水更是来势汹汹——或许还带有一种自我防卫的意味。橡树依然如故地躺在林地上，即便在1915年，当最高法院废除了州立森林制度，而州长菲利普还高谈阔论说：“州级林业并非一项有利可图的事业。”（州长并未想到，“好”与“生意”的含义或许不止一种；他也未曾意识到，当法庭将某种关于“善”的定义写入法典之时，山火却在大地上书写着截然不同的另一种定义。也许，要成为一名州长，就必须在这些问题上毫无疑虑。）")]
+
+#html.p(id: "en-S013")[#text("While forestry receded during this decade, game conservation advanced. In 1916 pheasants became successfully established in Waukesha County; in 1915 a federal law prohibited spring shooting; in 1913 a state game farm was started; in 1912 a „buck law‟ protecting female deer; in 1911 an epidemic of refuges spread over the state. “Refuge” became a holy word, but the oak took no heed.")]
+
+#zh(id: "S013")[#text("尽管在这一十年间林业有所衰退，但野生动物保护却取得了进展。1916年，雉类在沃基肖县成功定居；1915年，一项联邦法律禁止春季狩猎；1913年，州政府建立了野生动物养殖场；1912年，出台了一项保护雌性鹿的“公鹿法”；1911年，一场保护运动的浪潮席卷全州。“避难所”成了一个神圣的词，但橡树却毫不在意。")]
+
+#html.p(id: "en-S014")[#text("Rest! cries the chief sawyer, and we pause for breath. Now we cut 1910, when a great university president published a book on conservation, a great sawfly epidemic killed millions of tamaracks, a great drought burned the pineries, and a great dredge drained Horicon Marsh. We cut 1909, when smelt were first planted in the Great Lakes, and when a wet summer induced the Legislature to cut the forest-fore appropriations. We cut 1908, a dry year when the forests burned fiercely, and Wisconsin parted with its last cougar. We cut 1907, when a wandering lynx, looking in the wrong direction for the promised land, ended his career among the farms of Dane County. We cut 1906, when the first state forester took office, and fires burned 17,000 acres in these sand counties; we cut 1905 when a great flight of goshawks came out of the North and ate up the local grouse (they no doubt perched in this tree to eat some of mine). We cut 1902-3, a winter of bitter cold; which brought the most intense drought of record (rainfall only 17 inches); 1900, a centennial year of hope, of prayer, and the usually annual ring of oak. Rest! cries the chief sawyer, and we pause for breath.")]
+
+#zh(id: "S014")[#text("休息！首席伐木工喊道，我们停下来喘口气。现在我们削减了1910，当一位伟大的大学校长出版一本关于保护的书时，一场巨大的锯蝇流行病杀死了数百万的柽柳，一场巨大的干旱烧毁了松树，一场巨大的挖泥机排干了Horicon沼泽。我们追溯到1909年，那时大湖区首次投放了幼鲑鱼，同时一场多雨的夏季也促使州议会削减了林业方面的拨款。我们追溯到1908年，那是一个干旱的年份，森林大火肆虐，威斯康星州也失去了其最后一只美洲狮。我们把时间拨回到1907年，当时一只四处游荡的猞猁因误入歧途、朝着错误的方向追寻那片应许之地，最终在戴恩县的农庄间走到了生命的尽头。我们把时间切回到1906年，那时首任州林业官就任，这些沙质县区的森林火灾烧毁了1.7万英亩的土地；再把时间拨回1905年，当时一群大群的雀鹰自北方南下，捕食了当地的松鸡（它们无疑曾栖息在这棵树上，吃掉了我养的一些松鸡）。我们砍下了1902—1903年的树木年轮，那是一个严寒的冬季；随之而来的则是有记录以来最为严重的干旱（降水量仅为17英寸）；还有1900年，一个充满希望与祈祷的世纪之年，以及橡树那通常每年都会形成的一圈年轮。休息！首席伐木工喊道，我们停下来喘口气。")]
+
+#html.p(id: "en-S015")[#text("Now our saw bites into the 1890‟s, called gay by those whose eyes turn cityward rather than landward. We cut 1899, when the last passenger pigeon collided with a charge of shot near Babcock, two counties to the north; we cut 1898 when a dry fall, followed by a snowless winter, froze the soil even feet deep and killed the apple trees; 1897, another drought year, when another forestry commission came into being; 1896, when 25,000 prairie chickens were shipped to market from the village of Spooner along; 1895, another year of fires; 1894, another drought year; and 1893, the year of „The Bluebird Storm,‟ when a March blizzard reduced the migrating bluebirds to near-zero.(The first bluebirds always alighted in this oak, but in the middle „nineties it must have gone without.) We cit 1892, another year of fires; 1891, a low in the grouse cycle, and 1890, the year of the Babcock Milk Tester, which enabled Governor Heil to boast, half a century later, that Wisconsin is America‟s Dairyland. The motor licenses which not parade that boast were not foreseen, even by Professor Babcock. It was likewise in 1890 that the largest pine rafts in history slipped down the Wisconsin River in full view of my oak, to build an empire of red barns for the cows of the prairie states. Thus it is that good pine now stands between the cow and the blizzard, just as the good oak stands between the blizzard and me. Rest! cries the chief sawyer, and we pause for breath.")]
+
+#zh(id: "S015")[#text("现在我们的锯子咬了1890的，被那些眼睛转向城市而不是陆地的人称为同性恋。我们截取了1899年——那一年，最后一只旅鸽在巴布科克附近与一串猎枪弹丸相撞，而巴布科克位于我们以北两个县；我们还截取了1898年——那一年，秋季干旱，随后的冬季又无雪，地表数英尺深的土壤都被冻透，苹果树尽数枯死；1897年，又是一个干旱之年，林业委员会应运而生；1896年，斯普纳村有2.5万只草原松鸡被运往市场；1895年，火灾频仍；1894年，又是干旱的一年；以及1893年——“蓝鸟风暴”之年，一场三月的暴风雪使迁徙中的蓝鸟数量几乎降为零。（每年最早抵达的蓝鸟总会栖息在这棵橡树上，但在十九世纪九十年代中期，它却不得不空等一场。）我们提到1892年，又一年火灾频发；1891年则是松鸡种群周期的低谷期；而1890年则见证了巴布科克牛奶检测仪的问世，这使得时任州长海尔在半个世纪后得以自豪地宣称：威斯康星州是美国的“乳品之州”。那些未能如期举行的炫耀性游行所涉及的机动车牌照，甚至连巴布科克教授也未曾预料到。同样是在1890年，历史上规模最大的松木筏在威斯康星河上顺流而下，从我这棵橡树的视线中缓缓驶过，为大草原各州的奶牛们建造起一座座红色谷仓的帝国。于是，如今那棵挺拔的松树便矗立在奶牛与暴风雪之间，正如那棵苍劲的橡树屹立在暴风雪与我之间。休息！首席伐木工喊道，我们停下来喘口气。")]
+
+#html.p(id: "en-S016")[#text("Now our saw bites into the 1880‟s; into 1889, a drought year, in which Arbor day was first proclaimed; into 1887, when Wisconsin appointed its first game wardens; into 1886, when the College of Agriculture held its first short course for farmers; into 1885, preceded by a winter „of unprecedented length and severity‟; into 1883, when Dean W.H. Henry reported that the spring flowers at Madison bloomed 13 days later than average; into 1882, the year Lake Mendota opened a month late following the historic „Big Snow‟ and bitter cold of 1881-2.")]
+
+#zh(id: "S016")[#text("现在我们的锯子咬了1880的; 进入1889，干旱的一年，植树节首次宣布; 进入1887，当威斯康星州任命了第一个游戏管理员; 进入1886，当农业学院为农民举办了第一个短期课程; 进入1885，在此之前是一个 “前所未有的长度和严重性” 的冬天; 进入1883，院长W.H. Henry报告说，麦迪逊的春天的花朵比平均水平晚了13天; 进入1882，门多塔湖在历史性的 “大雪” 和1881-2的严寒之后晚了一个月才开放。")]
+
+#html.p(id: "en-S017")[#text("It was likewise in 1881, that the Wisconsin Agricultural Society debated the question, „How do you account for the second growth of black oak timber that has sprung up allover the country in the last thirty years?‟ My oak was one of these. One debater claimed that spontaneous generation, another claimed regurgitation of acorns by southbound pigeons.")]
+
+#zh(id: "S017")[#text("同样在1881年，威斯康星农业协会就一个问题展开了讨论：“在过去三十年间，遍布全国的黑橡树二次萌发生长现象，您如何解释？”我的那棵橡树便是其中之一。一位辩手声称是自然发生说，另一位则声称是南迁的鸽子反刍橡子所致。")]
+
+#html.p(id: "en-S018")[#text("Rest! Cries the chief sawyer, and we pause for breath.")]
+
+#zh(id: "S018")[#text("休息！索耶酋长哭了，我们停下来喘口气。")]
+
+#html.p(id: "en-S019")[#text("Now our saw bites into the 1970‟s, the decade of Wisconsin‟s carousal in wheat. Monday morning came in 1879, when cinch bugs, grubs, rust, and soil exhaustion finally convinced Wisconsin farmers that they could not compete with the virgin prairies further west in the game of wheating land to death. I suspect that this farm played its share in the game, and that the sand blow just north of my oak had its origin in this over-wheating.")]
+
+#zh(id: "S019")[#text("现在，我们的锯子咬入了1970的十年，威斯康星州的小麦狂欢。星期一早晨到了1879年，当小虫，g虫，锈病和土壤枯竭最终使威斯康星州的农民相信，在狂风飞扬的土地上，他们无法与更西边的原始大草原竞争。我怀疑这家农场在这场博弈中也扮演了一定的角色，而就在我那棵橡树北侧的沙丘，其成因很可能正是源于这种过度放牧。")]
+
+#html.p(id: "en-S020")[#text("This same year of 1879 saw the first planting of carp in Wisconsin, and also the first arrival of quackgrass as a stowaway from Europe. On 27 October 1879, six migrating prairie chicken perched on the rooftree of the German Methodist Church in Madison , and took a look at the growing city. On 8 November the markets of Madison were reported to be glutted with ducks at 10 cents each. In 1878 a deer hunter from Sauk Rapids remarked prophetically, “The hunters promise to outnumber the deer.” On 10 September 1877, two brothers shooting Muskego Lake, bagged 210 blue-winged teal in one day. In 1876 came the wettest year of record; the rainfall piled up 50 inches. Prairie chicken declined, perhaps owing to hard rains. In 1875 four hunters killed 153 prairie chickens at York Prairie, one county to the eastward. In the same year, the U.S. Fish Commission planted Atlantic salmon in Devil‟s Lake, 10 miles south of my oak. In 1874 the first factory-made barbed wire was stapled to oak trees; I hope no such artifacts are buried in the oak now saw! In 1873 one Chicago firm received and marketed 25,000 prairie chickens. The Chicago trade collectively bought 600,000 at $3.25 per dozen. In 1872, the last wild Wisconsin turkey was killed, two counties to the southwest. It is appropriate that the decade ending the pioneer carousal in wheat should likewise have ended the pioneer carousal in pigeon blood. In 1871, within a 50-mile triangle spreading northwestward from my oak, 136 million pigeons are estimated to have nested and some may have nested in it, for it was then a thrifty sapling 20 feet tall. Pigeon hunters by scores plied their trade with net and gun, club and salt lick, and trainloads of prospective pigeon pie moved southward and eastward toward the cities. It was the last big nesting in Wisconsin, and nearly the last in any state.")]
+
+#zh(id: "S020")[#text("同样在1879年，威斯康星州首次放养鲤鱼，同时，欧洲的节节麦也作为“偷渡客”首次传入该地。1879年10月27日，六只迁徙的草原松鸡栖息在麦迪逊市一座德国卫理公会教堂的屋脊上，俯瞰着这座日益发展的城市。11月8日，据报道，麦迪逊的市场上鸭子供应过剩，每只售价仅为10美分。1878年，一位来自索克拉皮兹的猎鹿人曾颇有预见性地说道：“猎人的数量恐怕要超过鹿了。”1877年9月10日，两位兄弟在马斯基戈湖一带狩猎，一天之内便打下了210只蓝翅鸭。1876年是有记录以来最潮湿的一年，降水量高达50英寸。草原松鸡数量下降，或许是因为持续的强降雨。1875年，四名猎人在约克草原猎杀了153只草原松鸡，该地位于其东侧的一个县。同年，美国鱼类委员会在距离我家橡树南面10英里的恶魔湖中放养了大西洋鲑鱼。1874年，第一卷工厂生产的铁丝网被钉在橡树上；但愿如今这台锯木机里没有埋着这样的遗物。1873年，一家芝加哥公司接收并销售了2.5万只草原松鸡。芝加哥的交易商集体以每打3.25美元的价格买入了60万打。1872年，最后一只能在野外见到的威斯康星火鸡在西南方向的两个县被猎杀。恰如其分的是，那个终结了小麦种植先驱时代的大约十年，也同样终结了鸽血红宝石的先驱时代。在1871，在从我的橡树向西北延伸的50英里三角形内，估计有1.36亿只鸽子筑巢，有些可能筑巢，因为那时它是节俭的树苗20英尺高。成群的鸽子猎人手持网、枪、棍棒和盐砖，四处捕猎；一列列满载活鸽的火车则向南、向东驶向各大城市，准备将这些鸽子制成鸽子派。那是威斯康星州最后一次大规模筑巢，也几乎是全美最后一次。")]
+
+#html.p(id: "en-S021")[#text("This same year 1871 brought other evidence of the march of empire; the Peshtigo Fire, which cleared a couple of counties of trees and soil, and the Chicago Fire said to have started from a protesting kick of a cow.")]
+
+#zh(id: "S021")[#text("同年，即1871年，帝国扩张的进程又有了新的佐证：佩什蒂戈大火烧毁了数个县的林木与土壤，而芝加哥大火则据传起因于一头牛的一脚踢动。")]
+
+#html.p(id: "en-S022")[#text("Rest! cries the chief sawyer, and we pause for breath.")]
+
+#zh(id: "S022")[#text("休息！首席伐木工喊道，我们停下来喘口气。")]
+
+#html.p(id: "en-S023")[#text("Our saw now cuts the 1860‟s, when thousands dies to settle the question: Is the man-man community lightly to be dismembered? They settled it, but they did not see, nor do we yet see, that the same question applies to the man-land community.")]
+
+#zh(id: "S023")[#text("我们的锯子现在切断了1860，当成千上万的人死去来解决这个问题时: 人与人之间的社区是否应该被轻而易举地肢解？他们已经解决了这个问题，但他们并未意识到，我们也尚未认识到，同样的问题同样适用于人与土地的共同体。")]
+
+#html.p(id: "en-S024")[#text("This decade was not without its gropings toward the larger issue. In 1868 Increase A. Lapham induced the State Horticultural Society of offer prizes for forest plantation. In 1866 the last native Wisconsin elk was killed. The saw now severs 1865, the pith-year of our oak. In that year John Muir offered to by from his brother, who then owned the home farm thirty miles east of my oak, a sanctuary for the wildflowers that had gladdened his youth. His brother declined to part with the land, but he could not suppress the idea. 1865 still stands in Wisconsin history as the birth year of mercy for things natural, wild and free. We have cut the core. Our saw now reverses its orientation in history; we cut backward across the years and outward toward the far side of the stump. At last there is a tremor in the great trunk; the saw kerf suddenly widens; the saw is quickly pulled as the sawyers spring backward to safety; all hands cry “Timber!”; my oak leans, groans, and crashes with earth-shaking thunder, to lie prostrate across the emigrant road that give it birth.")]
+
+#zh(id: "S024")[#text("这个十年并非没有在朝着更宏大的议题摸索前行。1868年，因克雷兹·A·拉普姆促使州园艺学会设立森林种植奖。1866年，威斯康星州最后一只本地麋鹿被猎杀。锯子如今切断了1865年——我们这棵橡树的髓心年份。那一年，约翰·缪尔向他的兄弟提出购买那处位于我那棵橡树以东三十英里的家族农场，将其打造成一片属于那些曾为他青春岁月增添欢愉的野花的庇护所。他的兄弟不愿割让那片土地，但他却无法压制心中的念头。1865年在威斯康星州的历史上，仍被视为对自然、野生与自由之物施以仁慈的开端之年。我们已经切除了核心。如今，我们的锯子在历史的长河中逆转了方向；我们沿着岁月向后切割，同时向外延伸，直至树桩的另一侧。终于，那粗壮的树干微微一颤；锯口骤然张开；伐木工们猛地向后跃出，退至安全地带；众人齐声高喊：“倒树啦！”我的橡树缓缓倾斜，发出低沉的呻吟，随即轰然倒地，震天动地，横卧在那条见证它诞生的移民小路上。")]
+
+#html.p(id: "en-S025")[#text("Now comes the job of making wood. The maul rings on steel wedges as the sections of trunk are upended one by one, only to fall apart in fragrant slabs to be corded by the roadside.")]
+
+#zh(id: "S025")[#text("现在该开始制作木头了。铁锤敲击着钢楔，一根根原木被逐一翻转，随即散作阵阵芬芳的木板，整齐地码放在路边。")]
+
+#html.p(id: "en-S026")[#text("There is an allegory for historians in the diverse functions of saw, wedge, and axe.")]
+
+#zh(id: "S026")[#text("锯、楔子与斧头各自不同的功能，为历史学家提供了一个寓言式的启示。")]
+
+#html.p(id: "en-S027")[#text("The saw works only across the years, which it must deal with one by one, in sequence. From each year the raker teeth pull little chips of fact, which accumulate in little piles, called sawdust by woodsmen and archives by historians; both judge the character of what lies within by the character of the samples thus made visible without. It is not until the transect is completed that the tree falls, and the stump yields a collective view of a century. By its fall the tree attests the unity of the hodge-podge called history.")]
+
+#zh(id: "S027")[#text("锯子只能逐年作业，必须按顺序逐一处理。每年，耙齿都会拨出些许事实的碎屑，这些碎屑堆积成小堆，伐木工人称之为木屑，历史学家则称之为档案；两者都通过这些被显露出来的样本的性质，来判断其内部所蕴含之物的本质。直到样带调查完成，那棵树才轰然倒下，而树桩则呈现出一个世纪的集体记忆。随着它的倒下，这棵树见证了那被称作“历史”的大杂烩的统一性。")]
+
+#html.p(id: "en-S028")[#text("The wedge, on the other hand, works only in radial splits; such a split yields a collective view of all the years at once, or no view at all, depending on the skill with which the plane of the split is chosen ( If in doubt, let the section season for a year until a crack develops. Many a hastily driven wedge lies rusting in the woods, imbedded in unsplittable cross-grain.)")]
+
+#zh(id: "S028")[#text("另一方面，楔子只能用于径向劈开；这样的劈法要么能同时呈现所有年轮的全貌，要么根本看不到任何纹理，这取决于劈面角度的选择是否恰当。（如有疑虑，可让木材先存放一年，待裂纹自然形成后再行劈开。许多仓促打入的楔子如今仍锈蚀在林间，嵌在难以劈开的横纹之中。）")]
+
+#html.p(id: "en-S029")[#text("The axe functions only at an angle diagonal to the years, and this only for the peripheral rings of the recent past. Its special function is to lop limbs for which both the saw and wedge are useless. The three tools are requisite to good oak, and to good history.")]
+
+#zh(id: "S029")[#text("斧头仅在与年份呈斜角时发挥作用，且这一作用仅限于近期的外围环层。它的特殊功能是砍断那些锯子和楔子都无能为力的肢体。这三种工具对于优质的橡木以及优质的历史而言都是不可或缺的。")]
+
+#html.p(id: "en-S030")[#text("These things I ponder as the kettle sings, and the good oak burns to red coals on white ashes. Those ashes, come spring, I will return to the orchard at the foot of the sandhill. They will come back to me again, perhaps as red apples, or perhaps as a spirit of enterprise in some fat October squirrel, who, for reasons unknown to himself, is bent on planting acorns.")]
+
+#zh(id: "S030")[#text("我在水壶唱歌时思考这些事情，好橡树在白色的灰烬上燃烧成红色的煤。待到春来，我便将那骨灰撒回沙丘脚下的果园。他们终将再次回到我身边，或许化作红彤彤的苹果，或许化作十月里某只肥硕松鼠身上那股创业的劲头——它出于自己也说不清的缘由，执意要埋下一颗颗橡子。")]
+
