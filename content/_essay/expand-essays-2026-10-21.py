@@ -493,10 +493,11 @@ def render():
         if not p.exists():continue
         data=json.loads(p.read_text(encoding='utf-8'))
         if not data.get('translation_status'):continue
-        r.update({k:v for k,v in data['paper'].items() if k not in ('category','source')});r.update(visible=True,kind='full',scope='complete-essay',
+        r.update({k:v for k,v in data['paper'].items() if k not in ('category','source')});r.update(visible=True,kind='full',scope=data.get('scope','complete-essay'),
                    status='bilingual-complete-draft' if r['original_language']!='zh' else 'complete-original',
                    translation_status=data['translation_status'],source_acquisition='assistant-retrieved-original',
                    completeness='all source body blocks retained; source boundaries and paragraph coverage checked')
+        r.pop('pending_reason',None)
         q=lambda x:json.dumps(x,ensure_ascii=False)
         public=ROOT.parent/'Essay'/r['folder'];public.mkdir(exist_ok=True)
         title=r['title'] if r['title']==r['zh_title'] else r['title']+' / '+r['zh_title']
@@ -546,7 +547,7 @@ def render():
     updates={r['id']:r for r in completed};items=[dict(r,**updates.pop(r['id'])) if r['id'] in updates else r for r in items];items.extend(updates.values())
     dump(catalog,items);dump(BATCH,records)
     for r in records:
-        if r['id']=='russell-rubbish' and not r['visible']:
+        if r['id']=='russell-rubbish' and not r['visible'] and r.get('source_availability')!='body-source-acquired':
             r['status']='awaiting-complete-readable-source'
             r['pending_reason']='常见网页只有节选；馆藏扫描本尚未取得完整可读正文。'
     dump(BATCH,records)

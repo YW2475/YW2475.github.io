@@ -1,0 +1,847 @@
+{
+  "date": "2026-10-22",
+  "scope": "Source search for all 37 previously pending essays; no new article pages published in this search step.",
+  "searched": 37,
+  "with_local_source": 35,
+  "download_blocked": [
+    31,
+    47
+  ],
+  "items": [
+    {
+      "candidate_number": 5,
+      "id": "candidate-05",
+      "title": "The Median Isn't the Message",
+      "zh_title": "中位数不是命运",
+      "author": "Stephen Jay Gould",
+      "checked_date": "2026-10-22",
+      "source_url": "https://laurakgray.weebly.com/uploads/7/3/6/2/7362679/gould_1985_-_the_median_isnt_the_message.pdf",
+      "previous_source_url": "https://fog.ccsf.edu/~abair/median.pdf",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-05/alternative.pdf",
+          "bytes": 74793,
+          "sha256": "ba0f878e77aac46d63a61df7918e5380ba46ba81208f3197612eb61de23406bf"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "四页教学存档；包含编者导言，生成正文时应排除。原授权说明仅证明 CancerGuide 获准转载，并非向所有网站授权。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 6,
+      "id": "candidate-06",
+      "title": "Nonmoral Nature",
+      "zh_title": "无所谓道德的自然",
+      "author": "Stephen Jay Gould",
+      "checked_date": "2026-10-22",
+      "source_url": "https://mharnett.weebly.com/uploads/1/0/9/7/10977401/gould_nonmoral_nature.pdf",
+      "previous_source_url": "https://www.pagefarm.net/ap/PDFs/nonmoralnature.pdf",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-06/alternative.pdf",
+          "bytes": 99074,
+          "sha256": "0c914b7ce9c4445887e2ca3096eb5035ac49cc4402b1ad960c76a4780e8877a4"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "八页英文正文；旧 PDF 链接失效，已更换来源。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 10,
+      "id": "candidate-10",
+      "title": "What Is Science?",
+      "zh_title": "什么是科学？",
+      "author": "Richard P. Feynman",
+      "checked_date": "2026-10-22",
+      "source_url": "https://www.arvindguptatoys.com/arvindgupta/whatisscience-feynman.pdf",
+      "previous_source_url": "https://feynman.com/science/what-is-science/",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-10/verified-article.pdf",
+          "bytes": 76669,
+          "sha256": "6dc531949b57d04e4c2337b906057017cea043193030398c8d07e2a8f2d80a7a"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "取得九页 PDF。作者官网转录含缺文提示，不能直接当作无缺漏底本。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 11,
+      "id": "candidate-11",
+      "title": "The Evolution of the Physicist's Picture of Nature",
+      "zh_title": "物理学家的自然图景如何演变",
+      "author": "P. A. M. Dirac",
+      "checked_date": "2026-10-22",
+      "source_url": "https://files.eric.ed.gov/fulltext/ED071902.pdf",
+      "previous_source_url": "https://www.scientificamerican.com/blog/guest-blog/the-evolution-of-the-physicists-picture-of-nature/",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-11/dirac-article-1963.pdf",
+          "bytes": 390479,
+          "sha256": "60bea9a850a7112f6789e4da18fba55fedcb9f9138c2f48e993697936e3fb08f"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "ERIC 教学文集共269页；已提取 PDF 第153—161页的九页单篇，后续绘画及下一篇未混入。文字层 OCR 较差，应以扫描页校勘。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 12,
+      "id": "candidate-12",
+      "title": "Birds and Frogs",
+      "zh_title": "鸟与青蛙",
+      "author": "Freeman Dyson",
+      "checked_date": "2026-10-22",
+      "source_url": "https://pdodds.w3.uvm.edu/files/papers/others/2009/dyson2009a.pdf",
+      "previous_source_url": "https://www.ams.org/notices/200902/rtx090200212p.pdf",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-12/alternative.pdf",
+          "bytes": 746918,
+          "sha256": "3df2c47f4b6a87e2892f80da361f06730220a98d7fba138ff47cb9e5fcf3ba00"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "佛蒙特大学存档的12页 AMS 文章，印刷页212—223。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 14,
+      "id": "candidate-14",
+      "title": "The Unsuccessful Self-Treatment of a Case of “Writer's Block”",
+      "zh_title": "一例“写作障碍”的失败自我治疗",
+      "author": "Dennis Upper",
+      "checked_date": "2026-10-22",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1311997/",
+      "previous_source_url": "https://pubmed.ncbi.nlm.nih.gov/16795475/",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-14/primary-article.png",
+          "bytes": 34977,
+          "sha256": "9ae10aa570d345958b6791130af83db0709c13848c3ed94281c6169377ba8df9"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "PMC 上的原刊第497页整页扫描已取得；正文空白正是作品本身，不能擅自补写内容。PDF端点返回HTML，未冒充PDF保存。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 15,
+      "id": "candidate-15",
+      "title": "Pathological Science",
+      "zh_title": "病态科学",
+      "author": "Irving Langmuir",
+      "checked_date": "2026-10-22",
+      "source_url": "https://www.cs.princeton.edu/~ken/Langmuir/langmuir.htm",
+      "previous_source_url": "https://galileo.phys.virginia.edu/~rjh2j/misc/Langmuir.pdf",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-15/source-01.html",
+          "bytes": 4884,
+          "sha256": "75391bec17f4498ebd9ee5281acd251fee72c21e60ad8672e7f0073a8b8a2305"
+        },
+        {
+          "path": "originals-2026-10-22/candidate-15/source-02.html",
+          "bytes": 20953,
+          "sha256": "2e15f9cd22c7fd65dfc6d91fe2fcb1ede7b9167d54702c0edf6442011c73c901"
+        },
+        {
+          "path": "originals-2026-10-22/candidate-15/source-03.html",
+          "bytes": 25579,
+          "sha256": "89dfb41b9f0b58d9868237bead1002d14e83f9a517d8e8148e706fb1b1f20e9d"
+        },
+        {
+          "path": "originals-2026-10-22/candidate-15/source-04.html",
+          "bytes": 20919,
+          "sha256": "dd33bb8994e9acd1b5a8885a5c4f5205b3cbaf0e987abd9901b8d5ff3a8970e2"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": true,
+      "notes": "普林斯顿原报告转录的目录及三部分正文均已取得；1953年讲话、Hall 的1968年前后记及2002年绿色编注须区分，原图尚需单独归档。",
+      "publication_permission_status": "original-1953-talk-term-and-1968-editorial-contributions-require-separate-treatment",
+      "reader_added_date": "2026-10-23",
+      "reader_status": "complete-author-text-bilingual-draft",
+      "essay_id": "langmuir-pathological"
+    },
+    {
+      "candidate_number": 16,
+      "id": "candidate-16",
+      "title": "Scientists Rise Up against Statistical Significance",
+      "zh_title": "科学家应超越“统计显著性”",
+      "author": "Valentin Amrhein、Sander Greenland、Blake McShane",
+      "checked_date": "2026-10-22",
+      "source_url": "https://www.nature.com/articles/d41586-019-00857-9",
+      "previous_source_url": "https://www.nature.com/articles/d41586-019-00857-9",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-16/source-02.pdf",
+          "bytes": 716410,
+          "sha256": "817a4935972a6e357e9aff4716dacc40da02aed0f721ae3c34d42cf59c53088f"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "已取得正文来源文件；网页导航、版权信息和出版机构内容不属于作者正文。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 17,
+      "id": "candidate-17",
+      "title": "The Computer as a Communication Device",
+      "zh_title": "计算机作为通信工具",
+      "author": "J. C. R. Licklider、Robert W. Taylor",
+      "checked_date": "2026-10-22",
+      "source_url": "https://worrydream.com/refs/Licklider_1968_-_The_Computer_as_Communication_Device.pdf",
+      "previous_source_url": "https://worrydream.com/refs/Licklider_1968_-_The_Computer_as_Communication_Device.pdf",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-17/source-01.pdf",
+          "bytes": 143462,
+          "sha256": "2b2d0d72ae8aec68751383f6e49da4a2e36e4a6ffb2027cd10a9ed078e376a1c"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "已取得正文来源文件；网页导航、版权信息和出版机构内容不属于作者正文。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 18,
+      "id": "candidate-18",
+      "title": "A Personal Computer for Children of All Ages",
+      "zh_title": "供所有年龄儿童使用的个人计算机",
+      "author": "Alan Kay",
+      "checked_date": "2026-10-22",
+      "source_url": "https://mprove.de/visionreality/media/kay72.html",
+      "previous_source_url": "https://mprove.de/visionreality/media/kay72.html",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-18/source-01.html",
+          "bytes": 77487,
+          "sha256": "df263fe9cad394a3b2c7cfab667f398d244c89366f42d3d146b68dfdb1b4ad18"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "已取得正文来源文件；网页导航、版权信息和出版机构内容不属于作者正文。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 19,
+      "id": "candidate-19",
+      "title": "Keep Your Identity Small",
+      "zh_title": "让身份认同小一点",
+      "author": "Paul Graham",
+      "checked_date": "2026-10-22",
+      "source_url": "https://www.paulgraham.com/identity.html",
+      "previous_source_url": "https://www.paulgraham.com/identity.html",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-19/source-01.html",
+          "bytes": 13636,
+          "sha256": "1e40971c2c025571ff2caf2386643640a249cef6064d0e8658eb1444e0196068"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "作者 FAQ 允许发布译文并要求原文链接；英文全文镜像另有偏好说明，不能把译文许可直接等同于双语镜像许可。",
+      "publication_permission_status": "not-established-by-download",
+      "permission_evidence": "https://www.paulgraham.com/gfaq.html"
+    },
+    {
+      "candidate_number": 20,
+      "id": "candidate-20",
+      "title": "The Age of the Essay",
+      "zh_title": "随笔的时代",
+      "author": "Paul Graham",
+      "checked_date": "2026-10-22",
+      "source_url": "https://www.paulgraham.com/essay.html",
+      "previous_source_url": "https://www.paulgraham.com/essay.html",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-20/source-01.html",
+          "bytes": 38145,
+          "sha256": "6198403f88e560bce3d20d0006dcd126805fd0169722f15b7c7d4b48d7b5adb7"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "同作者 FAQ：允许发布译文，但须分别处理英文镜像与署名链接。",
+      "publication_permission_status": "not-established-by-download",
+      "permission_evidence": "https://www.paulgraham.com/gfaq.html"
+    },
+    {
+      "candidate_number": 21,
+      "id": "candidate-21",
+      "title": "A Brief Rant on the Future of Interaction Design",
+      "zh_title": "关于交互设计未来的一点牢骚",
+      "author": "Bret Victor",
+      "checked_date": "2026-10-22",
+      "source_url": "https://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/",
+      "previous_source_url": "https://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-21/source-01.html",
+          "bytes": 14917,
+          "sha256": "50ae7fdb954500f6d9052798c1dbd7c63e4bb3a57376c356f8fdf83863cb2bc9"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "已取得正文来源文件；网页导航、版权信息和出版机构内容不属于作者正文。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 22,
+      "id": "candidate-22",
+      "title": "Epigrams on Programming",
+      "zh_title": "编程警句",
+      "author": "Alan J. Perlis",
+      "checked_date": "2026-10-22",
+      "source_url": "https://cs.yale.edu/homes/perlis-alan/quotes.html",
+      "previous_source_url": "https://cs.yale.edu/homes/perlis-alan/quotes.html",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-22/source-01.html",
+          "bytes": 13411,
+          "sha256": "d8383713800215fd03efe341221123d1acb1df165ce631e26337c5d70c39b1d3"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "已取得正文来源文件；网页导航、版权信息和出版机构内容不属于作者正文。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 23,
+      "id": "candidate-23",
+      "title": "Reflections on Trusting Trust",
+      "zh_title": "反思对信任的信任",
+      "author": "Ken Thompson",
+      "checked_date": "2026-10-22",
+      "source_url": "https://www.cl.cam.ac.uk/teaching/2324/R209/Reflections-Trusting-Trust.pdf",
+      "previous_source_url": "https://dl.acm.org/doi/10.1145/358198.358210",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-23/fallback.pdf",
+          "bytes": 919670,
+          "sha256": "3fffb19ee6e0057d383e233064952b66a7e6799c5b1ddc75b897f5fc17365e22"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "剑桥教学存档七页文件，内含论文转录及原刊扫描；原刊许可区分复制与重新发表。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 24,
+      "id": "candidate-24",
+      "title": "On the Impact of the Computer on Society",
+      "zh_title": "计算机对社会的影响",
+      "author": "Joseph Weizenbaum",
+      "checked_date": "2026-10-22",
+      "source_url": "https://files.eric.ed.gov/fulltext/ED086249.pdf",
+      "previous_source_url": "https://pubmed.ncbi.nlm.nih.gov/17778159/",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-24/fallback.pdf",
+          "bytes": 218893,
+          "sha256": "91ded94051b652c853fc0e9bbfcde936cfcc29dd693bebcc986c1afff1fb4eb6"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "ERIC 七页文件含馆藏封面及 Science 1972年原文609—614页，非原先的PubMed入口页面。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 25,
+      "id": "candidate-25",
+      "title": "The Rise of Worse Is Better",
+      "zh_title": "“更糟更好”的兴起",
+      "author": "Richard P. Gabriel",
+      "checked_date": "2026-10-22",
+      "source_url": "https://dreamsongs.com/RiseOfWorseIsBetter.html",
+      "previous_source_url": "https://dreamsongs.com/RiseOfWorseIsBetter.html",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-25/source-01.html",
+          "bytes": 11000,
+          "sha256": "2103391d2eda6a4a2d8f11483b040ceea4fa4eb449e8fb88c09f21d880c7653f"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "已取得正文来源文件；网页导航、版权信息和出版机构内容不属于作者正文。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 29,
+      "id": "candidate-29",
+      "title": "The Use of Knowledge in Society",
+      "zh_title": "知识在社会中的运用",
+      "author": "F. A. Hayek",
+      "checked_date": "2026-10-22",
+      "source_url": "https://www.mercatus.org/sites/default/files/d7/the_use_of_knowledge_in_society_-_hayek.pdf",
+      "previous_source_url": "https://www.laits.utexas.edu/~mbs31415/HayekUseOfKnowledgeInSociety.pdf",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-29/alternative.pdf",
+          "bytes": 1454542,
+          "sha256": "73c21ec66254a192c8a1835de802b567fd8839a81de97b70248a9db65a0c5845"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "取得13页扫描PDF，含存档封面；OCR文字层较少，需按扫描页阅读。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 30,
+      "id": "candidate-30",
+      "title": "The Economic Organisation of a P.O.W. Camp",
+      "zh_title": "战俘营的经济组织",
+      "author": "R. A. Radford",
+      "checked_date": "2026-10-22",
+      "source_url": "https://cdn.vanderbilt.edu/vu-my/wp-content/uploads/sites/138/2011/08/14091710/POWCampRadford.pdf",
+      "previous_source_url": "https://cdn.vanderbilt.edu/vu-my/wp-content/uploads/sites/138/2011/08/14091710/POWCampRadford.pdf",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-30/source-01.pdf",
+          "bytes": 426596,
+          "sha256": "595307615fbe9ccdf2901ad058681bf1766cc14eb3c13d89cd92cec12b133c96"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "已取得正文来源文件；网页导航、版权信息和出版机构内容不属于作者正文。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 31,
+      "id": "candidate-31",
+      "title": "On the Phenomenon of Bullshit Jobs: A Work Rant",
+      "zh_title": "论“狗屁工作”现象",
+      "author": "David Graeber",
+      "checked_date": "2026-10-22",
+      "source_url": "https://davidgraeber.org/wp-content/uploads/On-the-phenomenon-of-bullshit-jobs-A-work-rant.pdf",
+      "previous_source_url": "https://davidgraeber.org/articles/on-the-phenomenon-of-bullshit-jobs-a-work-rant/",
+      "source_status": "original-site-located-download-blocked",
+      "local_sources": [],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "已定位作者机构网站及其五页PDF。下载请求被原站拒绝（447），并非没有找到原文。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 32,
+      "id": "candidate-32",
+      "title": "Buddhist Economics",
+      "zh_title": "佛教经济学",
+      "author": "E. F. Schumacher",
+      "checked_date": "2026-10-22",
+      "source_url": "https://centerforneweconomics.org/publications/buddhist-economics/",
+      "previous_source_url": "https://centerforneweconomics.org/publications/buddhist-economics/",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-32/source-01.html",
+          "bytes": 109783,
+          "sha256": "f08f2ff750887745cbb66993e3b26999ce39cb3737ce5708dca96b905691c8c3"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "已取得正文来源文件；网页导航、版权信息和出版机构内容不属于作者正文。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 33,
+      "id": "candidate-33",
+      "title": "The Social Responsibility of Business Is to Increase Its Profits",
+      "zh_title": "企业的社会责任是增加利润",
+      "author": "Milton Friedman",
+      "checked_date": "2026-10-22",
+      "source_url": "https://www.enriquedans.com/wp-content/uploads/2019/08/friedman.pdf",
+      "previous_source_url": "https://www.enriquedans.com/wp-content/uploads/2019/08/friedman.pdf",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-33/source-01.pdf",
+          "bytes": 38842,
+          "sha256": "b50c81bfb8295642ca2898d5bab7b1eb79d64b51feefb8af4df4a4497135e882"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "已取得正文来源文件；网页导航、版权信息和出版机构内容不属于作者正文。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 34,
+      "id": "candidate-34",
+      "title": "Warfare Is Only an Invention—Not a Biological Necessity",
+      "zh_title": "战争只是一项发明，而非生物必然",
+      "author": "Margaret Mead",
+      "checked_date": "2026-10-22",
+      "source_url": "https://users.metu.edu.tr/utuba/Mead.pdf",
+      "previous_source_url": "https://users.metu.edu.tr/utuba/Mead.pdf",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-34/source-01.pdf",
+          "bytes": 76971,
+          "sha256": "163b65ae8a2a9ce753e01a1f40b97e3628278cf312af8d36fcee4ee4eedb2d21"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "已取得正文来源文件；网页导航、版权信息和出版机构内容不属于作者正文。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 35,
+      "id": "candidate-35",
+      "title": "A Talk to Teachers",
+      "zh_title": "对教师的一次讲话",
+      "author": "James Baldwin",
+      "checked_date": "2026-10-22",
+      "source_url": "https://cuny.manifoldapp.org/read/a-talk-to-teachers/section/9b9e4788-da1f-459e-bb6e-ea7e30fc630e",
+      "previous_source_url": "https://flaglerlive.com/james-baldwin-talk-teachers/",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-35/source-01.html",
+          "bytes": 579157,
+          "sha256": "5c010586a5f5ae58a8b3cb5fc6c3a221e6106babff4399bff435beda35109495"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "CUNY Manifold 正文；平台为开放平台，不自动代表本文采用开放转载许可。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 37,
+      "id": "russell-rubbish",
+      "title": "An Outline of Intellectual Rubbish",
+      "zh_title": "论智识垃圾",
+      "author": "Bertrand Russell",
+      "checked_date": "2026-10-22",
+      "source_url": "https://dai.mun.ca/PDFs/radical/548943.pdf",
+      "previous_source_url": "https://ratbags.com/rsoles/comment/russell10.htm",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/russell-mun.pdf",
+          "bytes": 6689298,
+          "sha256": "150fcfeb52724912cabe6e5a226e10ecad32e80e928245de4879c7334cdbb391"
+        },
+        {
+          "path": "originals-2026-10-22/russell-j.html",
+          "bytes": 87369,
+          "sha256": "ef469221539c146a0f9890ac61ab03f0659962eb42fafb6ca81478bc5f7bdb8c"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": true,
+      "notes": "Memorial University 1943年馆藏扫描文件36页，文章正文在PDF第7—28页，其后为广告。另有日本罗素资料站完整转录可供对照。",
+      "publication_permission_status": "original-author-term-record-exists; modern added content excluded",
+      "reader_added_date": "2026-10-23",
+      "reader_status": "complete-author-text-bilingual-draft",
+      "essay_id": "russell-rubbish"
+    },
+    {
+      "candidate_number": 40,
+      "id": "candidate-40",
+      "title": "Good and Bad Reasons for Believing",
+      "zh_title": "相信的好理由与坏理由",
+      "author": "Richard Dawkins",
+      "checked_date": "2026-10-22",
+      "source_url": "https://arantius.com/misc/mirror/Richard-Dawkins/good-and-bad-reasons-for-believing.html",
+      "previous_source_url": "https://arantius.com/misc/mirror/Richard-Dawkins/good-and-bad-reasons-for-believing.html",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-40/source-01.html",
+          "bytes": 18618,
+          "sha256": "1916ebed259bd1db33fd492774f9c6ff06efc346c0e2ae1583d780a58d4982fb"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "已取得正文来源文件；网页导航、版权信息和出版机构内容不属于作者正文。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 41,
+      "id": "candidate-41",
+      "title": "The Absurd",
+      "zh_title": "荒诞",
+      "author": "Thomas Nagel",
+      "checked_date": "2026-10-22",
+      "source_url": "https://philosophy.as.uky.edu/sites/default/files/The%20Absurd%20-%20Thomas%20Nagel.pdf",
+      "previous_source_url": "https://philosophy.as.uky.edu/sites/default/files/The%20Absurd%20-%20Thomas%20Nagel.pdf",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-41/source-01.pdf",
+          "bytes": 1056558,
+          "sha256": "9a820f3937407133893be392bc06826cc2e4b611a7efb4c0eac5f95518b0226f"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "已取得正文来源文件；网页导航、版权信息和出版机构内容不属于作者正文。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 45,
+      "id": "candidate-45",
+      "title": "Against Interpretation",
+      "zh_title": "反对阐释",
+      "author": "Susan Sontag",
+      "checked_date": "2026-10-22",
+      "source_url": "https://commons.princeton.edu/shakespeares-language/wp-content/uploads/sites/41/2017/09/Sontag-Against-Interpretation.pdf",
+      "previous_source_url": "https://commons.princeton.edu/shakespeares-language/wp-content/uploads/sites/41/2017/09/Sontag-Against-Interpretation.pdf",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-45/source-01.pdf",
+          "bytes": 688222,
+          "sha256": "78a6323f5163f36ca2bab65848c0b22cf6acf203adcfd2ef4e115d0f8d45c8c0"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "八页扫描件已取得；几乎无可用文字层，后续需要OCR。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 46,
+      "id": "candidate-46",
+      "title": "Why Read the Classics?",
+      "zh_title": "为什么读经典",
+      "author": "Italo Calvino",
+      "checked_date": "2026-10-22",
+      "source_url": "https://www.penguin.co.uk/discover/articles/why-we-read-classics-italo-calvino",
+      "previous_source_url": "https://www.penguin.co.uk/discover/articles/why-we-read-classics-italo-calvino",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-46/source-02.pdf",
+          "bytes": 43149,
+          "sha256": "d9eaf1396094beb97f694f83f188cc6e1070efa319cc7fe2161b3bea9b7e4646"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "出版社全文网页与五页大学教学PDF均已找到，翻译版本需按具体署名记录。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 47,
+      "id": "candidate-47",
+      "title": "How to Travel with a Salmon",
+      "zh_title": "如何带着鲑鱼旅行",
+      "author": "Umberto Eco",
+      "checked_date": "2026-10-22",
+      "source_url": "https://www.theparisreview.org/letters-essays/1794/how-to-travel-with-a-salmon-umberto-eco",
+      "previous_source_url": "https://books.google.com/books/about/How_to_Travel_with_a_Salmon.html?hl=en&id=_ntDTaMUys8C&output=html_text",
+      "source_status": "original-site-located-download-blocked",
+      "local_sources": [],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "已找到Paris Review原始发表页面及2016年重刊入口；两处下载均返回403。没有改用来源不明的整本书下载。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 48,
+      "id": "candidate-48",
+      "title": "Why Look at Animals?",
+      "zh_title": "为何凝视动物？",
+      "author": "John Berger",
+      "checked_date": "2026-10-22",
+      "source_url": "https://zooindex.net/articles/why-look-at-animals",
+      "previous_source_url": "https://zooindex.net/articles/why-look-at-animals",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-48/source-01.html",
+          "bytes": 42978,
+          "sha256": "ec74577ff0cfb18076df7753ebb59383987d13c1ad4d0b0ed91dd542cd9395b1"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "已取得正文来源文件；网页导航、版权信息和出版机构内容不属于作者正文。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 49,
+      "id": "candidate-49",
+      "title": "Borges and I",
+      "zh_title": "博尔赫斯与我",
+      "author": "Jorge Luis Borges",
+      "checked_date": "2026-10-22",
+      "source_url": "https://poets.org/poem/borges-and-i",
+      "previous_source_url": "https://poets.org/poem/borges-and-i/print",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-49/source-01.html",
+          "bytes": 57086,
+          "sha256": "e96a2321cc0c8117ab9ac496fa008a3ed3bc6749384ffa08697f8a89b8a86579"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "已取得正文来源文件；网页导航、版权信息和出版机构内容不属于作者正文。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 58,
+      "id": "candidate-58",
+      "title": "Once More to the Lake",
+      "zh_title": "重游缅湖",
+      "author": "E. B. White",
+      "checked_date": "2026-10-22",
+      "source_url": "https://jerrywbrown.com/wp-content/uploads/2020/02/Once-More-to-the-Lake-White-e.-b..pdf",
+      "previous_source_url": "https://jerrywbrown.com/wp-content/uploads/2020/02/Once-More-to-the-Lake-White-e.-b..pdf",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-58/source-01.pdf",
+          "bytes": 46795,
+          "sha256": "80cc9ccd94287fb98b701069d46558433635ad2c022e66d4a21ceed72b77b96b"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "已取得正文来源文件；网页导航、版权信息和出版机构内容不属于作者正文。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 59,
+      "id": "candidate-59",
+      "title": "The Ring of Time",
+      "zh_title": "时间之环",
+      "author": "E. B. White",
+      "checked_date": "2026-10-22",
+      "source_url": "https://www.newyorker.com/magazine/1956/04/07/letter-from-the-south",
+      "previous_source_url": "https://drunkenlibrary.com/2017/06/23/the-ring-of-time-e-b-white/",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-59/primary-article.html",
+          "bytes": 843937,
+          "sha256": "7294cdd2be630156a7209ca12bca3ff57c49027ca3fa353a25d54fea4f9102e2"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "常见 drunkenlibrary 网页仅含马戏团部分。已取得纽约客1956年原刊 Letter from the South，包含后续种族隔离段落；与选集改题版仍需核对，旧节选不标成全文。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 67,
+      "id": "candidate-67",
+      "title": "昆明的雨",
+      "zh_title": "昆明的雨",
+      "author": "汪曾祺",
+      "checked_date": "2026-10-22",
+      "source_url": "https://www.pinshiwen.com/shiji/wangzengqi/20200821288061.html",
+      "previous_source_url": "https://www.pep.com.cn/products/jf/zhxxjf/ywxkjf/201904/t20190403_1937095.shtml",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-67/fallback.html",
+          "bytes": 43078,
+          "sha256": "4612778d77636bc0d4cff0c3521b1c60970d04257e22efe1e7d857e1121b963b"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "旧人民教育出版社链接是书目介绍，现已取得正文转录；不是把书目页当作文章。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 68,
+      "id": "candidate-68",
+      "title": "葡萄月令",
+      "zh_title": "葡萄月令",
+      "author": "汪曾祺",
+      "checked_date": "2026-10-22",
+      "source_url": "https://www.pinshiwen.com/shiji/wangzengqi/20201009295716.html",
+      "previous_source_url": "https://www.chunghwabook.com.hk/upload/files/2023/05_22/4fc34227ab0239ba976ec465c300527d.pdf",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-68/alternative.html",
+          "bytes": 49467,
+          "sha256": "948774b679aa1cae65bb65a6bbbac75f51d288e47a4518bb5678ccce8b565b4b"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "旧中华书局PDF只有三页目录，已改取包含一月至十二月的正文转录；页面后续赏析应排除。",
+      "publication_permission_status": "not-established-by-download"
+    },
+    {
+      "candidate_number": 75,
+      "id": "candidate-75",
+      "title": "雅舍",
+      "zh_title": "雅舍",
+      "author": "梁实秋",
+      "checked_date": "2026-10-22",
+      "source_url": "https://www.kekeshici.com/sanwen/xueshengshiwen/68365.html",
+      "previous_source_url": "https://image.chinawriter.com.cn/n1/2026/0210/c404063-40662788.html",
+      "source_status": "body-source-acquired",
+      "local_sources": [
+        {
+          "path": "originals-2026-10-22/candidate-75/fallback.html",
+          "bytes": 28208,
+          "sha256": "886d15d7016ab10126518102133c334d770f8d82787fbc79d6be1a962b0b6f91"
+        }
+      ],
+      "review_status": "Source type and obvious boundaries checked; no claim of line-by-line collation or completed translation.",
+      "reader_visible": false,
+      "notes": "旧中国作家网页为评论文。现已取得《雅舍》正文及赏析页面，正文与评论须分开。",
+      "publication_permission_status": "not-established-by-download"
+    }
+  ],
+  "followup_2026_10_23": {
+    "new_readers": 2,
+    "site_essay_count": 103,
+    "remaining_unpublished": 35
+  }
+}

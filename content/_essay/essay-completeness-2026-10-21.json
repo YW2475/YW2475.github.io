@@ -1,8 +1,8 @@
 {
   "requested": 75,
-  "completed": 38,
-  "pending": 37,
-  "visible_local_entries": 101,
+  "completed": 40,
+  "pending": 35,
+  "visible_local_entries": 103,
   "coverage": [
     {
       "id": "wallace-varieties",
@@ -61,6 +61,13 @@
       "source_ending": "Surely they have need of it, for they are and remain in spite of all very hypothetical: the interest of the questions is so great that I do not repent of having submitted them to the reader."
     },
     {
+      "id": "langmuir-pathological",
+      "blocks": 133,
+      "source_characters": 61600,
+      "source_beginning": "This is recorded by Irving Langmuir on March 8, 1954. It is transcribed from a tape recording, section number three, of the lecture on \"Pathological S",
+      "source_ending": "(White): I believe that this is the latest lasting colloquium we’ve ever had that I remember. It was a great privilege to have such a speaker. We thank you, Dr. Langmuir."
+    },
+    {
       "id": "simmel-stranger",
       "blocks": 51,
       "source_characters": 14777,
@@ -87,6 +94,13 @@
       "source_characters": 1779,
       "source_beginning": "Three passions, simple but overwhelmingly strong, have governed my life: the longing for love, the search for knowledge, and unbearable pity for the s",
       "source_ending": "This has been my life. I have found it worth living, and would gladly live it again if the chance were offered me."
+    },
+    {
+      "id": "russell-rubbish",
+      "blocks": 98,
+      "source_characters": 79740,
+      "source_beginning": "Man is a rational animal: so at least I have been told. Throughout a long life, I have looked diligently for evidence in favour of this statement, but",
+      "source_ending": "to Peru-a journey which its extreme tardiness of locomotion rendered almost incredible. A wise man will enjoy the goods of which there is a plentiful supply, and of intellectual rubbish he will find an abundant diet, in our own age as in every other."
     },
     {
       "id": "james-blindness",

@@ -1,0 +1,517 @@
+#import "../index.typ": template, tufted
+#import "../../_essay/bilingual.typ": zh, zh-caption
+#show: template.with(
+  title: "Pathological Science",
+  author: "Irving Langmuir", date: "1953", lang: "en",
+  css: ("/assets/custom.css", "/assets/essay.css"),
+)
+
+= #text("Pathological Science / 病态科学")
+
+#html.p(id: "en-S001")[#text("This is recorded by Irving Langmuir on March 8, 1954. It is transcribed from a tape recording, section number three, of the lecture on \"Pathological Science\" that I gave on December 18, 1953.")]
+
+#zh(id: "S001")[#text("这是欧文·朗缪尔在1954年3月8日录下的内容，根据我于1953年12月18日所作《病态科学》演讲录音带的第三部分转录而成。")]
+
+== #text("Davis-Barnes Effect / 戴维斯–巴恩斯效应")
+
+#html.p(id: "en-S003")[#text("The thing started in this way. On April the 23rd 1929, Professor Bergen Davis from Columbia University came up and gave a colloquium in this Laboratory, in the old building, and it was very interesting. He told Dr. Whitney, and myself, and a few others something about what he was going to talk about beforehand and he was very enthusiastic about it and he got us interested in it, and well, I’ll show you right on this diagram what kind of thing happened (Fig. 1).")]
+
+#zh(id: "S003")[#text("事情就是这样开始的。1929年4月23日，哥伦比亚大学的卑尔根·戴维斯教授走过来，在这个实验室里，在老建筑里，开了一个座谈会，非常有趣。他事先告诉了惠特尼博士、我和其他一些人他将要谈论的事情，他对此非常热情，他让我们对它产生了兴趣，好吧，我会在这张图表上告诉你发生了什么事情 (图1)。")]
+
+#figure(image("assets/F001.png", width: 85%))
+
+#html.p(id: "en-S005")[#text("Fig. 1 Diagram of first experimental tube. S, radio-active source; W, thin glass window; F, filament; G, grid; R, lead to silvered surface; A, second anode; M, magnetic field; C, copper seals; Y, and Z, zinc sulfide screens.")]
+
+#zh(id: "S005")[#text("图1第一实验试管示意图。S，放射性源; W，薄玻璃窗; F，灯丝; G，网格; R，通向镀银表面; A，第二阳极; M，磁场; C，铜密封; Y，和Z，硫化锌屏蔽。")]
+
+#html.p(id: "en-S006")[#text("He produced a beam of alpha rays from polonium in a vacuum tube. He had a parabolic hot cathode electron emitter with a hole in the middle, and the alpha rays came through it and could be counted by scintillations on a zinc sulfide screen with a microscope over here (Y and Z). The electrons were focused on this plate, so that for a distance there was a stream of electrons moving along with the alpha particles. Now you could accelerate the electrons and get them up to the velocity of the alpha particles. To get an electron to move with that velocity takes about 590 volts; so if you put 590 volts here, accelerating the electrons, the electrons would travel along with the alpha particles and the idea of the experiment was that if they moved along together at the same velocity they might recombine so that the alpha particle would lose one of its charges, would pick up an electron, so that instead of being a helium atom with two positive charges it would only have one charge. Well, if an alpha particle with a double charge had one electron, it’s like the Bohr theory of the hydrogen atom, and you know its energy levels. It's just like a hydrogen atom, with a Balmer series, and you can calculate the energy necessary to knock off this electron and so on.")]
+
+#zh(id: "S006")[#text("他在真空管中产生了一束由钋发出的α射线。他有一个抛物线型热阴极电子发射器，中间有一个孔，α射线穿过它，可以通过显微镜在硫化锌屏幕上的闪烁来计数 (Y和Z)。电子被聚焦到该板上，因此在一定距离内，有一束电子与α粒子一同运动。现在，你可以加速这些电子，使其速度达到α粒子的水平。要让电子以这个速度运动，大约需要590伏; 所以如果你把590伏放在这里，加速电子，电子将与 α粒子一起移动，实验的想法是，如果它们以相同的速度一起移动，它们可能会重新结合，从而使 α粒子失去其电荷之一，从而拾取电子，因此，它不是带有两个正电荷的氦原子，而是只有一个电荷。如果一个带有双电荷的 α粒子只有一个电子，这就像氢原子的玻尔理论，你知道它的能级。它就像一个氢原子，具有巴尔末系，你也可以计算出将这个电子电离所需的能量，等等。")]
+
+#html.p(id: "en-S007")[#text("Well, what they found, Davis and Barnes, was that if this velocity was made to be the same as that of the alpha particle there was a loss in the number of deflected particles. If there were no electrons, for example, and no magnetic field, all the alpha particles would be collected over here (Y) and they had something of the order of 50 per minute which they counted over here. Now if you put on a magnetic field you could deflect the alpha particles so they go down here (Z). But if they picked up an electron then they would only have half the charge and therefore they would only be deflected half as much and they would not strike the screen.")]
+
+#zh(id: "S007")[#text("戴维斯和巴恩斯，他们发现，如果这个速度和阿尔法粒子的速度一样，偏转粒子的数量就会减少。如果没有电子，例如，没有磁场，所有的 α粒子将被收集在这里 (Y)，他们有大约每分钟50，他们在这里计数。现在，如果你施加一个磁场，你可以偏转 α粒子，这样它们就会在这里 (Z)。但是，如果它们拾取了一个电子，那么它们将只有一半的电荷，因此它们只会偏转一半，并且不会撞击屏幕。")]
+
+#html.p(id: "en-S008")[#text("Now the results that they got, or said they got at that time, were very extraordinary. They found that not only did these electrons combine with the alpha particles when the electron velocity was 590 volts, but also at a series of discrete differences of voltage. When the velocity of the electrons was less or more than that velocity by perfectly discrete amounts, then they could also combine. All the results seemed to show that about 80' of them combined. In other words, there was about an 80' change in the current when the conditions were right. Then they found that the velocity differences had to be exactly the velocities that you can calculate from the Bohr theory. In other words, if the electron coming along here happened to be going with a velocity equal to the velocity that it would have if it was in a Bohr orbit, then it will be captured.")]
+
+#zh(id: "S008")[#text("现在他们得到的结果，或者说他们当时得到的结果，非常非同寻常。他们发现，这些电子不仅在电子速度为590伏时与 α粒子结合，而且在一系列离散的电压差下也与 α粒子结合。当电子的速度小于或大于该速度完全离散的量时，它们也可以结合。所有的结果似乎表明，其中约80&#39; 的组合。换句话说，当条件合适时，电流发生了大约80&#39; 的变化。然后他们发现速度差必须恰好是您可以从玻尔理论计算出的速度。换句话说，如果电子从这里过来，正好以一个和玻尔轨道一样的速度前进，那么它就会被捕获。")]
+
+#html.p(id: "en-S009")[#text("Of course, that makes a difficulty right away be-cause in the Bohr theory when there is an electron coming in from infinity it has to give up half its energy to settle into the Bohr orbit. Since it must con-serve energy, it has to radiate out, and it radiates out an amount equal to the energy that it has left in the orbit So, if the electron comes in with an amount of energy equal to the amount you are going to end up with, then you have to radiate an amount of energy equal to twice that, which nobody had any evidence for. So there was a little difficulty which never was quite resolved although there were two or three people including some in Germany who worked up theories to account for how that might be. Sommerfeld, for example, in Germany. He worked up a theory to account for how the electron could be captured if it had a velocity equal to what it was going to have after it settled down into the orbit.")]
+
+#zh(id: "S009")[#text("当然，这使得玻尔理论中的困难立即成为原因，当有一个电子从无穷远处进入时，它必须放弃一半的能量才能进入玻尔轨道。因为它必须提供能量，它必须辐射出去，它辐射出去的能量等于它在轨道上留下的能量，所以，如果电子进来的能量等于你最终得到的能量，然后你必须辐射两倍的能量，没有人有任何证据。因此，有一个小小的困难从未完全解决，尽管有两三个人，包括德国的一些人，他们提出了理论来解释这可能是怎么回事。Sommerfeld，例如，在德国。他提出了一个理论来解释如果电子的速度等于它进入轨道后的速度，它将如何被捕获。")]
+
+#html.p(id: "en-S010")[#text("Well, there were these discrete peaks, each one corresponding to one of the energy levels in the Bohr theory of the helium atom, and nothing else. Those were the only things they recorded. So you had these discrete peaks. Well, how wide were they? Well, they were one hundredth of a volt wide. In other words, you had to have 590 volts. That would give you equal velocities but there were other peaks, and I think the next velocity would be about 325.1 volts. If you had that voltage, then you got beautiful capture. If you didn't, if you changed it by one hundredth of a volt--nothing. It would go right from 80% down to nothing. It was sharp. They were only able to measure to a hundredth of a volt so it was an all-or-none effect. Well, besides this peak at this point, there were ten or twelve different lines in the Balmer series, all of which could be detected, and all of which had an 80% efficiency. (See Fig. 2. ) They almost completely captured all the electrons when you got exactly on the peak.")]
+
+#zh(id: "S010")[#text("嗯，有这些离散的峰，每个峰对应于氦原子玻尔理论中的一个能级，没有别的。那些是他们唯一记录下来的东西。所以你看到了这些离散的峰值。那么，它们有多宽呢？嗯，它们是百分之一伏特宽。换句话说，你必须有590伏特。这会给你相等的速度，但还有其他峰值，我认为下一个速度大约是325.1伏。如果你有那个电压，那么你就会得到漂亮的捕获。如果你没有，如果你把它改变了百分之一伏 -- 什么都没有。它会从80% 下降到什么都没有。它很锋利。他们只能测量到百分之一伏，所以这是一个全有或全无的效果。好吧，除了这个峰值在这一点上，有十或十二个不同的线在Balmer系列，所有这些都可以被检测到，所有这些都有一个80% 的效率。(见图2。) 当你正好到达峰值时，它们几乎完全捕获了所有的电子。")]
+
+#figure(image("assets/F002.png", width: 85%))
+
+#html.p(id: "en-S012")[#text("Fig. 2 Electron capture as a function of accelerating voltage. [Copy from Barnes. Phys. Rev., 35, 217 (1930).]")]
+
+#zh(id: "S012")[#text("图2电子俘获作为加速电压的函数。[复制自Barnes. Phys. Rev.，35，217 (1930)。]")]
+
+#html.p(id: "en-S013")[#text("Well, in the discussion, we questioned how, experimentally, you could examine the whole spectrum; because each count, you see, takes a long time. There was a long series of alpha particle counts, that took two minutes at a time, and you had to do it ten or fifteen times and you had to adjust the voltage to a hundredth of a volt. If you have to go through steps of a hundredth of a volt each and to cover all the range from 330 up to 900 volts, you'd have quite a job. (Laughter) Well, they said that they didn't do it quite that way. They had found by some preliminary work that they did check with the Bohr orbit velocities so they knew where to look for them. They found them sometimee not exactly where they expected them but they explored around in that neighborhood and the re-sult was that they got them with extraordinary precision. So high, in fact, that they were sure they'd be able to check the Rydberg constant more accurately than it can be done by studying the hydrogen spectrum, which is something like one in 10⁸ At any rate, they had no inhibitions at all as to the accuracy which could be obtained by this method especially since they were measuring these voltages within a hundredth of a volt.")]
+
+#zh(id: "S013")[#text("好吧，在讨论中，我们质疑如何通过实验来检查整个光谱; 因为每个计数都需要很长时间。有一长串的阿尔法粒子计数，一次需要两分钟，你必须做十到十五次，你必须把电压调整到百分之一伏。如果你必须经历每一百分之一伏的台阶，并覆盖从330到900伏的所有范围，你会有相当多的工作。(笑声) 嗯，他们说他们不是那样做的。他们通过一些初步工作发现，他们确实检查了玻尔轨道的速度，因此他们知道在哪里寻找它们。他们有时发现它们并不完全在他们预期的地方，但他们在那个街区四处探索，结果是他们以非凡的精度得到了它们。如此之高，事实上，他们确信他们能够比研究氢光谱更准确地检查里德堡常数，无论如何，氢光谱大约是十分之一，他们对这种方法所能获得的精度没有任何限制，特别是因为他们测量的电压在百分之一伏之内。")]
+
+#html.p(id: "en-S014")[#text("Anybody who looks at the setup would be a little doubtful about whether the electrons had velocities that were fixed and definite within 1/100 of a volt because this is not exactly a homogeneous field. The distance was only about 5 mm in which they were moving along together.")]
+
+#zh(id: "S014")[#text("任何查看该设置的人都会对电子是否具有固定且确定在1/100伏特内的速度感到怀疑，因为这不是完全均匀的场。它们一起移动的距离只有约5毫米。")]
+
+#html.p(id: "en-S015")[#text("Well, in his talk, a few other things came out that were very interesting. One was that the percent-age of capture was always around 80%. The curves would come along like this as a function of voltage (Fig. 2). The curve would come along at about 80% and there would be a sharp peak up here and another sharp peak here and, well, all the peaks were about the same height.")]
+
+#zh(id: "S015")[#text("嗯，在他的演讲中，还提到了其他几件非常有趣的事情。一个是捕获的百分比-年龄总是在80% 左右。这些曲线会随电压的变化呈现出如图2所示的形态。曲线会在大约80% 处出现，这里会有一个尖峰，这里会有另一个尖峰，所有的峰都差不多高。")]
+
+#html.p(id: "en-S016")[#text("Well, we asked, how did this depend upon current density? ”That's very interesting,\" he said, \"It doesn't depend at all upon current density.\"")]
+
+#zh(id: "S016")[#text("那么，我们问，这如何取决于电流密度？“这非常有趣，” 他说，“它完全不依赖于电流密度。”")]
+
+#html.p(id: "en-S017")[#text("We asked, \"How much could you change the temperature of the cathode here?\"")]
+
+#zh(id: "S017")[#text("我们问道：“这里可以把阴极的温度改变多少？”")]
+
+#html.p(id: "en-S018")[#text("\"Well,\" he said, \"that's the queer thing about it. You can change it all the way down to room temperature.\" (Laughter)")]
+
+#zh(id: "S018")[#text("“好吧，” 他说，“这很奇怪。您可以一直将其更改为室温。”（笑声）")]
+
+#html.p(id: "en-S019")[#text("\"Well,\" I said, \"then you wouldn't have any electrons.'")]
+
+#zh(id: "S019")[#text("“好吧，” 我说，“那么你就没有电子了。”")]
+
+#html.p(id: "en-S020")[#text("\"Oh, yes,\" he said, \"if you check the Richardson equation and calculate, you'll find that you get electrons even at room temperature and those are the one8 that are captured. \"")]
+
+#zh(id: "S020")[#text("“哦，是的，” 他说，“如果你检查理查森方程并计算，你会发现即使在室温下也会得到电子，而这些电子就是被捕获的电子。”")]
+
+#html.p(id: "en-S021")[#text("'Well,\" I said, \"there wouldn't be enough to combine with all the alpha particles and, besides that, the alpha particles are only there for a short time as they pass through and the electrons are a long way apart at such low current densities, at 10⁻²⁰ amperes or so.\" ( Laughter)")]
+
+#zh(id: "S021")[#text("“好吧，” 我说，“与所有的 α粒子结合是不够的，除此之外，α粒子在通过时只存在很短的时间，而电子在如此低的电流密度下相距很远，大约为10。（笑声）")]
+
+#html.p(id: "en-S022")[#text("He said, \"That seemed like quite a great difficulty. But,\" he said, 'you see it isn't so bad be-cause we now know that the electrons are waves. So the electron doesn't have to be there at all in order to combine with something. Only the waves have to be there and they can be of low intensity and the quantum theory causes all the electrons to pile in at just the right place where they are needed.\" So he saw no difficulty. And so it went.")]
+
+#zh(id: "S022")[#text("他说，“这似乎是一个很大的困难。但是，” 他说，“你看，这并不是那么糟糕，因为我们现在知道电子是波。因此，电子根本不必在那里就可以与某些东西结合。只有波必须在那里，它们可以是低强度的，量子理论导致所有的电子堆积在需要它们的正确位置。所以他看不出有什么困难。就这样。")]
+
+#html.p(id: "en-S023")[#text("Well, Dr. Whitney likes the experimental method, and these were experiments, very careful experiments, described in great detail, and the results seemed to be very interesting from a theoretical point of view. So Dr. Whitney suggested that he would like to see these experiments repeated with a geiger counter instead of counting scintillations, and C. W. Hewlett, who was here working on geiger counters, had a setup and it was proposed that we would give him one of these, maybe at a cost of several thousand dollars or so for the whole equipment, so that he could get better data. But I was a little more cautious. I said to Dr. Whitney that before we actually give it to him and just turn it over to him. it would be well to go down and take a look at these experiments and see what they really mean. Well, Hewlett was very much interested and I was interested so only about two days later, after this colloquium, we went down to New York. We went to Davis's Laboratory at Columbia University, end we found that they were very glad to see us, very proud to show us all their results, so we started in early in the morning.")]
+
+#zh(id: "S023")[#text("惠特尼博士喜欢实验方法，这些是实验，非常仔细的实验，描述得非常详细，从理论的角度来看，结果似乎非常有趣。因此，惠特尼博士建议他希望看到用盖革计数器重复这些实验，而不是对闪烁进行计数。西。休利特在这里从事盖革计数器的工作，他有一个装置，有人建议我们给他一个，整个设备的成本可能是几千美元左右，这样他就可以得到更好的数据。不过我稍微谨慎了一些。我对惠特尼医生说，在我们把它给他之前，把它交给他。最好下去看看这些实验，看看它们的真正含义。嗯，休利特非常感兴趣，我也很感兴趣，所以大约两天后，在这次座谈会之后，我们去了纽约。我们去了戴维斯在哥伦比亚大学的实验室，最后我们发现他们很高兴见到我们，很自豪地向我们展示他们所有的成果，所以我们一大早就出发了。")]
+
+#html.p(id: "en-S024")[#text("We sat in the dark room for half an hour to get our eyes adapted to the darkness so that we could count scintillations. I said, first I would like to see these scintillations with the field on and with the field off. So I looked in and I counted about 50 or 60. Hewlett counted 70, and I counted somewhat lower. On the other hand, we both agreed substantially. What we found was this. These scintillations were quite bright with your eyes adapted, and there was no trouble at all about counting them, when these alpha particles struck the screen. They came along at a rate of about 1 per second. When you put on a magnetic field and deflected them out, the count came down to about 17, which was a pretty high percentage, about 25% background. Barnes was sitting with us, and he said that's probably radioactive contamination of the screen. Then, Barnes counted and he got 230 on the first count and about 200 on the next, and when he put on the field it went down to about 25. Well, Hewlett and I didn't know what that meant but we couldn't see 230. Later, we understood the reason.")]
+
+#zh(id: "S024")[#text("我们在黑暗的房间里坐了半个小时，让我们的眼睛适应黑暗，这样我们就可以计算闪烁。我说，首先我想在有场和无场的情况下都观察这些闪烁现象。所以我看了看，数了大约50或60。休利特数了70个，而我数的稍微少一些。另一方面，我们双方在实质上达成了共识。我们发现的是这个。在眼睛已经适应的情况下，这些闪烁非常明亮，当α粒子撞击荧光屏时，数清它们毫不费力。它们以大约每秒1个的速率接连出现。当您施加磁场并使它们偏转时，计数下降到大约17，这是一个很高的百分比，大约25% 背景。巴恩斯和我们坐在一起，他说这可能是屏幕的放射性污染。然后，巴恩斯数了数，他第一次得到230，第二次得到200，当他上场时，它下降到大约25。嗯，休利特和我并不知道那是什么意思，但我们看不到230。后来，我们明白了原因。")]
+
+#html.p(id: "en-S025")[#text("I had seen, and we discussed a little at that point, that the eyepiece was such that as you looked through, you got some flashes of light which I took to be flashes that were just outside the field of view that would give a diffuse glow that would be perceptible. And you could count them as events. They clearly were not particles that struck the screen where you saw it, but nevertheless, they seemed to give a dif-fuse glow and they came at discrete intervals and you could count those if you wanted. Well, Hewlett counted those too and I didn’t. That accounted for some difference. Well, we didn't bother to check into this, and we went on.")]
+
+#zh(id: "S025")[#text("我看到了，我们在这一点上讨论了一下，目镜是这样的，当你透过它看的时候，你会看到一些闪光，我认为这些闪光就在视野之外，会发出一种可以感知的漫射光。你也可以把它们当作事件来计数。它们显然不是撞击你看到它的屏幕的粒子，但尽管如此，它们似乎发出了一种不同的闪光，它们以离散的间隔出现，如果你愿意，你可以数一数。嗯，休利特也把那些算进去了，而我没算。这在一定程度上解释了差异。嗯，我们也没费心去查这件事，就继续往前走了。")]
+
+#html.p(id: "en-S026")[#text("Well, I don't want to spend too much time on this experiment. I have a 22-page letter that I wrote about these things and I have a lot o! notes. The gist of it was this. There was a long table at which Barnes was sitting, and he had another table over here where he had an assistant of his named Hull who sat here looking at a big scale voltmeter, or potentiometer really, but it had a scale that went from one to a thousand volts and on that scale that went from one to a thousand, he read hundredths of a volt. (Laughter) He thought he might be able to do a little better than that. At any rate, you could interpolate and put down figures, you know. Now the room was dark except for a little light here on which you could read the scale on that meter. And it was dark except for the dial of a clock and he counted scintillations for two minutes.")]
+
+#zh(id: "S026")[#text("嗯，我不想在这项实验上花太多时间。我写了一封长达22页的信来阐述这些问题，而且我还做了很多笔记。其要点如下。巴恩斯坐在一张长桌子上，他在这里有另一张桌子，他有一个名叫赫尔的助手坐在这里看着一个大电压表，或者实际上是电位计，但它有一个从一到一千伏的刻度，在从一到一千的刻度上，他读了百分之一伏。（笑声）他觉得自己或许还能做得更好一点。总之，你可以进行插值并给出一些数据，你知道的。此时房间里一片漆黑，只有这里有一丝微光，足以让你看清那个仪表上的刻度。除了时钟的表盘之外，四周一片漆黑，他数着闪烁的光点，持续了两分钟。")]
+
+#html.p(id: "en-S027")[#text("He said he always counted for two minutes. Actually, I had a stop watch and I checked him up. They sometimes were as low as one minute and ten seconds and sometimes one minute and fifty-five seconds but he counted them all as two minutes, and yet the results were of high accuracy!")]
+
+#zh(id: "S027")[#text("他说他总是数两分钟。其实，我有一块手表，我还查过他。有时短至1分10秒，有时长至1分55秒，但他都按2分钟计算，然而结果却极为准确！")]
+
+#html.p(id: "en-S028")[#text("Well, we made various suggestions. One was to turn off the voltage entirely. Well, then Barnes got some low values around 20 or 30, or sometimes as high as 50. Then to get the conditions on a peak he adjusted the voltage to two hundred and --, well some of those readings are interesting; 325.01. That's the figure I put down, and there he got only a reading of 52, whereas before when he was on the peak, he got about . He didn't like that very much 80 he tried changing this to .02; a change of one hundredth of a volt. And there he got 48. Then he went in between. (Laughter) They fell off, you see, so he tried 325.015 and then he got 107. So that was a peak.")]
+
+#zh(id: "S028")[#text("嗯，我们提出了各种建议。一种方法是完全切断电压。那么，巴恩斯测得的一些数值较低，大约在20到30之间，有时甚至高达50。然后，为了确定峰值出现的条件，他将电压调整到二百——嗯，其中有些读数挺有意思的：325.01。那就是我记录的数值，而在那里他的读数只有52，相比之下，之前他在峰值时的读数大约是……他对此很不满意，于是试着将这个值改为0.02；也就是电压变化了百分之一伏。然后他在那里得了48分。然后他从中间走了进去。（笑声）它们掉了下来，你看，于是他又试了325.015，结果得到了107。所以那是一个高峰。")]
+
+#html.p(id: "en-S029")[#text("Well, a little later, I whispered to Hull who was over here adjusting the voltage, holding it constant, I suggested to him to make it one tenth of a volt different. Barnes didn't know this and he got 96. Well, when I suggested this change to Hull, you could see immediately that he was amazed. He said, \"Why, that's too big a change. That will put it way off the peak.\" That was almost one tenth of a volt, you see, Later I suggested taking a whole volt. (Laughter)")]
+
+#zh(id: "S029")[#text("嗯，过了一会儿，我低声对赫尔说，他在这里调整电压，保持电压不变，我建议他把电压10分之1不同的电压。巴恩斯并不知道这一点，但他得了96分。嗯，当我向赫尔提出这项改动时，你立刻就能看出他感到十分惊讶。他说：“哎呀，那变化太大了。这样一来，它就远远偏离峰值了。”你看，那几乎就是十分之一伏特。后来，我又建议取整整一伏特。（笑声）")]
+
+#html.p(id: "en-S030")[#text("Then we had lunch. We sat for half an hour in the dark room so as not to spoil our eyes and then we had some readings at zero volts and then we went back to 325.03. We changed by one hundredth of a volt and there he got 110. And now he got two or three readings at 110.")]
+
+#zh(id: "S030")[#text("然后我们吃了午饭。我们在黑暗的房间里坐了半个小时，以免破坏我们的眼睛，然后我们有一些零伏的读数，然后我们回到325.03。我们换了百分之一伏特，他就110了。现在他在110时得到了两三个读数。")]
+
+#html.p(id: "en-S031")[#text("And then I played a dirty trick. I wrote out on a card of paper 10 different sequences of V and 0. I meant to put on a certain voltage and then take it off again. Later I realized that that wasn't quite right because when Hull took off the voltage, he sat back in his chair--there was nothing to regulate at zero, so he didn't. Well, of course, Barnes saw him whenever he sat back in his chair. Although, the light wasn't very bright, he could see whether he was sitting back in his chair or not so he knew the voltage wasn't on and the result was that he got a corresponding result. So later I whispered, \"Don't let him know that you're not reading,\" and I asked him to change the voltage from 325 down to 320 so he'd have something to regulate and I said, \"Regulate it just as carefully as if you were sitting on a peak.\" So he played the part from that time on, and from that time on Barnes' readings had nothing whatever to do with the voltages that were applied. Whether the voltage was at one value or another didn't make the slightest difference. After that he took twelve readings, of which about half of them were right and the other half were wrong, which was about what you would expect out of two sets of values.")]
+
+#zh(id: "S031")[#text("然后我使了个阴招。我在一张卡片上写下了10个不同的V和0序列。我本打算先施加某个电压，然后再将其撤除。后来我意识到这并不完全正确，因为当赫尔关闭电压时，他坐在椅子上-没有什么可以调节的零，所以他没有。好吧，当然，每当他坐在椅子上时，巴恩斯都会看到他。虽然灯不是很亮，但他可以看到他是否坐在椅子上，所以他知道电压没有打开，结果是他得到了相应的结果。所以后来我小声说，“不要让他知道你没有看书，” 我让他把电压从325调到320，这样他就有东西要调节了，我说，“像坐在山顶上一样小心调节它。”所以他从那时起就扮演了这个角色，从那时起，巴恩斯的读数与施加的电压无关。电压是这个值还是那个值，都丝毫没有区别。之后，他读了十二个读数，其中大约一半是正确的，另一半是错误的，这是关于你对两组值的期望。")]
+
+#html.p(id: "en-S032")[#text("I said, \"You’re through. You're not measuring anything at all. You never have measured anything at all. \"")]
+
+#zh(id: "S032")[#text("我说，“你完成了。你根本没有测量任何东西。你从来没有测量过任何东西。”")]
+
+#html.p(id: "en-S033")[#text("”Well,\" he said, \"the tube was gassy. (Laughter) The temperature has changed and therefore the nickel plates must have deformed themselves so that the electrodes are no longer lined up properly.\"")]
+
+#zh(id: "S033")[#text("“嗯，” 他说，“管子是瓦斯。(笑声) 温度发生了变化，因此镍板必须本身变形，以使电极不再正确排列。”")]
+
+#html.p(id: "en-S034")[#text("\"Well,\" I said, \"isn't this the tube in which Davis said he got the same results when the filament was turned off completely?\"")]
+
+#zh(id: "S034")[#text("“嗯，” 我说，“这不是戴维斯说当灯丝完全关闭时得到相同结果的管子吗？”")]
+
+#html.p(id: "en-S035")[#text("\"Oh, yes,” he said, \"but we always made blanks to check ourselves, with and without the voltage on.\"")]
+
+#zh(id: "S035")[#text("“哦，是的，” 他说，“但是我们总是做空白来检查自己，有电压和没有电压。")]
+
+#html.p(id: "en-S036")[#text("He immediately--without giving any thought to it--he immediately had an excuse. He had a reason for not paying any attention to any wrong results. It just was built into him. He just had worked that way all along and always would. There is no question but what he is honest; he believed these things, absolutely.")]
+
+#zh(id: "S036")[#text("他立即-没有考虑它-他立即有了借口。他有理由不注意任何错误的结果。这本来就刻在他的骨子里。他一直以来都是那样工作的，将来也永远会如此。毫无疑问，他是诚实的; 他绝对相信这些事情。")]
+
+#html.p(id: "en-S037")[#text("Hewlett stayed there and continued to work with him for quite a while and I went in and talked it over with Davis and he was simply dumbfounded. He couldn't believe a word of it. He said, \"It absolutely can't be,\" he said. \"Look at the way we found those peaks before we knew anything about the Bohr theory. We took those values and calculated them up and they checked exactly. Later on, after we got confirmation, in order to save time, to see whether the peaks were there we would calculate ahead of time.\" He was so sure from the whole history of the thing that it was utterly impossible that there never had been any measurements at all that he just wouldn't believe it.")]
+
+#zh(id: "S037")[#text("休利特呆在那里，继续和他一起工作了很长一段时间，我进去和戴维斯商量了一下，他简直目瞪口呆。他一个字都不相信。他说：“这绝对不可能，”他说。“在我们对玻尔理论一无所知之前，看看我们发现这些峰的方式。我们取了这些值并计算了它们，然后进行了准确的检查。后来，在我们得到确认后，为了节省时间，我们会提前计算峰是否在那里。”从这件事的整个历史来看，他是如此肯定，以至于从来没有任何测量是完全不可能的，他就是不相信。")]
+
+#html.p(id: "en-S038")[#text("Well, he had just read a paper before the Research Laboratory at Schenectady, and he was going to read the paper the following Saturday before the National Academy of Sciences; which he did, end gave the whole paper. And he wrote me that he was going to do so on the 24th. I wrote to him on the day after I got back. Our letters crossed in the mails and he said that he had been thinking over the various things that I had told him, and his confidence wasn't shaken, so he went ahead and presented the paper before the National Academy of Sciences.")]
+
+#zh(id: "S038")[#text("好吧，他刚刚在Schenectady的研究实验室之前读了一篇论文，他打算在下个星期六在美国国家科学院之前读这篇论文; 他做到了，结束了整篇论文。他写信给我说他要在24日这样做。我回来的第二天我给他写了信。我们的信件在邮件中交叉，他说他一直在思考我告诉他的各种事情，他的信心没有动摇，所以他继续前进，并在美国国家科学院提交了论文。")]
+
+#html.p(id: "en-S039")[#text("Then I wrote him a 22-page letter giving all our data and showing really that the whole approach to the thing was wrong; that he was counting hallucinations, which I find is common among people who work with scintillations if they count for too long. Barnes counted for six hours a day and it never fatigued him. Of course it didn’t fatigue him, because it was all made up out of his head. (Laughter) He told us that you mustn't count the bright particles. He had a beautiful reason for why you mustn't pay any attention to the bright flashes. When Hewlett tried to check his data he said, \"Why, you must be counting those bright flashes. Those things are only due to radioactive contamination or something else. \" He had a reason for rejecting the very essence of the thing that was important. So I wrote all this down in this letter and I got no response, no encouragement. For a long time Davis wouldn't have anything to do with it. He went to Europe for a six months leave of absence, came back later, and I took up the matter with him again.⁽¹⁾")]
+
+#zh(id: "S039")[#text("然后，我给他写了一封22页的信，提供了我们所有的数据，并表明整个方法是错误的; 他在计算幻觉，我发现这在闪烁工作的人中很常见，如果他们计数的时间太长。巴恩斯每天数六个小时，却从不觉得疲倦。当然，这并没有让他感到乏力，因为这一切都是他凭空想象出来的。（笑声）他告诉我们，千万不能数那些亮晶晶的粒子。他有一个很美的理由，说明你为什么不必在意那些耀眼的闪光。当休利特试图核对他的数据时，他说：“哦，你一定是在数那些明亮的闪光吧。那些现象不过是放射性污染或其他原因造成的。”他有理由拒绝那件至关重要的事情的本质。于是我把这一切都写在了这封信里，却没有任何回应，也没有得到任何鼓励。很长一段时间里，戴维斯对此都避而不谈。他去欧洲休假了六个月，后来回来后，我又找他谈了这件事。⁽¹⁾")]
+
+#html.p(id: "en-S040")[#text("In the meantime, I sent a copy of the letter that I had written to Davis to Bohr asking him to hold it confidential but to pass it on to various people who would be trying to repeat these experiments. To Professor Sommerfeld and other people and it headed off a lot of experimental work that would have gone on. And from that time on, nobody ever made another experiment except one man in England who didn't know about the letter that I had written to Bohr.⁽²⁾ And he was not able to confirm any of it. Well, a year and a half later, in 1931, there was just a short little article in the Physical Review in which they say that they haven't been able to reproduce the effect.⁽³⁾ \"The results reported in the earlier paper depended upon observations made by counting scintillations visually. The scintillations produced by alpha particles on a zinc sulfide screen are a threshold phenomenon. It is possible that the number of counts may be influenced by external suggestion or auto-suggestion to the observer,\" and later in that paper they said that they had not been able to check any of the older data. And they didn't even say that the tube was gassy. (Laughter)")]
+
+#zh(id: "S040")[#text("与此同时，我将自己写给戴维斯的那封信的副本寄给了玻尔，请求他对此予以保密，但同时转交给那些试图重复这些实验的各方人士。致索莫费尔德教授及其他人士，这在很大程度上避免了许多本会继续进行的实验工作。从那时起，没有人做过另一个实验，除了英格兰的一个人，他不知道我写给玻尔的那封信，他也无法证实。一年半后，1931年，在《物理评论》上只有一篇短短的文章，他们说他们无法重现这种效果。计数的数量可能会受到外部建议或观察者的自动建议的影响，“后来在那篇论文中，他们说他们无法检查任何旧数据。而且他们甚至都没说那根管子里有气体。（笑声）")]
+
+#html.p(id: "en-S041")[#text("To me, the thing is extremely interesting, that men, perfectly honest, enthusiastic over their work, can so completely fool themselves. Now what was it about that work that made it so easy for them to do that? Well, I began thinking of other things. I had seen K W. Wood and told him about this phenomenon because he's a good experimenter and doesn't make such mistakes himself very often, if at all. And he told me about the N-rays that he had an experience with back in 1904. So I looked up the data on the N-rays.⁽⁴, ⁵⁾")]
+
+#zh(id: "S041")[#text("对我来说，事情非常有趣，男人，完全诚实，对他们的工作充满热情，可以完全欺骗自己。现在，这项工作是什么让他们这么容易做到的呢？我开始思考其他的事情。我见过K·W·伍德，并告诉他这个现象，因为他是一个很好的实验者，他自己也不会经常犯这样的错误，如果有的话。他告诉我他有背部1904年的经验。所以我查了N射线上的数据。")]
+
+== #text("N-rays / N射线")
+
+#html.p(id: "en-S043")[#text("In 1903, Blondlot, who was a well-thought-of French scientist, member of the Academy of Sciences, was experimenting with x-rays as almost everybody was in those days, The effect that he observed was something of this sort. I won't give the whole of it, I'll just give a few outstanding points. He found that if you have a hot wire, a platinum wire, or a Nerns't filament or anything that's heated very hot inside an iron tube and you have a window cut in it and you have a piece of aluminum about 1/8 of an inch thick on it, that some rays come out through that aluminum window. Oh, it can be as much as two or three inches thick and go through aluminum, these rays can, but not through iron. The rays that come out of this little window fall on a faintly illuminated object, so that you can just barely see it. You must sit in a dark room for a long time and he used a calcium sulfide screen which can be illuminated with light and gave out a very faint glow which could be seen in a dark room. Or he used a source of light from a lamp shining through a pinhole and maybe through another pinhole so as to get a faint light on a white surface that was just barely visible.")]
+
+#zh(id: "S043")[#text("在1903，金发碧眼的法国科学家，科学院院士，几乎每个人都在用x射线做实验，他观察到的效果是这样的。我不会给出全部，我只会给出一些突出的观点。他发现，如果你有一根热线，一根铂丝，或者一根灯丝，或者任何在铁管里加热得非常热的东西，而且你有一个窗户切口，上面有一片大约1/8英寸厚的铝，一些光线从铝窗出来。哦，它可以有两到3英寸厚，穿过铝，这些射线可以，但不能穿过铁。从这个小窗口出来的光线落在一个微弱照明的物体上，所以你几乎看不到它。你必须在一个黑暗的房间里坐很长时间，他使用了一个硫化钙屏幕，可以用光线照亮，并发出非常微弱的光芒，可以在黑暗的房间里看到。或者他用一盏灯发出的光源穿过一个针孔，也许穿过另一个针孔，以便在几乎看不见的白色表面上获得微弱的光。")]
+
+#html.p(id: "en-S044")[#text("Now he found that if you turn this lamp on so that these rays that come out of this little aluminum slit would fall on this piece of paper that you are looking at, you could see it much better. Oh, much better, and therefore you could tell whether the rays would go through or not. He said later that a great deal of skill is needed. He said you mustn't ever look at the source. You don't look directly at it. He said that would tire your eyes. Look away from it, and he said pretty soon you'll see it, or you don't see it, depending on whether the N-rays are shining on this piece of paper. In that way, you can detect whether or not the N-rays are acting.")]
+
+#zh(id: "S044")[#text("现在他发现，如果你打开这盏灯，这样从这个小铝缝出来的光线就会落在你正在看的这张纸上，你会看得更清楚。哦，好多了，因此你可以判断光线是否会穿过。他后来说，需要大量的技能。他说你永远不能看消息来源。你不要直视它。他说那样会让你的眼睛疲劳。把目光移开，他说很快你就会看到它，或者你看不到它，这取决于N射线是否在这张纸上闪耀。通过这种方式，您可以检测N射线是否在起作用。")]
+
+#html.p(id: "en-S045")[#text("Well, he found that N-rays could be stored up in things. For example, you could take a brick. He found that N-rays would go through black paper and would go through aluminum. So he took some black paper and wrapped a brick up in it and put it out in the street and let the sun shine through the black paper into the brick and then he found that the brick would store N-rays and give off the N-rays even with the black paper on it. He would bring it into the laboratory and you then hold that near the piece of paper that you’re looking at, faintly illuminated, and you can see it much more accurately. Much better, if the N-rays are there, but not if it’s too far away. Then, he would have very faint strips of phosphorescent paint and would let a beam of N-rays from two slits come over and he would find exactly where this thing intensified its beam.")]
+
+#zh(id: "S045")[#text("嗯，他发现N射线可以被储存在物体中。例如，你可以拿一块砖。他发现N射线能够穿透黑纸，也能穿透铝箔。所以他拿了一些黑纸，把一块砖包起来，放在街上，让阳光透过黑纸照进砖里，然后他发现砖会储存N射线，即使有黑纸，也会发出N射线。他会把它带进实验室，然后你把它放在你正在看的那张纸附近，微弱地照亮，你可以更准确地看到它。如果N射线存在，那就好多了，但如果距离太远就不行。然后，他会有非常微弱的磷光颜料条，让一束来自两个狭缝的N射线过来，他会找到这个东西增强了它的光束的确切位置。")]
+
+#html.p(id: "en-S046")[#text("Well, you'd think he'd make such experiments as this. To see if with ten bricks you got a stronger effect than you did with one. No, not at all. He didn't get any stronger effect. It didn't do any good to increase the intensity of the light. You had to depend upon whether you could see it or whether you couldn't see it. And there, the N-rays were very important.")]
+
+#zh(id: "S046")[#text("嗯，你本以为他会做这样的实验。看看用十块砖你是否比用一块砖有更强的效果。不，一点也不。他没有得到任何更强的效果。增加光的强度没有任何好处。你只能取决于自己能否看见它。而在那里，N射线非常重要。")]
+
+#html.p(id: "en-S047")[#text("Now, a little later, he found that many kinds of things gave off N- rays. A human being gave off N-rays, for example. If someone else came into the room, then you probably could see it. He also found that if someone made a loud noise that would spoil the effect. You had to be silent. Heat, however, increased the effect, radiant heat. Yet that wasn't N-rays itself. N-rays were not heat because heat wouldn't go through aluminum. Now he found a very interesting thing about it was that if you take the brick that's giving off N-rays and hold it close to your head it goes through your skull and it allows you to see the paper better. Or you can hold the brick near the paper, that’s all right too.")]
+
+#zh(id: "S047")[#text("后来，他又发现许多种物质都会发射N射线。例如，人类发出N射线。如果有人走进房间，那么你可能会看到它。他还发现，如果有人发出很大的声响，就会破坏这种效果。你必须保持沉默。然而，热量增强了这一效应，尤其是辐射热。但这不是n-rays本身。N射线不是热，因为热无法穿透铝。现在，他发现了一个非常有趣的事情，那就是如果您将发出N射线的砖块靠近头部，它会穿过您的头骨，从而使您可以更好地看到纸张。或者你可以把砖头放在纸旁边，也没关系。")]
+
+#html.p(id: "en-S048")[#text("Now he found that there were some other things that were like negative N-rays. He called them N'-rays. The effect of the N'-rays is to decrease the visibility of a faintly illuminated slit. That works too, but only if the angle of incidence is right. If you look at it tangentially you find that the thing in-creases the intensity when you look at it from this point of view. It decreases if you look at it normally and it increases if you look at it tangentially. All of which is very interesting. And he published many papers on it. One right after the other and other people did too, confirming Blondlot’s results. And there were lots of papers published and at one time about half of them that were confirming' the results of Blondlot. You see, N-rays ought to be important because x-rays were known to be important and alpha rays were, and N-rays were somewhere in between so N-rays must be very important. (Laughter)")]
+
+#zh(id: "S048")[#text("现在他发现还有其他一些东西，比如负N射线。他称它们为N-射线。N′射线的作用是降低一条微弱发光狭缝的可见度。那样也可以，但前提是入射角必须合适。如果你切向地看它，你会发现当你从这个角度看它时，它的强度会增加。如果你正常地看它，它会减少，如果你切向地看它，它会增加。所有这些都非常有趣。并且他在这一领域发表了多篇论文。一个接一个，其他人也这样做，证实了金发碧眼的结果。有很多论文发表了，一次大约有一半的论文证实了 “金发碧眼的结果”。你看，N射线应该是很重要的，因为x射线和 α射线是很重要的，而N射线介于两者之间，所以N射线一定是非常重要的。（笑声）")]
+
+#html.p(id: "en-S049")[#text("Well, R. W. Wood heard about these experiments--everybody did more or less. So R. W. Wood went over there and at that time Blondlot had a prism, quite a large prism of aluminum, with a 60o angle and he had a Nernst filament with a little slit about 2 mm wide. There were two slits, 2 mm wide each. This beam fell on the prism and was refracted and he measured the refractive index to three significant figures. He found that it wasn't monochromatic, that there were several different components to the N-rays and he found different refractive indices for each of these components. He could measure three or four different refractive indices each to two or three significant figures, and he was repeating some of these and showing how accurately they were repeatable, showing it to R. W. Wood in this dark room.")]
+
+#zh(id: "S049")[#text("嗯，R。西。伍德听说了这些实验——差不多人人都听说了。所以R. W.伍德去了那里，当时金发碧眼的人有一个棱镜，相当大的铝棱镜，有60度的角度，他有一个能斯特灯丝，有一个大约2毫米宽的小缝。有两个狭缝，每个2毫米宽。该光束落在棱镜上并被折射，他测量了折射率为三个有效数字。他发现它不是单色的，N射线有几个不同的成分，他发现这些成分中的每一个都有不同的折射率。他可以测量三个或四个不同的折射率，每个折射率为两个或三个有效数字，他重复其中的一些，并显示它们的可重复精度，并将其显示给R。西。这间黑暗房间里的木头。")]
+
+#html.p(id: "en-S050")[#text("Well, after this had gone on for quite a while, and Wood found that he was checking these results very accurately, measuring the position of the little piece of paper within a tenth of a millimeter although the slits were 2 mm wide, and Wood asked him about that. He said, \"How? How could you, from just the optics of the thing, with slits two millimeters wide, how do you get a beam so fine that you can detect its position within a tenth of a millimeter?\"")]
+
+#zh(id: "S050")[#text("好吧，这已经持续了很长一段时间，和伍德发现他检查这些结果非常准确，测量小纸片的位置在十分之一毫米虽然狭缝2毫米宽，和伍德问他。他说: “怎么做？从物体的光学角度，有两毫米宽的狭缝，您如何获得如此精细的光束，以至于您可以在十分之一毫米内检测到它的位置？”")]
+
+#html.p(id: "en-S051")[#text("Blondlot said, \"That's one of the fascinating things about the N-rays. They don't follow the ordinary laws of science that you ordinarily think of.\" He said, \"You have to consider these things all by themselves. They are very interesting, but you have to discover the laws that govern them.\"")]
+
+#zh(id: "S051")[#text("Blondlot说: “这是N射线的迷人之处之一。它们不遵循您通常认为的普通科学定律。”他说：“你必须单独考虑这些事物。它们非常有趣，但你必须去发现支配它们的规律。”")]
+
+#html.p(id: "en-S052")[#text("Well, in the meantime, the room being very dark, Wood asked him to repeat some of these measurements which he was only too glad to do. But in the meantime, R. W. Wood put the prism in his pocket and the results checked perfectly with what he had before. (Laughter) Well, Wood rather cruelly published that.⁽⁶, ⁷⁾ And that was the end of Blondlot.")]
+
+#zh(id: "S052")[#text("好，与此同时，房间很暗，伍德让他重复一些他非常乐意做的测量。但与此同时，R。西。伍德把三棱镜放进口袋，结果与他先前的记录完全吻合。(笑声) 好吧，伍德相当残酷地发表了这句话。")]
+
+#html.p(id: "en-S053")[#text("Nobody accounts for by what methods he could reproduce those results to a tenth of a millimeter. Wood said that he seemed to be able to do it but no-body understands that. Nobody understands lots of things. But some of the Germans came out later--Pringsheim was one of them--came out with an extremely interesting story. They had tried to repeat some of Blondlot's experiments and had found this. One of the experiments was to have a very faint source of light on a screen of paper and to make sure that you are seeing the screen of paper you hold your hand up like this and move it back and forth. And if you can see your hand move back and forth then you know it ie illuminated. One of the experiments that Blondlot made was that the experiment was made much better if you had some N-rays falling on the piece of paper. Pringeheim was repeating these in Germany and he found that if you didn't know where the paper was, whether it was here or here (in front or behind your hand), it worked just as well. That is, you could see your hand just as well if you held it back of the paper as if you held it in front of it. Which is the natural thing, because this is a threshold phenomenon. And a threshold phenomenon means that you don't know, you really don't know, whether you are seeing it or not. But if you have your hand there, well, of course, you see your hand because you know your hand's there, and that's just enough to win you over to where you know that you see it. But you know it just as well if the paper happens to be in front of your hand instead of in back of your hand, because you don't know where the paper is but you do know where your hand is. (Laughter)")]
+
+#zh(id: "S053")[#text("没有人能够说明他究竟通过何种方法才能将这些结果精确到十分之一毫米。伍德说他似乎能做到，但没有人理解这一点。没有人什么都懂。但后来有些德国人站了出来——普林格海姆便是其中之一——并讲述了一个极其有趣的故事。他们曾试图重复布隆德洛的一些实验，并得出了这一结果。其中一个实验是在一个纸屏幕上有一个非常微弱的光源，并确保你看到的是纸屏幕，你像这样举起你的手，来回移动它。如果你能看到自己的手来回移动，那就说明它被照亮了。Blondlot做的一个实验是，如果你有一些N射线落在纸上，实验会做得更好。Pringeheim在德国重复这些，他发现，如果你不知道纸在哪里，无论是在这里还是在这里 (在你的手的前面或后面)，它的工作原理一样好。也就是说，无论你把手放在纸的后面还是前面，都能同样清楚地看到它。这很自然，因为这是一种阈值现象。而阈值现象意味着，你无法确定——真的无法确定——自己是否真正感知到了它。但是，如果你的手在那里，那么，当然，你看到你的手，因为你知道你的手在那里，这足以赢得你到你知道你看到它的地方。但是你也知道，如果纸碰巧在你的手前面而不是在你的手后面，因为你不知道纸在哪里，但你知道自己的手在哪儿。（笑声）")]
+
+== #text("Mitogenetic Rays / 有丝分裂辐射")
+
+#html.p(id: "en-S055")[#text("Well, let's go on. About 1923, there was a whole series of papers by Gurwitech and others. There were hundreds of them published on mitogenetic rays.⁽⁸⁾ There are still a few of them being published. I don't know how many of you have ever heard of mitogenetic rays. They are rays that are given off by growing plants, living things, and they were proved, according to Gurwitsch, that they were something that would go through quartz but not through glass. They seemed to be some sort of ultraviolet light.")]
+
+#zh(id: "S055")[#text("好吧，我们继续吧。大约在1923年，古尔维茨等人发表了一系列论文。有成百上千的人发表在mitogenic rays上。我不知道在座的各位中有多少人听说过线粒体遗传射线。它们是由生长的植物，生物发出的射线，根据Gurwitsch的说法，它们被证明是可以穿过石英而不是玻璃的东西。它们似乎是一种紫外线。")]
+
+#html.p(id: "en-S056")[#text("The way they studied these was this. You had some onion roots- -onions growing in the dark or in the light and the roots will grow straight down. Now if you had another onion root nearby, and this onion root was growing down through a tube or something, going straight down, and another onion root came nearby, this would develop so that there were more cells on one side than the other. One of the tests they had made at first was that this root would bend away. And as it grew this would change in direction which was evidence that something had traveled from one onion root to the other. And if you had a piece of quartz in between it would do it, but if you put glass in between it wouldn't. So this radiation would not go through glass but it would go through quartz.")]
+
+#zh(id: "S056")[#text("他们研究这些的方式是这样的。你有一些洋葱根 -- 洋葱在黑暗或光线下生长，根会笔直向下生长。现在，如果您附近有另一个洋葱根，并且该洋葱根通过管子或其他东西向下生长，一直向下，另一个洋葱根在附近，这将发展，因此一侧的细胞比另一侧多。他们最初进行的一项测试就是，让这根根系朝外弯曲。随着它的生长，这将改变方向，这证明某些东西已经从一个洋葱根传播到另一个洋葱根。如果你中间有一块石英，它就能做到，但如果你把玻璃放在中间，它就不会了。因此，这种辐射无法穿透玻璃，但可以穿透石英。")]
+
+#html.p(id: "en-S057")[#text("Well, it started in that way. Then everything gave off mitogenetic rays, anything that remotely had anything to do with living things. And then they started to use photoelectric cells to check it and whatever they did they practically always found that if you got the conditions just right, you could just detect it and prove it. But if you looked over those photographic plates that showed this ultraviolet light you found that the amount of light was not much bigger than the natural particles of the photographic plate so that people could have different opinions as to whether it did or didn't show this effect and the result was that less than half of the people who tried to repeat these experiments got any confirmation of it; and so it went. Well, I'll go on before I get too far along.")]
+
+#zh(id: "S057")[#text("嗯，事情就是这样开始的。然后一切都发出有丝分裂辐射，任何与生物无关的东西。然后他们开始使用光电电池来检查它，无论他们做了什么，他们实际上总是发现，如果你的条件恰到好处，你可以检测到它并证明它。但是，如果您查看那些显示这种紫外线的照相板，您会发现光量并不比照相板的自然颗粒大很多，因此人们对它是否显示出这种效果有不同的看法，结果是不到一半的试图重复这些实验的人得到了任何确认；就这样。好吧，我就先说到这儿吧，免得说得太远了。")]
+
+== #text("Characteristic Symptoms of Pathological Science / 病态科学的典型症状")
+
+#html.p(id: "en-S059")[#text("The characteristics of this Davis-Barnes experiment and the N-rays and the mitogenetic rays, they have things in common. These are cases where there is no dishonesty involved but where people are tricked into false results by a lack of understanding about what human beings can do to themselves in the way of being led astray by subjective effects, wishful thinking or threshold interactions. These are examples of pathological science. These are things that attracted a great deal of attention. Usually hundreds of papers have been published upon them. Sometimes they have lasted for fifteen or twenty years and then they gradually die away.")]
+
+#zh(id: "S059")[#text("这个戴维斯-巴恩斯实验的特征以及N射线和有丝分裂辐射，它们有共同点。在这些情况下，不涉及不诚实，但人们由于缺乏对人类可以通过主观影响，一厢情愿或门槛互动误入歧途的方式对自己做什么的理解而被欺骗成错误的结果。这些是病态科学的例子。这些都是备受关注的事情。通常已有数百篇论文发表于这些主题。有时它们会持续十五到二十年，然后逐渐消逝。")]
+
+#html.p(id: "en-S060")[#text("Now, the characteristic rules are these (see Table I}")]
+
+#zh(id: "S060")[#text("现在，特征规则如下（见表一）。")]
+
+== #text("TABLE I / 表一")
+
+#html.p(id: "en-S062")[#text("Symptoms of Pathological Science:")]
+
+#zh(id: "S062")[#text("病态科学的症状：")]
+
+#html.p(id: "en-S063")[#text("1. The maximum effect that is observed is produced by a causative agent of barely detectable intensity, and the magnitude of the effect is substantially independent of the intensity of the cause.")]
+
+#zh(id: "S063")[#text("1. 所观察到的最大效应，由强度刚刚达到可检测程度的作用源产生；而效应的大小，基本不随作用源的强度而改变。")]
+
+#html.p(id: "en-S064")[#text("2. The effect is of a magnitude that remains close to the limit of detectability; or, many measurements are necessary because of the very low statistical significance of the results.")]
+
+#zh(id: "S064")[#text("2. 效应的大小始终接近检测极限；或者，因为结果的统计显著性很低，必须进行大量测量。")]
+
+#html.p(id: "en-S065")[#text("3. Claims of great accuracy.")]
+
+#zh(id: "S065")[#text("3. 声称具有极高的精确度。")]
+
+#html.p(id: "en-S066")[#text("4. Fantastic theories contrary to experience.")]
+
+#zh(id: "S066")[#text("4. 提出与经验相悖的离奇理论。")]
+
+#html.p(id: "en-S067")[#text("5. Criticisms are met by ad hoc excuses thought up on the spur of the moment.")]
+
+#zh(id: "S067")[#text("5. 面对批评，总是以临时想出的特设借口来应付。")]
+
+#html.p(id: "en-S068")[#text("6. Ratio of supporters to critics rises up to somewhere near 50% and then falls gradually to oblivion.")]
+
+#zh(id: "S068")[#text("6. 支持者与批评者之比上升到约50%，随后逐渐下降，直至无人问津。")]
+
+#html.p(id: "en-S069")[#text("The maximum effect that is observed is produced by a causative agent of barely detectable intensity. For example, you might think that if one onion root would affect another due to ultraviolet light, you'd think that by putting on an ultraviolet source of light you could get it to work better. Oh no! OH NO! It had to be just the amount of intensity that's given off by an onion root. Ten onion roots wouldn't do any better than one and it doesn't make any difference about the distance of the source. It doesn't follow any in-verse square law or anything as simple as that, and so on. In other words, the effect is independent of the intensity of the cause. That was true in the mitogenetic rays, and it was true in the N-rays. Ten bricks didn't have any more effect than one. It had to be of low intensity. We know why it had to be of low intensity: so that you could fool yourself so easily. Otherwise, it wouldn't work. Davis-Barnes worked just as well when the filament was turned off. They counted scintillations.")]
+
+#zh(id: "S069")[#text("所观察到的最大效应，是由强度刚刚达到可检测程度的作用源产生的。举例说，如果一个洋葱根能通过紫外线影响另一个洋葱根，你可能会想，换用紫外线光源，效果岂不是应当更好？哦，不！绝对不！强度必须恰好就是一个洋葱根发出的那么大。十个洋葱根也不会比一个更有效，而且与作用源的距离毫无关系。它不遵循反平方定律，也不遵循任何这么简单的规律。换句话说，效应与作用源的强度无关。有丝分裂辐射是这样，N射线也是这样。十块砖与一块砖产生的效应并无差别。强度必须很低。我们知道为什么必须低：这样你才容易欺骗自己，否则它就不灵了。戴维斯–巴恩斯效应在灯丝关闭时同样存在。他们照样数出了闪烁。")]
+
+#html.p(id: "en-S073")[#text("Another characteristic thing about them all is that, these observations are near the threshold of visibility of the eyes. Any other sense, I suppose, would work as well. Or many measurements are necessary, many measurements because of very low statistical significance of the results. In the mitogenetic rays particularly it started out by seeing something that was bent. Later on, they would take a hundred onion roots and expose them to something and they would get the average position of all of them to see whether the average had been affected a little bit by an appreciable amount. Or statistical mea-8urements of a very small effect which by taking large numbers were thought to be significant. Now the trouble with that is this. There is a habit with most people, that when measurements of low signifcance are taken they find means of rejecting data. They are right at the threshold value and there are many reasons why you can discard data. Davis and Barnes were doing that right along. If things were doubtful at all why they would discard them or not discard them depending on whether or not they fit the theory. They didn't know that, but that's the way it worked out.")]
+
+#zh(id: "S073")[#text("它们的另一个共同特征是，这些观测结果都接近人眼的可见阈值。任何其他的感觉，我想，也会工作。或者需要进行大量测量，这是因为结果的统计显著性非常低。尤其是在有丝分裂期的纺锤体中，最初是观察到某些结构发生了弯曲。后来，他们会取一百个洋葱根，并将其置于某种处理条件下，然后计算所有根的平均位置，以判断该平均值是否发生了显著的变化。或者，通过对极小效应进行统计测量，并借助大样本量使其被认为具有统计学显著性。现在问题就出在这里。大多数人都有一个习惯：在进行显著性较低的测量时，他们会想方设法剔除部分数据。它们恰好处于阈值附近，而且有许多理由可以用来舍弃数据。戴维斯和巴恩斯也在这么做。如果事情本身尚存疑义，那么人们为何会根据其是否符合某种理论来决定取舍呢？他们当时并不知道，但事情就是这样发展的。")]
+
+#html.p(id: "en-S074")[#text("There are claims of great accuracy. Barnes was going to get the Rydberg constant more accurately than the spectroscopists could. Great sensitivity or great specificity, we'll come across that particularly in the Allison effect.")]
+
+#zh(id: "S074")[#text("有说法称其具有极高的准确性。巴恩斯将比光谱学家更准确地得到里德堡常数。无论是高灵敏度还是高特异性，我们都会在艾利森效应中特别遇到这种情况。")]
+
+#html.p(id: "en-S075")[#text("Fantastic theories contrary to experience. In the Bohr theory, the whole idea of an electron being captured by an alpha particle when the alpha particles aren't there just because the waves are there doesn't make a very sensible theory.")]
+
+#zh(id: "S075")[#text("与经验相悖的奇妙理论。在玻尔理论中，当 α粒子不存在时，电子被 α粒子捕获的整个想法只是因为波在那里，这并不是一个非常明智的理论。")]
+
+#html.p(id: "en-S076")[#text("Criticisms are met by ad hoc excuses thought up on the spur of the moment. They always had an answer--always.")]
+
+#zh(id: "S076")[#text("批评一出，便临时编造出各种借口来应对。他们总是有答案——永远如此。")]
+
+#html.p(id: "en-S077")[#text("The ratio of the supporters to the critics rises up somewhere near 50% and then falls gradually to oblivion. The critics can't reproduce the effects. Only the supporters could do that. In the end, nothing was salvaged. Why should there be? There isn't anything there. There never was. That’s characteristic of the effect. Well, I'll go quickly on to some of the other things.")]
+
+#zh(id: "S077")[#text("支持者与批评者的比例在50% 附近上升，然后逐渐下降到被遗忘。批评家们无法重现这些效果。只有支持者才能做到那一点。最终，什么也没抢救出来。为什么要有？那里什么都没有。从来就没有。这就是该效应的特征。好吧，我将很快继续其他一些事情。")]
+
+== #text("Allison Effect / 阿利森效应")
+
+#html.p(id: "en-S079")[#text("The Allison effect is one of the most extraordinary of all.⁽⁹⁾ It started in 1927. There were hundreds of papers published in the American Physical Society, the Physical Review, the Journal of the American Chemical Society--hundreds of papers. Why, they discovered five or six different elements that were listed in the Discoveries of the Year. There were new elements discovered--Alabamine, Virginium, a whole series of elements and isotopes were discovered by Allison.")]
+
+#zh(id: "S079")[#text("阿利森效应是所有最不寻常的效应之一。在美国物理学会，物理评论，美国化学学会杂志上发表了数百篇论文-数百篇论文。为什么，他们发现了当年发现中列出的五到六种不同的元素。发现了新的元素-阿拉巴胺，维珍，阿利森发现了一系列元素和同位素。")]
+
+#html.p(id: "en-S080")[#text("The effect was very simple. There is the Faraday effect by which a beam of polarized light passing through a liquid which is in a magnetic field is rotated--the plane of polarization is rotated by a longitudinal magnetic field. Now that idea has been known for a long time and it has a great deal of importance in connection with light shutters. At any rate, you can let light through or not depending upon the magnetic field. Now the experiment of Allison's was this (Fig. 3). They had a glass cell and a coil of wire around it (B₁, B₂) and you have wires coming up here, a Lecher system. Here you have a spark gap, so a flash of light comes through here and goes through a Nicol prism over here and another one over here, and you adjust this one with a liquid like water or carbon disulfide or something like that in the cell so that there was a steady light over here. If you have a beam of light and you polarize it and then you turn on a magnetic field, why you see that you could rotate the plane of polarization. There will be an increase in the brightness of the light when you put a magnetic field on here. Now they wanted to find the time delay, how long it takes. So they had a spark and the same field that produced the spark induced a current through the coil, and by sliding this wire along the trolley of the Lecher system, they could cause a compensating delay. The sensivity of this thing was so great that they could detect differences of about 3 x 10⁻¹⁰ seconds. By looking in here they could see these flashes of light, the light from the sparks, and they tried to decide as they changed the position of this trolley whether it got brighter or dimmer and they set it for a minimum, and measured the position of the trolley. They put in here--in this glass tube--they put a water solution and added some salt to it. And they found that the time lag was changed, so that they got a change in the time lag depending upon the presence of salts.")]
+
+#zh(id: "S080")[#text("效果非常简单。存在法拉第效应，通过该效应，一束穿过处于磁场中的液体的偏振光被旋转-偏振面被纵向磁场旋转。如今，这一理念早已为人所知，并且在光闸领域具有十分重要的意义。无论如何，你可以让光通过与否取决于磁场。现在Allison的实验是这样的 (图3)。他们有一个玻璃电池和一个围绕它的线圈 (b 1，b 2)，你有电线在这里，一个Lecher系统。这里有一个火花隙，所以一束光穿过这里，穿过这里的尼科尔棱镜，再穿过这里的另一个，你用一种液体，比如水或二硫化碳或类似的东西在细胞里调节这个，这样这里就有了稳定的光。如果你有一束光，将其进行偏振，然后施加一个磁场，你就会发现偏振面会发生旋转。当你在这里施加磁场时，光的亮度会增加。现在他们想找到时间延迟，需要多长时间。因此，它们具有火花，并且产生火花的磁场通过线圈感应出电流，并且通过沿着Lecher系统的小车滑动该导线，它们可以引起补偿延迟。这个东西的敏感性是如此之大，以至于他们可以检测到大约3x10的差异。通过观察这里，他们可以看到这些闪光，火花发出的光，他们试图决定改变了这个手推车的位置，无论它变得更亮还是更暗，他们将其设置为最小值，并测量了手推车的位置。他们把一种水溶液倒入这个玻璃试管中，并在其中加入了一些盐。他们发现时滞发生了变化，即在存在盐类的情况下，时滞会随之改变。")]
+
+#figure(image("assets/F003.png", width: 85%))
+
+#html.p(id: "en-S082")[#text("Fig. 3 Diagram of apparatus and connections. [Copy from F. Allison, Phys. Rev., 30, 66 (1927). Fig. 1].")]
+
+#zh(id: "S082")[#text("图3装置及连接示意图。[复制自F. Allison，Phys. Rev.，30，66 (1927)。图1]。")]
+
+#html.p(id: "en-S083")[#text("Now they first found--very quickly--that if you put in a thing like ethyl alcohol that you got one characteristic time lag, and with acetic acid another one, quite different. But if you had ethyl acetate you got the sum of the two. You got two peaks. So that you could analyze ethyl acetate and find the acetic acid and the ethyl alcohol. Then they began to study salt solutions and they found that only the metal elements counted but they didn't act as an ion. That is, all potassium ions weren't the same, but potassium nitrate and potassium chloride and potassium sulfate all had quite characteristic different points, that were a characteristic of the compound. It was only the positive ion that counted and yet the negative ions had a modifying effect. But you couldn't detect the negative ions directly.")]
+
+#zh(id: "S083")[#text("现在他们第一次发现 -- 非常快 -- 如果你放入像乙醇这样的东西，你会得到一个典型的时滞，和乙酸，另一个，非常不同。但是如果你有乙酸乙酯，你就得到了两者的总和。你有两个峰值。这样你就可以分析乙酸乙酯，找到乙酸和乙醇。然后他们开始研究盐溶液，他们发现只有金属元素计数，但它们不作为离子。也就是说，不是所有的钾离子都是相同的，但是硝酸钾、氯化钾和硫酸钾都有非常不同的特征点，这是化合物的特征。只有正离子起作用，然而负离子却具有调节作用。但你无法直接检测到负离子。")]
+
+#html.p(id: "en-S084")[#text("Now they began to see how sensitive it was. Well, they found that any intensity more than about 10⁻⁸ molar solution would always produce the maximum effect, and you'd think that that would be kind of discouraging from the analytical point of view, but no, not at all. And you could make quantitative measurements to about three significant figures by diluting the solutions down to a point where the effect disappeared. Apparently, it disappeared quite sharply when you got down to about 10⁻⁸ or 3. 42 x 10⁻⁸ in concentration, or something of that sort and then the effect would disappear. Otherwise, you would get it, so that you could detect the limit within this extraordinary degree of accuracy.")]
+
+#zh(id: "S084")[#text("现在他们开始意识到它有多么敏感。嗯，他们发现任何超过10的强度总是会产生最大的效果，你会认为从分析的角度来看，这有点令人沮丧，但不，一点也不。您可以通过将溶液稀释到效果消失的程度来进行定量测量，使其达到约三个有效数字。显然，当你下降到大约10？或3时，它会急剧消失。42 × 10的浓度，或类似的东西，然后效果就会消失。否则，你会得到它，这样你就可以在这个非凡的精确度内检测到极限。")]
+
+#html.p(id: "en-S085")[#text("Well, they found that things were entirely different, even in these very dilute solutions, in sodium nitrate from what it was with sodium chloride. Nevertheless, it was a characteristic which depended upon the compound even though the compound was disassociated into ions at those concentrations. That didn't make any difference but it was fact that was experimentally proven. They then went on to find that the isotopes all stick right out like sore thumbs with great regularity. In the case of lead, they found sixteen isotopes. These isotopes were quite regularly spaced so that you could get 16 different positions and you could assign numbers to those so that you can identify them and tell which they are. Unfortunately, you couldn't get the concentrations quantitatively, even the dilution method didn't work quite right because they weren't all equally sensitive. You could get them relatively but only approximately. Well, it became important as a means of detecting elements that hadn't yet been discovered, like Alabamine and elements that are now known, and filling out the periodic table. All the elements in the periodic table were filled out that way and published.")]
+
+#zh(id: "S085")[#text("他们发现，即使在这些非常稀的溶液中，硝酸钠与氯化钠的情况也完全不同。然而，这一特性仍取决于该化合物，尽管在这些浓度下该化合物已解离为离子。那并没有产生任何影响，但这是经过实验验证的事实。随后，他们发现这些同位素都以极高的规律性明显地“突兀”出来。在铅元素中，他们发现了十六种同位素。这些同位素有规律地间隔开，所以你可以得到16个不同的位置，你可以给这些位置分配数字，这样你就可以识别它们并分辨它们是哪个。遗憾的是，您未能定量测定各浓度，甚至稀释法也未能奏效，因为它们的灵敏度并不完全一致。你可以相对地得到它们，但只能是近似值。好吧，它作为一种检测尚未发现的元素的手段变得很重要，例如Alabamine和现在已知的元素，并填写元素周期表。元素周期表中的所有元素都是以这种方式填写并公布的。")]
+
+#html.p(id: "en-S086")[#text("But a little later, in 1945 or 46, I was at the University of California. Owen Latimer who is now Head of the Chemistry Department there--not Owen Latimer, Wendell Latimer--had had a bet with G. N. Lewis (in 1932). He said, \"There's something funny about this Allison effect, how they can detect isotopes.\" He had known somebody who had been down with Allison and who had been very much impressed by the effect and he said to Lewis, \"I think I'll go down and see Allison, to Alabama, and see what there is in it. I'd like to use some of these methods.\"")]
+
+#zh(id: "S086")[#text("但稍后，在1945年或1946年，我在加州大学。欧文·拉蒂默现在是那里化学系的系主任 -- 不是欧文·拉蒂默，而是温德尔·拉蒂默 -- 曾与G打赌。N.刘易斯（1932年）。他说：“这个阿利森效应挺奇怪的，他们居然能检测到同位素。”他认识一个和阿利森在一起的人，他对这种效果印象深刻，他对刘易斯说: “我想我会去阿拉巴马州看看阿利森，看看里面有什么。我想使用其中的一些方法。”")]
+
+#html.p(id: "en-S087")[#text("Now people had begun to talk about spectroscopic evidence that there might be traces of hydrogen of atomic weight three. It wasn't spoken of as tritium at that time but hydrogen of atomic weight three that might exist in small amounts. There was a little spectroscopic evidence for it and Latimer said, \"Well, this might be a way of finding it. I'd like to be able to find it.\" So he went and spent three weeks at Alabama with Allison and before he went he talked it over with G. N. Lewis about what he thought the prospects were and Lewis said, \"I'll bet you ten dollars you'll find that there's nothing in it.” And so they had this bet on. He went down there and he came back. He set up the apparatus and made it work so well that G. N. Lewis paid him the ten dollars. (Laughter) He then discovered tritium and he published an article in the Physical Review.⁽¹⁰⁾ Just a little short note saying that using Allison's method he had detected the isotope of hydrogen of atomic weight three. And he made some sort of estimate as to its concentration.")]
+
+#zh(id: "S087")[#text("如今，人们开始讨论光谱学方面的证据，表明可能存在原子量为3的氢的痕迹。当时并未将其称为氚，而是称其为可能以微量存在的原子量为3的氢。有一些光谱证据，拉蒂默说: “嗯，这可能是找到它的一种方法。我希望能够找到它。”于是他去了阿拉巴马州，和阿利森一起待了三个星期；在出发前，他还与G商量了一番。N.刘易斯谈到他认为前景是什么，刘易斯说，“我跟你赌十美元，你会发现里面什么都没有。” 于是他们下了这个赌注。他去了那里，他回来了。他安装了设备，使它工作得很好，以至于G. N.刘易斯付给了他十美元。(笑声) 然后，他发现了氚，并在《物理评论》上发表了一篇文章。")]
+
+#html.p(id: "en-S088")[#text("Well, nothing more was heard about it. I saw him then, seven or eight years after that. I had written these things up before, about this Allison effect, and I told him about this point of view and how the Allison effect fits all these characteristics. Well, I know at that time at one of the meetings of the American Chemical Society there was great discussion as to whether to accept papers on the Allison effect. There they decided: No, they would not accept any more papers on the Allison effect, and I guess the Physical Review did too. At any rate, the American Chemical Society decided that they would not accept any more manuscripts on the Allison effect. However, after they had adopted that as a firm policy, they did accept one more a year or two later because here was a case where all the people in the faculty here had chosen twenty or thirty different solutions that they had made up and they had labeled them all secretly and they had taken every precaution to make sure that nobody knew what was in these solutions, and they had given them to Allison and he had used his method on them and he had gotten them all right, although many of them were at concentrations of 10⁻⁶ and so on, molar. That was sufficiently definite -- good experimental methods -- and it was accepted for publication by the American Chemical Society but that was the last.⁽¹¹⁾ You'd think that would be the beginning, not the end.")]
+
+#zh(id: "S088")[#text("嗯，没有更多的消息。那时我见过他，七八年后。我以前写过这些东西，关于艾里森效应，我告诉他这个观点，以及艾里森效应如何符合所有这些特征。好吧，我知道当时在美国化学学会的一次会议上，就是否接受有关艾里森效应的论文进行了很大的讨论。在那里，他们决定: 不，他们不会再接受任何关于阿利森效应的论文，我想《物理评论》也是如此。无论如何，美国化学学会决定不再接受关于阿利森效应的手稿。然而，在他们将其作为一项坚定的政策后，他们确实在一两年后又接受了一个，因为在这种情况下，这里的所有教师都选择了他们所组成的二十或三十种不同的解决方案，他们秘密地给它们贴上了标签，他们采取了一切预防措施，以确保没有人知道这些解决方案中有什么，他们把它们给了阿利森，他对它们使用了他的方法，他把它们都弄好了，尽管它们中的许多都是10的浓度，等等。这是足够明确的-良好的实验方法-并被美国化学学会接受出版，但这是最后的开始，不是结束。")]
+
+#html.p(id: "en-S089")[#text("Anyway, Latimer said, \"You know, I don't know what was wrong with me at that time,' He said, \"After I published that paper I never could repeat the experiments again. I haven't the least idea why.\" \"But,\" he said, \"Those results were wonderful, I showed them to G. N. Lewis and we both agreed that it was all right. They were clean cut. I checked myself every way I knew how to. I don't know what else I could have done, but later on I just couldn't ever do it again.\"")]
+
+#zh(id: "S089")[#text("无论如何，拉蒂默说，“你知道，我不知道当时我出了什么问题，” 他说，“在我发表那篇论文之后，我再也不能重复这些实验了。我一点也不知道为什么。”“但是，“他说，” 这些结果太棒了，我把它们拿给了G。N.刘易斯和我都同意这样没问题。他们是干净的削减。我用所有我知道的方法都检查过了。我不知道当时还能做些什么，但后来我再也无法那样做了。")]
+
+#html.p(id: "en-S090")[#text("I don't know what it is. That’s the kind of thing that happens in all of these. All the people who had anything to do with these things find that when you get through with them--you can't account for Bergen Davis saying that they didn’t calculate those things from the Bohr theory, that they were found by empirical methods without any idea of the theory. Barnes made the experiments, brought them in to Davis, and Davis calculated them up and discovered all of a sudden that they fit the Bohr theory. He said Barnes didn't have anything to do with that. Well, take it or leave it, how did he do it? It's up to you to decide. I can't account for it. All I know is that there was nothing salvaged at the end, and therefore none of it was ever right, and Barnes never did see a peak. You can't have a thing halfway right.")]
+
+#zh(id: "S090")[#text("我不知道那是什么。这就是在所有这些中发生的事情。所有与这些事情有任何关系的人都会发现，当您与他们相处时-您无法解释卑尔根·戴维斯说他们不是根据玻尔理论计算这些事情的，它们是通过经验方法发现的，对理论一无所知。巴恩斯做了实验，把它们带到戴维斯，戴维斯计算了一下，突然发现它们符合玻尔理论。他说巴恩斯与那件事没有任何关系。好吧，要么接受要么放弃，他是怎么做到的？这由你来决定。我无法解释。我所知道的是，最后没有什么可以挽救的，因此，没有一个是正确的，巴恩斯从来没有见过一个高峰。你不能半途而废。")]
+
+== #text("Extrasensory Perception / 超感官知觉")
+
+#html.p(id: "en-S092")[#text("Well, there's Rhine. I spent a day with Rhine at Duke University at the meeting of the American Chemical Society, probably about 1934. Rhine had published a book and I'll just tell you a few things. First of all, I went in and told Rhine these things. I told him the whole story. I said these things (Table I) are the characteristics of those things that are’t so. They are all characteristics of your thing too. (Laughter) He said, ”I wish you'd publish that. I'd love to have you publish it. That would stir up an awful lot of interest.\" He said, \"I'd have more graduate students. We ought to have more graduate students. This thing is so important that we should have more people realize its importance. This should be one of the biggest departments in the university.\"")]
+
+#zh(id: "S092")[#text("有莱茵河。我和莱茵在杜克大学的美国化学学会的会议上呆了一天，大概是1934。莱茵出版了一本书，我只想告诉你一些事情。首先，我进去告诉莱茵这些事情。我告诉了他整个故事。我说这些东西 (表一) 是那些不是这样的东西的特征。它们也都是你的东西的特征。(笑声) 他说，“我希望你能发表。我很想让你出版它。这将激起极大的兴趣。”他说，“我会有更多的研究生。我们应该有更多的研究生。这件事是如此重要，我们应该有更多的人意识到它的重要性。这应该是大学里最大的系之一。“")]
+
+#html.p(id: "en-S093")[#text("Well, I won't tell you the whole story with Rhine, because I talked with him all day. He uses cards which you guess at by turning over. You have extra-sensory perception. You have 25 cards and you deal them out face down, or one person looks at them, and the other person on the other side of the screen looks at them and you read his mind. The other thing is for nobody to know what the cards are, in which case they are turned over without anybody looking at them. You record them and then you look them up and see if they check and that's telepathy, or clairvoyance rather. Telepathy is when you can read another person's mind.")]
+
+#zh(id: "S093")[#text("嗯，我不会告诉你莱茵的整个故事，因为我和他谈了一整天。他使用你通过翻过来猜测的卡片。你有额外的感官知觉。你有25张牌，你面朝下发出来，或者一个人看着他们，屏幕另一边的另一个人看着他们，你读懂了他的想法。另一件事是没有人知道卡片是什么，在这种情况下，他们被翻过来，没有人看他们。你把它们记录下来，然后查查它们，看看它们是否检查过，这就是心灵感应，或者更确切地说是透视。心灵感应是当你能读懂别人的心。")]
+
+#html.p(id: "en-S094")[#text("Now a later form of the thing would be for you to decide now and write down what the cards are going to be when they are shuffled tomorrow. That works too. (Laughter)")]
+
+#zh(id: "S094")[#text("现在，事情的后期形式是由您现在决定，并写下明天洗牌时的卡片。那也行。（笑声）")]
+
+#html.p(id: "en-S095")[#text("All of these things are nice examples where the magnitude of the effect is entirely independent of magnitude of the cause. That is, the experiments worked just as well where the shuffling is to be done tomorrow as when it was done some time ago. It doesn't make any difference in the results. There is no appreciable difference between clairvoyance and telepathy. Although, if you try to think of the mechanisms of the two, it should be quite different. In order to get the cards to telegraph you all the infor-mation that's in them as to how they are arranged, and so on, when they are stacked up on top of each other and to have it given in the right sequence, it is rather difficult to think of a mechanism. On the other hand, it is conceivable that there may be some sort of mechanism in the brain that might send out some sort of unknown messages that could be picked up by some other brain. That's a different order of magnitude. A different order of difficulty. But they were all the same from Rhine's point of view.")]
+
+#zh(id: "S095")[#text("所有这些例子都很好地说明了：效应的大小与原因的大小完全无关。也就是说，实验在明天进行洗牌的地方和前段时间一样有效。这并不会对结果产生任何影响。千里眼和心灵感应之间没有明显的区别。不过，如果你试着去思考两者的机制，它们应该是相当不同的。为了让这些卡片向你发送关于它们是如何排列的所有信息，等等，当它们堆叠在一起并以正确的顺序给出时，很难想到一种机制。另一方面，可以设想，大脑中可能存在某种机制，能够发出某些尚未知的信号，并被其他大脑所接收。这是一个不同的数量级。不同的难度顺序。但从莱茵的角度来看，它们都是一样的。")]
+
+#html.p(id: "en-S096")[#text("Well, now, the little things that I have are these. There are many more I could give you. Rhine said being in quite a philosophical mood, \"It's funny how the mind tries to trick you.\" He said, \"People don't like these experiments. I've had millions of these cases where the average is about 7 out of 25.\" You'd expect 5 out of 25 to come right by chance and on the grand average they come out, oh, out of millions, or hundreds of millions of cases, they average around 7. Well, to get 7 out of 25 would be a common enough occurrence but if you take a large number and you get 7, well you doubt the statistics or the statistical application or, above all, what I think of and I want to give you reasons for thinking, is the rejection of a small percentage of the data.")]
+
+#zh(id: "S096")[#text("嗯，现在，我有的小东西就是这些。我可以给你更多。莱茵说，在相当哲学的情绪中，“大脑试图欺骗你，这很有趣。”他说: “人们不喜欢这些实验。我已经有数百万个这样的案例，平均25例中有7例。”你会期望25人中有5人是偶然出现的，平均来说，他们出来的是，哦，在数百万或数亿个案例中，他们平均在7个左右。好吧，从25个中得到7个是很常见的事情，但是如果你取了一个很大的数字，你得到了7个，那么你就会怀疑统计数据或统计应用，或者最重要的是，我想给你思考的理由，是对一小部分数据的拒绝。")]
+
+#html.p(id: "en-S097")[#text("I'll go first, before I get into what Rhine said, and say this: David Langmuir, a nephew of mine, who was in the Atomic Energy Commission, when he was with the Radio Corporation of America a few years ago, he and a group of other young men thought they would like to check up Rhine's work so they got some cards and they spent many evenings together finding how these cards turned up and they got well above 5. They began to get quite excited about it and they kept on, and they kept on, and they were right on the point of writing Rhine about the thing. And they kept on a little longer and things began to fall off, and fall off a little more, and they fell off a little more. And after many, many, many days, they fell down to an average of five--grand average--so they didn't write to Rhine. Now if Rhine had received that information, that this reputable body of men had gone ahead and gotten a value of 8 or 9 or 10 after so many trials, why he would have put it in his book How much of that sort of thing, when you are fed information of that sort by people who are interested--how are you going to weigh the things that are published in the book?")]
+
+#zh(id: "S097")[#text("我先说，在我深入莱茵所说的之前，先这么说: 大卫·朗缪尔，我的侄子，几年前在美国无线电公司工作时，他在原子能委员会工作，他和其他一群年轻人认为他们想检查莱茵河的工作，所以他们得到了一些卡片，他们花了很多个晚上一起寻找这些卡片是如何出现的，他们得到了远远超过5。他们对此渐渐变得十分兴奋，于是不断尝试，一次又一次地尝试，几乎就要就此事写信给莱茵了。他们坚持了一会儿，东西开始掉下来，再掉下来一点，再掉下来一点。过了很多，很多，很多天，他们的平均水平降到了5 -- 平均水平 -- 所以他们没有给莱茵河写信。现在，如果莱茵收到了这个信息，这个有声望的人的身体已经走了，经过这么多次试验，得到了8、9或10的价值，为什么他会在他的书中写多少这样的东西，当有兴趣的人向您提供此类信息时-您将如何权衡书中发表的内容？")]
+
+#html.p(id: "en-S098")[#text("Now an illustration of how it works is this. He told me that, \"People don't like me,” he said \"I took a lot of cards and sealed them up in envelopes and I put a code number on the outside, and I didn't trust anybody to know that code. Nobody!\"")]
+
+#zh(id: "S098")[#text("现在，一个关于其工作原理的示意图如下。他告诉我，“人们不喜欢我，” 他说，“我拿了很多卡片，把它们密封在信封里，我在外面放了一个密码，我不相信任何人知道那个密码。“没有人！”")]
+
+#html.p(id: "en-S099")[#text("(A section of the speech is missing at this point. It evidently described some tests that gave scores below 5. ) \"... the idea of having this thing sealed up in the cards as though I didn’t trust them, and therefore to spite me they made it purposely low.\"")]
+
+#zh(id: "S099")[#text("（此时演讲的某一部分缺失。显然，该部分描述了一些得分低于5分的测试。）“…… 把这件事封在卡片里的想法，好像我不信任他们，因此，尽管我，他们故意把它搞得很低。")]
+
+#html.p(id: "en-S100")[#text("\"Well,\" I said, \"that's interesting--interesting a lot, because you said that you'd published a summary of all of the data that you had. And it comes out to be 7. It is now within your power to take a larger percentage including those cards that are sealed up in those envelopes which could bring the whole thing back down to five. Would you do that?")]
+
+#zh(id: "S100")[#text("“嗯，” 我说，“那很有趣 -- 非常有趣，因为你说你已经发布了你所有数据的摘要。结果是7。现在你有能力采取更大的比例，包括那些密封在信封里的卡片，这可以把整个事情降到5张。你愿意吗那样做？")]
+
+#html.p(id: "en-S101")[#text("\"Of course not,” he said. \"That would be dishonest. \"")]
+
+#zh(id: "S101")[#text("“当然不是，”他说。那会是不诚实的。“")]
+
+#html.p(id: "en-S102")[#text("\"Why would it be dishonest?\"")]
+
+#zh(id: "S102")[#text("“为什么会不诚实呢？”")]
+
+#html.p(id: "en-S103")[#text("\"The low scores are just as significant as the high ones, aren't they? They proved that there's something there just as much, and therefore it wouldn't be fair. \"")]
+
+#zh(id: "S103")[#text("“低分和高分一样重要，不是吗？他们证明那里有同样多的东西，因此这是不公平的。”")]
+
+#html.p(id: "en-S104")[#text("I said, \"Are you going to count them, are you going to reverse the sign and count them, or count them as credits?\"")]
+
+#zh(id: "S104")[#text("我说: “你是要数数，是要倒转符号数，还是要算作学分？”")]
+
+#html.p(id: "en-S105")[#text("\"No, No,\" he said.")]
+
+#zh(id: "S105")[#text("“不，不，”他说。")]
+
+#html.p(id: "en-S106")[#text("I said, \"What have you done with them? Are they in your book?\"")]
+
+#zh(id: "S106")[#text("我说：“你把它们怎么了？它们在你的书里吗？”")]
+
+#html.p(id: "en-S107")[#text("\"No.\"")]
+
+#zh(id: "S107")[#text("“不。”")]
+
+#html.p(id: "en-S108")[#text("\"Why, I thought you said that all your values were in your book. Why haven't you put those in?\"")]
+
+#zh(id: "S108")[#text("“为什么，我以为你说过你的价值观都在你的本子里，你怎么还不把那些放进去？”")]
+
+#html.p(id: "en-S109")[#text("\"Well,\" he said, \"I haven't had time to work them up.\"")]
+
+#zh(id: "S109")[#text("“嗯，”他说，“我还没来得及把它们整理出来。”")]
+
+#html.p(id: "en-S110")[#text("\"Well, you know all the results, you told me the results. \"")]
+
+#zh(id: "S110")[#text("“嗯，所有的结果你都知道，是你告诉我的。”")]
+
+#html.p(id: "en-S111")[#text("\"Well,\" he said, \"I don't give the results out until I've had time to digest them.\"")]
+
+#zh(id: "S111")[#text("“嗯，”他说，“我得先花点时间消化一下结果，才会公布。”")]
+
+#html.p(id: "en-S112")[#text("I said, \"How many of these things have you?” He showed me filing cabinets--a whole row of them. Maybe hundreds of thousands of cards. He has a filing cabinet that contained nothing but these things that were done in sealed up envelopes. And they were the ones that gave the average of five.")]
+
+#zh(id: "S112")[#text("我说: “你有多少这样的东西？” 他向我展示了文件柜-整整一排。也许成千上万张卡片。他有一个文件柜，里面只有这些东西，这些东西是用密封的信封完成的。他们平均给出了五个。")]
+
+#html.p(id: "en-S113")[#text("Well, we'll let it stand at that. A year or so later, he published a new volume of his book. In that, there's a chapter on the sealed up cards in the envelopes and they all come up to around seven. And nothing is said about the fact that for a long time they came down below five. You see, he knows if they come below five, he knows that isn’t fair to the public to misrepresent this thing by including those things that prove just as much a positive result as though they came above. It’s just a trick of the mind that these people do to try to spite you and of course it wouldn't be fair to publish.⁽¹²⁾")]
+
+#zh(id: "S113")[#text("好吧，我们就先这样吧。大约一年后，他出版了该书的新一卷。在那本书里，有一章讲的是信封里的密封卡片，它们的点数加起来都差不多是七点。而且，对于他们长期以来一直低于五这一事实，却只字未提。你看，他知道如果它们低于5，他知道把那些被证明是积极结果的东西包括在内，这对公众来说是不公平的。这不过是这些人用来故意刁难你的心计，当然，公开出来也不公平。⁽¹²⁾")]
+
+== #text("Flying Saucers / 飞碟")
+
+#html.p(id: "en-S115")[#text("I'm not going to talk about flying saucers very much except just this. A flying saucer is not exactly science, although some scientific people have written things about them. I was a member of General Schwartz's (?) Advisory Committee after the war, and we held some very secret meetings in Washington in which there was a thing called project SIGN. I think it's s-i-g- n. Anyway, it was hushed up. It was hardly even talked about and it was the flying saucer stuff, gathering the evidence, and weighing and evaluating the data on flying saucers. And he said, \"You know, it's very serious, it really looks as though there is something there.\" Well, I told him afterwards--I told him this story here. I said that it seems to me from what I know about flying saucers they look like this sort af thing. Well, any-way, it ended up by two men being brought to Schenectady with a boiled down group of about twenty or thirty best cases from hundreds and hundreds that they knew all about. I didn't want them all, I said to pick out about thirty or forty of the best cases, and bring them to Schenectady, and we’ll spend a couple of days going over them, and he did.")]
+
+#zh(id: "S115")[#text("除了这个，我不会谈论飞碟。飞碟并不完全是科学，尽管一些科学界人士已经写过关于飞碟的东西。我是Schwartz将军的成员 (？)战后咨询委员会，我们在华盛顿举行了一些非常秘密的会议，会议上有一个叫做项目标志的东西。我觉得是s-i-g-n。不管怎样，它被掩盖了。几乎没有人谈论它，它是飞碟的东西，收集证据，称重和评估飞碟上的数据。他说，“你知道，这很严重，看起来好像有什么东西在那里。”嗯，我后来告诉了他 -- 我在这里告诉了他这个故事。我说，从我对飞碟的了解来看，它们看起来像这种东西。好吧，不管怎么说，最后两个人被带到Schenectady，他们从成百上千的人那里得到了大约二十或三十个最好的案例。我不想要它们，我说挑选出大约三四十个最好的案例，把它们带到斯克纳塔迪，我们会花几天时间检查它们，他做到了。")]
+
+#html.p(id: "en-S116")[#text("Most of them were Venus seen in the evening through a murky atmosphere. Venus can be seen in the middle of the day if you know where to look for it. Almost any clear bright day especially when Venus is at its brightest, and sometimes it's caused almost panic. It has caused traffic congestion in New York City when Venus is seen in the evening near some of the buildings around Times Square and people thought it was a comet about to collide with the earth, or somebody from Mars, or something of that sort. That was a long time ago. That was thirty or forty years ago. Venue still causes flying saucers.")]
+
+#zh(id: "S116")[#text("他们中的大多数是在晚上透过阴暗的气氛看到的金星。如果您知道在哪里寻找金星，则可以在一天中看到金星。几乎任何晴朗的日子，尤其是当金星最明亮的时候，有时它几乎引起恐慌。当晚上在时代广场周围的一些建筑物附近看到金星时，它引起了纽约市的交通拥堵，人们认为这是一颗即将与地球相撞的彗星，或者是来自火星的人，或者类似的东西。那是很久以前的事了。那是在三四十年前。场地仍然会导致飞碟。")]
+
+#html.p(id: "en-S117")[#text("Well, they only had one photograph or two photo-graphs taken by one man. It looked to me like a piece of tar paper when I first saw it and the two photographs showed the thing in entirely different shapes. I asked for more details about it. What was the weather at the time? Well, they didn’t know but they'd look it up. And they got out some papers and there it was. It was taken about 'fifteen or twenty minutes after a violent thunderstorm out in Ohio. Well, what' s more natural than some piece of tar paper picked up by a little miniature twister and being carried a few thousand feet up into the clouds and it was coming down, that's all. So what could it be? \" But it was going at an enormous speed.\" Of course the man who saw it didn't have the vaguest idea of how far away it was. That's the trouble. If you see something that's up in the sky, a light or any kind of an object, you haven't the vaguest idea of how big it is. You can guess anything you like about the speed. You ask people how big the moon is. Some say it is as big as your fist, or as big as a baseball Some say as big as a house. Well, how big is it really”. You can't tell by looking at it. How can you tell how big a flying saucer is? Well, anyway, after I went through these things I didn't find a single one that made any sense at all. There was nothing consistent about them. They were all things that suffered from these facts. They were all subjective. They were all near a threshold. You don't know what the threshold is exactly in detecting the velocity of an object that you see up in the sky, where you don't know whether it's a thousand feet or ten thousand feet or a hundred thousand feet up. But they all fitted in with this general pattern, namely, that there doesn't seem to be any evidence that there is anything in them. And, anyway, these men were convinced and they ended project SIGN. And later the whole thing was de-classified and the thing was written up by the Saturday Evening Post about four or five years ago. At any rate, that seemed to be the end of it. But, of course. the newspapers wouldn’t let a thing like that die. (Laughter) It keeps coming up again, and again, and again, and the old story keeps coming back again. It always has. It's probably hundreds of years old anyway.")]
+
+#zh(id: "S117")[#text("嗯，他们只有一张或两张由同一个人拍摄的照片。当我第一次看到它时，它看起来像一张焦油纸，两张照片显示了完全不同的形状。我询问了更多相关细节。当时天气如何？嗯，他们当时不知道，不过他们会去查一查。他们拿出了一些文件，上面果然写着。这张照片是在俄亥俄州一场猛烈的雷暴过后大约十五到二十分钟拍摄的。好吧，比被一个小型的捻线机捡起的焦油纸更自然，然后被抬到几千英尺的云层中，然后就下来了，仅此而已。那么会是什么呢？“但它正以极高的速度行驶。”当然，那位目击者根本不知道它有多远。这就是问题所在。如果你在天空中看到某个东西，无论是光还是其他物体，你根本无法判断它有多大。你可以随便猜速度是多少。你问人们月亮有多大。有人说它和你的拳头一样大，或者和棒球一样大，有人说和房子一样大。那么，它到底有多大呢？光看外表是看不出来的。你怎么知道飞碟有多大？好吧，无论如何，在我经历了这些事情之后，我根本没有找到一个有意义的东西。他们之间没有任何一致性。它们都是因这些事实而遭受苦难的事物。它们都是主观的。他们都处在某个临界点附近。你不知道检测你在天空中看到的物体的速度的阈值是多少，在那里你不知道不知道它是在一千英尺、一万英尺，还是十万英尺的高空。但是它们都符合这种一般模式，即似乎没有任何证据表明它们中有任何东西。而且，无论如何，这些人被说服了，他们结束了项目标志。后来，整个事情被取消了分类，大约四五年前，《星期六晚报》把这件事写了出来。总之，事情似乎就这样结束了。但，当然。报纸不会让这样的事情死去。（笑声）它一次又一次地浮现，那个老故事也一次又一次地回来了。它一直都是。反正它可能已经有好几百年历史了。")]
+
+#html.p(id: "en-S118")[#text("Well, I think that's about all. If there are any questions, I’d be happy to say more.")]
+
+#zh(id: "S118")[#text("嗯，我想差不多就这些了。如有任何问题，我很乐意进一步说明。")]
+
+== #text("Question Period / 提问环节")
+
+#html.p(id: "en-S120")[#text("W. C. White: People may want to go now because it's quarter after five though I'm sure Dr. Langmuir would be glad to discuss this some more.")]
+
+#zh(id: "S120")[#text("W. C.怀特：虽然现在已经五点十五分了，大家可能都想走了，但我相信朗缪尔博士很乐意再就此讨论一会儿。")]
+
+#html.p(id: "en-S121")[#text("I was going to add another one to these characteristics. Isn't the desire for publicity another of the characteristics?")]
+
+#zh(id: "S121")[#text("我打算在这些特征中添加另一个。对公众的渴望不是另一个特征吗？")]
+
+#html.p(id: "en-S122")[#text("A. Well, it is in Rhine's case. There is no question about that. Rhine, I think, ........................... thinks he's honest, but I know perfectly well that he--everything he says, he talks about the importance of getting more students, and the importance of having the people in his own university understand the importance of this thing and so oa And then the fact that no man in his senses could discard data the way he did those things sealed up in the cards. So I don't hold a very high value on his work. Now the other people, I don’t have the slightest doubt but what these men are really honest. They are sincere. They loved publicity; Allison, of course, loved to publish about new elements one after the other. These were published by the American Chemical Society; and Latimer liked to publish his little article on tritium, the first discovery of tritium. So I think that has something to do with it, but I don't think that that’s the driving force. I think the driving force is quite a normal scientific desire to make discoveries and to understand things. Davis and Barnes were finding things and it was wonderful while it lasted.")]
+
+#zh(id: "S122")[#text("A. 嗯，就莱茵而言是这样的。毫无疑问。莱茵，我想，...........................认为他是诚实的，但我非常清楚他 -- 他说的每一句话，他都在谈论招收更多学生的重要性，让他自己大学里的人理解这件事的重要性，然后是这样一个事实，即在他的感官中，没有人能像他做那些事情的方式那样丢弃数据。所以我对他的工作没有很高的评价。现在其他人，我没有丝毫怀疑，但这些人到底是诚实的。他们是真诚的。他们热衷于宣传；阿利森当然也乐此不疲，接连不断地发表关于新元素的研究成果。这些由美国化学学会出版; 拉蒂默喜欢发表他的关于氚的小文章，氚的第一个发现。所以我认为这与此有关，但我不认为这是驱动力。我认为驱动力是一种很正常的科学愿望，即发现和理解事物。戴维斯和巴恩斯正在寻找东西，持续的时间真是太好了。")]
+
+#html.p(id: "en-S123")[#text("Q (Liebhafsky): I just wanted to point out that perhaps the neatest comment on item four was made at the University of California when this business was discussed at the Research Conference there in about 1930 or 32. Professor Birge said that this effect was just Allison wonderland. (Laughter)")]
+
+#zh(id: "S123")[#text("问 (Liebhafsky): 我只是想指出，也许对第四项最整洁的评论是在加州大学大约1930或32年的研究会议上讨论这项业务时做出的。Birge教授说，这种效果只是阿利森仙境。（笑声）")]
+
+#html.p(id: "en-S124")[#text("(Langmuir): Did you ever hear Latimer talk about it?")]
+
+#zh(id: "S124")[#text("（朗缪尔）：你有没有听拉蒂默谈起过这件事？")]
+
+#html.p(id: "en-S125")[#text("(Liebhafsky): Well, Latimer was pushing it and you've got to allow for Latimer’s persuasiveness. There were people on the faculty that I'm sure never believed it.")]
+
+#zh(id: "S125")[#text("(Liebhafsky): 嗯，拉蒂默在推动它，你必须考虑到拉蒂默的说服力。我相信，当时学院里确实有一些人从未相信过这件事。")]
+
+#html.p(id: "en-S126")[#text("(Langmuir): But it was funny that G. N. Lewis would believe it.")]
+
+#zh(id: "S126")[#text("（朗缪尔）：不过有趣的是，G。N.刘易斯会相信的。")]
+
+#html.p(id: "en-S127")[#text("(Liebhafsky): Well, you know that there is a very close personal relationship between Latimer and Lewis.")]
+
+#zh(id: "S127")[#text("(Liebhafsky): 嗯，你知道拉蒂默和刘易斯之间有着非常密切的个人关系。")]
+
+#html.p(id: "en-S128")[#text("(Langmuir): I understand that Lewis got back his ten dollars. (Laughter)")]
+
+#zh(id: "S128")[#text("(朗缪尔): 我知道刘易斯收回了他的十美元。（笑声）")]
+
+#html.p(id: "en-S129")[#text("Q. How would an analysis like this apply to religious experiences?")]
+
+#zh(id: "S129")[#text("问：像这样的分析如何适用于宗教体验？")]
+
+#html.p(id: "en-S130")[#text("A. Well, the method of approach to religious questions--a lot of people think you don't want to have any evidence, you want faith; and if that’s your attitude why I don't think this thing applies. But if some religious performer of a certain belief tries to argue with me, my reactions would be very much like this.")]
+
+#zh(id: "S130")[#text("答: 嗯，处理宗教问题的方法 -- 很多人认为你不想有任何证据，你想要信仰; 如果这就是你的态度，为什么我认为这件事不适用。但是，如果某个信仰的宗教表演者试图与我争论，我的反应将非常像这样。")]
+
+#html.p(id: "en-S131")[#text("Q. In setting up these criteria, you may in a way limit the possibilities of scientific investigation. It occurred to me that suppose something happened in the heavens--some astronomical event--that nobody had ever seen before. Something that happens once in a million years. Really, I mean, supposing that you could tell. It would fit the same criterion, wouldn’t it?")]
+
+#zh(id: "S131")[#text("问: 在建立这些标准时，您可能会在某种程度上限制科学研究的可能性。我突然想到，假设天上发生了什么事 -- 一些天文事件 -- 以前没人见过。百年一遇的事情。真的，我的意思是，假设你能看出来的话。它也符合同样的标准，不是吗？")]
+
+#html.p(id: "en-S132")[#text("A. No, I don't want to depend on any one of these. I've been reading the life of Pasteur. Pasteur had the idea of germs. Everybody thought that he was a fool -- thought there couldn't be any sense to the subject. It took a long time before germs were believed. People believed in spontaneous generation of new forms of life. They happened spontaneously not by the introduction of spares from the outside but spontaneously -- and Pasteur had to fight that. The test of time is the thing that ultimately checks this thing. In the end, something is salvaged. You can't do that while the thing is growing, while the thing is being discussed, but in the end you do know that the Allison effect is gone. It never would be anything. And that's what I mean about these other things. We've waited long enough now. This whole pattern of things fits together with the idea that you're at a threshold. You're right at the point where things are very difficult to see--that’s what I want to bring out. Now, in Pasteur's experiments, when he killed anthrax in animals, he got 25 right out of 25. The sheep all died or they didn't die. There was no threshold value about it. People who didn't know anything about it might have thought so, but when they saw one experiment they were convinced.")]
+
+#zh(id: "S132")[#text("A. 不，我不想依赖其中任何一个。我一直在读巴斯德的传记。巴斯德提出了微生物的概念。每个人都认为他是个傻瓜 -- 认为这个话题毫无意义。人们花了很长时间才开始相信病菌的存在。人们曾相信生命会自发地产生新的形式。它们不是通过从外部引入备件而是自发地发生的，巴斯德不得不与之抗争。时间的测试一下是最终检查这个东西的东西。最终，还是有东西被挽救了。当事情在成长的时候，当事情在讨论的时候，你不能这样做，但最终你知道阿利森效应已经消失了。它永远不会成为任何东西。这就是我所说的那些其他事情。我们已经等了足够久。整个事物的模式与您处于门槛的想法相吻合。你说得对，事情很难看到 -- 这就是我想要带出来的。现在，在巴斯德的实验中，当他杀死动物炭疽时，他在25个动物中得到25个。羊要么死了，要么没死。对此没有设定阈值。对此一无所知的人可能会这样想，但是当他们看到一个实验时，他们就被说服了。")]
+
+#html.p(id: "en-S133")[#text("One more question -")]
+
+#zh(id: "S133")[#text("还有一个问题——")]
+
+#html.p(id: "en-S134")[#text("Q. These criteria that you put down would apply very well to the theory of relativity with measurements of very small fractions of a degree of arc in the neighborhood of a bright disk of the sun.")]
+
+#zh(id: "S134")[#text("问: 您提出的这些标准将很好地应用于相对论，并在明亮的太阳圆盘附近测量了弧度的很小一部分。")]
+
+#html.p(id: "en-S135")[#text("A. Yes, well now take an example I've often thought of. There are lots of scientific instances. They go through the same sort of stage. For instance, in Laue and Bragg's theory of x-rays being electromagnetic waves. When the first reports came out you had to keep an absolutely open mind about them. You didn't know but what this was just another case of wishful thinking. But how long did it take? Within three or four years they were making precision measurements of the wavelengths of x-rays--very, very few years. Now, that's just what doesn't happen in these things. So you have to wait a little time for these things to prove themselves but I don't think that you will find that there's anything more than a superficial resemblance. Take the first experiments of the wave theory of electrons. The first evidence was very poor, and more people had to be brought in, but to me the important thing was not how it looked at the time but the quickness with which those results were resolved as contrasted to these things that hang fire and hang fire. Now the Davis-Barnes effect and the N-rays were quenched suddenly; but most of these other things go on, and on, and on, and on.")]
+
+#zh(id: "S135")[#text("答: 是的，现在举一个我经常想到的例子。有很多科学的例子。他们经历了同样的阶段。例如，在劳埃和布拉格的理论中，x射线是电磁波。当第一份报告出来时，你必须对它们保持绝对开放的心态。你不知道，但这只是另一个一厢情愿的想法。但是用了多长时间？在三到四年内，他们对x射线的波长进行了精确的测量-非常，非常几年。现在，这就是这些事情中没有发生的事情。所以你必须等待一段时间，让这些东西证明自己，但我不认为你会发现除了表面上的相似之处之外，还有什么。以电子波动理论的第一个实验为例。第一个证据很差，必须带更多的人进来，但对我来说，重要的不是当时的情况，而是与这些着火和着火的事情相比，解决这些结果的速度很快。现在，戴维斯-巴恩斯效应和N射线突然熄灭了; 但是大多数其他事情还在继续，等等。")]
+
+#html.p(id: "en-S136")[#text("(White): I believe that this is the latest lasting colloquium we’ve ever had that I remember. It was a great privilege to have such a speaker. We thank you, Dr. Langmuir.")]
+
+#zh(id: "S136")[#text("（怀特）：据我记忆，这是我们开过的持续时间最久的一次讨论会。能够请到这样一位演讲者，是莫大的荣幸。谢谢您，朗缪尔博士。")]

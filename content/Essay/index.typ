@@ -181,6 +181,12 @@
 )
 
 #tufted.blog-entry(
+  date: "1943",
+  path: "An Outline of Intellectual Rubbish 1943/",
+  title: "An Outline of Intellectual Rubbish / 论智识垃圾",
+)
+
+#tufted.blog-entry(
   date: "1963",
   path: "Is the Scientific Paper a Fraud 1963/",
   title: "Is the Scientific Paper a Fraud / 科学论文是骗局吗？",
@@ -264,6 +270,12 @@
   date: "1947",
   path: "立春の卵 1947/",
   title: "立春の卵 / 立春的鸡蛋",
+)
+
+#tufted.blog-entry(
+  date: "1953",
+  path: "Pathological Science 1953/",
+  title: "Pathological Science / 病态科学",
 )
 
 #tufted.blog-entry(

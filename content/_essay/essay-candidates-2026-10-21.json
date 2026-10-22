@@ -79,9 +79,11 @@
       "priority": true,
       "source_label": "单篇转载 PDF：CCSF",
       "source_url": "https://fog.ccsf.edu/~abair/median.pdf",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-05"
+      "essay_id": "candidate-05",
+      "located_original_source": "https://laurakgray.weebly.com/uploads/7/3/6/2/7362679/gould_1985_-_the_median_isnt_the_message.pdf",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-06",
@@ -95,9 +97,11 @@
       "priority": false,
       "source_label": "单篇转载 PDF",
       "source_url": "https://www.pagefarm.net/ap/PDFs/nonmoralnature.pdf",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-06"
+      "essay_id": "candidate-06",
+      "located_original_source": "https://mharnett.weebly.com/uploads/1/0/9/7/10977401/gould_nonmoral_nature.pdf",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-07",
@@ -159,9 +163,11 @@
       "priority": false,
       "source_label": "单篇：Feynman 官方网站",
       "source_url": "https://feynman.com/science/what-is-science/",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-10"
+      "essay_id": "candidate-10",
+      "located_original_source": "https://www.arvindguptatoys.com/arvindgupta/whatisscience-feynman.pdf",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-11",
@@ -175,9 +181,11 @@
       "priority": false,
       "source_label": "原刊重刊：Scientific American",
       "source_url": "https://www.scientificamerican.com/blog/guest-blog/the-evolution-of-the-physicists-picture-of-nature/",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-11"
+      "essay_id": "candidate-11",
+      "located_original_source": "https://files.eric.ed.gov/fulltext/ED071902.pdf",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-12",
@@ -191,9 +199,11 @@
       "priority": false,
       "source_label": "原刊 PDF：AMS；本轮访问受限",
       "source_url": "https://www.ams.org/notices/200902/rtx090200212p.pdf",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-12"
+      "essay_id": "candidate-12",
+      "located_original_source": "https://pdodds.w3.uvm.edu/files/papers/others/2009/dyson2009a.pdf",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-13",
@@ -223,9 +233,11 @@
       "priority": true,
       "source_label": "原文记录及 PMC 扫描入口：PubMed",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/16795475/",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-14"
+      "essay_id": "candidate-14",
+      "located_original_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1311997/",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-15",
@@ -239,9 +251,11 @@
       "priority": false,
       "source_label": "讲稿转载 PDF：University of Virginia",
       "source_url": "https://galileo.phys.virginia.edu/~rjh2j/misc/Langmuir.pdf",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
-      "visible": false,
-      "essay_id": "candidate-15"
+      "status": "bilingual-complete-draft",
+      "visible": true,
+      "essay_id": "langmuir-pathological",
+      "located_original_source": "https://www.cs.princeton.edu/~ken/Langmuir/langmuir.htm",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-16",
@@ -255,9 +269,11 @@
       "priority": false,
       "source_label": "原刊：Nature",
       "source_url": "https://www.nature.com/articles/d41586-019-00857-9",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-16"
+      "essay_id": "candidate-16",
+      "located_original_source": "https://www.nature.com/articles/d41586-019-00857-9",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-17",
@@ -271,9 +287,11 @@
       "priority": false,
       "source_label": "单篇扫描转载：Bret Victor 文献库",
       "source_url": "https://worrydream.com/refs/Licklider_1968_-_The_Computer_as_Communication_Device.pdf",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-17"
+      "essay_id": "candidate-17",
+      "located_original_source": "https://worrydream.com/refs/Licklider_1968_-_The_Computer_as_Communication_Device.pdf",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-18",
@@ -287,9 +305,11 @@
       "priority": true,
       "source_label": "单篇原文重刊",
       "source_url": "https://mprove.de/visionreality/media/kay72.html",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-18"
+      "essay_id": "candidate-18",
+      "located_original_source": "https://mprove.de/visionreality/media/kay72.html",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-19",
@@ -303,9 +323,11 @@
       "priority": true,
       "source_label": "作者原文",
       "source_url": "https://www.paulgraham.com/identity.html",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-19"
+      "essay_id": "candidate-19",
+      "located_original_source": "https://www.paulgraham.com/identity.html",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-20",
@@ -319,9 +341,11 @@
       "priority": false,
       "source_label": "作者原文",
       "source_url": "https://www.paulgraham.com/essay.html",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-20"
+      "essay_id": "candidate-20",
+      "located_original_source": "https://www.paulgraham.com/essay.html",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-21",
@@ -335,9 +359,11 @@
       "priority": true,
       "source_label": "作者原文",
       "source_url": "https://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-21"
+      "essay_id": "candidate-21",
+      "located_original_source": "https://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-22",
@@ -351,9 +377,11 @@
       "priority": true,
       "source_label": "作者院系存档：Yale",
       "source_url": "https://cs.yale.edu/homes/perlis-alan/quotes.html",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-22"
+      "essay_id": "candidate-22",
+      "located_original_source": "https://cs.yale.edu/homes/perlis-alan/quotes.html",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-23",
@@ -367,9 +395,11 @@
       "priority": true,
       "source_label": "原刊及书目：ACM",
       "source_url": "https://dl.acm.org/doi/10.1145/358198.358210",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-23"
+      "essay_id": "candidate-23",
+      "located_original_source": "https://www.cl.cam.ac.uk/teaching/2324/R209/Reflections-Trusting-Trust.pdf",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-24",
@@ -383,9 +413,11 @@
       "priority": false,
       "source_label": "原刊书目及 DOI：PubMed",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/17778159/",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-24"
+      "essay_id": "candidate-24",
+      "located_original_source": "https://files.eric.ed.gov/fulltext/ED086249.pdf",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-25",
@@ -399,9 +431,11 @@
       "priority": false,
       "source_label": "作者原文；本轮工具访问受限",
       "source_url": "https://dreamsongs.com/RiseOfWorseIsBetter.html",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-25"
+      "essay_id": "candidate-25",
+      "located_original_source": "https://dreamsongs.com/RiseOfWorseIsBetter.html",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-26",
@@ -463,9 +497,11 @@
       "priority": false,
       "source_label": "单篇扫描 PDF：UT Austin",
       "source_url": "https://www.laits.utexas.edu/~mbs31415/HayekUseOfKnowledgeInSociety.pdf",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-29"
+      "essay_id": "candidate-29",
+      "located_original_source": "https://www.mercatus.org/sites/default/files/d7/the_use_of_knowledge_in_society_-_hayek.pdf",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-30",
@@ -479,9 +515,11 @@
       "priority": true,
       "source_label": "单篇扫描 PDF：Vanderbilt",
       "source_url": "https://cdn.vanderbilt.edu/vu-my/wp-content/uploads/sites/138/2011/08/14091710/POWCampRadford.pdf",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-30"
+      "essay_id": "candidate-30",
+      "located_original_source": "https://cdn.vanderbilt.edu/vu-my/wp-content/uploads/sites/138/2011/08/14091710/POWCampRadford.pdf",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-31",
@@ -495,9 +533,11 @@
       "priority": true,
       "source_label": "作者档案原文",
       "source_url": "https://davidgraeber.org/articles/on-the-phenomenon-of-bullshit-jobs-a-work-rant/",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-located-download-blocked",
       "visible": false,
-      "essay_id": "candidate-31"
+      "essay_id": "candidate-31",
+      "located_original_source": "https://davidgraeber.org/wp-content/uploads/On-the-phenomenon-of-bullshit-jobs-A-work-rant.pdf",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-32",
@@ -511,9 +551,11 @@
       "priority": false,
       "source_label": "官方机构原文：Schumacher Center",
       "source_url": "https://centerforneweconomics.org/publications/buddhist-economics/",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-32"
+      "essay_id": "candidate-32",
+      "located_original_source": "https://centerforneweconomics.org/publications/buddhist-economics/",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-33",
@@ -527,9 +569,11 @@
       "priority": false,
       "source_label": "单篇转载 PDF",
       "source_url": "https://www.enriquedans.com/wp-content/uploads/2019/08/friedman.pdf",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-33"
+      "essay_id": "candidate-33",
+      "located_original_source": "https://www.enriquedans.com/wp-content/uploads/2019/08/friedman.pdf",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-34",
@@ -543,9 +587,11 @@
       "priority": false,
       "source_label": "单篇转载 PDF：METU",
       "source_url": "https://users.metu.edu.tr/utuba/Mead.pdf",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-34"
+      "essay_id": "candidate-34",
+      "located_original_source": "https://users.metu.edu.tr/utuba/Mead.pdf",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-35",
@@ -559,9 +605,11 @@
       "priority": false,
       "source_label": "单篇原文转载",
       "source_url": "https://flaglerlive.com/james-baldwin-talk-teachers/",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-35"
+      "essay_id": "candidate-35",
+      "located_original_source": "https://cuny.manifoldapp.org/read/a-talk-to-teachers/section/9b9e4788-da1f-459e-bb6e-ea7e30fc630e",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-36",
@@ -591,9 +639,11 @@
       "priority": false,
       "source_label": "单篇原文转载",
       "source_url": "https://ratbags.com/rsoles/comment/russell10.htm",
-      "status": "awaiting-complete-readable-source",
-      "visible": false,
-      "essay_id": "russell-rubbish"
+      "status": "bilingual-complete-draft",
+      "visible": true,
+      "essay_id": "russell-rubbish",
+      "located_original_source": "https://dai.mun.ca/PDFs/radical/548943.pdf",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-38",
@@ -639,9 +689,11 @@
       "priority": false,
       "source_label": "单篇原文镜像",
       "source_url": "https://arantius.com/misc/mirror/Richard-Dawkins/good-and-bad-reasons-for-believing.html",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-40"
+      "essay_id": "candidate-40",
+      "located_original_source": "https://arantius.com/misc/mirror/Richard-Dawkins/good-and-bad-reasons-for-believing.html",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-41",
@@ -655,9 +707,11 @@
       "priority": false,
       "source_label": "单篇扫描 PDF：University of Kentucky",
       "source_url": "https://philosophy.as.uky.edu/sites/default/files/The%20Absurd%20-%20Thomas%20Nagel.pdf",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-41"
+      "essay_id": "candidate-41",
+      "located_original_source": "https://philosophy.as.uky.edu/sites/default/files/The%20Absurd%20-%20Thomas%20Nagel.pdf",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-42",
@@ -719,9 +773,11 @@
       "priority": false,
       "source_label": "单篇转载 PDF：Princeton",
       "source_url": "https://commons.princeton.edu/shakespeares-language/wp-content/uploads/sites/41/2017/09/Sontag-Against-Interpretation.pdf",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-45"
+      "essay_id": "candidate-45",
+      "located_original_source": "https://commons.princeton.edu/shakespeares-language/wp-content/uploads/sites/41/2017/09/Sontag-Against-Interpretation.pdf",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-46",
@@ -735,9 +791,11 @@
       "priority": true,
       "source_label": "出版社重刊：Penguin",
       "source_url": "https://www.penguin.co.uk/discover/articles/why-we-read-classics-italo-calvino",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-46"
+      "essay_id": "candidate-46",
+      "located_original_source": "https://www.penguin.co.uk/discover/articles/why-we-read-classics-italo-calvino",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-47",
@@ -751,9 +809,11 @@
       "priority": true,
       "source_label": "收录文集书目：Google Books",
       "source_url": "https://books.google.com/books/about/How_to_Travel_with_a_Salmon.html?hl=en&id=_ntDTaMUys8C&output=html_text",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-located-download-blocked",
       "visible": false,
-      "essay_id": "candidate-47"
+      "essay_id": "candidate-47",
+      "located_original_source": "https://www.theparisreview.org/letters-essays/1794/how-to-travel-with-a-salmon-umberto-eco",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-48",
@@ -767,9 +827,11 @@
       "priority": false,
       "source_label": "单篇原文转载：Zoo Index",
       "source_url": "https://zooindex.net/articles/why-look-at-animals",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-48"
+      "essay_id": "candidate-48",
+      "located_original_source": "https://zooindex.net/articles/why-look-at-animals",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-49",
@@ -783,9 +845,11 @@
       "priority": true,
       "source_label": "单篇英译：Academy of American Poets",
       "source_url": "https://poets.org/poem/borges-and-i/print",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-49"
+      "essay_id": "candidate-49",
+      "located_original_source": "https://poets.org/poem/borges-and-i",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-50",
@@ -927,9 +991,11 @@
       "priority": false,
       "source_label": "单篇原文转载 PDF",
       "source_url": "https://jerrywbrown.com/wp-content/uploads/2020/02/Once-More-to-the-Lake-White-e.-b..pdf",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-58"
+      "essay_id": "candidate-58",
+      "located_original_source": "https://jerrywbrown.com/wp-content/uploads/2020/02/Once-More-to-the-Lake-White-e.-b..pdf",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-59",
@@ -943,9 +1009,11 @@
       "priority": false,
       "source_label": "单篇原文转载；完整性待核",
       "source_url": "https://drunkenlibrary.com/2017/06/23/the-ring-of-time-e-b-white/",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-59"
+      "essay_id": "candidate-59",
+      "located_original_source": "https://www.newyorker.com/magazine/1956/04/07/letter-from-the-south",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-60",
@@ -1071,9 +1139,11 @@
       "priority": true,
       "source_label": "出版社收录书目：人民教育出版社",
       "source_url": "https://www.pep.com.cn/products/jf/zhxxjf/ywxkjf/201904/t20190403_1937095.shtml",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-67"
+      "essay_id": "candidate-67",
+      "located_original_source": "https://www.pinshiwen.com/shiji/wangzengqi/20200821288061.html",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-68",
@@ -1087,9 +1157,11 @@
       "priority": false,
       "source_label": "收录书目：中华书局试读目录",
       "source_url": "https://www.chunghwabook.com.hk/upload/files/2023/05_22/4fc34227ab0239ba976ec465c300527d.pdf",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-68"
+      "essay_id": "candidate-68",
+      "located_original_source": "https://www.pinshiwen.com/shiji/wangzengqi/20201009295716.html",
+      "source_search_date": "2026-10-22"
     },
     {
       "id": "candidate-69",
@@ -1199,9 +1271,11 @@
       "priority": false,
       "source_label": "作品与居所介绍：单篇原文待定位",
       "source_url": "https://image.chinawriter.com.cn/n1/2026/0210/c404063-40662788.html",
-      "status": "awaiting-user-provided-original-or-reproduction-permission",
+      "status": "source-obtained-reader-pending",
       "visible": false,
-      "essay_id": "candidate-75"
+      "essay_id": "candidate-75",
+      "located_original_source": "https://www.kekeshici.com/sanwen/xueshengshiwen/68365.html",
+      "source_search_date": "2026-10-22"
     }
   ],
   "summary": {
